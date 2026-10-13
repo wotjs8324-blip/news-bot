@@ -18,6 +18,7 @@ def main():
     print("Eco news bot started.")
     sent_links = set()
     
+    # 언론사 RSS 주소들만 깔끔하게 정리
     news_feeds = {
         "조선일보": "https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml",
         "중앙일보": "https://rss.joins.com/joins_news_list.xml",
@@ -57,7 +58,6 @@ def main():
         except Exception as e:
             print(f"Error: {e}")
         
-        # 2분마다 체크
         time.sleep(120)
 
 if __name__ == "__main__":
