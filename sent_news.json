@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261013_0003824328",
-    "https://www.newsis.com/view/NISX20261013_0003824045",
-    "https://www.newsis.com/view/NISX20261013_0003823128",
-    "https://www.newsis.com/view/NISX20261013_0003823035",
-    "https://www.newsis.com/view/NISX20261013_0003824506",
-    "https://www.newsis.com/view/NISX20261013_0003824305",
     "https://www.newsis.com/view/NISX20261014_0003824795",
     "https://www.newsis.com/view/NISX20261014_0003824863",
     "https://www.newsis.com/view/NISX20261014_0003824876",
@@ -4999,7 +4993,13 @@
     "https://www.hankyung.com/article/202610142432i",
     "https://www.hankyung.com/article/2026101527736",
     "https://www.hankyung.com/article/202610152758i",
-    "https://www.hankyung.com/article/2026101421541"
+    "https://www.hankyung.com/article/2026101421541",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261015074855jCk",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261015074812gVe",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261015074750HCo",
+    "https://www.yonhapnewstv.co.kr/news/MYH202610150746574NK",
+    "https://www.yna.co.kr/view/AKR20261015017900004",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798384&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
