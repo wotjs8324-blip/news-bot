@@ -7,6 +7,7 @@
 
 import json
 import os
+import re
 import time
 from pathlib import Path
 from urllib.parse import urlencode, urlsplit
@@ -97,53 +98,113 @@ NEWS_FEEDS = {
     "MBN 사회": ("https://www.mbn.co.kr/rss/society/",),
 }
 
-# General feeds use headline keywords; dedicated category feeds use their published sections.
-ECONOMY = (
-    "경제", "금리", "환율", "물가", "인플레이션", "증시", "코스피", "코스닥",
-    "주식", "주가", "금융", "은행", "부동산", "아파트", "전세", "대출",
-    "수출", "무역", "관세", "반도체", "기업", "고용", "실업", "한국은행",
-    "유가", "세금", "국채", "가계부채", "gdp", "달러", "상장", "기준금리",
-    "투자", "채권", "상승", "하락", "시가총액", "매출", "영업이익",
+# Importance-based filtering (free, deterministic, headline-only).
+# A publisher's "breaking" label or an RSS section never grants priority.
+# Tune these keyword groups later based on actual alerts.
+
+PROMO_TERMS = (
+    "절임배추", "사전예약", "사전판매", "예약판매",
+    "할인행사", "특가판매", "쿠폰", "팝업스토어", "신제품출시",
+    "드라마", "예능", "영화개봉", "콘서트", "맛집추천",
 )
-SOCIETY = (
-    "사회", "사고", "화재", "사망", "체포", "경찰", "검찰", "법원",
-    "재판", "구속", "기소", "실종", "지진", "폭우", "태풍", "산불",
-    "정부", "국회", "대통령", "재난", "참사", "시위", "파업", "범죄",
-    "구조", "피해", "수사", "침수", "폭발", "안전", "의료",
+MARKET_EMERGENCIES = (
+    "사이드카", "서킷브레이커", "서킷브레이크", "사이드브레이크",
+    "증시거래중단", "주식시장거래중단", "매매거래중단",
+    "금융위기", "외환위기", "국가부도", "뱅크런",
 )
-BREAKING = ("속보", "긴급", "단독")
+MARKET_NAMES = ("코스피", "코스닥", "주식시장", "증시")
+SHARP_MOVES = ("폭락", "폭등", "급락", "급등", "사상최대낙폭", "사상최대폭")
+SPECULATION = ("전망", "예상", "가능성", "우려", "기대", "관측", "검토", "가정")
+MAJOR_CRIMES = (
+    "살인", "피살", "살해", "흉기난동", "연쇄살인",
+    "묻지마폭행", "납치", "유괴", "시신발견",
+)
+MAJOR_DISASTERS = (
+    "대형화재", "대형산불", "건물붕괴", "교량붕괴",
+    "열차탈선", "여객기추락", "항공기추락",
+    "가스폭발", "압사사고", "원전사고",
+    "대규모정전", "유독가스누출",
+)
+DISASTER_EVENTS = ("화재", "사고", "폭발", "붕괴", "침몰", "추돌", "추락", "산불")
+EXTREME_WEATHER = ("태풍", "폭우", "홍수", "산불")
+WEATHER_IMPACTS = ("긴급대피", "대규모대피", "인명피해", "사망", "특별재난지역", "비상대응")
+SECURITY_EVENTS = ("탄도미사일", "미사일발사", "포격", "핵실험", "무인기침범", "군사분계선침범", "군사도발")
 
 
-def classify(title):
-    title = title.casefold()
-    if any(word in title for word in BREAKING):
-        return "속보"
-    if any(word in title for word in ECONOMY):
-        return "경제"
-    if any(word in title for word in SOCIETY):
-        return "사회"
-    return None
+def normalized_title(title):
+    """Drop spaces/punctuation used to split Korean keywords."""
+    return re.sub(r"[\s·ㆍ\-_]+", "", str(title or "").casefold())
 
 
-# Dedicated section RSS feeds already indicate a subject even when a headline
-# does not contain one of our generic keywords.
-SECTION_CATEGORY = {
-    "SBS 경제": "경제",
-    "SBS 사회": "사회",
-    "매일경제 경제": "경제",
-    "매일경제 사회": "사회",
-    "뉴시스 속보": "속보",
-    "뉴시스 경제": "경제",
-    "뉴시스 사회": "사회",
-    "MBN 경제": "경제",
-    "MBN 사회": "사회",
-}
+def contains_any(text, keywords):
+    return any(word in text for word in keywords)
+
+
+def _multiple_casualties(title):
+    """Match simple '3 people dead' forms; skip a routine single-person accident."""
+    patterns = (
+        r"(\d+)명(?:이|가|은|는|도|이상|가량)?(?:사망|숨져|숨진|중상|실종)",
+        r"(?:사망|중상|실종|사상자)(\d+)명",
+    )
+    for pattern in patterns:
+        for match in re.finditer(pattern, title):
+            if int(match.group(1)) >= 2:
+                return True
+    return False
+
 
 def classify_article(source, title):
-    # Breaking labels in titles take precedence over RSS section labels.
-    if any(word in title.casefold() for word in BREAKING):
-        return "속보"
-    return SECTION_CATEGORY.get(source) or classify(title)
+    """Return a category only when the headline describes a major event."""
+    t = normalized_title(title)
+    if not t or contains_any(t, PROMO_TERMS):
+        return None
+
+    # Economy: emergency market mechanisms, exceptional movement or policy decisions.
+    if contains_any(t, MARKET_EMERGENCIES) and not contains_any(t, SPECULATION):
+        return "금융시장 긴급"
+    if contains_any(t, MARKET_NAMES) and contains_any(t, SHARP_MOVES):
+        if not contains_any(t, SPECULATION):
+            return "금융시장 긴급"
+    if contains_any(t, ("환율", "원달러", "원·달러")) and contains_any(
+        t, ("폭등", "폭락", "급등", "급락", "1500원돌파", "1600원돌파")
+    ):
+        if not contains_any(t, SPECULATION):
+            return "금융시장 긴급"
+    central_banks = ("한국은행", "한은", "금통위", "연준", "fomc")
+    policy_rate_news = "기준금리" in t or ("금리" in t and contains_any(t, central_banks))
+    if policy_rate_news and contains_any(t, ("인하", "인상", "동결")):
+        if not contains_any(t, SPECULATION):
+            return "주요 경제정책"
+
+    # Society: serious violent crimes and major accidents.
+    if contains_any(t, MAJOR_CRIMES):
+        return "강력범죄"
+    if "흉기" in t and contains_any(t, ("난동", "찌르", "휘둘러", "위협", "중상", "검거")):
+        return "강력범죄"
+    if contains_any(t, MAJOR_DISASTERS):
+        return "중대재난"
+    if contains_any(t, DISASTER_EVENTS):
+        if _multiple_casualties(t) or contains_any(t, ("대규모대피", "다수사상", "인명피해속출")):
+            return "중대재난"
+    if "지진" in t and contains_any(
+        t, ("규모5", "규모6", "규모7", "대피", "사망", "인명피해")
+    ):
+        return "중대재난"
+    if contains_any(t, EXTREME_WEATHER) and contains_any(t, WEATHER_IMPACTS):
+        return "중대재난"
+
+    # Politics/security: decisions or active threats, not mere commentary.
+    if "계엄" in t and contains_any(t, ("선포", "발령", "해제")):
+        return "국가 중대사건"
+    if "탄핵" in t and contains_any(t, ("가결", "인용", "기각", "선고", "파면")):
+        return "국가 중대사건"
+    if "대통령" in t and contains_any(t, ("체포", "구속", "파면", "하야")):
+        return "국가 중대사건"
+    if "북한" in t and contains_any(t, SECURITY_EVENTS):
+        return "국가안보"
+    if contains_any(t, ("전쟁발발", "전면전돌입", "국가비상사태", "대규모개인정보유출")):
+        return "국가 중대사건"
+    return None
 
 
 def send_msg(text):
@@ -303,7 +364,7 @@ def main():
             time.sleep(0.4)
 
         print(f"[정상] {name}: {len(articles)}건 조회, 미확인 {new_articles}건, "
-              f"새 알림 {source_sent}건, 키워드 제외 {filtered_out}건, 누적 {sent_count}건", flush=True)
+              f"새 알림 {source_sent}건, 중요도 제외 {filtered_out}건, 누적 {sent_count}건", flush=True)
 
     if successful_sources == 0:
         raise RuntimeError("모든 RSS 조회 실패. 소스별 HTTP 에러를 위에서 확인해 줘.")
