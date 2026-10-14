@@ -9,6 +9,8 @@ import json
 import os
 import re
 import time
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from urllib.parse import urlencode, urlsplit
 
@@ -22,10 +24,17 @@ CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 STATE_FILE = Path(__file__).with_name("sent_news.json")
 
 
-def google_news_rss(domain):
-    """Public Google News search RSS limited to a publisher's own website."""
+def google_news_rss(domain, topics=None):
+    """Google News search RSS scoped to a publisher and optional topics.
+
+    This is a discovery fallback, not an official publisher feed. Google News
+    indexing can lag, so a successful RSS read does not guarantee every story.
+    """
+    query = f"site:{domain}"
+    if topics:
+        query += f" ({topics})"
     params = urlencode({
-        "q": f"site:{domain}",
+        "q": query,
         "hl": "ko",
         "gl": "KR",
         "ceid": "KR:ko",
@@ -41,6 +50,9 @@ GOOGLE_SOURCE_DOMAINS = {
     "MBC": "imnews.imbc.com",
     "YTN": "ytn.co.kr",
     "채널A": "ichannela.com",
+    "연합뉴스TV": "yonhapnewstv.co.kr",
+    "중앙일보": "joongang.co.kr",
+    "중앙일보 경제": "joongang.co.kr",
 }
 
 
@@ -63,8 +75,26 @@ NEWS_FEEDS = {
     "MBC": (google_news_rss("imnews.imbc.com"),),
     "YTN": (google_news_rss("ytn.co.kr"),),
     "채널A": (google_news_rss("ichannela.com"),),
-    # Keep these two, as both worked in the user's latest GitHub Actions log.
+    # Included in the user's ORIGINAL RSS list. A current RSS path was also verified.
+    "연합뉴스TV": (
+        "https://www.yonhapnewstv.co.kr/browse/feed/",
+        google_news_rss("yonhapnewstv.co.kr"),
+    ),
+    # Official news agency RSS: extra complementary coverage, not a TV channel.
+    "연합뉴스": ("https://www.yna.co.kr/rss/news.xml",),
+    # The three major newspapers (조중동). Central Daily was missing before.
     "조선일보": ("https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml",),
+    "중앙일보": (
+        google_news_rss("joongang.co.kr"),
+        # Historical Joins RSS URL: kept only as a fallback, not verified live.
+        "https://rss.joins.com/joins_news_list.xml",
+    ),
+    "중앙일보 경제": (
+        google_news_rss(
+            "joongang.co.kr", "경제 OR 금융 OR 금리 OR 부동산 OR 증시 OR 반도체"
+        ),
+        "https://rss.joins.com/joins_money_list.xml",
+    ),
     "동아일보": ("https://rss.donga.com/total.xml",),
     # SBS RSS directory: https://news.sbs.co.kr/news/rss.do
     "SBS": (
@@ -97,6 +127,35 @@ NEWS_FEEDS = {
     "MBN 경제": ("https://www.mbn.co.kr/rss/economy/",),
     "MBN 사회": ("https://www.mbn.co.kr/rss/society/",),
 }
+
+
+# Extra official feeds for economic learning and housing/markets coverage.
+NEWS_FEEDS.update({
+    "한국경제 경제": ("https://www.hankyung.com/feed/economy",),
+    "한국경제 증권": ("https://www.hankyung.com/feed/finance",),
+    "한국경제 부동산": ("https://www.hankyung.com/feed/realestate",),
+    "매일경제 증권": ("https://www.mk.co.kr/rss/50200011/",),
+    "매일경제 부동산": ("https://www.mk.co.kr/rss/50300009/",),
+    "매일경제 기업": ("https://www.mk.co.kr/rss/50100032/",),
+})
+
+# Guard against accidentally dropping the outlets the user explicitly requires.
+REQUIRED_OUTLETS = (
+    "KBS", "MBC", "SBS", "채널A", "YTN", "조선일보", "중앙일보", "동아일보",
+    "연합뉴스TV",  # Part of the user's original 9-source RSS list.
+)
+
+
+def validate_required_outlets():
+    missing = [name for name in REQUIRED_OUTLETS if name not in NEWS_FEEDS]
+    if missing:
+        raise RuntimeError("필수 언론사 누락: " + ", ".join(missing))
+    print(
+        f"[언론사 설정] 필수 {len(REQUIRED_OUTLETS)}곳 모두 포함 / "
+        f"뉴스 RSS {len(NEWS_FEEDS)}개 경로: " + ", ".join(REQUIRED_OUTLETS),
+        flush=True,
+    )
+
 
 # Importance-based filtering (free, deterministic, headline-only).
 # A publisher's "breaking" label or an RSS section never grants priority.
@@ -207,6 +266,189 @@ def classify_article(source, title):
     return None
 
 
+
+# A balanced expansion of the strict emergency-only classifier above.
+# The news bot focuses on significant economic news, not every RSS headline.
+ECON_PRIMARY = (
+    "경제", "금리", "환율", "물가", "인플레이션", "경제성장률", "gdp", "한국은행", "한은", "금통위", "연준", "fomc", "국채", "수출", "수입", "관세", "무역", "재정", "세제", "증시", "코스피", "코스닥", "고용", "실업", "가계부채", "산업", "금융", "거래소",
+)
+ECON_EVENT = (
+    "발표", "확정", "결정", "시행", "개편", "인상", "인하", "동결", "상승", "하락", "급등", "급락", "돌파", "역대", "최고", "최저", "경신", "악화", "개선", "제재", "규제", "완화", "강화", "협상", "타결", "증가", "감소",
+)
+HOUSING_PRIMARY = (
+    "부동산", "아파트", "재건축", "재개발", "주택", "전세", "월세", "집값", "주담대", "청약", "임대차", "공급대책", "분양가", "보유세", "종부세", "양도세", "dsr", "ltv", "전세사기",
+)
+HOUSING_EVENT = (
+    "대책", "규제", "완화", "강화", "정책", "시행", "발표", "확정", "결정", "개편", "공급", "승인", "취소", "상승", "하락", "급등", "급락", "폭등", "폭락", "증가", "감소", "도입", "폐지", "인상", "인하", "금지",
+)
+COMPANY_PRIMARY = (
+    "삼성전자", "sk하이닉스", "현대차", "기아", "lg에너지솔루션", "lg전자", "네이버", "카카오", "엔비디아", "테슬라", "애플", "마이크로소프트", "tsmc", "삼성바이오",
+)
+COMPANY_EVENT = (
+    "실적", "매출", "영업이익", "순이익", "적자", "흑자", "상장", "ipo", "인수", "합병", "구조조정", "공급계약", "투자계획", "대규모투자", "파산", "법정관리", "감원",
+)
+
+
+def news_priority(source, title):
+    """Return (priority, label) or None; source name alone cannot trigger a news alert."""
+    t = normalized_title(title)
+    if not t or contains_any(t, PROMO_TERMS):
+        return None
+    emergency = classify_article(source, title)
+    if emergency:
+        p = 100 if emergency == "금융시장 긴급" else 94
+        return p, emergency
+    if contains_any(t, HOUSING_PRIMARY) and contains_any(t, HOUSING_EVENT):
+        return 82, "부동산"
+    if contains_any(t, COMPANY_PRIMARY) and contains_any(t, COMPANY_EVENT):
+        return 78, "기업·산업"
+    # Routine tiny index moves are not major news.
+    if contains_any(t, MARKET_NAMES) and contains_any(t, ("상승", "하락", "마감")):
+        context = ("폭락", "폭등", "급락", "급등", "금리", "환율", "정책", "결정", "제재", "관세", "실적", "대책")
+        if not contains_any(t, context):
+            percentages = [float(m.group(1)) for m in re.finditer(r"(\d+(?:\.\d+)?)%", t)]
+            if not any(value >= 2.0 for value in percentages):
+                return None
+            return 76, "시장 동향"
+    if contains_any(t, ECON_PRIMARY) and contains_any(t, ECON_EVENT):
+        # Economic data/policy matters even if publisher didn't mark it breaking.
+        return 74, "주요 경제"
+    if contains_any(t, MARKET_NAMES):
+        # Also catch a large numerical move phrased as "KOSPI 2.1% down".
+        for match in re.finditer(r"(\d+(?:\.\d+)?)%", t):
+            if float(match.group(1)) >= 2.0 and contains_any(t, ("상승", "하락")):
+                return 76, "시장 동향"
+    return None
+
+
+def article_title_key(title):
+    # Basic duplicate detection across outlets for IDENTICAL normalized headlines.
+    t = re.sub(r"\[[^]]+\]", "", str(title or ""))
+    t = re.sub(r"[^\w가-힣]+", "", t.casefold())
+    return t[:110] if len(t) >= 10 else ""
+
+
+def entry_timestamp(entry):
+    parsed = entry.get("published_parsed") or entry.get("updated_parsed")
+    if parsed:
+        try:
+            return datetime(*parsed[:6], tzinfo=timezone.utc)
+        except (ValueError, TypeError):
+            pass
+    return None
+
+
+# Read one relevant opinion/column per KST calendar day.
+# Official Hankyung opinion feed + optional publisher-checked Google News feeds.
+def opinion_search_rss(query):
+    params = urlencode({"q": query, "hl": "ko", "gl": "KR", "ceid": "KR:ko"})
+    return "https://news.google.com/rss/search?" + params
+
+
+OPINION_FEEDS = {
+    "한국경제 오피니언": ("https://www.hankyung.com/feed/opinion",),
+    "매일경제 사설·칼럼": (opinion_search_rss('site:mk.co.kr (사설 OR 칼럼) (경제 OR 부동산 OR 금리 OR 반도체)'),),
+    "중앙일보 사설·칼럼": (opinion_search_rss('site:joongang.co.kr (사설 OR 칼럼 OR 시론) (경제 OR 부동산 OR 금리 OR 반도체)'),),
+    "한겨레 사설·칼럼": (opinion_search_rss('site:hani.co.kr (사설 OR 칼럼) (경제 OR 부동산 OR 금리 OR 일자리)'),),
+}
+OPINION_GOOGLE_DOMAINS = {
+    "매일경제 사설·칼럼": "mk.co.kr",
+    "중앙일보 사설·칼럼": "joongang.co.kr",
+    "한겨레 사설·칼럼": "hani.co.kr",
+}
+ECON_OPINION = (
+    "경제", "금리", "물가", "환율", "부동산", "아파트", "주택", "전세", "집값", "코스피", "코스닥", "증시", "주식", "채권", "금융", "은행", "재정", "세금", "관세", "수출", "무역", "기업", "산업", "반도체", "투자", "고용", "실업", "일자리", "성장", "생산성", "재건축", "자산", "ai", "인공지능", "고령화", "국민연금",
+)
+OPINION_ANALYSIS = (
+    "왜", "어떻게", "해법", "대책", "구조", "배경", "선택", "정책", "개혁", "본질", "효과", "영향", "문제", "위기", "기회", "쟁점", "진단", "장기", "미래", "시장", "전략", "전망", "논쟁", "생각", "딜레마", "불평등", "성장",
+)
+OPINION_MARKER = (
+    "사설", "칼럼", "시론", "기고", "오피니언", "매경포럼", "기자24시", "필동정담",
+)
+OPINION_HOUR_KST = 20
+MAX_NEWS_PER_RUN = 12
+
+
+def opinion_score(source, entry):
+    title = str(entry.get("title", "")).strip()
+    t = normalized_title(title)
+    if not t or contains_any(t, PROMO_TERMS):
+        return 0
+    is_official = source == "한국경제 오피니언"
+    if not is_official and not contains_any(t, OPINION_MARKER):
+        return 0
+    topics = sum(bool(word in t) for word in ECON_OPINION)
+    if not topics:
+        return 0
+    analytic = sum(bool(word in t) for word in OPINION_ANALYSIS)
+    return 4 * min(3, topics) + 2 * min(3, analytic)
+
+
+def opinion_reading_point(title):
+    t = normalized_title(title)
+    if contains_any(t, HOUSING_PRIMARY):
+        return "부동산 정책과 시장의 인과관계를 살펴봐."
+    if contains_any(t, ("금리", "환율", "물가", "재정", "경제")):
+        return "글에서 제시한 경제 인과관계와 근거를 살펴봐."
+    return "필자의 주장과 근거를 나눠서 읽어봐."
+
+
+def choose_opinion(session, state, now_kst):
+    """Find at most one recent and economics-related opinion article."""
+    today = now_kst.date().isoformat()
+    if state.get("opinion_date") == today:
+        return "already_sent"
+    manual = os.getenv("GITHUB_EVENT_NAME") == "workflow_dispatch"
+    if now_kst.hour < OPINION_HOUR_KST and not manual:
+        return "waiting_until_evening"
+
+    candidates = []
+    seen_opinions = set(state.get("seen_opinion_links", []))
+    threshold = now_kst.astimezone(timezone.utc) - timedelta(hours=72)
+    for source, urls in OPINION_FEEDS.items():
+        entries = get_entries(session, source, urls)
+        if entries is None:
+            continue
+        for entry in entries:
+            title = str(entry.get("title", "")).strip()
+            link = str(entry.get("link", "")).strip()
+            published = entry_timestamp(entry)
+            if not title or not link or not published or published < threshold:
+                continue
+            if link in seen_opinions:
+                continue
+            expected_domain = OPINION_GOOGLE_DOMAINS.get(source)
+            if expected_domain and not matches_publisher(entry, expected_domain):
+                continue
+            score = opinion_score(source, entry)
+            if score:
+                candidates.append((score, published, source, title, link))
+
+    if not candidates:
+        return "no_relevant_recent_opinion"
+
+    # Weight topic fit/analytical headline above recency, no partisan scoring.
+    score, published, source, title, link = max(candidates, key=lambda row: (row[0], row[1]))
+    message = (
+        "📖 오늘의 경제 읽을거리 (하루 1편)\n\n"
+        f"[{source}] {title}\n\n"
+        f"🔎 읽을 포인트: {opinion_reading_point(title)}\n\n"
+        "※ 사설·칼럼은 필자의 의견이야. 사실과 해석을 구분해서 읽어봐.\n\n"
+        + link
+    )
+    try:
+        send_msg(message)
+    except RuntimeError as error:
+        print(f"[opinion send failed] {error}", flush=True)
+        return "telegram_send_failed"
+
+    state["opinion_date"] = today
+    state.setdefault("seen_opinion_links", []).append(link)
+    state["seen_opinion_links"] = state["seen_opinion_links"][-500:]
+    print(f"[opinion sent] {source}: {title} (score={score})", flush=True)
+    return "sent"
+
+
 def send_msg(text):
     if not BOT_TOKEN or not CHAT_ID:
         raise RuntimeError("텔레그램 토큰 또는 채팅 ID가 없어. GitHub Secrets 2개를 확인해 줘.")
@@ -267,7 +509,7 @@ def get_entries(session, name, urls):
     last_error = "알 수 없는 오류"
     for index, url in enumerate(urls, start=1):
         try:
-            response = session.get(url, timeout=(5, 12))
+            response = session.get(url, timeout=(4, 8))
             response.raise_for_status()
             parsed = feedparser.parse(response.content)
             entries = parsed.entries[:40]
@@ -295,100 +537,119 @@ def get_entries(session, name, urls):
 
 
 def main():
+    validate_required_outlets()
     if not BOT_TOKEN or not CHAT_ID:
-        raise RuntimeError("TELEGRAM_BOT_TOKEN 또는 TELEGRAM_CHAT_ID가 없어. GitHub Secrets를 확인해 줘.")
+        raise RuntimeError("TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID is missing (GitHub Secrets).")
 
-    state, is_first_run = load_state()
+    state, first_run = load_state()
     seen = set(state["seen_links"])
+    title_keys = set(state.get("seen_title_keys", []))
     initialized = set(state["initialized_feeds"])
     session = make_session()
 
     successful_sources = 0
-    sent_count = 0
-    telegram_failures = 0
     failed_sources = []
-    newly_initialized = 0
+    freshly_initialized = 0
+    filtered = 0
+    eligible = []
+    telegram_failures = 0
+    manual = os.getenv("GITHUB_EVENT_NAME") == "workflow_dispatch"
 
     def remember(link):
         if link not in seen:
             seen.add(link)
             state["seen_links"].append(link)
 
-    for name, urls in NEWS_FEEDS.items():
-        entries = get_entries(session, name, urls)
+    for source, urls in NEWS_FEEDS.items():
+        entries = get_entries(session, source, urls)
         if entries is None:
-            failed_sources.append(name)
+            failed_sources.append(source)
             continue
-
         successful_sources += 1
-        articles = [
-            (str(entry.get("link", "")).strip(), str(entry.get("title", "")).strip())
-            for entry in reversed(entries)
-        ]
-
-        # Each source is initialized separately, so adding sources won't spam old news.
-        if name not in initialized:
-            for link, _ in articles:
+        if source not in initialized:
+            for entry in entries:
+                link = str(entry.get("link", "")).strip()
                 if link:
                     remember(link)
-            initialized.add(name)
-            state["initialized_feeds"].append(name)
-            newly_initialized += 1
-            print(f"[초기화] {name}: 기존 기사 {len(articles)}개 제외", flush=True)
+            initialized.add(source)
+            state["initialized_feeds"].append(source)
+            freshly_initialized += 1
+            print(f"[init] {source}: {len(entries)} old RSS entries marked seen", flush=True)
             continue
 
-        new_articles = 0
-        source_sent = 0
-        filtered_out = 0
-        for link, title in articles:
+        unprocessed = 0
+        selected = 0
+        omitted = 0
+        for entry in entries:
+            link = str(entry.get("link", "")).strip()
+            title = str(entry.get("title", "")).strip()
             if not link or not title or link in seen:
                 continue
-            new_articles += 1
-            category = classify_article(name, title)
-            if category is None:
-                filtered_out += 1
+            unprocessed += 1
+            decision = news_priority(source, title)
+            if decision is None:
+                omitted += 1
+                filtered += 1
                 remember(link)
                 continue
+            priority, category = decision
+            selected += 1
+            timestamp = entry_timestamp(entry)
+            recency = timestamp.timestamp() if timestamp else 0
+            eligible.append((priority, recency, source, category, title, link))
+        print(f"[RSS] {source}: {len(entries)} fetched / new {unprocessed} / "
+              f"eligible {selected} / filtered {omitted}", flush=True)
 
-            try:
-                send_msg(f"📰 [{category}] {name}\n\n{title}\n\n{link}")
-            except RuntimeError as error:
-                telegram_failures += 1
-                print(f"[텔레그램 실패] {name}: {error}", flush=True)
-                # Leave unsent links out of the seen list so a later run can retry.
-                continue
-
+    # Do not flood Telegram with old missed runs; prefer economy-impacting items.
+    eligible.sort(key=lambda item: (item[0], item[1]), reverse=True)
+    sent = 0
+    duplicate_titles = 0
+    for priority, recency, source, category, title, link in eligible:
+        key = article_title_key(title)
+        if key and key in title_keys:
+            duplicate_titles += 1
             remember(link)
-            sent_count += 1
-            source_sent += 1
-            time.sleep(0.4)
+            continue
+        if sent >= MAX_NEWS_PER_RUN:
+            continue   # Do not mark as seen; retry in a subsequent run.
+        try:
+            send_msg(f"📰 [{category}] {source}\n\n{title}\n\n{link}")
+        except RuntimeError as error:
+            telegram_failures += 1
+            print(f"[Telegram failed] {source}: {error}", flush=True)
+            continue
+        remember(link)
+        if key:
+            title_keys.add(key)
+            state.setdefault("seen_title_keys", []).append(key)
+        sent += 1
+        time.sleep(1.0)
 
-        print(f"[정상] {name}: {len(articles)}건 조회, 미확인 {new_articles}건, "
-              f"새 알림 {source_sent}건, 중요도 제외 {filtered_out}건, 누적 {sent_count}건", flush=True)
+    # Daily reading is independent from regular news; no random opinion spam.
+    now_kst = datetime.now(ZoneInfo("Asia/Seoul"))
+    opinion_status = choose_opinion(session, state, now_kst)
+    state["seen_title_keys"] = state.get("seen_title_keys", [])[-4000:]
 
-    if successful_sources == 0:
-        raise RuntimeError("모든 RSS 조회 실패. 소스별 HTTP 에러를 위에서 확인해 줘.")
-
+    # Even if some sources fail, keep state and let the failed ones retry next run.
     save_state(state)
     summary = (
-        f"✅ 뉴스 봇 확인 완료\n"
-        f"정상 RSS: {successful_sources}/{len(NEWS_FEEDS)}개\n"
-        f"새 알림: {sent_count}건\n"
-        f"새로 초기화한 RSS: {newly_initialized}개\n"
-        f"텔레그램 발송 실패: {telegram_failures}건"
+        f"✅ 경제 중심 뉴스 봇 실행 완료\n"
+        f"정상 RSS: {successful_sources}/{len(NEWS_FEEDS)}\n"
+        f"중요뉴스: {sent}건 전송\n"
+        f"중요도 필터로 제외한 기사: {filtered}건\n"
+        f"동일 제목 중복: {duplicate_titles}건\n"
+        f"새로 초기화한 RSS: {freshly_initialized}개\n"
+        f"경제 사설·칼럼: {opinion_status}\n"
+        f"텔레그램 전송 실패: {telegram_failures}건"
     )
     if failed_sources:
         summary += "\n조회 실패: " + ", ".join(failed_sources)
+    print("[summary] " + summary.replace("\n", " | "), flush=True)
 
-    print("완료: " + summary.replace("\n", " / "), flush=True)
-
-    # Manual 'Run workflow' sends a status report even if no new articles match.
-    # Scheduled executions only send matching articles (plus a one-time welcome).
-    if os.getenv("GITHUB_EVENT_NAME") == "workflow_dispatch" or is_first_run:
+    if manual or first_run:
         send_msg(summary)
-
-    if telegram_failures:
-        print(f"[주의] 텔레그램 발송 실패 {telegram_failures}건. 실패한 뉴스는 다음 실행에서 재시도해.", flush=True)
+    if successful_sources == 0:
+        raise RuntimeError("No news sources responded. Check the RSS errors.")
 
 
 if __name__ == "__main__":
