@@ -9,6 +9,7 @@ import json
 import os
 import time
 from pathlib import Path
+from urllib.parse import urlencode, urlsplit
 
 import feedparser
 import requests
@@ -19,9 +20,48 @@ BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 STATE_FILE = Path(__file__).with_name("sent_news.json")
 
+
+def google_news_rss(domain):
+    """Public Google News search RSS limited to a publisher's own website."""
+    params = urlencode({
+        "q": f"site:{domain}",
+        "hl": "ko",
+        "gl": "KR",
+        "ceid": "KR:ko",
+    })
+    return f"https://news.google.com/rss/search?{params}"
+
+
+# These providers don't currently have a reliably confirmed direct Korean RSS.
+# For these we use Google News search feeds, NOT official broadcaster RSS.
+# If Google News doesn't list an article it cannot be sent by this bot.
+GOOGLE_SOURCE_DOMAINS = {
+    "KBS": "news.kbs.co.kr",
+    "MBC": "imnews.imbc.com",
+    "YTN": "ytn.co.kr",
+    "채널A": "ichannela.com",
+}
+
+
+def matches_publisher(entry, expected_domain):
+    """Avoid attributing a Google News article to the wrong publisher."""
+    source = entry.get("source") or {}
+    publisher_url = str(source.get("href", ""))
+    publisher_host = (urlsplit(publisher_url).hostname or "").lower()
+    return bool(publisher_host) and (
+        publisher_host == expected_domain or publisher_host.endswith("." + expected_domain)
+    )
+
+
 # Publisher-owned RSS pages, checked against their published RSS directories.
 # A tuple means: if the first address fails, try the next one.
 NEWS_FEEDS = {
+    # Broadcaster news: four Google News search RSS feeds, and SBS's official RSS.
+    # All new feeds are initialized silently on their first successful run.
+    "KBS": (google_news_rss("news.kbs.co.kr"),),
+    "MBC": (google_news_rss("imnews.imbc.com"),),
+    "YTN": (google_news_rss("ytn.co.kr"),),
+    "채널A": (google_news_rss("ichannela.com"),),
     # Keep these two, as both worked in the user's latest GitHub Actions log.
     "조선일보": ("https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml",),
     "동아일보": ("https://rss.donga.com/total.xml",),
@@ -29,6 +69,12 @@ NEWS_FEEDS = {
     "SBS": (
         "https://news.sbs.co.kr/news/newsflashRssFeed.do?plink=RSSREADER",
         "https://news.sbs.co.kr/news/headlineRssFeed.do?plink=RSSREADER",
+    ),
+    "SBS 경제": (
+        "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=02&plink=RSSREADER",
+    ),
+    "SBS 사회": (
+        "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=03&plink=RSSREADER",
     ),
     # Maeil Business Newspaper RSS directory: https://www.mk.co.kr/rss
     "매일경제 경제": ("https://www.mk.co.kr/rss/30100041/",),
@@ -51,7 +97,7 @@ NEWS_FEEDS = {
     "MBN 사회": ("https://www.mbn.co.kr/rss/society/",),
 }
 
-# Only articles matching these headline keywords are sent, to limit noise.
+# General feeds use headline keywords; dedicated category feeds use their published sections.
 ECONOMY = (
     "경제", "금리", "환율", "물가", "인플레이션", "증시", "코스피", "코스닥",
     "주식", "주가", "금융", "은행", "부동산", "아파트", "전세", "대출",
@@ -77,6 +123,27 @@ def classify(title):
     if any(word in title for word in SOCIETY):
         return "사회"
     return None
+
+
+# Dedicated section RSS feeds already indicate a subject even when a headline
+# does not contain one of our generic keywords.
+SECTION_CATEGORY = {
+    "SBS 경제": "경제",
+    "SBS 사회": "사회",
+    "매일경제 경제": "경제",
+    "매일경제 사회": "사회",
+    "뉴시스 속보": "속보",
+    "뉴시스 경제": "경제",
+    "뉴시스 사회": "사회",
+    "MBN 경제": "경제",
+    "MBN 사회": "사회",
+}
+
+def classify_article(source, title):
+    # Breaking labels in titles take precedence over RSS section labels.
+    if any(word in title.casefold() for word in BREAKING):
+        return "속보"
+    return SECTION_CATEGORY.get(source) or classify(title)
 
 
 def send_msg(text):
@@ -143,8 +210,16 @@ def get_entries(session, name, urls):
             response.raise_for_status()
             parsed = feedparser.parse(response.content)
             entries = parsed.entries[:40]
+            # Search results could contain articles from other publishers; reject them.
+            if (urlsplit(url).hostname or "").lower() == "news.google.com":
+                expected_domain = GOOGLE_SOURCE_DOMAINS.get(name)
+                if expected_domain:
+                    before = len(entries)
+                    entries = [entry for entry in entries
+                               if matches_publisher(entry, expected_domain)]
+                    print(f"[간접RSS] {name}: 구글 뉴스 {before}건 중 언론사 검증 {len(entries)}건", flush=True)
             if not entries:
-                last_error = "응답은 받았지만 RSS 기사가 없음 (HTML 또는 빈 피드일 수 있음)"
+                last_error = "응답은 받았지만 해당 언론사 RSS 기사가 없음"
                 continue
             if index > 1:
                 print(f"[대체주소 성공] {name}: {index}번째 주소 사용", flush=True)
@@ -202,12 +277,15 @@ def main():
             continue
 
         new_articles = 0
+        source_sent = 0
+        filtered_out = 0
         for link, title in articles:
             if not link or not title or link in seen:
                 continue
             new_articles += 1
-            category = classify(title)
+            category = classify_article(name, title)
             if category is None:
+                filtered_out += 1
                 remember(link)
                 continue
 
@@ -221,10 +299,11 @@ def main():
 
             remember(link)
             sent_count += 1
+            source_sent += 1
             time.sleep(0.4)
 
-        print(f"[정상] {name}: {len(articles)}건 조회, 미확인 기사 {new_articles}건, "
-              f"전체 알림 누적 {sent_count}건", flush=True)
+        print(f"[정상] {name}: {len(articles)}건 조회, 미확인 {new_articles}건, "
+              f"새 알림 {source_sent}건, 키워드 제외 {filtered_out}건, 누적 {sent_count}건", flush=True)
 
     if successful_sources == 0:
         raise RuntimeError("모든 RSS 조회 실패. 소스별 HTTP 에러를 위에서 확인해 줘.")
