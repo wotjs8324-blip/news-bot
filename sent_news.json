@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.mk.co.kr/news/realestate/12176418",
-    "https://www.mk.co.kr/news/realestate/12176417",
-    "https://www.mk.co.kr/news/realestate/12176402",
-    "https://www.mk.co.kr/news/realestate/12176415",
-    "https://www.mk.co.kr/news/realestate/12176414",
-    "https://www.mk.co.kr/news/realestate/12176413",
-    "https://www.mk.co.kr/news/realestate/12176412",
     "https://www.mk.co.kr/news/realestate/12176411",
     "https://www.mk.co.kr/news/realestate/12176410",
     "https://www.mk.co.kr/news/realestate/12176409",
@@ -4999,7 +4992,14 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799986&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261015_0003827601",
     "https://www.newsis.com/view/NISX20261015_0003828119",
-    "https://www.newsis.com/view/NISX20261015_0003828065"
+    "https://www.newsis.com/view/NISX20261015_0003828065",
+    "https://www.yna.co.kr/view/AKR20261015169051007",
+    "https://www.chosun.com/politics/politics_general/2026/10/15/P4OOXKXUJREX3BIXK3TCDG4RUE/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/15/DPHEZA3RZZBWZLRN2CJ4W6ARTI/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/15/MZQWCNZQG5RDIYRUGVTGMZRRMI/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/09/LCOZZY2GC5HJVEKB43X6UX4ENM/",
+    "https://www.chosun.com/culture-life/relion-academia/2026/10/09/KGFOLBKWUNHBHGF656JZIOTOGA/",
+    "https://www.mk.co.kr/news/economy/12177162"
   ],
   "initialized_feeds": [
     "조선일보",
