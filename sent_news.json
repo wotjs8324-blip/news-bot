@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798783&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798691&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798690&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798777&plink=RSSLINK&cooper=RSSREADER",
     "https://www.mk.co.kr/news/economy/12175580",
     "https://www.mk.co.kr/news/economy/12175571",
     "https://www.mk.co.kr/news/society/12176493",
@@ -4999,7 +4995,11 @@
     "https://www.chosun.com/entertainments/broadcast/2026/10/16/MYYWCOBYHE4DONRYHA4DKM3GGA/",
     "https://www.chosun.com/jp/sports-jp/2026/10/16/GOTUVMGAT5BIRKQ5JOYV2XUEFM/",
     "https://www.newsis.com/view/NISX20261015_0003828201",
-    "https://www.newsis.com/view/NISX20261015_0003827773"
+    "https://www.newsis.com/view/NISX20261015_0003827773",
+    "https://www.chosun.com/sports/world-football/2026/10/16/MM3TANBRHFSTCNRSHE4DINTBGY/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/16/VYU6TRUQZRF5DMD4QHDN3RN45Y/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/BSRA6OEQJJGKDMT5GYFMNLBCOQ/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/M2LTXSKWA5FCNBEE73X6YO47WE/"
   ],
   "initialized_feeds": [
     "조선일보",
