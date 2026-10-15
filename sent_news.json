@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.hankyung.com/article/2026101394711",
-    "https://www.hankyung.com/article/2026101394741",
-    "https://www.hankyung.com/article/2026101394731",
     "https://www.hankyung.com/article/2026101395511",
     "https://www.mk.co.kr/news/stock/12176502",
     "https://www.mk.co.kr/news/stock/12175568",
@@ -4999,7 +4996,10 @@
     "https://www.hankyung.com/article/202610140980i",
     "https://www.hankyung.com/article/2026101409677",
     "https://www.hankyung.com/article/202610140921i",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261016034404loX"
+    "https://www.yonhapnewstv.co.kr/news/AKR20261016034404loX",
+    "https://www.yna.co.kr/view/AKR20261016003100091",
+    "https://www.hankyung.com/article/2026101403836",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225255"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5607,7 +5607,8 @@
     "오세훈올해만5천호착공주택공급계속ytn",
     "흉기난동범오늘구속영장심사경찰순찰강화ytn",
     "또못막았다접근금지명령중아내살해mbc뉴스",
-    "광주서흉기들고상인위협50대여성현행범체포"
+    "광주서흉기들고상인위협50대여성현행범체포",
+    "인천흉기난동범영장청구오늘오후구속심사"
   ],
   "opinion_date": "2026-10-15",
   "seen_opinion_links": [
