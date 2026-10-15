@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261015031400003",
-    "https://www.yna.co.kr/view/AKR20261015040200001",
-    "https://www.yna.co.kr/view/AKR20261015059300530",
-    "https://www.yna.co.kr/view/AKR20261015060700530",
-    "https://www.yna.co.kr/view/AKR20261015057300530",
-    "https://www.yna.co.kr/view/AKR20261015066300530",
-    "https://www.yna.co.kr/view/AKR20261015045600530",
-    "https://www.yna.co.kr/view/AKR20261015063000530",
-    "https://www.yna.co.kr/view/AKR20261015090100008",
-    "https://www.yna.co.kr/view/AKR20261015072000004",
-    "https://www.yna.co.kr/view/AKR20261015078400002",
     "https://www.yna.co.kr/view/AKR20261015083800017",
     "https://www.yna.co.kr/view/AKR20261015086000017",
     "https://www.yna.co.kr/view/AKR20261015075800002",
@@ -4999,7 +4988,18 @@
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sSThnenlnOWllMVlUby16ZHNGaEhxazVzbEpfVTl2Yi1oOVNpNGpnTkx3aWNIM1B4V1dmOHdWWTRqVnFzUUhjQnljdHMtR3RKV1J0ZlhOQzE1XzhlakE?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11WmhMSVlxam5EbE1uUVRiczd3RVdOWjI1YWxPQ3l0T3ZUS180VW9iSW1zZGNFRWh2UzZhS2Q2SXdFbVRnRC1sMDhLZGUzQnJXUHBoaGQ5V2l3aWs?oc=5",
     "https://www.yonhapnewstv.co.kr/news/MYH20261016083214pH6",
-    "https://www.chosun.com/economy/stock-finance/2026/10/16/MU4DKZRSGJTGCZLCHFQTON3CGE/"
+    "https://www.chosun.com/economy/stock-finance/2026/10/16/MU4DKZRSGJTGCZLCHFQTON3CGE/",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtWHNWUk92eDlQeW5wWnFaY3ZvTkZ2ekozVkhDNUtxaTU3enNiSWhmSU95OTlreHFCMmRRdlJSODhiam9YY21GNHFIVDFuRDN0bGc3R09BZWxTcmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pMjNtMmVpekgtbUZadkltQzlFVHZsY1dKZGVEeUNFaTN6ODlLbjF5UkYwanI0RzFFb0NmcERjU2luYkY1cXQ0WjQ4NXkzRDRrdmdmSUdDLWxjRkU?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261016084112lzi",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/16/MMZWIYJZMU2GENRUGY3TSZBSGM/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/10/16/XFFT4KWXKFAIPIBZ3KVTV3ZLXQ/",
+    "https://www.chosun.com/entertainments/music/2026/10/16/GAYTAZJZHBQWIYJZMJRTMMTGGY/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/2XVHESWVDRHVFJRSWBTQV6PQEU/",
+    "https://www.donga.com/news/Sports/article/all/20261016/134852518/1",
+    "https://www.newsis.com/view/NISX20261016_0003828392",
+    "https://www.newsis.com/view/NISX20261016_0003828406",
+    "https://www.newsis.com/view/NISX20261016_0003828401"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5668,7 +5668,8 @@
     "북신압록강대교개통보도북중경제연계강화ytn",
     "나주부부살해53살박용수강도살인혐의구속송치ytn",
     "뉴욕증시국채금리하락에3대지수반등",
-    "비트코인美10월금리동결가능성에8만2000달러대반등"
+    "비트코인美10월금리동결가능성에8만2000달러대반등",
+    "21폭락한코스피5100선저점전망나와급락분단계적만회"
   ],
   "opinion_date": "2026-10-15",
   "seen_opinion_links": [
