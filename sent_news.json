@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798647&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798607&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IYTdMbi1Qc05GWHZqZmYzOVhlUXVPS3BsM3BicTM4SG9MOFpWVzlRdnlNdVBUM19RNGZQSGxubUxucnRXTGhQaDVRb2puZzE4b2hEN2ViNjl2SW5ROGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41WGlldWtuUFpLd0RhUkFCZWxjVDBqSEJzQW8tN0lDMW5EMFRnTE80bDdyTnkwMXk2WXNBRUpLcGRRa0loVVdyN0o0a2wyT2ZjdUhzcm5zanVSaWJlUWc?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BR1JXX1F1Qy1teFhucWRRRFFqdWw4bFNVNDZhZlV2OHN1SGxzZjU5R1h6Ql9OeVAzaXVPbkxUNGthR0hvczJMQ0tVTlNscS1vTHNNdGVWckpfWDE4VjNDbTIyNFd4OWx5eUE1ZUxZVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5STlVrMW8tbktONFk1THNsczROd3NXUFlwOVU1Tm9jU3dlelBGUTRjaXZ1ZWdVQjYwajA4Z1hYX3l3SVdfVFhqY3MzWk91RHk0OXJ5NVlCRC1pWEF5OExFME5Yb9IBY0FVX3lxTE5STlVrMW8tbktONFk1THNsczROd3NXUFlwOVU1Tm9jU3dlelBGUTRjaXZ1ZWdVQjYwajA4Z1hYX3l3SVdfVFhqY3MzWk91RHk0OXJ5NVlCRC1pWEF5OExFME5Ybw?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxNjJOTklYdnNPOHk3c2pqMzNlZVlaazRxZ0JmRXlUaTBpdFpDb2lLUE5EdE5kd0pTTlA4NEZJckJFUkMwNjJrdExUcHRlaUxGU0dXRVppTExHODA?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02WkEzb1lIZVhyeDZDQS1XcHpoNVRjakhMaWZQUTY2WkstbHhiT1FuUGUyaVJteGgxX09wbmZuckp1QVBveTFIT2lnRXFwNnFYZ2M4YWpkMHZiOEk?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNeFVjLVJxcE9WTFotZmhoVFBzWU96LVVLX2hKQUNodGhmd2Q0a1Zfc2hiY2FuZXZZLVFsb3VoV0xjWmFMaS16YXdOcWJ2WDVGa01TMGhNZ0dZVy01R3AzVnJDZ9IBY0FVX3lxTFBNeFVjLVJxcE9WTFotZmhoVFBzWU96LVVLX2hKQUNodGhmd2Q0a1Zfc2hiY2FuZXZZLVFsb3VoV0xjWmFMaS16YXdOcWJ2WDVGa01TMGhNZ0dZVy01R3AzVnJDZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwc2R1TkhDb1ZpQ2FYdFg3UmxjQXJyQkdCNDdrWkNhOEMwSFRncnJoRFJoQVNDc01SNkVWT0d4UHQwaF9uQWtqR0V0ZEhPRktnXzJudzZMMFk5YWlMQ3ptQm9OTdIBY0FVX3lxTFAwc2R1TkhDb1ZpQ2FYdFg3UmxjQXJyQkdCNDdrWkNhOEMwSFRncnJoRFJoQVNDc01SNkVWT0d4UHQwaF9uQWtqR0V0ZEhPRktnXzJudzZMMFk5YWlMQ3ptQm9OTQ?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261015095621W7m",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261015095301mHT",
     "https://www.yonhapnewstv.co.kr/news/AKR20261015095131cxE",
     "https://www.yna.co.kr/view/AKR20261015053700505",
     "https://www.yna.co.kr/view/AKR20261015053600009",
@@ -4999,7 +4987,19 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800067&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261015_0003828102",
     "https://www.newsis.com/view/NISX20261015_0003828190",
-    "https://www.chosun.com/international/international_general/2026/10/15/HE3WMZTDMQ3TGNBXMFRGKYJZHE/"
+    "https://www.chosun.com/international/international_general/2026/10/15/HE3WMZTDMQ3TGNBXMFRGKYJZHE/",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261015223807yyv",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261015221806opv",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261015215158CZ3",
+    "https://www.yna.co.kr/view/AKR20261015180600004",
+    "https://www.yna.co.kr/view/AKR20261015177351051",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/15/MZRWMYZXMUZWEOBQGE2WIYLEG4/",
+    "https://www.chosun.com/sports/basketball/2026/10/15/GU4TEZBZMIYDOMJYGJRWCNBVGU/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/15/K7HPXBPECRBENATCM6UNPRSF3I/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800069&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800068&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261015_0003828174",
+    "https://www.hankyung.com/article/2026101545156"
   ],
   "initialized_feeds": [
     "조선일보",
