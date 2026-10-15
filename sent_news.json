@@ -1,20 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261015078700054",
-    "https://www.yna.co.kr/view/AKR20261015078100062",
-    "https://www.yna.co.kr/view/AKR20261015074600005",
-    "https://www.yna.co.kr/view/AKR20261015078600030",
-    "https://www.yna.co.kr/view/AKR20261015077900051",
-    "https://www.yna.co.kr/view/AKR20261015077500001",
-    "https://www.yna.co.kr/view/AKR20261015077600005",
-    "https://www.yna.co.kr/view/AKR20261015079100004",
-    "https://www.yna.co.kr/view/AKR20261015075700504",
-    "https://www.yna.co.kr/view/AKR20261015078800055",
-    "https://www.yna.co.kr/view/AKR20261015078900004",
-    "https://www.yna.co.kr/view/AKR20261015077400062",
-    "https://www.yna.co.kr/view/AKR20261015078300056",
-    "https://www.yna.co.kr/view/AKR20261015076651083",
-    "https://www.yna.co.kr/view/AKR20261015074000005",
     "https://www.yna.co.kr/view/AKR20261015076500062",
     "https://www.chosun.com/economy/auto/2026/10/15/LZAKCTXZQVHUVPTKG2SBVNXF24/",
     "https://www.chosun.com/jp/economy-jp/2026/10/15/ON53ULWXIRCPJJRHQCTFAQCG44/",
@@ -4999,7 +4984,22 @@
     "https://www.chosun.com/jp/culture-life-jp/2026/10/16/TEEW5ATB7NASPFQRRPYHHAVZT4/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WYlVqZmxDQURRcGp4M2hGQWdaR3NuZkpCS3BpUGs3cnVoVkxhQnRCWXFZVEZ0ZEdudVhSSmRRWHBLSTFXWGtiRG1QVmRiSzUtb21ONGN3?oc=5",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800192&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Z3ZpTFdqWnE0dFhrN2hwdGZrTDVqV2pJMTB4aW5WenlXbDZqaGZnalZYU3VSVkR4UXdOdmpRRGxHS0N6VjJMMzc3Rmd0Q3kzdlBIM2xR?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Z3ZpTFdqWnE0dFhrN2hwdGZrTDVqV2pJMTB4aW5WenlXbDZqaGZnalZYU3VSVkR4UXdOdmpRRGxHS0N6VjJMMzc3Rmd0Q3kzdlBIM2xR?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3UjBNXzBBbXc0XzlJQ0w4czVyTU4tWUhPeVhBQ09XdVZUTmJpa2hPS0ZLSUhuNThVeE1aZ0F5Wk9aUDdCU01rVEFaNlVPd0NFaHBrX0Y0UVJpN2prQ0RLbU1NR0M3WWxURWViMmRKUHpwT3llOGtJVdIBeEFVX3lxTFBXcHNqem42T2JYeXEtTkViLV9GbWRRSzhHd2FkY3A5TzRFVGFITmp5WmtJdVg3Qk02cFBOMXNIemdFN1VwQ3pJVHhEU3FUSWc4RnlUUFVESTZOMW5vaFJnWGdTcUQ5dTEzSDRBa2JzelZPMUNodm1vOQ?oc=5",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/L4LBCP6XNFADFKIG6E5CQQZ3HM/",
+    "https://www.donga.com/news/Inter/article/all/20261016/134852238/1",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800175&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261016_0003828246",
+    "https://www.newsis.com/view/NISX20261016_0003828237",
+    "https://www.newsis.com/view/NISX20261015_0003828186",
+    "https://www.newsis.com/view/NISX20261015_0003827456",
+    "https://www.hankyung.com/article/2026101544246",
+    "https://www.hankyung.com/article/202610154548i",
+    "https://www.hankyung.com/article/2026101548161",
+    "https://www.hankyung.com/article/202610155032i",
+    "https://www.newsis.com/view/NISX20261015_0003827386",
+    "https://www.hankyung.com/article/202610165216i",
+    "https://www.hankyung.com/article/2026101549476"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5634,7 +5634,11 @@
     "뉴욕증시국채금리하락에3대지수반등다우108상승",
     "9월수입물가전월比17상승국제유가큰폭상승영향",
     "뉴욕증시ai투자우려에도국채금리하락에상승마감",
-    "전남광주서또흉기위협50대여성체포"
+    "전남광주서또흉기위협50대여성체포",
+    "코스피폭락시장은ai투자의수익성을의심한다",
+    "역대급실적에도주가는왜삼성전자하이닉스반등쉽지않은이유",
+    "물가최고치찍었는데증시반등시장여전히fed금리동결에무게",
+    "ai호황끝났나美긴축우려고조속하락한장기채금리"
   ],
   "opinion_date": "2026-10-15",
   "seen_opinion_links": [
