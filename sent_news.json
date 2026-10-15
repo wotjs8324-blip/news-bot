@@ -1,19 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/entertainments/celebrity/2026/10/15/GE4GKNTDMJSDAZRUGBQTINBZME/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/15/Z3FLZRBYSVCGRJWIHELP2YFAOE/",
-    "https://www.chosun.com/sports/baseball/2026/10/15/MUYDONBRGA2TOMZTMRTGCMZRG4/",
-    "https://www.chosun.com/jp/sports-jp/2026/10/15/DBFHMMPS3JCPBJJDFF57CWM2DE/",
-    "https://www.chosun.com/economy/market_trend/2026/10/15/HEZDOMLGMIZGIZJXGBRDIOJZMQ/",
-    "https://www.chosun.com/jp/economy-jp/2026/10/15/LSMQB7W7OJA7RIFAHH5RWW7ITQ/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uVWVrWlFpaVYyYjVNbmc5TXBhb2s4UTdmaXJmU3ljbzlOT0d3cDNXNkg4bG9uNUZTRTRQSlR2VU1CRmtxNGVBcUZ0M3FBZmdPVk50UVRB?oc=5",
-    "https://www.donga.com/news/Politics/article/all/20261015/134845317/2",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798644&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/sports/12176461",
-    "https://www.mk.co.kr/news/society/12176457",
-    "https://www.newsis.com/view/NISX20261015_0003826850",
-    "https://www.newsis.com/view/NISX20261015_0003826627",
-    "https://www.newsis.com/view/NISX20261015_0003826829",
     "https://www.newsis.com/view/NISX20261015_0003826848",
     "https://www.newsis.com/view/NISX20261015_0003826844",
     "https://www.newsis.com/view/NISX20261015_0003826836",
@@ -4999,7 +4985,21 @@
     "https://www.chosun.com/entertainments/broadcast/2026/10/15/GZSTGM3FGAZTSYZWHFSWKZBXGE/",
     "https://www.chosun.com/jp/culture-life-jp/2026/10/15/WGOWKFQO75GRFMX4ZCLJKYTMU4/",
     "https://www.newsis.com/view/NISX20261015_0003828159",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wSl9VcTZqUVRlVm1IZXZOTzlwZmNDTDJQNHVaS0ZMVXdaeHlLVWRkX2FhOUNLY1RxYjJKZzlxalZ3SXg5cXF1bTN5N0lXSElkRGFhUXNEQWhoQUtPYnc?oc=5"
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wSl9VcTZqUVRlVm1IZXZOTzlwZmNDTDJQNHVaS0ZMVXdaeHlLVWRkX2FhOUNLY1RxYjJKZzlxalZ3SXg5cXF1bTN5N0lXSElkRGFhUXNEQWhoQUtPYnc?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44SjAyMUVNQkJ4UmwxaWFqZFVZY0s0M3VrQVJLNnY4T1ZWMnpxWWJDTUhWekhHRVJEU3ZNYWpzRXhhcng5YVYycy1EMHBRUW1WOERfLXpaNjlxbjQ?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/MYH202610152148469Eh",
+    "https://www.yna.co.kr/view/AKR20261015180000007",
+    "https://www.yna.co.kr/view/AKR20261015169152504",
+    "https://www.chosun.com/sports/football/2026/10/15/GAZDSZRTG44DCMZUMQZDQYRTHA/",
+    "https://www.chosun.com/international/international_general/2026/10/15/MQZGKNBSGY4DOOJSG4ZDAOBRMY/",
+    "https://www.chosun.com/jp/international-jp/2026/10/15/JDVQMOCRV5B3BLCEWZDQ5EAA3I/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/15/G4ZDEY3EMRSTKNZRGY4WMMZXMU/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/15/XHOHDLNTVBAGJFAVXNM2YY3Y4Q/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43UVBtS1JldThxeE9MZ3RLaEVSODlEMFo2OEc5WDhaMk9LcmdTMnkzbldZa0ZwZVhMMWtTcFZDakhZZ0lQSWp6bnZ6WnpCa2N1b3laWXF3?oc=5",
+    "https://www.newsis.com/view/NISX20261015_0003828175",
+    "https://www.newsis.com/view/NISX20261015_0003828173",
+    "https://www.newsis.com/view/NISX20261015_0003828182",
+    "https://www.yna.co.kr/view/AKR20261015124352089"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5585,7 +5585,8 @@
     "검은목요일130만닉스깨졌다코스피코스닥장중6급락중앙일보",
     "인천흉기난동전휴학계에현금680만원도주준비했나",
     "동생안아볼래14세친딸망치로살해한비정한아빠결국중앙일보",
-    "서울아파트값상승폭2주째확대경기남부강세ytn"
+    "서울아파트값상승폭2주째확대경기남부강세ytn",
+    "tsmc6분기연속순이익신기록美텍사스투자검토종합2보"
   ],
   "opinion_date": "2026-10-15",
   "seen_opinion_links": [
