@@ -1,22 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/jp/sports-jp/2026/10/16/JRIITNVNURDUBK3YAJGJPVCQGA/",
-    "https://www.chosun.com/entertainments/music/2026/10/16/MNRDANLDGQYWCZRUHA3WKYZWGU/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/37XLVTNIR5AQXDLKWXTEWYJIWA/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/2CB5WVI6YBCPBCG4XUVHH3WTA4/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/16/GJRTEYTGGM3GKMRRMVRDEYRRGU/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/YWMMADW5KBBDPGAZVZKYNE6V5Y/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxcGtDVUtKUjU4cU1QY0cwNk9HaHp1bzVxREJpc2N5SkY4T3FIei1uTzF1aG1CazNNYjdhNjE2X19QSjlORlZTQWl0d0VjeUxGemQxbjFB?oc=5",
-    "https://www.donga.com/news/Inter/article/all/20261016/134852255/1",
-    "https://www.donga.com/news/It/article/all/20261015/134849135/2",
-    "https://www.donga.com/news/Society/article/all/20261016/134851879/2",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800254&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261016_0003828279",
-    "https://www.newsis.com/view/NISX20261016_0003828276",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93a09FQmQ3RVBYMXJNS0hDZ01HdDFQT1hNMnpvUkpqX3FkNXVuZ2dRRGViVXNQblMyRkl5ampzeGtERUpfRkF4d3d0bks3TzlNWUV1NFl3RjJ3b1k?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVblhadGhYWDF1RHkzRlhzLTNxUVdOT2dRXzFQRjZpX3c0UHc1cnExZTJGNTMyNGwxZDVMVnhCZFhFVlBoaXN0eUdma3Aydy1UQmlWYXQ5dFo3TUk?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kUjR3OVlRR1I5VWRlemdDUGpWRjgyQnFURWJZMk01cktPZU00VTJpNXdzS205djY0NFBkeEJJOUdLQk9jNHZHREhmQkF5bzhSSnhCSFlGZ1ZGWFM5NW9FRVhZUEt4d0lhRmg0ZldTUEJieXRKNVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zZTg2ZUh2eWI0a2ZtM2kxYUxqRFR2T2Z4cFM4X2hKa0k2S1VXblFTVndNakk0bnlmMWpVaTlwWUtiOWlxczF6VUVfcnVXWEpTalB6aHpINS1oQVc5UE9kYW93NTFpZw?oc=5",
     "https://www.chosun.com/jp/international-jp/2026/10/16/PROZ5OFGGRFM5OGHSNBXHQRJKM/",
     "https://www.chosun.com/international/us/2026/10/16/OGKH4RS7SVAZNACW4CBU2XWDYQ/",
     "https://www.chosun.com/sports/baseball/2026/10/16/MMZWIMRVGM2DGZTGMYYWCMBWMU/",
@@ -4999,7 +4982,24 @@
     "https://www.newsis.com/view/NISX20261016_0003829742",
     "https://www.newsis.com/view/NISX20261016_0003829757",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225258",
-    "https://www.mk.co.kr/news/realestate/12178242"
+    "https://www.mk.co.kr/news/realestate/12178242",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ITnppNHExUmtuaWhGejZqYWpEZTF1TDQ1c0w4ZjVzNTV4S1lZZlg5WFZZS255RmVMMUEwWl9vamhXcTRIUkhDVF9mTEpvMFlLc0pFbnM3eTdUaE0?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vSktsMWtndEJmTUtoZHZEbU9LYjJ3aTNtZ2pabU90R0lvVWk3LXdHQV84UV9uSF9TZmVfVVFiTVJTTU5VaWlnWW1qSTRWdEdvQTNBVDNScU1wTm8?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HeEFxdFJDbEJ2S2JUY3JNaFZ0YmJwZmtFeC1nWEtnXy02YXB4QnpFakh2dlZPd3NYN3NjSGNpMkktTVBZM1FmWFo5TTVYRy02S1UzNTgwU01ZaWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCQURGdVdPRkRkcHFPbWFZODFwUjU5MXg0MVQxdlN0d1pzNHZmbkNYYS10VUZDWVRHLWQtTUVacERRbFA1UV90SzU0WVhFVEhrQXFGd3JBNUdxaXFmWFE?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261016211559LZc",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261016211117EVU",
+    "https://www.yna.co.kr/view/AKR20261016174000054",
+    "https://www.yna.co.kr/view/AKR20261016174300061",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/PYU7SSFTTFHNLEPG57REMXNBB4/",
+    "https://www.chosun.com/culture-life/art-gallery/2026/10/16/P6ZBZU7KPVFHVPTNF5BCNK4OOA/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/J4LS6ZHYTNGGVBBSUKJO3HS7HY/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/16/GYYGIOJXGBRTOMJZGM3GEMBUME/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/HLZLUCXGBNHFRG2XLX2AK2SOAE/",
+    "https://www.chosun.com/jp/economy-jp/2026/10/16/HFYN33P7NNGYJPRLUJDE5R2NNY/",
+    "https://www.hankyung.com/article/2026101673437",
+    "https://www.mk.co.kr/news/stock/12177408",
+    "https://www.mk.co.kr/news/society/12178243"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5958,7 +5958,8 @@
     "인천흉기난동범구속59살최충락신상공개",
     "인천흉기난동범은59세최충락경찰신상공개채널a",
     "일본기상청규모69지진을99로경보8분만에취소kbs뉴스",
-    "인천흉기난동최충락구속죽을죄를지었다ytn"
+    "인천흉기난동최충락구속죽을죄를지었다ytn",
+    "호신용품이라도사야하나흉기난동에1000원호루라기도품절"
   ],
   "opinion_date": "2026-10-16",
   "seen_opinion_links": [
