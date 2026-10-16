@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800575&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800558&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800544&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12176569",
-    "https://www.newsis.com/view/NISX20261016_0003828610",
-    "https://www.newsis.com/view/NISX20261016_0003828462",
-    "https://www.newsis.com/view/NISX20261016_0003828631",
     "https://www.newsis.com/view/NISX20261016_0003828623",
     "https://www.newsis.com/view/NISX20261016_0003828629",
     "https://www.newsis.com/view/NISX20261016_0003828626",
@@ -4999,7 +4992,14 @@
     "https://www.yna.co.kr/view/AKR20261016093600060",
     "https://www.newsis.com/view/NISX20261017_0003829834",
     "https://www.yna.co.kr/view/AKR20261016169300004",
-    "https://www.chosun.com/economy/stock-finance/2026/10/17/MRRGCZJSHFQTANRZGIZDKNBTMQ/"
+    "https://www.chosun.com/economy/stock-finance/2026/10/17/MRRGCZJSHFQTANRZGIZDKNBTMQ/",
+    "https://www.yna.co.kr/view/AKR20261016132500104",
+    "https://www.yna.co.kr/view/AKR20261016148300030",
+    "https://www.yna.co.kr/view/AKR20261016144900062",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LRzhCLWZuTlZ6Z2RaaXZMY3hhNzlscmlKU3RXZzdYcWZ6WGIzMVRCa3VyaDI0OC14RjJFUVhoVGNOdElydms0N1hNNTV0Vmxxc3I3SmRR?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801816&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801815&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261016_0003829454"
   ],
   "initialized_feeds": [
     "조선일보",
