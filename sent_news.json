@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261016_0003828494",
-    "https://www.newsis.com/view/NISX20261016_0003828542",
-    "https://www.newsis.com/view/NISX20261016_0003828515",
-    "https://www.newsis.com/view/NISX20261016_0003828529",
-    "https://www.newsis.com/view/NISX20261016_0003828483",
-    "https://www.newsis.com/view/NISX20261016_0003828489",
-    "https://www.newsis.com/view/NISX20261015_0003827849",
-    "https://www.newsis.com/view/NISX20261016_0003828528",
     "https://www.newsis.com/view/NISX20261016_0003828530",
     "https://www.newsis.com/view/NISX20261016_0003828527",
     "https://www.newsis.com/view/NISX20261016_0003828519",
@@ -4999,7 +4991,15 @@
     "https://www.yonhapnewstv.co.kr/news/AKR202610170400322I0",
     "https://www.yna.co.kr/view/AKR20261017002751071",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800147&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261016_0003829574"
+    "https://www.newsis.com/view/NISX20261016_0003829574",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12M1d1VUVmbUF3TTVlbVdQTWhkMWdZVjN5X0dBOGpQM3ZVRl9VNnhGQnYwY1F2VUdGbnZfU05iQ1FBMlA0eW5MU1M4RkZjVlJETzU1Ulk2V3lrekMyS0HSAWNBVV95cUxPbDB0U2NhN0ZfZ1p5TG0xV0loMVJodGs3WFA4QmxLd3pYdnBDWW9aQWRDUW51cHhfaDJQTzV0ajJYT2NGdzk4MmZ2cE5qcS11SFUxZUprQjQ2R2hDNkw0VGppcjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvaWlxbmFIUUxwYlJmNXdlREtRc2w3bEY3ancxV0RxTDNCQ3ZIZ3pDQmxBYkw0elNoam41eDZva2VPUXh0cmVad2l0UUdmM282bUhVXzAwX1hfdWh4eVHSAWNBVV95cUxPOGNMRTBNaUlHZjdnbGRGTFJSNGxMbjkzSGMzM0lQTi1VV2JMektrZ1QtYXk3VVNvR29OQ0xhMkREY1l1RTBDclB2X05YQWNURDJjYzFrNzF2S2tNZFRfRTBaRU0?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44S0JhS0hwcENrTzNxSzFOTGx6bW5ENWVyZkIyTjh5SWQyLUtGekQ5Mk0tUGpJVmI3bW50U3VqQ2RDdm5XQlM4VWtWbTdWWkVvRDdEQ1Y0clhvY0tPa2fSAWNBVV95cUxNMk5GSXZodWkwb0tYUWJPUmFocUUyRUp6Qkp4NW1wWk5Oc3ZkZTU5OHFyWDBWSkJyQUhhSDhlRloxSFVJVDRMQkhQLU1sdlpLMjIxbzFNY3FQNEZRYjdsU0tpWG8?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZM201RjdvU2I5OXhmelEteDVvMDZuYlNWUE1hTEg1OFNkdE9CN0RibEFVeVhuNkVQNGM1TUJEMlNQQmVfaFFZS202QkxQWFhKZE9vWVVDUWRBNWU4VkHSAWNBVV95cUxQMUZ2aENWZlVIa2RJd2NTY0FXNkdJRnhJajNyQ0lOd0llSG90NDg3ejV1cWpoM3M2dTFRblB5R01PYjFvcUNBakc4OGc1dzBkVjBiM1BwcHpSRTFnR3F3ZzVyMms?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FVWMzVEYtQXg2TmFIQW0waXdlbkh2bEY0N3VWNEQyQlpXNjNYYUtZZmxnRENFRDJ2VFQ5cE1qeGk4RmNSNTdSLWdOdWxPZGp2MXRhYWtWODJ4RkpHV1HSAWNBVV95cUxNNEt5T096bVpOT1Ewc1lFeUpFM18tMWtnZDFIUmhDbjlONkdjby1sV2hIZjVjOTVIdjA3dy12b3FBaTUteURzWlVXMFM4Vm9VVnZ4TVk2ckZzNjhrY2oxMW9kYUE?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801787&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801785&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ySjVzOEpVNndmSlNtNVZsTGN4c0R1c0RaLXpCSVZvZWd4UWxBWHBUREZXX2pyZmFsZkt4eDlkTnZhcHJaVmhzMHdJbXJfelZ2TERmc1RfclBqTGxHdkHSAWNBVV95cUxNS1huTVBldEJudEVZc2ZEN3RJNVZlU3VoaFBSemFwZ21VUlowVVNubVc1VFd5Z0JtWFdMbXNRM0kzVjQ2M0FjZk5WaGVDakUzS0RFVklTRmRnWWtoTFlRRkwzM00?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5977,7 +5977,8 @@
     "과천경마장6년내이전어려워꼬이는공급대책",
     "인천흉기난동범어린이집범행대상고민",
     "제조업고용늘었지만숙박음식점업67개월만에최대폭감소",
-    "슬리퍼위에전자발찌선명수갑찬흉기난동범첫포착mbc뉴스"
+    "슬리퍼위에전자발찌선명수갑찬흉기난동범첫포착mbc뉴스",
+    "트럼프소방관살해범엔사형구형채널a"
   ],
   "opinion_date": "2026-10-16",
   "seen_opinion_links": [
