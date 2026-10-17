@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225052",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225050",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85SmJBSWtWLXRzNHFEb3Fkd2NTLXJEOENqbG0xYTBGUmhmM0NvMmR3LTVTTW9Bbl9ORExhQzJXWW5HbUVGWTdqcG1XeTE2WldtcHVOdkZpbDVwUms?oc=5",
-    "https://www.yna.co.kr/view/AKR20261016131100002",
-    "https://www.newsis.com/view/NISX20261016_0003829428",
     "https://www.yna.co.kr/view/AKR20261016141800008",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TQUM0aVE2cjVkTWFSeTJvdXRUSlhoemcwWDA0RUpWRUdEelhLYTBoZk9BelNCcmpKRWplNWZYZ01Ua0NCMGNiZGcyZmNaV29aRERxcjdYdFdHLXM?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PRE9MSzBGMDQtc25NWEJtTG00dHVEbWJDYnhoeXBGMlhsM0xOcGRwUWlIcFN6bmk1d1dQVU41SWk1NVFrZTJCNWZzUTY2eG5ONXYyOFQ2NmR5TXRQOVE?oc=5",
@@ -4999,7 +4994,12 @@
     "https://www.newsis.com/view/NISX20261018_0003830184",
     "https://www.newsis.com/view/NISX20261018_0003830185",
     "https://www.mk.co.kr/news/business/12177952",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBidW9PcEVBeERDSHZIOUQzTnM5TW81WHp1R1ZfMk9RTVBoWU1ublc1TU5udUlsdmk4UTFraFBmbHNNSldPREluOFVOd0xuQUlCcU1Dem4ya1hxX3BUVHc?oc=5"
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBidW9PcEVBeERDSHZIOUQzTnM5TW81WHp1R1ZfMk9RTVBoWU1ublc1TU5udUlsdmk4UTFraFBmbHNNSldPREluOFVOd0xuQUlCcU1Dem4ya1hxX3BUVHc?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801402&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261017_0003829898",
+    "https://www.newsis.com/view/NISX20261016_0003829690",
+    "https://www.hankyung.com/article/2026101529296",
+    "https://www.mk.co.kr/news/business/12177902"
   ],
   "initialized_feeds": [
     "조선일보",
