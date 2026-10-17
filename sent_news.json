@@ -1,20 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/5EQ5EYKNPRCSBGYKTWN4C5JI3U/",
-    "https://www.donga.com/news/Society/article/all/20261016/134853698/1",
-    "https://www.donga.com/news/Society/article/all/20261016/134853682/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800865&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800862&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12176779",
-    "https://www.mk.co.kr/news/economy/12176769",
-    "https://www.newsis.com/view/NISX20261016_0003828857",
-    "https://www.newsis.com/view/NISX20261016_0003828701",
-    "https://www.newsis.com/view/NISX20261016_0003828827",
-    "https://www.newsis.com/view/NISX20261016_0003828850",
-    "https://www.newsis.com/view/NISX20261016_0003828852",
-    "https://www.newsis.com/view/NISX20261016_0003828699",
-    "https://www.newsis.com/view/NISX20261016_0003828861",
-    "https://www.mk.co.kr/news/stock/12177677",
     "https://www.mk.co.kr/news/stock/12176768",
     "https://www.mk.co.kr/news/stock/12176772",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800858&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4984,22 @@
     "https://www.mk.co.kr/news/stock/12177664",
     "https://www.mk.co.kr/news/stock/12177663",
     "https://www.mk.co.kr/news/stock/12177661",
-    "https://www.yonhapnewstv.co.kr/news/AKR202610171323397GH"
+    "https://www.yonhapnewstv.co.kr/news/AKR202610171323397GH",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261017133931Fwc",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261017133755gnu",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261017133403nQq",
+    "https://www.yna.co.kr/view/AKR20261017028500064",
+    "https://www.yna.co.kr/view/AKR20261017028300055",
+    "https://www.yna.co.kr/view/AKR20261016071700017",
+    "https://www.yna.co.kr/view/AKR20261017028200063",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802111&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802107&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261017_0003829957",
+    "https://www.newsis.com/view/NISX20261017_0003829956",
+    "https://www.newsis.com/view/NISX20261017_0003829948",
+    "https://www.newsis.com/view/NISX20261017_0003829954",
+    "https://www.hankyung.com/article/202610165934i",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kWC1Wbm5rX3BCSjgzUy1RUGJQQWQ0M1JpMS04c2piSGVqT1NFdVJZcHQ2WFc0aGNkTUxlTTBzenJITDY5a0owLWkzb1gtRnRFMlJ1elpB?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -6033,7 +6033,8 @@
     "인천흉기난동최충락자택압수수색사전계획여부확인",
     "인천흉기난동최충락자택압수수색범행계획수사종합",
     "트럼프그레이엄법대러제재고율관세면제발표",
-    "최악산불인니서진화작업중4명사망2명화상"
+    "최악산불인니서진화작업중4명사망2명화상",
+    "규모69지진을99로잘못판단日흔든지진경보오보중앙일보"
   ],
   "opinion_date": "2026-10-16",
   "seen_opinion_links": [
