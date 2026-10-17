@@ -1,21 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Society/article/all/20261016/134853808/1",
-    "https://www.donga.com/news/Politics/article/all/20261016/134853861/2",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800901&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261016_0003828898",
-    "https://www.newsis.com/view/NISX20261016_0003828896",
-    "https://www.newsis.com/view/NISX20261016_0003828892",
-    "https://www.newsis.com/view/NISX20261016_0003828792",
-    "https://www.newsis.com/view/NISX20261016_0003828766",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225156",
-    "https://www.mk.co.kr/news/stock/12176795",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800902&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12176796",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225157",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjaVNWWDZzTWRBU1RJMHpxS3VOd1FGazRtSUtPSVd3amozR3l0WDBsTjVpaFFUZ0Nmb3JIUG1sY2JpdUlhV2xxNHBPVDJQcjNhNll4OFZWWTRTdVE?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR2026101511390671M",
-    "https://www.yna.co.kr/view/AKR20261016037451004",
     "https://www.donga.com/news/Economy/article/all/20261016/134853143/1",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLUW1nck1fdHdlQ3U2VDJGUnBxd25BSDZ6V21GNV9hdklkWE4wemduLXA2VXIyUTY5UjhFYkQzWVBNcGJBa3Y4SG9Db1NtM250eHpOMVdabDFvLWJKTmVBSnJaU0x0Zw?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00TU16LVphNjRXZGFndGxQcXkwNXVPWEdZdV9qQUZlVjU5OVh2Rld0UHJUZXVEQXFLTXNvdWlvTUNOQzFSRW82aXAtSnBPSF91NTd3bGFiVFU4MVVOMFdYUlNTNGtkdw?oc=5",
@@ -4999,7 +4983,23 @@
     "https://www.mk.co.kr/news/society/12178449",
     "https://www.newsis.com/view/NISX20261017_0003829978",
     "https://www.newsis.com/view/NISX20261017_0003829863",
-    "https://www.newsis.com/view/NISX20261017_0003829980"
+    "https://www.newsis.com/view/NISX20261017_0003829980",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3SElUUlZZaFAtWnRzNUxNSDA1OW0tU3JBaUNBdUFRX3hFWFZsOE5GbnRlUS1hTGFVeHFxYy10ajkxRi1XNW9XV3VpMl84eG9QQzlPZV83VnFsa1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CeEswTU1OWlBfbjFsYjItWlZ2N29FRUdfdkx4b0l2ZmRNZ0tQbVE4Z1ljdm90VENYUkV0VEVHVkxJbkhEOXpaTUg2ZWpYZXhMRWxVRHdpM3EzMmJHOUtZV1JmSjA?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qOWM0dFZuUVRJbHI1Y2JhV3VJWXRRTkdfOURybHF3bjJaNTlJVk54OGdxNHY4NUNkZXZCMXhybmVoRDN5dmpiXzUwNzc1QTZTU25IM1lHeThPZXQ0WWhRMFduaE5pVjFSejN5d3otQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UQVVCSGczTnc4akhmYTNkSm9SMkJoTWZ2aHZ4MDZYR3JOYjlOOEtEWlFnb3JPajdQcF85LThYLXBnNnUycUNlSnVQN3h1RE9fZC1QUmJRbEZUNnEtSFhtM2ZqdzI0dHBFRm9PamdfQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FeW1SeGh6VHkwWGZnQWdKWDdKVnFlc25qTmpRaFNCN1RKUWhaMWNmVVZzdzFXRVdLTHlUSXhiaTVITUY1UFYyQVVwQ0NFRURqUmdlbjNSSjVwWGk3TXc?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261017144718bXz",
+    "https://www.yna.co.kr/view/AKR20261017030900054",
+    "https://www.yna.co.kr/view/AKR20261017030500062",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/17/GJTGIMRQGYZGGY3EGBRDONDCGY/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeHo2SFpuYzFYYzd5U09FNHExMlNxOEhoM1o4a0U1ODdDUUhNcE51V3g1ci13bko1TV9qNzdHS09TUmZ3OEtralpvMV9UeDBhVVlPMDJR?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802146&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261017_0003829984",
+    "https://www.newsis.com/view/NISX20261017_0003829901",
+    "https://www.newsis.com/view/NISX20261017_0003829981",
+    "https://www.mk.co.kr/news/business/12178459",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPY0pqWHBDVjJOQU01UXVzb2FQemRZczRVbjVXNnlRQWlQRC1kM1ZOWDh0Nkx5VzlWMVZoQjV3ZXFIUGlMWlZPNXdyalhHbDI4eWtOQ3VpWGZEZG9PbkE?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -6034,7 +6034,8 @@
     "인천흉기난동최충락자택압수수색범행계획수사종합",
     "트럼프그레이엄법대러제재고율관세면제발표",
     "최악산불인니서진화작업중4명사망2명화상",
-    "규모69지진을99로잘못판단日흔든지진경보오보중앙일보"
+    "규모69지진을99로잘못판단日흔든지진경보오보중앙일보",
+    "전쟁이부른공급가뭄전세계경유쟁탈전ytn"
   ],
   "opinion_date": "2026-10-16",
   "seen_opinion_links": [
