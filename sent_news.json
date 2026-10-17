@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.yonhapnewstv.co.kr/news/AKR202610161532485BM",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261016153224V3O",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261016152943Y3G",
-    "https://www.yna.co.kr/view/AKR20261016121900008",
-    "https://www.yna.co.kr/view/AKR20261016121700008",
     "https://www.yna.co.kr/view/AKR20261016121200008",
     "https://www.yna.co.kr/view/AKR20261016119300009",
     "https://www.yna.co.kr/view/AKR20261016118300064",
@@ -4999,7 +4994,12 @@
     "https://www.chosun.com/jp/culture-life-jp/2026/10/17/G5KOXSIQL5EXTNISAIFKOAV3WY/",
     "https://www.chosun.com/entertainments/broadcast/2026/10/17/HBTDQM3BGI4TENLEGRRTGOJVG4/",
     "https://www.chosun.com/entertainments/broadcast/2026/10/17/MJQTEYZYMQZTGNTEMRRDSYRTGE/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/17/AFDQZYBFFBD7TD7ZFSVJRTXBOQ/"
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/17/AFDQZYBFFBD7TD7ZFSVJRTXBOQ/",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93MjZ2Mk5JUFB5VloySFBiYVI3UTZxWUVEOEFvZVFaUkxJenhEUUYwUWdxREpGQTdwVWYwM1ZsbEE5NkN0Nk1Gcks1VUk4Y3IwakxFZTdzWHNvdURSd1VBNmlOcGxZZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90cEtBV01QS0Fpb3NLY09vY1M5elpaZjJqZ2d3OVpmWmZhWXFELUZ3X2JLR0Y1SkZ5VGhicnhWMzZ3YzdhbEtuUDZPS0J4aGo0azFvRGRR?oc=5",
+    "https://www.mk.co.kr/news/stock/12177861",
+    "https://www.mk.co.kr/news/business/12177860",
+    "https://www.mk.co.kr/news/business/12177858"
   ],
   "initialized_feeds": [
     "조선일보",
