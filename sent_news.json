@@ -1,22 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261016095600073",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FZ1RmOUF1OGIxbGU2RW9WczdsUzZnNVF4QUhVSWtGeUtZZTFwWGdwWjliVW1jejRXazQ5REpjZWVIRWt2bHZDLWxvaGhvUjBQRjA3SmsxTlNEa1U?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QdEc0dS1KM1BCdjFkeXZpYXhsaFdTbk5kdmVuVTJFSllzNFFyRmVUdWlKSHBQbjlvYlpOTVhaWTBXSkR0N01waFdGYXF5YVFLdkE4VEdPSElqRFN6Sm4yR3ZLY3JOemhINzN4eTdqSWh5OHR3VHlNSHJOQQ?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261016141728yCo",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261016141450EiC",
-    "https://www.yna.co.kr/view/AKR20261016079251055",
-    "https://www.yna.co.kr/view/AKR20261016097800063",
-    "https://www.yna.co.kr/view/AKR20261016032451004",
-    "https://www.yna.co.kr/view/AKR20261016099000053",
-    "https://www.yna.co.kr/view/AKR20261016100000052",
-    "https://www.yna.co.kr/view/AKR20261016100700062",
-    "https://www.chosun.com/national/court_law/2026/10/16/BNPEWHOE4ZFZZJ6K65W4EGG3GM/",
-    "https://www.chosun.com/special/special_section/2026/10/16/KTUPURGDOBHHTNCYZA562DUF5U/",
-    "https://www.chosun.com/special/special_section/2026/10/16/U3SD2P7KDFCQVOPPV3TXFHFQDE/",
-    "https://www.chosun.com/special/special_section/2026/10/16/EOWPQYA6VFF7XPHJGGX3GNXJKE/",
-    "https://www.chosun.com/special/special_section/2026/10/16/JMTUZ7ZV6FFZPCV5RNEMU7SOWM/",
-    "https://www.chosun.com/special/special_section/2026/10/16/LEIORSMUJFDDBPXZME2ZVGYJGY/",
     "https://www.chosun.com/special/special_section/2026/10/16/4ZFXVGVQEJFRZMMEX2EXHB3BZI/",
     "https://www.chosun.com/special/special_section/2026/10/16/FXFJWS4J4ZA7PBKAK7ADM42Z3Q/",
     "https://www.chosun.com/special/special_section/2026/10/16/HFGDBOGQIJAHFJB7XQE3YLFHGA/",
@@ -4999,7 +4982,24 @@
     "https://www.newsis.com/view/NISX20261017_0003830061",
     "https://www.newsis.com/view/NISX20261017_0003830059",
     "https://www.newsis.com/view/NISX20261017_0003830041",
-    "https://www.newsis.com/view/NISX20261017_0003830051"
+    "https://www.newsis.com/view/NISX20261017_0003830051",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE15M2ZSbmgxZlREUHJiRGVNTWZyMGVhaUx3eWdQdWJnR0VFNWpvNWhCaWx4Mk56WmgzS1BNaFpxRGF6cHJ2ZUJBUkJyZlJNd09Jcll2V1NYTWlTYjJUZ2czeTRVRHFlZml5dzdCRzBvaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMlhJWFQ3OGhraUdIQUt6QURQM0ptcUVFZHlTdTlITGthck9WOUhPVjA3UVRMeGMyekhZYVQyVnh0OWJrcTFqYS14TDBkWHY4Ukp5WjA2M3c1YzhQS2c?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261017174220MUC",
+    "https://www.yna.co.kr/view/AKR20261017031100063",
+    "https://www.yna.co.kr/view/AKR20261017041200007",
+    "https://www.chosun.com/economy/economy_general/2026/10/17/HBRTCMJUG42GGYTDMUYWKNRSMQ/",
+    "https://www.chosun.com/jp/economy-jp/2026/10/17/UZN7RWZW4RHPNE72CZE6QGW52I/",
+    "https://www.donga.com/news/Society/article/all/20261017/134859058/1",
+    "https://www.donga.com/news/Sports/article/all/20261017/134859063/1",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802268&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261017_0003829996",
+    "https://www.newsis.com/view/NISX20261017_0003830058",
+    "https://www.hankyung.com/article/202610166298i",
+    "https://www.mk.co.kr/news/business/12177784",
+    "https://www.mk.co.kr/news/business/12177773",
+    "https://www.newsis.com/view/NISX20261017_0003830056",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pcWRSaE5XTlh0aUlLUjVBYndHN1E0S0ctb2k5bm9CVllpcEoxRmdzRnNjYkRvQUYtQ3BVVUxvUHFtbmdDVzlVVWItVzhwSl8zdWlERkdndUlIbWtNVFMtR19NaWFkOVpNdWVwa294SQ?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -6042,7 +6042,8 @@
     "일은총재물가이이상상승용납못해금리인상지속방침",
     "서해피살은폐의혹전현희노영민이인영불기소증거불충분",
     "주담대변동금리상단줄줄이6돌파차주들한숨ytn",
-    "코스닥장중5이상급등매수사이드카발동중앙일보"
+    "코스닥장중5이상급등매수사이드카발동중앙일보",
+    "전동거녀에흉기위협20대입건법원접근연락금지"
   ],
   "opinion_date": "2026-10-16",
   "seen_opinion_links": [
