@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801082&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801081&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801080&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/society/12177802",
-    "https://www.mk.co.kr/news/society/12177801",
-    "https://www.mk.co.kr/news/society/12177798",
-    "https://www.newsis.com/view/NISX20261016_0003829048",
     "https://www.newsis.com/view/NISX20261016_0003829066",
     "https://www.newsis.com/view/NISX20261016_0003829115",
     "https://www.newsis.com/view/NISX20261016_0003829130",
@@ -4999,7 +4992,14 @@
     "https://www.newsis.com/view/NISX20261017_0003830072",
     "https://www.newsis.com/view/NISX20261017_0003830076",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMM3E2b3NqRUdQcHdRRGhHSjAyTVFZVFNTaEJmWnlZUE5LWXdSQ2lDNjNubThURElad0xXSEZPSkNjNHFSV0ctZGdjWm1IU0M1MThJZW9HdlBvem1rZWhoaVhHT2ZuQUJGSk1DYUFJOA?oc=5",
-    "https://www.yna.co.kr/view/AKR20261017042500064"
+    "https://www.yna.co.kr/view/AKR20261017042500064",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwZ0l2ekhJN2tObUV0QnIzbU9OYTl1dmR2S0JqcEpXdnI3RW1MYVVfMHh5eDN6VjlzQ2w5NHk2M1EwXzlOcGpzYk5FME1GZldFNkwySnh2R3FsSDlmRGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fSUlXbjV4Xzl6YWtnbVcwWnhXLUhHVzByMnZJeU43N3hvRkNYVjBKZ0JfUVVRQThfeWd1YkpoREZ0Vkk1NjNSY2NyWDJSTU9HNjZKUGNkazlBbHJZUmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFVVBfWWRSU1hiY3l1aEwtV09oQVR2dkdlako4UmxxVFR3VnZ3TDVzekR2TWNXaElCWmJwalhWeXJQT2E2M1U4QzVTRDBHRFo3RGl1UXVkZF94YVU3Mnc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VQWF1SXpFVFo0TVNhY21KWlV5SldHRGg2VXpndzJMWU8xSjBGdEFsWE1ZMHhaZlA1SUFwY0dISWhSaTNSMEs2UUNiamNOM3RnRkhJSnVDQnl0WTFUdWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jZllYZklHbHVxTmxmdW5VTXBTT0t3VkdZV2pOTWN2dVBZamwxQUFlb2NWRVI3SmxpcjZqTGNzZkxOMnVnWEtDMGNMR2RWMWM1R3lxV2xybGxKdmlrT0E?oc=5",
+    "https://www.newsis.com/view/NISX20261017_0003830084",
+    "https://www.newsis.com/view/NISX20261017_0003830081"
   ],
   "initialized_feeds": [
     "조선일보",
