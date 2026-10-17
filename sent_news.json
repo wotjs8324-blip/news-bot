@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNcGVZa2FSNXhyRVpic1RsUUliWlRLRG1iTHFVLWhUS2xjZ0YzbzVxY0pHUV9aSE9tWG1sTmEyOXdrbjJfWlk0MHh0clpXa2dUakhIUUJTRUFsc2c?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261016160246ZeX",
-    "https://www.yna.co.kr/view/AKR20261016122300009",
-    "https://www.yna.co.kr/view/AKR20261016127900007",
-    "https://www.yna.co.kr/view/AKR20261016126800054",
-    "https://www.yna.co.kr/view/AKR20261016127000504",
     "https://www.yna.co.kr/view/AKR20261016125900057",
     "https://www.yna.co.kr/view/AKR20261016126500054",
     "https://www.yna.co.kr/view/AKR20261016122800009",
@@ -4999,7 +4993,13 @@
     "https://www.mk.co.kr/news/business/12177896",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225404",
     "https://www.yna.co.kr/view/AKR20261018001500087",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801315&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801315&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4UnNoaGVQbUxLNmtETjI2S3ZxaVBJenVOX09nLU9VTWoyeEhYVkU0Zy1tYnVnQjhNT1E0STIySTRSTnJNNjJfVGJkeEIyelN4Q3BEZlRCVFBoQVk?oc=5",
+    "https://www.yna.co.kr/view/AKR20261016040100001",
+    "https://www.chosun.com/sports/baseball/2026/10/18/GEZDENJXHEYWEOBSG44DKM3CGU/",
+    "https://www.chosun.com/sports/world-football/2026/10/18/MU4GKMDDGIZTIOBSG4YWEYZZGY/",
+    "https://www.newsis.com/view/NISX20261017_0003830118",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tT05rcl9Xd2t5X1BIOG1GMjdKYjRXbnBKWjI2TkViNjgxOHJrYmxOeWk3cGRFWG52RlZOTTBNV1BDV1liVW9zT21RM1VNRXZhU3lGMXhBM2phN1k?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -6056,7 +6056,8 @@
     "美캘리포니아서대형산불주민1만6000명대피령",
     "프랑스교육환경개선고물가항의대규모시위물대포최루탄난무ytn",
     "인천흉기난동범제압한쌈밥우동집에응원쇄도돈쭐내러갑니다",
-    "인도힌두교축제서압사사고최소17명사망"
+    "인도힌두교축제서압사사고최소17명사망",
+    "미철강가격4년여만에최고트럼프관세로공급부족kbs뉴스"
   ],
   "opinion_date": "2026-10-17",
   "seen_opinion_links": [
