@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801280&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12177890",
-    "https://www.mk.co.kr/news/economy/12177128",
-    "https://www.mk.co.kr/news/society/12177888",
-    "https://www.mk.co.kr/news/society/12177877",
-    "https://www.newsis.com/view/NISX20261016_0003829227",
     "https://www.newsis.com/view/NISX20261016_0003829326",
     "https://www.newsis.com/view/NISX20261016_0003829300",
     "https://www.newsis.com/view/NISX20261016_0003829319",
@@ -4999,7 +4993,13 @@
     "https://www.chosun.com/jp/sports-jp/2026/10/18/CHVLYNIUZVFOLEDR5HESBKB3FI/",
     "https://www.chosun.com/sports/baseball/2026/10/18/GNRWEZJUMQZTGMDEG43WIYZUHE/",
     "https://www.chosun.com/sports/world-football/2026/10/18/GQ2TIYLBHA3WEMDEGEZDEOBUMU/",
-    "https://www.newsis.com/view/NISX20261016_0003829149"
+    "https://www.newsis.com/view/NISX20261016_0003829149",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CZmV0WDF5SGxZcEFhVGhCbjFHQVJBVnVfSXZLUlllV1F0V0R5ZElOWG4wUUtYLTljVGZBYlVyMURzRXlGV3dZc1dMaGdlbFB1ZjlwS3lfN2hqRHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBteVBGcVNsRzB4TnMwMDJaSVUwNnE3VV9SclRrWE93OWd5TGsyb3VWNXdBbXpIRWxqQ1U1TkxtRWlQSmtycHZyTS1QVm1faDl3X1RzOERLR05iWXgxaVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kM0VUUHNUemRrYWM1dE9JVm1fUE5oMVRPSlZmYmQwZTU5VmJublVhZE5UODJSREpQempGbE9zNEhUUmljRkFVbXA1ZlFMZ0JVZDBrOHVTTU02aVZrWmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MRmk5N00zbElGZll3NWNkRmZhQTdSckliOFdrNk5PeUsyR0tpQ2NWR293dVVBODloQi1sNE1rWHRFRTdqZGk1aHpVOF9RV09aOTdXMUN2ekxOMTFOWkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMER2YmdFamNLTDN2QXNkcS1lVGtJY3RrRWF6YjU4N0ZSampFVTZvUTZvMXRRbkFLbnJzWEdDTjJKRXNaNENzUG96d0JmRVhtWXQ0bkxQdTF6TUpXVEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3SVI3S2pVeTNiOEtHR3gxU3FsU254Y3pwa0xDZ2R5RGdfd3RBaVZneUV3a0VvdGF6VHlIaUZ2TS1TVEN3MUVyekhEMExyVUIzSVZzZWdvQ19Ya3lRd3c?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -6053,7 +6053,8 @@
     "日은행총재금리인상지속시사물가2근접이이상용납못해",
     "뇌졸중아내살해후숨진채발견2년돌본70대남편비극왜중앙일보",
     "30년형확정된강서구층간소음살인범죄심리학자가짚어낸피해망상의위험성",
-    "美캘리포니아서대형산불주민1만6000명대피령"
+    "美캘리포니아서대형산불주민1만6000명대피령",
+    "프랑스교육환경개선고물가항의대규모시위물대포최루탄난무ytn"
   ],
   "opinion_date": "2026-10-17",
   "seen_opinion_links": [
