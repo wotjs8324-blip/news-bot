@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261016_0003829257",
-    "https://www.newsis.com/view/NISX20261016_0003828990",
-    "https://www.newsis.com/view/NISX20261016_0003829280",
-    "https://www.newsis.com/view/NISX20261016_0003829274",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225214",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225041",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225032",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225000",
-    "https://www.hankyung.com/article/202610152829H",
     "https://www.mk.co.kr/news/stock/12177876",
     "https://www.mk.co.kr/news/stock/12177119",
     "https://www.mk.co.kr/news/business/12177869",
@@ -4999,7 +4990,16 @@
     "https://www.newsis.com/view/NISX20261016_0003829092",
     "https://www.newsis.com/view/NISX20261016_0003829043",
     "https://www.newsis.com/view/NISX20261016_0003828800",
-    "https://www.newsis.com/view/NISX20261018_0003830158"
+    "https://www.newsis.com/view/NISX20261018_0003830158",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14MnFKdzdhWlZLN1hnYmlXbnJBZUZhTVpROTVnTlR2TDg1MVRQdlRLM1N0TGtieWtiYmU5ZjlCMFM0NFhqckczNjZwckNOQmE5TndCR21wYlEtTGhKaEtNNEZqblA?oc=5",
+    "https://www.yna.co.kr/view/AKR20261017049351079",
+    "https://www.yna.co.kr/view/AKR20261017049500079",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/18/HA2DKZRVHBQTGN3FMYZTKM3CG4/",
+    "https://www.chosun.com/sports/baseball/2026/10/18/MY4TEOLCG43DQOLGMVRTMNRZGE/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/18/AXO4JK6NQ5ECFIJUXCRSE43YGI/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/18/HE4GIOBUGU4GIZBXG44DGZJRHA/",
+    "https://www.newsis.com/view/NISX20261016_0003829379",
+    "https://www.newsis.com/view/NISX20261016_0003829363"
   ],
   "initialized_feeds": [
     "조선일보",
