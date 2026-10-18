@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hWWNnOVlmVHRFeUZCNVAyNnZ2eHNzSEQ5SG02dkc3aE1NS2prNXJ1eWc4bDdzSWlOdHFrd0VyQjRkaUdkTkd3YzVIMTExLUhSYUxvaWRCenJobzFFQ3NJSHpDREczZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ldDVTNWxOVWVIemxBQjR1OFVEX2M0MjJGRjZnR2N1TGlJSHFtMXJ4MWk4RTBua2g5SkIxRkF2SC1PRi1tMVptXzNsck5PY1gzbTIwZTFNYjFkZ19kWEdYZ1cxNUJydw?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QdjhrU2hrTXF4RFppend3NWlENWtnbEY1c0k2bUxaTXRIbVRzb051QlJaZV9nT1JEbXdCUnVQX19pRlE4SjNBbEp6bGR6cERzbEpYcG41UmF1VlRUZHRpSG8zQ1VQdw?oc=5",
     "https://www.yna.co.kr/view/AKR20261016178400071",
     "https://www.yna.co.kr/view/AKR20261017000100011",
     "https://www.chosun.com/opinion/editorial/2026/10/17/SOT2LGP2P5BRTLN2KP3IHKALKM/",
@@ -4999,7 +4996,10 @@
     "https://www.hankyung.com/article/2026101673987",
     "https://www.mk.co.kr/news/business/12178279",
     "https://www.newsis.com/view/NISX20261018_0003830433",
-    "https://www.mk.co.kr/news/stock/12178768"
+    "https://www.mk.co.kr/news/stock/12178768",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoNTlDX0Q0LWJJV1lGQmZzZzhwOGQxMWtzdWJDQ0hHVkNDN0NfUUdmeVBLblNZMV9HM0hJSWRIWm82ejlNV1NPaHg1Q0dlaDJJakVyT0J4c1lLd0k?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261018141756xbC",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hUXJIWFFGa0E3dk55UkJQRUFMOGhyaVhfRm9iVDlya3lUcmkyd2NiTGk0UXhuaVI5QktnRmxIa214NjRGN0hodmhRcnRTbl9HYU45YS13?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
