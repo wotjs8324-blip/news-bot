@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802197&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802196&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/society/12178501",
     "https://www.newsis.com/view/NISX20261017_0003829972",
     "https://www.newsis.com/view/NISX20261017_0003829973",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225554",
@@ -4999,7 +4996,10 @@
     "https://www.chosun.com/culture-life/2026/10/19/IG5OUZFUEVGOVFF4F6S4WJVGJ4/",
     "https://www.chosun.com/culture-life/culture_general/2026/10/19/XGDBZWT2JJFIZC4262FARQMLEQ/",
     "https://www.chosun.com/economy/weeklybiz/2026/10/19/UCQUNK2MWFD5LH4BTXC6D3JOOA/",
-    "https://www.chosun.com/national/2026/10/19/VBQOQZZ5MFA5BPKUL44EOEOLJI/"
+    "https://www.chosun.com/national/2026/10/19/VBQOQZZ5MFA5BPKUL44EOEOLJI/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/10/19/HQAIDQBZM5FZ3CZIJZOOW6MEGI/",
+    "https://www.newsis.com/view/NISX20261019_0003830708",
+    "https://www.newsis.com/view/NISX20261017_0003830032"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -6180,7 +6180,8 @@
     "이형일韓경제올3대성장중장기성장추세도강화전망",
     "이달평균원달러환율1342원2년1개월만에최저",
     "국내증시폭락에국민연금휘청3분기182조손실kbs뉴스",
-    "사우디군헬기추락2명숨져예멘북부선수십명사상종합"
+    "사우디군헬기추락2명숨져예멘북부선수십명사상종합",
+    "집보러줄섰는데이젠뚝끊겼다서울집값상승세꺾이나"
   ],
   "opinion_date": "2026-10-18",
   "seen_opinion_links": [
