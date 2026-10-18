@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261016_0003829738",
-    "https://www.newsis.com/view/NISX20261016_0003829655",
-    "https://www.newsis.com/view/NISX20261015_0003827851",
-    "https://www.newsis.com/view/NISX20261016_0003829546",
-    "https://www.newsis.com/view/NISX20261016_0003829491",
-    "https://www.newsis.com/view/NISX20261015_0003827862",
-    "https://www.newsis.com/view/NISX20261016_0003829336",
-    "https://www.newsis.com/view/NISX20261015_0003827576",
-    "https://www.newsis.com/view/NISX20261017_0003829833",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225502",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VMm9iM2hEYmhxRHNXVi1yRC02X2k1Zmt0eTF0Y19Ta3JwZlhmMExmWTJra1EwVFRpLVJXQUdvM1JGX3Q1ZXBvTzMwWl8zX2hidlpzSTJlN3ZIN2pUU1E?oc=5",
     "https://www.yonhapnewstv.co.kr/news/AKR20261017070812uSe",
@@ -4999,7 +4990,16 @@
     "https://www.newsis.com/view/NISX20261018_0003830535",
     "https://www.newsis.com/view/NISX20261018_0003830491",
     "https://www.hankyung.com/article/2026101671141",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261018163254r1n"
+    "https://www.yonhapnewstv.co.kr/news/MYH20261018163254r1n",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zX1VUSTdCcmZFcTJKamZpR2R0YTBQaXJXZUVXaDFFNDM0MjRERndIZmUtRUZINVNBSW92b2drbjlNTHY5U1NUYmlWMzU1MUFCMFJ3Ty1Zbk1OUzg?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kUXJVNWd2ME52MW5qR2xvZFU0bVl4RzdNVWl3amkxcDBJUWVvRWl4MEUtVlBCR3lJUUNzMEZUSGw5a2p3bngwMmwzcDg4aDU1T2lFcjYwLTJZSk0?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MaHFwcEdxM1JKY1lWTFZodUY3NktRMkJ3ZFM4bjBFOEFOV3U2Ri1mWVpqejByOUdqVHZDbGRoQmFSdFYxUThnTWE0ZHcxLU1IOTZaSDhHdW5UZWc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261018041600007",
+    "https://www.yna.co.kr/view/AKR20261018041500057",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801799&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/society/12178913",
+    "https://www.mk.co.kr/news/stock/12178352",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801798&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
