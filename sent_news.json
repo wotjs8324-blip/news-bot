@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PYnI5TnFiUkxMeGJqQ3F5RUVrWWZhMUNNZUFrUGZGcVlnSWZzbkl5ZEstRkpuTVAxS29Fa1VPTGFZTExuRmp5UFh6T1Z6ZmpseGRaMm9zaTJrVXdGZlhCdzQ2bDJ0Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTGQ3d2dwd1Y2c2FwUE9rc0stYzVTNXp1T1d5NFNVM1JRY2pGUU5CSWNXT3Y3YlFqbGpqZnNlT29Nd2Y2Vk1NLU5YOXhDU0JBMV9ucDExbkFqc00?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oNnBRZlc3Zkp2S0pid3hyTVhmVmhBeDFaWUVPYXZwdHNoM3BTUGdvRUd1WndQWVN3cThmRjNXS19wTmlUVk9xa2cwQTFLWm9sLUJZLWpDWVdHWGxiSXfSAWNBVV95cUxOVkJDYVhtVjFPUWtOS1NiZmpsdFp3aFVKaVhJaGtHSEVuZFRuY3VmQWYtUkJVOW4tYThDbTZiTHd0aE9mXy1lV3F4Zko2cTZfQkQ2VEZyelVxWG9pa2Y2MDZEYjQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40Zlgzd0lPTXQ2cmtNaEpod2tmS0JreXpVaXZ6SEd5aFZPUUZCR2JsU3ZlUDVDRTVZaV8wZExaVXlCbV9WLWkxd2RhWTFkbHdMMGprNjFwTEN5X2hBbXfSAWNBVV95cUxORWNZMEFDSTNrbnViY3pIUkR2VUJMZVg0TlRfNGNsOWJoVGI5M2ZSQ1o5U0xRNHFFZVZBNGVhcjgzTUp2ZUpmd0FmLXZuYWhwRFQzT1NwdTV4UkJGOEt3NmFuS0U?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aQ21HUTc1NGloMkFsLThsNkdiM21wRWRhYVNqMU91TTl1aHlITGdsdjNGOEJCWjJ2em0ta3Zka2hsWDcway1zN19rdGdyem0tLTZaUkRfM2cxZzBTNGfSAWNBVV95cUxQNTV2RktnbGFfOVFTSHdHWGgzektjQ2JNUUFUOEotamlNZnhVQkc4b2hKaW42aDVfOFdOQlR2cEYwOXdjNFRFcTFHVVBiV1J4MlU3MWR2Q05jWWl3T1Qxam9fTkE?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zb1g2VXpKeU1oRWdsNjhKU1N3VWhNX3hGd1dkMVBEU2FTMkxnbzhyZ1I5QVRLb18yY1FQTm9jWEZjRFNRSDNLTzdqcThiTDNRRjkzYkdVSlFac1JLOVHSAWNBVV95cUxNemdvTzNIdVhxYnI4UFU3VzRWWHFQdFRtU0F6cG1GSnhUM0pMdFNCZVlub2hFcVZWc3dzVnozQk02U1RuVGlmVUM1d1NHVVI5NEZnZDNZamMzSURUenVuSmJjS1k?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EcWRaUEplRkZWMEpZTFc5Z1pJdUc1U1AxSnFQdlBLWFFtMzdZS042Tk9VZlR0REVvSnpCQ2FGSDNpVjd1bUJ2SFl0OHpnRTBVWl9WVVNxM2g4WDRWNFHSAWNBVV95cUxPSm1hUFN3YTZQNF9BQjRPN3J0ak5meGRfYlR4U2xnbm8wU3UyZjlRcTYzQmhOR1VLdmNicEJvRlhsZ25pVnhXNnhfeFhjOTJCZUpiVjVVNkRfNWlYamtCSHpqQTA?oc=5",
@@ -4999,7 +4995,11 @@
     "https://www.yna.co.kr/view/AKR20261018026800003",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225258",
     "https://www.hankyung.com/article/2026101673437",
-    "https://www.mk.co.kr/news/realestate/12178242"
+    "https://www.mk.co.kr/news/realestate/12178242",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261018130836mo7",
+    "https://www.yonhapnewstv.co.kr/news/MYH202610181308142qy",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xYm42SVBld09TYjBUenViak5Jc1FQUU9HR0xsWno4MmhaQVoyWXgtTWF2V21aMWdYMnBQQm52SzZKQ1UydWxiMm1Za3VRQjFCQVFfamxn?oc=5",
+    "https://www.mk.co.kr/news/realestate/12178244"
   ],
   "initialized_feeds": [
     "조선일보",
