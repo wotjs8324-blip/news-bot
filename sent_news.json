@@ -1,15 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801631&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801630&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801629&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261016_0003829756",
-    "https://www.newsis.com/view/NISX20261016_0003829743",
-    "https://www.hankyung.com/article/2026101670691",
-    "https://www.hankyung.com/article/202610167221i",
-    "https://www.hankyung.com/article/202610167287i",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wSTZCRnB0LV84LWhyMzBIVnBDNzVzbW9TVzBnRnR3WW40c3drSGRrY2VGRHhkLVFpbE9PSzR5Nm9QR0I3QkRJSjhhMWNycjRmVmZvU241ZktyMzdVeko1RFk2ZDRKZw?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqeUtfZmNpd05Jb0MtME9fR0ZxeWNtZFRBTW5ieDlETFlCdEE3QjVnZW9pd01TdHFxdERjMWVsTElENHVZRE5iY1R0ZGVlSWJDdUdIRS1HcGpHNE9qbVk4dHB6UG5kbUZKXzd5WXlWSERtLTMtNEE?oc=5",
     "https://www.yonhapnewstv.co.kr/news/MYH20261016205604FW5",
     "https://www.yna.co.kr/view/AKR20261016173300007",
     "https://www.yna.co.kr/view/AKR20261016171400017",
@@ -4999,7 +4989,17 @@
     "https://www.newsis.com/view/NISX20261018_0003830380",
     "https://www.newsis.com/view/NISX20261018_0003830253",
     "https://www.newsis.com/view/NISX20261018_0003830378",
-    "https://www.newsis.com/view/NISX20261018_0003830375"
+    "https://www.newsis.com/view/NISX20261018_0003830375",
+    "https://www.yna.co.kr/view/AKR20261018024300001",
+    "https://www.chosun.com/sports/baseball/2026/10/18/MMZWMZLDME3DIYZXMI4TCNJUGI/",
+    "https://www.chosun.com/jp/economy-jp/2026/10/18/HUEAV2EN2RCG7BGRMJHHX2EUJM/",
+    "https://www.chosun.com/economy/economy_general/2026/10/18/GVQTEYJTGUYTEODFMYZTAOJWGI/",
+    "https://www.donga.com/news/Inter/article/all/20261018/134860052/2",
+    "https://www.newsis.com/view/NISX20261018_0003830384",
+    "https://www.newsis.com/view/NISX20261018_0003830198",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVB1SFQ3MWJDRV9Fb1E5SUE3MGJtSjZ5cWtuWm53MGt0LW9KYjFNQlNlTHZSbkZ1N3hfb25ISGNjbWRzQUlvM3Q1QmM0Y1htLW84cHFsazhpWk00RUZIOHczMzVXaTFWaFlEV0Faby1wQXVKaTROWmtOR1JEeXYxVF90b9IBY0FVX3lxTE9zWDdhVjh1ODU4Q1B1bnp4V2dMcXR5OFE4dEl0eFNvcnAxMWdpa3FkNkFURXVlaXl1OFd0VGQ3aUttdk1BbjBncl94N0FYYVYyd19maV9CXzBNejU5SThmTElOZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42T2d0b21qOFpkeU5Fb1BCeXo5MkF1NExGbzlOME80OTBuUWlFNWFLWVdGSEVwTl80dmdaY2VzWExlNUNMNFJoWTdaNmF2WkxBZzRaSkx5ampvWXM?oc=5",
+    "https://www.mk.co.kr/news/economy/12178718"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -6113,7 +6113,8 @@
     "대피장소확인해주세요1925일지진안전주간",
     "주택공급정책20년백서발간민주당의원일독하길ytn",
     "학생들칼에맞았어요제발빨리인천흉기난동당시119녹취록보니",
-    "이달원달러환율2년1개월만에최저원엔도19년래최저"
+    "이달원달러환율2년1개월만에최저원엔도19년래최저",
+    "공공주택물량만늘리면끝lh공급사업정부평가서c등급"
   ],
   "opinion_date": "2026-10-17",
   "seen_opinion_links": [
