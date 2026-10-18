@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802114&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261016_0003829631",
-    "https://www.newsis.com/view/NISX20261016_0003829019",
-    "https://www.newsis.com/view/NISX20261016_0003829261",
-    "https://www.newsis.com/view/NISX20261017_0003829943",
-    "https://www.newsis.com/view/NISX20261017_0003829962",
-    "https://www.newsis.com/view/NISX20261017_0003829959",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225537",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5POGR4U1BaUEFuOXppOTVHX01odWVjdDh3V2tpaUd2bUtDdWkzNkFiOHNsa2pmSjNIWmdvanU2eGcxSXM2V3M0eTNhaF83emR4YVprTGlzM1JUQjA?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZGRRclZNVzlib2UwbHZzeVZhZGNHMVZreGZaTUdSX2hMWmVTMTNyT0pzaW1DYUQyQUFkcVU3SzBWUkxYNkxqR0NVNkJGbHZmU1E2MndacUFOWGhDazdoSHRMSGRmdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QME11dUVGcnZ5eUJDN1F6U01kcHVsRmRHdUY2bUs5VklhYVBSTHJQR3NJMWJONUE3ZG91SGdHYXZzT1RhRWlGSW1ubzJBMHpPRV9yNXRmTU1EOC1rdlE?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxd1g3M3Uzd2lyRmNhaC0xbW45UWw2X2NRUDh4NFk3TE9LdkY4cTFOR0E4bmw3bE0wVWk1Q1JzcEt6SlA5c0dGczBoU1hkYjJURUM4TmJqUnlGN1dIWkE?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNelJFdmtTRWtCUkJiRExsQVk2Q3RXcjRyNzlFajM1YlNtTVd0eFg5MGFORkZLdWtfZUpsTHZ0N1JwUDFrM3VHZHpFZmdmS1Z3X3UyaHdRdkxucDhpdHc?oc=5",
     "https://www.yonhapnewstv.co.kr/news/MYH20261017140930IeM",
@@ -4999,7 +4988,18 @@
     "https://www.donga.com/news/Opinion/article/all/20261018/134863080/2",
     "https://www.mk.co.kr/news/society/12179124",
     "https://www.newsis.com/view/NISX20261018_0003830695",
-    "https://www.newsis.com/view/NISX20261018_0003830683"
+    "https://www.newsis.com/view/NISX20261018_0003830683",
+    "https://www.yna.co.kr/view/AKR20261018062600109",
+    "https://www.yna.co.kr/view/AKR20261018062251007",
+    "https://www.yna.co.kr/view/AKR20261018062700527",
+    "https://www.chosun.com/entertainments/2026/10/18/UYE7YVHQAFFS3NTIXDS7NYNJH4/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/18/HFSDMMJXGEYWCMTGGJSDKN3DMI/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/18/OYYEXDKPBJHMLHMOCZHP6PKFIA/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/18/NXANPFBEABETPFPMJK3CFJMQBQ/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/18/GE3TCNLEGA2TAZTDMNRDAYZVME/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/18/G42GIOJUMYYDAY3EMZSDMNZYG4/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/18/6TRKJQCJYRFU5BCOXYZTIXTNCA/",
+    "https://www.donga.com/news/Opinion/article/all/20261018/134863511/2"
   ],
   "initialized_feeds": [
     "조선일보",
