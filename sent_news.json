@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800981&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.hankyung.com/article/2026101662937",
-    "https://www.mk.co.kr/news/stock/12177696",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE16aUd4ek5TaHVqRktVRnhvVzNERFVwTG54dWNKLU5MdF92cmhLbnhxVUNsVWJrU3NzeGQtZnBWemlLNXhFR1IyLUtObHRQTFJvX3FfRUhtVnBieUpmZ2ExazJZWERQTHR2bGUxeDNLaw?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mWkpFal8tQ2xGSXZFMV93ekNSeUt5YkhlVTAtRnRZYndZVzMxczZWM3kxa3YtR3FXdzJQZXpUQ19lLW5IeElPdjcxV1FpVVVhdzF3OWJ3NTdxZXFUckdkQmFBVlNHd19uRWdaUFJoUDlDNG42NFE?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HQWwyZ2hiRWZtYXV5SkFaX2d2MC1iTFV5ckdzbkR3U1NZWXVwUnVoU2pQc2RfQWJJcV9Jek1JOEU5ZEZnbmNZeERTa1RJdVlLamR6cnM2c1dzX2JTMm9lbWVudWdNMTlxQ0J0MUhhSQ?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UTDkydzFYcWdHa1Bmb3ZjQWlLYnlpYVVDdVdtNkhnc19SSkc3OWhnUjllZFlnNkx4QVpFOFBVUHdTZ2xzaHFzdkFMNnJHN2V5dTk5elo0aUNrc00?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQmMxVUU3eFZXM1NQWTR3YjJxOGRjRmZSOGRNRmNjay16cVNyZDk2Vy11NVJWMWowOEpndG8zdFRycUJRbmhyOWdNdjVKTWVFbXdjTVd3T05wcTM2NE44R3BfTjdBd3hqZzBjY2R2OA?oc=5",
@@ -4999,7 +4994,12 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wemFyYkU5MHpWTlVqY2swQ3VfTThTM0hyUm1ZZmtXN3NpVkZtZ2U5b2UxM3V1eWVlZXRaVHJaTm51UlZIeHZfclpSbVVjRmNIV0M4QWJn?oc=5",
     "https://www.donga.com/news/Sports/article/all/20261018/134863535/1",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HQlNUeVlJQWNZelkzM0pjN1YtdzhIYW4wbkg1SS1NVVp4QTVtLXNkUzc0TXZ4VTFHQ0pwcWZ0QWEtRWplRFhkMnV2NG50SDdSVkhYVlln?oc=5",
-    "https://www.yna.co.kr/view/AKR20261018045751108"
+    "https://www.yna.co.kr/view/AKR20261018045751108",
+    "https://www.yna.co.kr/view/AKR20261019001000009",
+    "https://www.yna.co.kr/view/AKR20261019001100072",
+    "https://www.chosun.com/sports/sports_general/2026/10/19/HBSWKZTDHBQWMZJSMM3DOODBMI/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/19/R6QJDGOKXNELXFHMJ5EIOLOEE4/",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225704"
   ],
   "initialized_feeds": [
     "조선일보",
