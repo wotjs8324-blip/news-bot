@@ -1,18 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/16/CGSZSYB67RFVPEXLNLAUE7ILCU/",
-    "https://www.chosun.com/entertainments/movie/2026/10/16/KQWCRMROPRGI3KCJSYDMIW3WQI/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/10/16/HEZGENLDGM4TCZJYMM2WEN3GGE/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/10/16/GA4WINLGHAYGMYJWMRSWKYJWME/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/10/16/MRTGMZRUMVSWCNDCMVQTOM3GGM/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/16/BYNLAKV74JDC5ATGVZTBI33EBU/",
-    "https://www.chosun.com/sports/world-baseball/2026/10/16/MU4GMNBXGBQWINTBMMYTIMJTGE/",
-    "https://www.chosun.com/jp/sports-jp/2026/10/16/4APEMBGYY5BJFOUQSDUG5L5JPQ/",
-    "https://www.chosun.com/national/court_law/2026/10/16/OOU5ZI3SNFEVDLAYAZJ2JVAKIU/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/16/O775VBIDA5ESNJMYH3ZQ4UGNHU/",
-    "https://www.chosun.com/jp/economy-jp/2026/10/16/7JAH2PYY25DZBCIQOCAZ53MPQI/",
-    "https://www.chosun.com/economy/tech_it/2026/10/16/MRTDMYZTGVSDEYJXGNQTOZDGMI/",
-    "https://www.chosun.com/entertainments/music/2026/10/16/GRRTEMTCGZTGKZRSGA2TEOBQGM/",
     "https://www.chosun.com/jp/culture-life-jp/2026/10/16/JUMFFPYRKVARPMRTCQJVGYXR2E/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/10/16/GFTDENLEMUZTIOLFMRSGCNLDGI/",
     "https://www.chosun.com/entertainments/music/2026/10/16/HA3GKYZZHE3TQOJTMRQTGYTFGM/",
@@ -4999,7 +4986,20 @@
     "https://www.newsis.com/view/NISX20261018_0003830298",
     "https://www.newsis.com/view/NISX20261018_0003830288",
     "https://www.mk.co.kr/news/business/12178122",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801576&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801576&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WYmdlSjR5eWxKSDJ6LTU2NGZ6ZHBOM2JwSngzOFZITG52MGVFcllVOFVEbWs1ZHVFQjhWX29IVWxXSkFwV2ZNb0xTQ3M0eTY4N3B2VXhkUm91a1RTekVXTGxyS3NoRFhXalJv?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vVUhYNm9sUVV5cE1FZlVteExVLTh0WmY5UjZvQmloTWtnNUp0NDFpQzc3c2d2TzZadTV5NnlpTXJOaFMybEo1TGdqajVqWjk5WkZqS1JRdkpBUUJlM1dFWmZBOWtQRUp6Qms2Q3lDSENhX2VfSXRfMtIBeEFVX3lxTFA5Ul82NThxUXlLMC1WWjJEQUVzSUN2VWcyZXU4Rk9RTjFBN1JkMllTcUlyZlZxM29kT0phYzA0eGhDcktyNmFDcHg2UnFVejZrQ1c3cHpCcUtYM3NZbUhsc25uWGxKRnIwanl0TTlBTGtkaFJkOHJzSg?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iSFI3Zzk3bWlwVEozLU9lWkFJZTQtcHRQQVNSVXY3SVV1QXJiTUc5YXpTekxEV0Y0WE1HMWF1ZFItakNWQ0k4RkZ5WG1uajdUQkJHVjFCMkVLcG5OZy1sUnpESUdET1pSME9yMTBvSFRlOUZyeFFvcdIBeEFVX3lxTFBJZ29IOUZESUgyQlUzVnBvVEpLdWEwcFliVmNERnhoTTJiazZwLW1CYmpPMGstOTVocUdOSDJRM2xnMGhwQnJWSGFuUHRlenFDb0Nxa3lOYWJaMUNvYm9NZjJ2dWtDTlpkWE4xMDJfXzAwa0ExSXZqbg?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Vb2FUMGNSQzdmdmdOTnJIbkM0SjMzVkJ6bWZGckxiTHNNakx0WW1pbUNNeXZUTFpqbkxsQ3lFVWVXbjRBU3FCTGZWU01zY3JnNHpKNmN3eHZnNTlJTERxRTNsYVNTaUVrZy1SV29xS1lVaTFNYXRqR9IBeEFVX3lxTFB0TEdpdzNXR3BLbjBhSVFEeGU3LXFvY1phbmVhRndXa085dm96RDVGWXQ1YU1SQXhLZ0hfWVZxRnV1MjByaHdlU19aQndEZkd2SktadmlwaUd4TFZYc0c3NkFleGtIQ1VQQlpvb2ZmOENxYzViSkcyTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYmZqMEZBRmZLbFpsVGpBRTc2ZS1rZ2V1SmRTLUFUSlJ1dnZ6b3V4cnpzeVhSbHNuRzREbG5DcVozVzR5dV9qZG53MmhtVW8zVXM4MUJR?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDMXJTY3VlcWItRnVkbkw1TDAyMFlnMC1sSkVoYk90WHN2MGZZbEQtU3VVcGg1a1Y5ZmhRYjU5Y3lWRWdvc2pLX1hwUHl5OGQ1cHd6UThn?oc=5",
+    "https://www.mk.co.kr/news/society/12178677",
+    "https://www.newsis.com/view/NISX20261018_0003830304",
+    "https://www.newsis.com/view/NISX20261018_0003830290",
+    "https://www.newsis.com/view/NISX20261018_0003830300",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5225608",
+    "https://www.mk.co.kr/news/realestate/12178132",
+    "https://www.hankyung.com/article/2026101671401"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -6100,7 +6100,8 @@
     "의자로막아라흉기난동방어법확산실효성은",
     "코스피올해는급락후회복까지평균14거래일과거엔3년넘게걸리기도",
     "영끌족비상주담대금리6대잇단돌파",
-    "인천흉기난동최충락범행동기조사병원탓계속ytn"
+    "인천흉기난동최충락범행동기조사병원탓계속ytn",
+    "20폭락에도코스피지금사라월가강력추천한까닭"
   ],
   "opinion_date": "2026-10-17",
   "seen_opinion_links": [
