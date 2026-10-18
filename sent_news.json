@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yZ0QwUjVQRG94eGRXd0ZyQi1XLU5XUVUzRGllcmpPRjZJd2pmLTZlSGRFRnFyQ2ZRVHozTm9UVmFQTzJyOS1DQUNqNkxvYzBNejVrdklR?oc=5",
-    "https://www.donga.com/news/Society/article/all/20261017/134858943/1",
-    "https://www.donga.com/news/Society/article/all/20261017/134858929/1",
-    "https://www.newsis.com/view/NISX20261017_0003829961",
     "https://www.newsis.com/view/NISX20261017_0003829913",
     "https://www.newsis.com/view/NISX20261017_0003830011",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008800981&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4995,11 @@
     "https://www.chosun.com/jp/sports-jp/2026/10/19/Q74RF35GV5G5VJW773PGTD76LE/",
     "https://www.chosun.com/sports/baseball/2026/10/19/GZTDGNTEG5SDGNJRG4YWKYTEHE/",
     "https://www.chosun.com/sports/volleyball/2026/10/19/GE4TQYRZGQ4WMNJTGY3WMNDGGQ/",
-    "https://www.chosun.com/jp/sports-jp/2026/10/19/U6W6O2TGFVCN7JDYMMLKUCECKA/"
+    "https://www.chosun.com/jp/sports-jp/2026/10/19/U6W6O2TGFVCN7JDYMMLKUCECKA/",
+    "https://www.chosun.com/sports/baseball/2026/10/19/GU2DAZLDGZSTCNRWGQ3WMOBTGQ/",
+    "https://www.chosun.com/sports/sports_general/2026/10/19/GFSGKOLEGFRTEOJYGRRDEOLFHE/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wemFyYkU5MHpWTlVqY2swQ3VfTThTM0hyUm1ZZmtXN3NpVkZtZ2U5b2UxM3V1eWVlZXRaVHJaTm51UlZIeHZfclpSbVVjRmNIV0M4QWJn?oc=5",
+    "https://www.donga.com/news/Sports/article/all/20261018/134863535/1"
   ],
   "initialized_feeds": [
     "조선일보",
