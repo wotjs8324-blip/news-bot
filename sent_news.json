@@ -1,19 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Economy/article/all/20261018/134862510/2",
-    "https://www.donga.com/news/Economy/article/all/20261018/134837812/1",
-    "https://www.donga.com/news/It/article/all/20261018/134860735/2",
-    "https://www.donga.com/news/It/article/all/20261018/134860737/2",
-    "https://www.donga.com/news/Economy/article/all/20261018/134855292/2",
-    "https://www.donga.com/news/Economy/article/all/20261018/134855288/2",
-    "https://www.donga.com/news/Economy/article/all/20261018/134855277/2",
-    "https://www.donga.com/news/Economy/article/all/20261018/134855297/2",
-    "https://www.mk.co.kr/news/business/12178459",
-    "https://www.chosun.com/economy/stock-finance/2026/10/19/BYV6RLH5GVDYXMSKWAEPQ5H7AA/",
-    "https://www.chosun.com/economy/real_estate/2026/10/19/4UVGQ2WJP5GR5CXWHJNXNACG5E/",
-    "https://www.donga.com/news/Economy/article/all/20261018/134862529/2",
-    "https://www.chosun.com/economy/economy_general/2026/10/19/YJCSPVHNONA4FBUHJDGAE55NQE/",
-    "https://www.yna.co.kr/view/AKR20261018063800071",
     "https://www.donga.com/news/Economy/article/all/20261018/134862526/2",
     "https://www.donga.com/news/Economy/article/all/20261018/134862508/2",
     "https://www.chosun.com/culture-life/culture_general/2026/10/19/UMMMCUSYUJBLJM6YGQ2PMQ6INQ/",
@@ -4999,7 +4985,21 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805179&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261020_0003832455",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE45cUFEQXROazFrZ0I2T2lxeXZyYk53WnVFZTl0LVZPZGpzZUVqTHFHTllTY3owNzhkRzR5MzZjSVVWZEgwSHEzWHFKNk9EbVI4QlRCS1ppV0c2R0g0Y29ia3Z0c0syZ2I3TXdEaGlXMA?oc=5",
-    "https://www.yna.co.kr/view/AKR20261020002100072"
+    "https://www.yna.co.kr/view/AKR20261020002100072",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE45cHoxd253aHE3eEUzbnRwTk80RDRGVWNDMzBhV2pFdTNBenY5ckxYRTQtaGd6Y2syQUhIU050VHE4VGJUX0laNFI3OTIydGJmZU5NZ1JtUHlDT0R2SGlGRVFocU8tVjF1QUNZbHlPVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KVk5IS0ptM0VkZnBTeXhTMG1GRnBqTFRUQ2dLSXRmcnFrbWdWR05DWjVCOGJXamQ1XzdaZlZxbndiV2MyYkNvLUpsaUIyS0hSYVQ3VUhoZWtFTVByOUE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13c3VmVjR3TFZ1bEpqdk5aY2d0UUNESnJrd21WVUZYd2ZTUWZ0UHlSOG1TWXF1TjFreEhNNm5FcmxNcmt2Xy1sQ0wxYkpUbmpXeV8tLWRnNkJQdzE2Wmc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261020002600099",
+    "https://www.yna.co.kr/view/AKR20261020002300109",
+    "https://www.yna.co.kr/view/AKR20261020002500079",
+    "https://www.chosun.com/jp/international-jp/2026/10/20/HSTFUE4Z4VHV3D5RXKJCXITTY4/",
+    "https://www.chosun.com/international/international_general/2026/10/20/CTOIPM63DJGJPCASVHQE43PHVY/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/10/20/AUS4XXVVVBDUNFZ5M2MHTRRNRE/",
+    "https://www.chosun.com/national/national_general/2026/10/20/QOCSXBFTZ5AZBDVEZB2ZLSMOXI/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/20/SAG6CWV6V5A2TLPI4VY6ATMIUM/",
+    "https://www.chosun.com/international/international_general/2026/10/20/MFTDENLDMUZDQODDGQZDSZRTMI/",
+    "https://www.chosun.com/jp/international-jp/2026/10/20/YAJQM7NFSFFQZDK47TD5V3IFGM/",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwNGhKRHpRYlJYbEd4V1hKOVNqclJRdG9UelRLRXh6SDM5WlJaMzJTUkNqV1kwSkJPOFZ6bDY2R09jUkJ4QzV0ejlWbWU1WDgyNkpqRVNnNFptVDBkekxkX0pPTU5kRzBJTnlqbzNDVnVwdVcyS0s1MNIBeEFVX3lxTE0ybXpxMUttejY0bThFM2w0d1JPNENEanZrck0zSzI5NHhrM25INTc5M1NBU05PZ2dNTGZPNXRwUlhfcHpiSmRJRVh4TFVpLXdzQVprREVUb2s3dTh2M3F2RXJycGNvd1AtVGdFX3ZZakNOeFpFVk1MRg?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -6342,7 +6342,8 @@
     "이찬진금융권해킹사태때ceo책임강화",
     "유류비상승에도k뷰티수출기대",
     "장모살해아내납치26살김성우오늘구속송치ytn",
-    "美주택건설업체감경기14년여만에최저고금리건설비부담"
+    "美주택건설업체감경기14년여만에최저고금리건설비부담",
+    "장모살해아내납치피의자26살김성우신상공개mbc뉴스"
   ],
   "opinion_date": "2026-10-19",
   "seen_opinion_links": [
