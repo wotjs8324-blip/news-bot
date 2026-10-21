@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/sports/football/2026/10/21/GBRWCMBRHE4WEOBTGRSWKYJQMY/",
-    "https://www.chosun.com/jp/international-jp/2026/10/21/UZWXNDZVPVEODGEJKJHUNHNWOQ/",
-    "https://www.chosun.com/international/international_general/2026/10/21/GFSTMNZWMU4TOZLDHBSGKMDBGI/",
-    "https://www.chosun.com/special/special_section/2026/10/21/BT3ZGWR6LJCCJGGY3K7KA5Q2XA/",
-    "https://www.chosun.com/special/special_section/2026/10/21/KEWGBKDNTBGC5FLYMIYE5WZNMA/",
-    "https://www.chosun.com/special/special_section/2026/10/21/PHED55VSXJAPVNEVHXOSXSOVEY/",
-    "https://www.chosun.com/special/special_section/2026/10/21/SIWOUVWADVFLVNCIO4RIV4KCFM/",
-    "https://www.chosun.com/special/special_section/2026/10/21/XRHJPVVRQREZNKE3X5BJB6KSZA/",
-    "https://www.chosun.com/special/special_section/2026/10/21/VHSAMXBQNREU3DCFC7OIGAB5ZE/",
-    "https://www.chosun.com/special/special_section/2026/10/21/7MK4SLV4RFE4JJ3MNIZR2YHCX4/",
-    "https://www.chosun.com/special/special_section/2026/10/21/QUDAXPISBVF7ZLNTDBOFFUAAZM/",
     "https://www.chosun.com/special/special_section/2026/10/21/2ZK6CWHF2RGOFHMJQRUHLTDOMA/",
     "https://www.chosun.com/special/special_section/2026/10/21/AC4PAR2JLZASHHWOSQWLYBDJEY/",
     "https://www.chosun.com/special/special_section/2026/10/21/E7WPI6YPTBFKXNPH2H4E5ZNFCE/",
@@ -4999,7 +4988,18 @@
     "https://www.chosun.com/jp/politics-national-jp/2026/10/22/MQ7VQPKSTJAZLNJHBAC7C2HV4Y/",
     "https://www.chosun.com/national/2026/10/22/BHGZ6PT5JFDTZLP3ARUE7SEZIM/",
     "https://www.chosun.com/sports/world-baseball/2026/10/22/GA2GIZJVGY3GGZLFMEYDAN3CHE/",
-    "https://www.yna.co.kr/view/AKR20261022003200087"
+    "https://www.yna.co.kr/view/AKR20261022003200087",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZSXZHUjFFbEthcl9nR0JkRlE4QjkyNGVKeHBHOFVWcWgzT3htMEVzNENZM0RUMDVSeHJWN3BqZkFjOXg5R2JjVjJwTVVpYXg3V0lTSlNvWDN4bDBBbmZDbFZjN210ZmIwZElYWlB6QUNZdzRrTTZJOdIBeEFVX3lxTFBkVkFSeUd6NmVjSVdYVnN0TnU5UlE1dklQNjh2RkpBRW4yTXk0cFA1ZWtsbXRCWnh4QmR3S0pUdjh6dXN6TTVrX0dwT0F2Q0tmcU1Uc2tGYm1qUHJ5Tnp3bWFTTExULUV5NWlBdkVaY2s1azRIaHRnRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHNnZpTE4teVJ3MjZYTUxNQ3hSaDNJcXBvV0FMajE4czBwZFRQUTBRMk1nWi1CYzB1QjI2OElKQml0bTJnZXZ2cWpKZTJqTkdnTFZqSFNidnJVOHdQSjM3Y29BUVI5d0ZWNlZHaUZ1aTFublhEMEFBZ9IBeEFVX3lxTE5jQURzaUQ3M2I1RXo1ZmNyNkJpSUJVcTBOcFhoYzZLT1dGTDNXbVNpLVVTQlVxclRNODREZnV2eWh4NEpRaFhITmp3T1pWSVBLSmFYWFU0WHNWX2RkenFQbndHdmY4anppVHZ0LVRNYl8wTUotUURJVw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZllUWGhFVDRwQkFma0NrX1hjRXFjT2NjZkRTOC12ci1XZGw5YjhUWU13R2hSOWQ1eFZWM2JaR0tuZFUwMmx4QTNNd3ZyZ0haT1Y0eVlJNUlWMXFNelHSAWNBVV95cUxPQTVYXzgwYWZscjlmUzg3VFBwUS1CNXJIRTREM3ZmNWdTNjJwVWE5eU9tTHg5dG9nRzd3djVLZzA2R0JsWnlIejJzR1pRenUwMjFpQThiV0paZ09Bb0JRWWlOOFU?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EdkdCbTNYcXBaRHFKU3I3eXBjM09QbWFzZGEwNHVMc29sdWJSRVJvZkRzUVhVcmNmTHR6dG9mcGRRaG9RY1IyTFlQZUMwY0hvYzBmaTA0T0p5c3NzVmfSAWNBVV95cUxPeEQtdnZBRTBvMElZT3hYUGJFbnJ5R1hwa3RrT0o0bHBSaFBXT2pSSm5NVUExSzBuWXI3MUE0d3lxeWRkaW9tTWMwR1NlaVJNSnYtVnhVQ0d6cGxlQWtBc1RoV1k?oc=5",
+    "https://www.yna.co.kr/view/AKR20261022005100079",
+    "https://www.yna.co.kr/view/AKR20261022004400071",
+    "https://www.donga.com/news/Inter/article/all/20261022/134886689/1",
+    "https://www.donga.com/news/Society/article/all/20261022/134886686/1",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008809195&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261021_0003834790",
+    "https://www.newsis.com/view/NISX20261022_0003835865"
   ],
   "initialized_feeds": [
     "조선일보",
