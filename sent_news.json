@@ -1,21 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/international/international_general/2026/10/22/GM6QHRCQGNDLRFSSTU7RYBZ36A/",
-    "https://www.chosun.com/international/mideast-africa-latin/2026/10/22/57Z7OACL7FFCXFS5EH533GXCMY/",
-    "https://www.chosun.com/culture-life/culture_general/2026/10/22/Z5NTUGWIR5AWBA5JVU4CHATXT4/",
-    "https://www.chosun.com/culture-life/culture_general/2026/10/22/6N4APJHSORFE3DILIHFK5L4WPQ/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuOVJwQno0ZEJnV3gzU3U1RTdiR01CN3FCUGV4bzhMTV9ra2NTZmNwTm12NGh3c2tMMVpCcENzaGlodzRlVHNEWjVCeHMzTC1MeVRfSFRB?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tSVNOaFFoYWs2RDFSWHJDaFNmTlRCX2hGb2k2VUdLYWltMVBUaGRHOC1Pd1N6N3RLR3BQNVdwNXR4aThNT2V3X3o4SFdqWkw2NS1NOHZR?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHVXEtVXBvMjFiMjgtVEVRME54cDJhcnFlX0VQWUczWmhhM25zLVNUd0hscU9TYlAwdWd5NFdGaVVRM0lObFZrRzFzY2cxRFBjLTZnWmtn?oc=5",
-    "https://www.donga.com/news/Economy/article/all/20261021/134885111/2",
-    "https://www.donga.com/news/Economy/article/all/20261021/134885126/2",
-    "https://www.donga.com/news/Economy/article/all/20261021/134884536/2",
-    "https://www.donga.com/news/Inter/article/all/20261021/134884530/2",
-    "https://www.donga.com/news/Economy/article/all/20261021/134884526/2",
-    "https://www.donga.com/news/Economy/article/all/20261021/134885045/2",
-    "https://www.donga.com/news/Economy/article/all/20261021/134885043/2",
-    "https://www.donga.com/news/Economy/article/all/20261021/134885038/2",
-    "https://www.donga.com/news/Economy/article/all/20261021/134885041/2",
     "https://www.donga.com/news/Economy/article/all/20261021/134885148/2",
     "https://www.donga.com/news/Economy/article/all/20261021/134885138/2",
     "https://www.donga.com/news/Economy/article/all/20261021/134885140/2",
@@ -4999,7 +4983,23 @@
     "https://www.newsis.com/view/NISX20261022_0003837700",
     "https://www.newsis.com/view/NISX20261023_0003837714",
     "https://www.newsis.com/view/NISX20261022_0003837113",
-    "https://www.hankyung.com/article/202610239834i"
+    "https://www.hankyung.com/article/202610239834i",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50TE12enhMMEhSTTkzWXFPb0paeG55S1lJaGVobzlWNG1ZVFhOTjFFbzZBTW5NbndHb0llQzNnWVlIQm5wR3EtTEFjQzRuT09EVURSaHlqbk1LS05Ycmo5ekpMOTRyZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aWkJvTmhFeEd5T1o4ZjRuUlVaTTFZMUtQdG1oSXhrc1RZSEF1ckdwckdNRE11Z05sa0xHVFVQa0ZpWWpCd3lMMTFiRDR2MlpBZ2tjTDFZY09GYUZUaWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QdE9vT3pNdDBDd1pqdndwTk9RajA2TVhZTzJvY0JSMzRjTmc5T3RreFRQQ1oyNkpvS1JqcTF5MGMxcVU2MWJHUjU4ZDRNVG85TjVrZkFNUnF1T3dMUHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YYUJoZVgxdzUwanV3UEJVR2VhajcwTjlFOFMyQW1OT1pxTUlIMFVNUUI4SHV4MmlQay1zdWZxR0VCNmdWUTJmbXVMRzNDeU9yR2lUaV94cmtRMUlaTFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GUy1PdzZNZ0RmMkxCdFYwZi15aGI2d2hoc3dBZ2hXZVJncWF2Z29NYmdqZlN2ejJBSnFqcGlTWHRCVEN4SDZXTzhRWWF5Tkdzajctck5CMDYxNU9YSlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qM1VqU2R2T3RrMTdZU3ZzeVJPbzBvVEFVUFJiUkNlMjhTY2hSRURVdTBjdlNsaUlvV1BRMGZWTlNha0RQMlQ1WlBwTUNzaGpYTzBz?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fRTB1R2FIMzZKbjQyMFVCUVNMVUVyS3FtaU5ra2kwbU0zY2FTUHEtWFZoNl9EVnZTaHlZeXNqTjJaTWFUR2tod3dncEtMNTBHZkVqdHhXQnBIS0tHMkw5cWJJVdIBY0FVX3lxTE9fRTB1R2FIMzZKbjQyMFVCUVNMVUVyS3FtaU5ra2kwbU0zY2FTUHEtWFZoNl9EVnZTaHlZeXNqTjJaTWFUR2tod3dncEtMNTBHZkVqdHhXQnBIS0tHMkw5cWJJVQ?oc=5",
+    "https://www.yna.co.kr/view/AKR20261023001100009",
+    "https://www.chosun.com/international/international_general/2026/10/23/GU4GENRUGNSTSOBTMM3DMOJRMM/",
+    "https://www.chosun.com/sports/sports_general/2026/10/23/GE4DOYJYGQYDOYTGGM3WKZRTMY/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/23/F43LLZ5NDNHCPCBGQKJEK2X3DA/",
+    "https://www.donga.com/news/Inter/article/all/20261023/134894102/1",
+    "https://www.donga.com/news/Inter/article/all/20261023/134894099/1",
+    "https://www.donga.com/news/Society/article/all/20261023/134894096/1",
+    "https://www.yna.co.kr/view/AKR20261023002800099",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tVXYtNmQ2MjVReE1tcm1scXpUY1NFMmpWbXQwV1M2dzgzdmpLSUl6bHRCbWlTX3JXRmFmU3ppZ0RLSUFtblRDc0dLLV9laXdTS3JvZWduOTB5RFpiaEE?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -6977,7 +6977,9 @@
     "612개월내가시화전문가가내다본테슬라스페이스x합병시나리오",
     "금리동결신현송긴축이어갈것11월인상무게",
     "금융불안佛국채금리5돌파24년만에최고치",
-    "증시하락세에4대금융실적주춤年순익은20조돌파예상"
+    "증시하락세에4대금융실적주춤年순익은20조돌파예상",
+    "니제르서납치된오스트리아스위스여성1년여만에석방",
+    "경찰흉기난동최충락오늘송치살인미수혐의ytn"
   ],
   "opinion_date": "2026-10-22",
   "seen_opinion_links": [
