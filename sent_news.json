@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261022_0003836900",
-    "https://www.newsis.com/view/NISX20261022_0003835907",
-    "https://www.newsis.com/view/NISX20261022_0003835964",
-    "https://www.newsis.com/view/NISX20261021_0003835542",
-    "https://www.newsis.com/view/NISX20261022_0003837283",
     "https://www.newsis.com/view/NISX20261022_0003837357",
     "https://www.hankyung.com/article/202610239852i",
     "https://www.hankyung.com/article/202610229752i",
@@ -4999,7 +4994,12 @@
     "https://www.yna.co.kr/view/AKR20261024005200072",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YWVk1X0sxbFh6eHJiTFQzRUZrOUUzSkp0MkZsdTBoWTFwMnNFSnRwaXVqbi05bkNGVTB0Z1BLV0pTRUl1LXVRT1ctNzd5VFRfY2VPQ0hUMnZrM0ZzeHNtX3FKZ0xKdw?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DdXBJVUl4QnFYMk5XNGM2Y3VJNGVtbFpBQjRzTnRsUlpvNURmamNGLVNYdDA1Z1JLM19sbWlwOVprNXk2MnpYS05uclFyaW1LMmlZbU5NRHV4c0k?oc=5",
-    "https://www.yna.co.kr/view/AKR20261024005500071"
+    "https://www.yna.co.kr/view/AKR20261024005500071",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSVDRxUDRvN25UdGNLZ21HbWswdkkwOURqVkRLYlFhUmxaNlVDUkx5c0FkQ2Z1dzFINGF2cV9UVGozcUFvczVXcGRzVWtrZ0pKZmdGVzlVV2JmcFdiZWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02NDJ3anNqQ2IteHpiazk2VnJqbzRlNTVzaTEyaXdQcHBXUi1Sdnp0ZlFzTTltODB1T3ZHNHpaU3diUGQweHVnM0ZnUUcwenppeFozNE04ZUI5SUM2cGc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261024005100034",
+    "https://www.newsis.com/view/NISX20261024_0003839364",
+    "https://www.newsis.com/view/NISX20261024_0003839362"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7252,9 +7252,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JQXJlaTJrWjJnY2lvRjFUd1pVNWI2SVRrV3NYOWU0VEVVRVlNdEVLUkg0RXVRSjg0Y0J2amlXb0xQOGRxM3BBWnczZ3BndXU5Wm5hWEtoNA?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5"
   ],
-  "feed_health": {
-    "MBC": {
-      "failing_since": "2026-10-23T20:37+00:00"
-    }
-  }
+  "feed_health": {}
 }
