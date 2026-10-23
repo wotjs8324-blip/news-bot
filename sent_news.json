@@ -1,18 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261022154900007",
-    "https://www.yna.co.kr/view/AKR20261022140200003",
-    "https://www.yna.co.kr/view/AKR20261022152500001",
-    "https://www.yna.co.kr/view/AKR20261022151600083",
-    "https://www.yna.co.kr/view/AKR20261022150500062",
-    "https://www.yna.co.kr/view/AKR20261022147900055",
-    "https://www.yna.co.kr/view/AKR20261022151300060",
-    "https://www.yna.co.kr/view/AKR20261022151700001",
-    "https://www.yna.co.kr/view/AKR20261022151900030",
-    "https://www.yna.co.kr/view/AKR20261022152300504",
-    "https://www.yna.co.kr/view/AKR20261022152100054",
-    "https://www.yna.co.kr/view/AKR20261022151000083",
-    "https://www.yna.co.kr/view/AKR20261022042451008",
     "https://www.yna.co.kr/view/AKR20261022150700504",
     "https://www.yna.co.kr/view/AKR20261022149700062",
     "https://www.yna.co.kr/view/AKR20261022151100001",
@@ -4999,7 +4986,20 @@
     "https://www.hankyung.com/article/202610231264i",
     "https://www.mk.co.kr/news/business/12184207",
     "https://www.yna.co.kr/view/AKR20261023040151008",
-    "https://www.yna.co.kr/view/AKR20261023130600008"
+    "https://www.yna.co.kr/view/AKR20261023130600008",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxRUJNOC10VUpnaWhLc0MyZDNWNzBGYWYtMlJiM0NQaFJNNzdHOXNTekpZTTROblpTQVFCUUhET1I5RHA3R0t2aW5xN1VSOWI3SmNxSG1weEh3U2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sclJCMkxabnp1cTVkYW9Pb2ZTUXpjdW41RHctVmU3SW1XWFRVaFYwVTBaUW1mRzBZdzdGVGJRalMtS19LRzJkT3RuRk9jRXRUNmo3N0NWeVYtUnc?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxbjFGVnhxOXN6TEoyV2hoWjhjWmliLTJQTm9kRjIya3prX1lsOFJiOG5WR0lSSFdkRy1iUlBkTnpkdkl3d0JkUXM1SlNiUTBXRGszQ00zTHp1SnZGUHJGY2RVXzdOQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE53TzY5T1MtT3RqOTR0MDdUVk5qVHRKQXFacmVjN0JiSW1xMjlVQkQ0S0NyVUVxd2N3ejVsVTZCX0ZVU043UkNBblZYQVFQYk8zNzJTRktxcUs3NmxjemlsZjVmNmUtWVlRR3gwUndLaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02NHhaQTRxMjhHQllnRnRHbFRqTDBlcWNySmZaTWtuY0hNVk05VHJjZVRYdnp4WmxoVVM5QnFTLXY5c01OZWJEM0lFNWZuQXBSek9GcEhIb3pMREQweXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rVms2QnRnODdjUFlMcV8yMHBhT2xtMnpCOUtMTm12c21VYXY0dlRMT0lVem53c1NaSkY2VGlfUERCSTZjX3RkRkRBY3M1V3N1OUFIZnJ3?oc=5",
+    "https://www.donga.com/news/Economy/article/all/20261023/134896772/1",
+    "https://www.newsis.com/view/NISX20261023_0003838891",
+    "https://www.newsis.com/view/NISX20261023_0003838895",
+    "https://www.newsis.com/view/NISX20261023_0003838797",
+    "https://www.newsis.com/view/NISX20261023_0003838893",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226497",
+    "https://www.hankyung.com/article/202610228856i"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7160,5 +7160,15 @@
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVaWloNk9Lcjl3dWoxRVJPZW5BU0tMazd1RW5VLVEtT2pUUFNoZlFUN001Q3JlYS1JRE9XcmtzUmkzUHRWWGF2QWZIQzJId2pxNmVaVElGTzE1T0U?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JQXJlaTJrWjJnY2lvRjFUd1pVNWI2SVRrV3NYOWU0VEVVRVlNdEVLUkg0RXVRSjg0Y0J2amlXb0xQOGRxM3BBWnczZ3BndXU5Wm5hWEtoNA?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "SBS": {
+      "failing_since": "2026-10-23T06:45+00:00"
+    },
+    "SBS 경제": {
+      "failing_since": "2026-10-23T06:45+00:00"
+    },
+    "SBS 사회": {
+      "failing_since": "2026-10-23T06:45+00:00"
+    }
+  }
 }
