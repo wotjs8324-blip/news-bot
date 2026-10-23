@@ -277,7 +277,11 @@ POLITICS_PRIMARY = (
     "대통령", "대통령실", "국회", "여야", "여당", "야당", "국민의힘", "민주당", "국무총리", "총리", "장관", "국무회의", "개각", "청문회", "총선", "대선", "지방선거", "재보선", "공천", "법안", "특검", "국정감사", "국감", "헌법재판소", "헌재", "개헌", "정상회담", "한미", "한중", "한일",
 )
 POLITICS_EVENT = (
-    "통과", "가결", "부결", "발의", "거부권", "재의요구", "임명", "지명", "사퇴", "경질", "사임", "출마", "선출", "당선", "합의", "결렬", "발표", "확정", "결정", "시행", "체포", "구속", "기소", "영장", "회담", "담화", "탄핵", "해임",
+    "통과", "가결", "부결", "거부권", "재의요구", "임명", "지명", "사퇴", "경질", "사임", "출마", "선출", "당선", "합의", "결렬", "체포", "구속", "기소", "영장", "회담", "담화", "탄핵", "해임",
+)
+# Company/sports names that contain 한미/한중/한일 but aren't politics.
+POLITICS_EXCLUDE = (
+    "한미약품", "한미반도체", "한미사이언스", "한미글로벌", "한일전", "한중전", "한일시멘트", "한일홀딩스",
 )
 COMPANY_PRIMARY = (
     "삼성전자", "sk하이닉스", "현대차", "기아", "lg에너지솔루션", "lg전자", "네이버", "카카오", "엔비디아", "테슬라", "애플", "마이크로소프트", "tsmc", "삼성바이오",
@@ -300,7 +304,7 @@ def news_priority(source, title):
         return 82, "부동산"
     # Politics: a political actor plus a concrete decision/event, not commentary.
     if contains_any(t, POLITICS_PRIMARY) and contains_any(t, POLITICS_EVENT):
-        if not contains_any(t, SPECULATION):
+        if not contains_any(t, SPECULATION) and not contains_any(t, POLITICS_EXCLUDE):
             return 80, "정치"
     if contains_any(t, COMPANY_PRIMARY) and contains_any(t, COMPANY_EVENT):
         return 78, "기업·산업"
