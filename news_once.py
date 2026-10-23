@@ -137,6 +137,9 @@ NEWS_FEEDS.update({
     "매일경제 증권": ("https://www.mk.co.kr/rss/50200011/",),
     "매일경제 부동산": ("https://www.mk.co.kr/rss/50300009/",),
     "매일경제 기업": ("https://www.mk.co.kr/rss/50100032/",),
+    # Politics section feeds, verified by the RSS Probe workflow on 2026-10-23.
+    "뉴시스 정치": ("https://www.newsis.com/RSS/politics.xml",),
+    "한국경제 정치": ("https://www.hankyung.com/feed/politics",),
 })
 
 # Guard against accidentally dropping the outlets the user explicitly requires.
