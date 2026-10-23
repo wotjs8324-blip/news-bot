@@ -21,6 +21,9 @@ jobs:
     steps:
       - name: Get repository files
         uses: actions/checkout@v4
+        with:
+          # Use the latest main, not the commit at trigger time, so a queued run sees the previous run's sent_news.json.
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -45,6 +48,7 @@ jobs:
             git add sent_news.json
             if ! git diff --cached --quiet; then
               git commit -m "chore: update checked news"
+              git pull --rebase origin main
               git push
             fi
           fi
