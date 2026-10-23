@@ -1,0 +1,79 @@
+name: RSS Probe
+
+# Test candidate RSS URLs from GitHub's network (the Claude cloud session can't reach news sites).
+# Result is committed to probe_result.json so a later check can read it without log access.
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "Candidate RSS URLs, separated by spaces or new lines"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-telegram-alerts
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Get repository files
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python packages
+        run: python -m pip install feedparser requests
+
+      - name: Fetch each URL
+        env:
+          URLS: ${{ github.event.inputs.urls }}
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          import feedparser, requests
+
+          headers = {
+              "User-Agent": "Mozilla/5.0 (compatible; PersonalRSSReader/2.0)",
+              "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.5",
+              "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.5",
+          }
+          results = []
+          for url in os.environ["URLS"].split():
+              row = {"url": url}
+              try:
+                  response = requests.get(url, headers=headers, timeout=(5, 15))
+                  row["http"] = response.status_code
+                  parsed = feedparser.parse(response.content)
+                  row["entries"] = len(parsed.entries)
+                  row["titles"] = [str(e.get("title", ""))[:80] for e in parsed.entries[:3]]
+              except requests.RequestException as error:
+                  row["error"] = type(error).__name__
+              results.append(row)
+              print(row, flush=True)
+          with open("probe_result.json", "w", encoding="utf-8") as file:
+              json.dump({"checked_at": datetime.now(timezone.utc).isoformat(timespec="minutes"),
+                         "results": results}, file, ensure_ascii=False, indent=2)
+              file.write("\n")
+          PY
+
+      - name: Save result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add probe_result.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: RSS probe result"
+            git pull --rebase origin main
+            git push
+          fi

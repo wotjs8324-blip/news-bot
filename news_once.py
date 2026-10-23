@@ -373,6 +373,7 @@ OPINION_MARKER = (
 )
 OPINION_HOUR_KST = 20
 MAX_NEWS_PER_RUN = 12
+FEED_STALE_HOURS = 24
 
 
 def opinion_score(source, entry):
@@ -560,6 +561,12 @@ def main():
     eligible = []
     telegram_failures = 0
     manual = os.getenv("GITHUB_EVENT_NAME") == "workflow_dispatch"
+    now_utc = datetime.now(timezone.utc)
+    # Per-feed failure record, committed with sent_news.json so later checks can read it.
+    health = state.setdefault("feed_health", {})
+    for name in list(health):
+        if name not in NEWS_FEEDS:
+            del health[name]
 
     def remember(link):
         if link not in seen:
@@ -570,8 +577,10 @@ def main():
         entries = get_entries(session, source, urls)
         if entries is None:
             failed_sources.append(source)
+            health.setdefault(source, {}).setdefault("failing_since", now_utc.isoformat(timespec="minutes"))
             continue
         successful_sources += 1
+        health.pop(source, None)
         if source not in initialized:
             for entry in entries:
                 link = str(entry.get("link", "")).strip()
@@ -635,6 +644,23 @@ def main():
     now_kst = datetime.now(ZoneInfo("Asia/Seoul"))
     opinion_status = choose_opinion(session, state, now_kst)
     state["seen_title_keys"] = state.get("seen_title_keys", [])[-4000:]
+
+    # A feed failing for over FEED_STALE_HOURS likely changed its RSS address; warn once a day.
+    today = now_kst.date().isoformat()
+    stale = [name for name, record in health.items()
+             if now_utc - datetime.fromisoformat(record["failing_since"]) > timedelta(hours=FEED_STALE_HOURS)
+             and record.get("warned_date") != today]
+    if stale:
+        try:
+            send_msg(
+                f"⚠️ 뉴스 RSS가 {FEED_STALE_HOURS}시간 넘게 안 열려 (주소가 바뀌었을 수 있어)\n"
+                + "\n".join(f"- {name} (실패 시작 {health[name]['failing_since']} UTC)" for name in stale)
+                + "\n\n주간 자동 점검에서 새 주소를 찾아볼게."
+            )
+            for name in stale:
+                health[name]["warned_date"] = today
+        except RuntimeError as error:
+            print(f"[feed warning failed] {error}", flush=True)
 
     # Even if some sources fail, keep state and let the failed ones retry next run.
     save_state(state)
