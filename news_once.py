@@ -1,4 +1,4 @@
-"""Check Korean economy/society/breaking RSS feeds once per GitHub Actions run.
+"""Check Korean economy/politics/society/breaking RSS feeds once per GitHub Actions run.
 
 - Keep the original state format (sent_news.json).
 - Initialize each newly added feed without flooding Telegram with old articles.
@@ -174,10 +174,6 @@ MARKET_EMERGENCIES = (
 MARKET_NAMES = ("코스피", "코스닥", "주식시장", "증시")
 SHARP_MOVES = ("폭락", "폭등", "급락", "급등", "사상최대낙폭", "사상최대폭")
 SPECULATION = ("전망", "예상", "가능성", "우려", "기대", "관측", "검토", "가정")
-MAJOR_CRIMES = (
-    "살인", "피살", "살해", "흉기난동", "연쇄살인",
-    "묻지마폭행", "납치", "유괴", "시신발견",
-)
 MAJOR_DISASTERS = (
     "대형화재", "대형산불", "건물붕괴", "교량붕괴",
     "열차탈선", "여객기추락", "항공기추락",
@@ -235,11 +231,7 @@ def classify_article(source, title):
         if not contains_any(t, SPECULATION):
             return "주요 경제정책"
 
-    # Society: serious violent crimes and major accidents.
-    if contains_any(t, MAJOR_CRIMES):
-        return "강력범죄"
-    if "흉기" in t and contains_any(t, ("난동", "찌르", "휘둘러", "위협", "중상", "검거")):
-        return "강력범죄"
+    # Society: major accidents and disasters (violent crime alerts were removed on request).
     if contains_any(t, MAJOR_DISASTERS):
         return "중대재난"
     if contains_any(t, DISASTER_EVENTS):
@@ -281,6 +273,12 @@ HOUSING_PRIMARY = (
 HOUSING_EVENT = (
     "대책", "규제", "완화", "강화", "정책", "시행", "발표", "확정", "결정", "개편", "공급", "승인", "취소", "상승", "하락", "급등", "급락", "폭등", "폭락", "증가", "감소", "도입", "폐지", "인상", "인하", "금지",
 )
+POLITICS_PRIMARY = (
+    "대통령", "대통령실", "국회", "여야", "여당", "야당", "국민의힘", "민주당", "국무총리", "총리", "장관", "국무회의", "개각", "청문회", "총선", "대선", "지방선거", "재보선", "공천", "법안", "특검", "국정감사", "국감", "헌법재판소", "헌재", "개헌", "정상회담", "한미", "한중", "한일",
+)
+POLITICS_EVENT = (
+    "통과", "가결", "부결", "발의", "거부권", "재의요구", "임명", "지명", "사퇴", "경질", "사임", "출마", "선출", "당선", "합의", "결렬", "발표", "확정", "결정", "시행", "체포", "구속", "기소", "영장", "회담", "담화", "탄핵", "해임",
+)
 COMPANY_PRIMARY = (
     "삼성전자", "sk하이닉스", "현대차", "기아", "lg에너지솔루션", "lg전자", "네이버", "카카오", "엔비디아", "테슬라", "애플", "마이크로소프트", "tsmc", "삼성바이오",
 )
@@ -300,6 +298,10 @@ def news_priority(source, title):
         return p, emergency
     if contains_any(t, HOUSING_PRIMARY) and contains_any(t, HOUSING_EVENT):
         return 82, "부동산"
+    # Politics: a political actor plus a concrete decision/event, not commentary.
+    if contains_any(t, POLITICS_PRIMARY) and contains_any(t, POLITICS_EVENT):
+        if not contains_any(t, SPECULATION):
+            return 80, "정치"
     if contains_any(t, COMPANY_PRIMARY) and contains_any(t, COMPANY_EVENT):
         return 78, "기업·산업"
     # Routine tiny index moves are not major news.
@@ -633,7 +635,7 @@ def main():
     # Even if some sources fail, keep state and let the failed ones retry next run.
     save_state(state)
     summary = (
-        f"✅ 경제 중심 뉴스 봇 실행 완료\n"
+        f"✅ 경제·정치 뉴스 봇 실행 완료\n"
         f"정상 RSS: {successful_sources}/{len(NEWS_FEEDS)}\n"
         f"중요뉴스: {sent}건 전송\n"
         f"중요도 필터로 제외한 기사: {filtered}건\n"
