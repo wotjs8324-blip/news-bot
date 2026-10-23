@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261022_0003837446",
-    "https://www.newsis.com/view/NISX20261022_0003837485",
-    "https://www.newsis.com/view/NISX20261022_0003837295",
     "https://www.newsis.com/view/NISX20261022_0003836900",
     "https://www.newsis.com/view/NISX20261022_0003835907",
     "https://www.newsis.com/view/NISX20261022_0003835964",
@@ -4999,7 +4996,10 @@
     "https://www.chosun.com/economy/startup_story/2026/07/02/4KPLYYZOLNCWBA6BWULR5MVW6Y/",
     "https://www.chosun.com/economy/startup_story/2026/10/21/HLBSJDAXQNFTLPZEZTC7HFY7SE/",
     "https://www.chosun.com/economy/startup_story/2026/08/06/VVLAIMVOFZCWDCCOHLIXYRVKLI/",
-    "https://www.yna.co.kr/view/AKR20261024005200072"
+    "https://www.yna.co.kr/view/AKR20261024005200072",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YWVk1X0sxbFh6eHJiTFQzRUZrOUUzSkp0MkZsdTBoWTFwMnNFSnRwaXVqbi05bkNGVTB0Z1BLV0pTRUl1LXVRT1ctNzd5VFRfY2VPQ0hUMnZrM0ZzeHNtX3FKZ0xKdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DdXBJVUl4QnFYMk5XNGM2Y3VJNGVtbFpBQjRzTnRsUlpvNURmamNGLVNYdDA1Z1JLM19sbWlwOVprNXk2MnpYS05uclFyaW1LMmlZbU5NRHV4c0k?oc=5",
+    "https://www.yna.co.kr/view/AKR20261024005500071"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7253,14 +7253,8 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5"
   ],
   "feed_health": {
-    "SBS": {
-      "failing_since": "2026-10-23T20:30+00:00"
-    },
-    "SBS 경제": {
-      "failing_since": "2026-10-23T20:30+00:00"
-    },
-    "SBS 사회": {
-      "failing_since": "2026-10-23T20:30+00:00"
+    "MBC": {
+      "failing_since": "2026-10-23T20:37+00:00"
     }
   }
 }
