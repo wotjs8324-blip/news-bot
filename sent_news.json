@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261022_0003836889",
-    "https://www.newsis.com/view/NISX20261022_0003837510",
-    "https://www.newsis.com/view/NISX20261022_0003837482",
-    "https://www.newsis.com/view/NISX20261022_0003836765",
-    "https://www.newsis.com/view/NISX20261022_0003837495",
-    "https://www.newsis.com/view/NISX20261022_0003837085",
     "https://www.newsis.com/view/NISX20261022_0003837446",
     "https://www.newsis.com/view/NISX20261022_0003837485",
     "https://www.newsis.com/view/NISX20261022_0003837295",
@@ -4999,7 +4993,13 @@
     "https://www.chosun.com/economy/startup_story/2026/10/20/67J6SG4JIVHSDDBCGTUBZZVVAY/",
     "https://www.chosun.com/jp/sports-jp/2026/10/24/ZN6HYNTL4ZHORCOCFDHWNXQ7GM/",
     "https://www.chosun.com/sports/world-football/2026/10/24/HAZDANJXMRTGCOLDMZTDEMJVHA/",
-    "https://www.newsis.com/view/NISX20261024_0003839361"
+    "https://www.newsis.com/view/NISX20261024_0003839361",
+    "https://www.yna.co.kr/view/AKR20261024005400079",
+    "https://www.yna.co.kr/view/AKR20261024001851071",
+    "https://www.chosun.com/economy/startup_story/2026/07/02/4KPLYYZOLNCWBA6BWULR5MVW6Y/",
+    "https://www.chosun.com/economy/startup_story/2026/10/21/HLBSJDAXQNFTLPZEZTC7HFY7SE/",
+    "https://www.chosun.com/economy/startup_story/2026/08/06/VVLAIMVOFZCWDCCOHLIXYRVKLI/",
+    "https://www.yna.co.kr/view/AKR20261024005200072"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7236,7 +7236,8 @@
     "ai투자불안에국채급등메타증자스페이스x통신진출주목",
     "美10월소비자심리5개월만에최저물가상승우려",
     "sk하이닉스손자회사솔리다임美상장접어",
-    "고금리에中企자영업부실확산은행연체율10년만에최고"
+    "고금리에中企자영업부실확산은행연체율10년만에최고",
+    "뉴욕증시이란긴장고조유가급등에약세다우1대"
   ],
   "opinion_date": "2026-10-23",
   "seen_opinion_links": [
@@ -7251,5 +7252,15 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JQXJlaTJrWjJnY2lvRjFUd1pVNWI2SVRrV3NYOWU0VEVVRVlNdEVLUkg0RXVRSjg0Y0J2amlXb0xQOGRxM3BBWnczZ3BndXU5Wm5hWEtoNA?oc=5",
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "SBS": {
+      "failing_since": "2026-10-23T20:30+00:00"
+    },
+    "SBS 경제": {
+      "failing_since": "2026-10-23T20:30+00:00"
+    },
+    "SBS 사회": {
+      "failing_since": "2026-10-23T20:30+00:00"
+    }
+  }
 }
