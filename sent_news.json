@@ -1,43 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261022194900371",
-    "https://www.yna.co.kr/view/AKR20261022194500079",
-    "https://www.yna.co.kr/view/AKR20261022194400065",
-    "https://www.yna.co.kr/view/AKR20261021172651007",
-    "https://www.yna.co.kr/view/AKR20261022194000007",
-    "https://www.chosun.com/sports/basketball/2026/10/22/36D4RL7AQZBMBB4DS62U7GOTZE/",
-    "https://www.chosun.com/jp/sports-jp/2026/10/22/Q25Z3YRSZJCENIYIWMHVXODBWY/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/22/C54MVUUOP5FRVFSLVLIACKPRJQ/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/22/HE4WMN3CGI2DEZJVGAYGKYRQGA/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/22/MI4GIMLFGI4DIOLBHBSGENTCG4/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/22/72N4JHQQWJGO7IKVZDWF6CPHWY/",
-    "https://www.chosun.com/national/national_general/2026/10/22/XGMEMEMMA5A4JI4BZN66EJSZKM/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/22/KN7RGQXKQVEJFFEAFJYSRANYTE/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/22/GRQWMNJQGE3TEZBYGQZTMZDFGM/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/22/MZTYJBVS6JFZZEUO25PUYDEK6U/",
-    "https://www.chosun.com/sports/2026/10/22/CYKANBSA5FE63J6NP2U7QFWPCQ/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/22/G5RGGNJSGVRGCNZXG42TINTDGY/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/22/QICURB4EWVFPZDPGA26ZHZTD7M/",
-    "https://www.chosun.com/sports/2026/10/22/2FKGS3OTFJBWHBNCBD2SMQ4ONE/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/22/MM2WGMTFMUYDIYJZHFQTEMTCGA/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/22/AOQAVSRUHJF7XIJCIWS3GSRLU4/",
-    "https://www.chosun.com/special/special_section/2026/10/22/4VTOFS2RGNCDJFFJQ3DF6QOD6Y/",
-    "https://www.chosun.com/jp/sports-jp/2026/10/22/4UROJMHIZBHLBCMYCMZBYJ5QFE/",
-    "https://www.chosun.com/national/regional/2026/10/22/A5MVW7ATSNBCRNPH5P3CDBUPBQ/",
-    "https://www.chosun.com/economy/industry-company/2026/10/22/GE2GKNDDGMZGEOBQGAYGGMLEHE/",
-    "https://www.chosun.com/jp/economy-jp/2026/10/22/SQYS63HOYJAPFOE6US5ZHG6C3E/",
-    "https://www.chosun.com/national/national_general/2026/10/22/YKQ7RDU3NFGL5PQVAUJBAQH7MY/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/22/VCEB4CJYNRF3RASMGW6ULXZDZA/",
-    "https://www.chosun.com/jp/sports-jp/2026/10/22/G4B2JMB35BEG3F734S7YCAJB3M/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/22/SIOAHMVPVREYDLCCRV4EMXA7DI/",
-    "https://www.chosun.com/sports/basketball/2026/10/22/HAYDMYTGGZRTAOBSGRTGCMTGGE/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/22/HFSTGZTEMZRGIZLCGYZTENLBMQ/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/22/SWJBAH5VBFGHPPINDTBXAZKUKY/",
-    "https://www.chosun.com/economy/science/2026/10/22/GU3GMOLDGQ2TOYZQMQ4DSOJZGI/",
-    "https://www.donga.com/news/Sports/article/all/20261022/134893644/1",
-    "https://www.donga.com/news/Inter/article/all/20261022/134893629/1",
-    "https://www.donga.com/news/Inter/article/all/20261022/134893624/1",
-    "https://www.donga.com/news/Society/article/all/20261022/134893620/1",
     "https://www.donga.com/news/Society/article/all/20261022/134893617/1",
     "https://www.donga.com/news/Sports/article/all/20261022/134893529/1",
     "https://www.donga.com/news/Politics/article/all/20261022/134893379/1",
@@ -4999,7 +4961,45 @@
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226787",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810891&plink=RSSLINK&cooper=RSSREADER",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvVHpjUDJTVGJudTBPRDF1aFU1R0Nzd1M4M3dfeW5pV3N1aV9fWTdDWkJRQlphcUpMcm5EVVVYWkpLSHJ2RkVJa2NZZ0pwRllQa09KMmJnX3R4NGhVaG5QNzRCMEt2UQ?oc=5",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226805"
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226805",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWTR0bGE1VDFwZnJjM2d4SGMwNC1zVUlGQzJtWlhRT3RnbWdLMzJjUktNVG43WUVJUDg2bFpiUDVaQkJ6X0JnY0tZWEZYdUQ1R3l3REVCTXoySnlsYk4xamlpR3JNQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CTzhndlMyY1JUYlp6ZllBNXdvUWRQV3ZaUExwTVk4cXJ6OF96SkJWT1MybTR3M1EtaHQ0c2pkdlRtVmZuMWY5b0dMZ0FodWtVSFprZU8zNzJTRU0?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HbHhIMmc0cnluQmxQeEFNV1NaMl9VQzdsS3hWa3AyaXhlTkgtZHJfaUVEOU8wRHNGOXBIUEh5bjd6aGZWUEpKajRkT0hzamRFVkZZWUtTWkJNbDg?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93OGNtNndkNkJZeWI5anQ1aUFjR1Vnd1BxNzVqY3dOLVpKcmF6eXlOal9MSUhwVU1YRHh3Qm51TTh3TXFSbG1iemVyT0x3LUhnWUY3U3VGUHNqMzVueEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4MnBoQXZCczRZNkRDUVJ4ZGZQYjF6aDZ1OEZMRktBYnN0c2JTWG5IZ2hMeEU2TEJlRDRhZ3VRSmYzZlhpUm41TTBBbGRZazNZRGlHeWVQal96NlA0RFE?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261023201314fLe",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261023201221e7B",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261023201043QYR",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261023200837msN",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261023200614lwR",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261023200501vGq",
+    "https://www.yna.co.kr/view/AKR20261023046951001",
+    "https://www.yna.co.kr/view/AKR20261023179500084",
+    "https://www.yna.co.kr/view/AKR20261023164300004",
+    "https://www.chosun.com/opinion/manmulsang/2026/10/23/MGAFBE63RFCKDCXBLG6RLXQJ3A/",
+    "https://www.chosun.com/jp/opinion-jp/2026/10/23/4KTNBB7SXFGKHLXQAHA5GYHFME/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/23/GJSDENJXG42TENZQG5SWKYRTG4/",
+    "https://www.chosun.com/economy/industry-company/2026/10/22/CULSH3AD4JFGXPAOXDNF45QOJU/",
+    "https://www.chosun.com/jp/economy-jp/2026/10/22/G4537BNVIJAD7HTD7EBTT4QNZM/",
+    "https://www.chosun.com/sports/sports_photo/2026/10/23/GVTGGMLDMM2DGMJZG5RDQMDFGQ/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/23/GYYWMNRYGFSGMMDCMEYGKMLDMM/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/23/QYQCA5DM2JFWNOXMCJIASOPS44/",
+    "https://www.chosun.com/sports/sports_photo/2026/10/23/GQ3WEMBZMI4DSMLGGNQTIZRYGI/",
+    "https://www.chosun.com/sports/sports_photo/2026/10/23/G5TDENZXHE2TQZBUGQYDCOBQGA/",
+    "https://www.chosun.com/sports/sports_photo/2026/10/23/GZSDCZBTHEZGGODBG4ZDGZRRHA/",
+    "https://www.chosun.com/sports/sports_photo/2026/10/23/GVSDOOLGGBTGMMBXGU2WGMRXHE/",
+    "https://www.chosun.com/sports/sports_photo/2026/10/23/G4ZGEZLEME3GIN3DGNSDSNRRGE/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/23/5AYLYDS5IVCS7HAIZO4NUYYP5Q/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/23/MQ3WKZJYG44TGYTGMJRTKZTCHE/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/23/GSXDM2UR3JH5RILXPSWJFKJE5M/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/23/GYYTEMDBGBRDIYLGGU2WMNJYG4/",
+    "https://www.chosun.com/sports/world-baseball/2026/09/21/ME2DGNRUG42DGMTCGMYWGNTEMU/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/23/NOSC6LHTRZHZ7CH6XX6HHMG64I/",
+    "https://www.chosun.com/sports/world-baseball/2026/09/11/MQYGGZLCMUYTQMRUG43GEYZZME/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/23/GM2TKYRTGQZTGMTCMY4GCYZVGI/",
+    "https://www.donga.com/news/Inter/article/all/20261023/134897072/1",
+    "https://www.newsis.com/view/NISX20261023_0003839267",
+    "https://www.newsis.com/view/NISX20261023_0003839126"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7223,8 +7223,14 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5"
   ],
   "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-10-23T11:00+00:00"
+    "SBS": {
+      "failing_since": "2026-10-23T11:15+00:00"
+    },
+    "SBS 경제": {
+      "failing_since": "2026-10-23T11:15+00:00"
+    },
+    "SBS 사회": {
+      "failing_since": "2026-10-23T11:15+00:00"
     }
   }
 }
