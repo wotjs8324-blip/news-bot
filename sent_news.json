@@ -1,21 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261023_0003837750",
-    "https://www.newsis.com/view/NISX20261023_0003837747",
-    "https://www.newsis.com/view/NISX20261023_0003837743",
-    "https://www.newsis.com/view/NISX20261023_0003837745",
-    "https://www.newsis.com/view/NISX20261022_0003836841",
-    "https://www.newsis.com/view/NISX20261022_0003837114",
-    "https://www.newsis.com/view/NISX20261022_0003837657",
-    "https://www.newsis.com/view/NISX20261023_0003837737",
-    "https://www.hankyung.com/article/2026102171946",
-    "https://www.yna.co.kr/view/AKR20261023007651072",
-    "https://www.newsis.com/view/NISX20261023_0003837735",
-    "https://www.newsis.com/view/NISX20261022_0003835993",
-    "https://www.chosun.com/economy/real_estate/2026/10/23/ILOL2NRUFJBN3LPZ3UXU5KPZ6E/",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811204&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.yna.co.kr/view/AKR20261023011000071",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261023064957rjh",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FWDNueEdmc1JVYlFGNlVYYXQ5VnJFNXN5NTBSNmRMdk5BcGdKUEdFRWlTX1BScDVKTDIxV2xGTDJLS0ZHeF9NcW95d1k1MGxObHh0elB6QkhObkI0a1o4RFo5MFBydUdBUUc0TjZn?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tN2VFdkVZWXpNVHNFd1ZPT3lId1A4UEw5MXpfVEszajZrU2hJZ3pwYV9IUmd6alFmNHgyWGFIc29ON0RkbUgwTl83MTNvT2Q5SXlLMTZucDYtVktJTkpfYTFaN1dIdw?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qa3NzRktGTHlQNUpvUmVta09HWEQ1LV8yalZmWm51QjU5YkdHODdtNUFCWVVZbkhPdUxUVUlYNGRXYVAxSElOSnBubGtnejlDYjAtQkE3el9IWlBCRkFtaEN1M2RCQQ?oc=5",
@@ -4999,7 +4983,23 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812735&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812734&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812733&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261024_0003839369"
+    "https://www.newsis.com/view/NISX20261024_0003839369",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIZVIzdXU4c1BsSEJaS2J1X1hxOXdHM09mMy1GUTBhb09vVWJaTllnN09IaEp1Mkt3LWdKdFVPZlFId2VHR2F2S2NuSy1XczBjcHByZThOU3U4UXhRd2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TTTBVTlk5Um1GOGZEWWRJREFkN3ZJMEJtd01JZVNCdDdMemNGMHdKT19feWZxRkNRZkVDam1vVlpqMnlHblRRY0ZFSHpNSWVaeEhUbFRTSHVwTWMtRlE?oc=5",
+    "https://www.yna.co.kr/view/AKR20261024008300057",
+    "https://www.yna.co.kr/view/AKR20261023025100017",
+    "https://www.yna.co.kr/view/AKR20261024007700053",
+    "https://www.yna.co.kr/view/AKR20261023147800530",
+    "https://www.yna.co.kr/view/AKR20261024007300072",
+    "https://www.chosun.com/sports/football/2026/10/24/MIYTOMZZHFRTSMDFMYYDANBXHE/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/24/7QMDGHIFZNFT3H4WMP4EE6HCNI/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kUzF4Q2d4Vm1maGFuQ3VWVURvenNCclJmc3JoVzhlSTF4aXhkeGZJUFAwT043S2g4blBRa01DbmFOVW1lTVN0X0lHMTY0RDU4YjhKSVBR?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812742&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812741&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812740&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261024_0003839370",
+    "https://www.yna.co.kr/view/AKR20261024008400062",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqcEZESEx2YkFVVk1YS2Y5TVBXZFoyMUFMd1MyQzNGWkhsVzlGR09ZOVQxZ0QxWW9ua0JkZXA0eTVBbWJfMFlsNWVVX19JZGVzSmN4ODBB?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7241,7 +7241,8 @@
     "강남수억내리고강북은신고가서울집값상승축이동",
     "뉴욕증시중동확전우려유가급등에하락다우12종합",
     "한판4만4000원씩주고수입했는데석달새계란값23급락이유는",
-    "뉴욕증시유가급등속하락마감다우123"
+    "뉴욕증시유가급등속하락마감다우123",
+    "강원횡성영동고속도로서차량3대추돌2명사망3명부상"
   ],
   "opinion_date": "2026-10-23",
   "seen_opinion_links": [
