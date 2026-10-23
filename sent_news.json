@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261023004800071",
-    "https://www.yna.co.kr/view/AKR20261023005000071",
-    "https://www.yna.co.kr/view/AKR20261023004500072",
-    "https://www.yna.co.kr/view/AKR20261023004900085",
-    "https://www.chosun.com/jp/sports-jp/2026/10/23/DLVHMBCAARHJRCTIVSEGIRHQO4/",
-    "https://www.chosun.com/sports/baseball/2026/10/23/HFRDCNDGMFRDMYTEMZRDAN3FME/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3bkhtVzhhTmxueVVKZTg3R3pmUEQ0SHBLWE5sYUxoVWpRank4bkIwcXBKd1JScjRxd2FkMTgteUl0SFZoTE16SURIaGhlQ2s4UnZOWkZ3?oc=5",
-    "https://www.donga.com/news/Inter/article/all/20261023/134894122/1",
-    "https://www.donga.com/news/Entertainment/article/all/20261023/134894119/1",
     "https://www.donga.com/news/Culture/article/all/20261023/134894116/1",
     "https://www.donga.com/news/Culture/article/all/20261023/134894113/1",
     "https://www.donga.com/news/Culture/article/all/20261023/134894110/1",
@@ -4999,7 +4990,16 @@
     "https://www.newsis.com/view/NISX20261020_0003832635",
     "https://www.newsis.com/view/NISX20261023_0003839351",
     "https://www.newsis.com/view/NISX20261023_0003839330",
-    "https://www.chosun.com/opinion/editorial/2026/10/24/KNFZRB2GWVGF3GWVRVCJVKJJWM/"
+    "https://www.chosun.com/opinion/editorial/2026/10/24/KNFZRB2GWVGF3GWVRVCJVKJJWM/",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZbmplX2YtdW16UGREcTQ4d1Y3T2I1eVJpcEhzbno1d3F0anlraXBtSldwcTc3NWNHdWZMOXBMWFQwTFRHYUM4R1dkbW4tVDJaUmZ3WlZaYTVLcnRMZXfSAWNBVV95cUxQMjd1Sk82eVNFMURyMDNJTTZIMm1aWXpvM2VWNmpMLWpFc2dxSjlKRkxtMmlFMlZyQ1piN0FLZUlsRGM1MzR4dFk2amJvUDh6bWpOanJCLWJxd0tvT1QxUUIybUU?oc=5",
+    "https://www.yna.co.kr/view/AKR20261024000200079",
+    "https://www.yna.co.kr/view/AKR20261024000100011",
+    "https://www.chosun.com/economy/weeklybiz/2026/10/23/BFVMBUFNEFC7NCVW2YYSXYUI2M/",
+    "https://www.chosun.com/jp/opinion-jp/2026/10/24/F2JI7ACVXRFBBKVWE7HLTJOAXQ/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812692&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261023_0003837888",
+    "https://www.newsis.com/view/NISX20261023_0003838905",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zY1hWOWFyUHI0M2daWDVibllZLWg3MC1mTTBmS0k2a0NqbG9TQl9tUjhTRGlqQWUtLVZWR21oNG92OTZ1TzY0TEhEQ0o2bk9qYWU0MTJrdXpWZzFSelJrT2FTTkYyNTdPZXBTN2tkRHR2U1JJNi1VV9IBeEFVX3lxTFB3Y2NNaE9ONk1oSlFYZnh6QzRzRmU0X3lCVTh4clJoOVdlV1VlZmxaUlgtYjNNak1XdXg2blo2MHFLMFRNU1U0eE1GRFFlS2JkMzdyd0J5M2VWNDNJbjlvUkllRW5IdmRia2QwT3dhUy1xZ0ZVRWxZbA?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7228,7 +7228,8 @@
     "케냐나이로비서건설중이던고층건물붕괴다수매몰우려",
     "개미가이겼다sk하이닉스솔리다임상장철회에급반등",
     "lh사장前정부집값폭등시한폭탄설치공급부족때문",
-    "한은총재가재정에상당한부담된다는석유최고가격제"
+    "한은총재가재정에상당한부담된다는석유최고가격제",
+    "sk하이닉스솔리다임상장전격중단주가는반등mbc뉴스"
   ],
   "opinion_date": "2026-10-23",
   "seen_opinion_links": [
