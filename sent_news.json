@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hYmpSYk5NaEs0dFRDaExZZVV2aDlBSHZiTkRTQV9PNGJYU1ZtQm1mb0huS1VySmlTa1BMdUZSTEt6c0NUV29wWXh6MFk3T0toSktZdTUyTW40anc?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nei03UXY4Mng4NVRJbjVPZmc1WXQ2NGZMTmVoS0lVc1dDZmtGV3ZaeGtmRE9SWG1jSE1sMURucFBEM3ZBYXZTUmQwLXliYzVlZnROeTNWdWk0OUk?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261023061655Xdy",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261023061527vY2",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261023061411Vgb",
     "https://www.yna.co.kr/view/AKR20261023011500504",
     "https://www.yna.co.kr/view/AKR20261023011300056",
     "https://www.yna.co.kr/view/AKR20261023009600091",
@@ -4999,7 +4994,12 @@
     "https://www.mk.co.kr/news/stock/12183070",
     "https://www.mk.co.kr/news/realestate/12183105",
     "https://www.mk.co.kr/news/business/12183059",
-    "https://www.mk.co.kr/news/economy/12183249"
+    "https://www.mk.co.kr/news/economy/12183249",
+    "https://www.yna.co.kr/view/AKR20261024002200071",
+    "https://www.chosun.com/sports/basketball/2026/10/24/ME2WMZTBMQ4DIYZVHBSTSZJTGQ/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/24/O4VTJVG27ZBX7FZY3IQDWQ3ZUU/",
+    "https://www.mk.co.kr/news/business/12183698",
+    "https://www.mk.co.kr/news/economy/12183693"
   ],
   "initialized_feeds": [
     "조선일보",
