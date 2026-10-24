@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261023132900008",
-    "https://www.yna.co.kr/view/AKR20261023131000055",
-    "https://www.yna.co.kr/view/AKR20261023125800001",
     "https://www.yna.co.kr/view/AKR20261023030452008",
     "https://www.yna.co.kr/view/AKR20261023130900063",
     "https://www.yna.co.kr/view/AKR20261023122800054",
@@ -4999,7 +4996,10 @@
     "https://www.newsis.com/view/NISX20261025_0003839740",
     "https://www.newsis.com/view/NISX20261024_0003839734",
     "https://www.newsis.com/view/NISX20261024_0003839562",
-    "https://www.newsis.com/view/NISX20261023_0003838794"
+    "https://www.newsis.com/view/NISX20261023_0003838794",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fNDd2d1JTQzZXaWYtMTM0WjYwRnV5XzdkelFzeTdBRDRacThIMS15cFA5RWhmckhNSlphTUJhYzJzUGpPOWFXRTVmaW5ZYmFGa3lsN0w4RHZXbGVPS3cwUUQwN0ZxOG1qeW0weDJzNA?oc=5",
+    "https://www.chosun.com/jp/sports-jp/2026/10/25/LQSKRVRHD5CQRE3ASYAQPPTMVU/",
+    "https://www.chosun.com/sports/world-football/2026/10/25/MYYDGZJRG5RWKNLBGBRTSMDCGQ/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7291,5 +7291,9 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZaF9YZHAtYlFUTGxjQURmSXYxOEVlWkp0RFduNmRsNFVwM2Z5aGM1bXdGQlFVcjNvMXllOHUyYnJWdlUzV2c?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "채널A": {
+      "failing_since": "2026-10-24T19:15+00:00"
+    }
+  }
 }
