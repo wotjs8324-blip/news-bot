@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261023_0003838885",
-    "https://www.newsis.com/view/NISX20261023_0003838886",
-    "https://www.newsis.com/view/NISX20261023_0003838868",
-    "https://www.newsis.com/view/NISX20261023_0003838856",
-    "https://www.newsis.com/view/NISX20261023_0003838870",
-    "https://www.newsis.com/view/NISX20261023_0003838754",
-    "https://www.newsis.com/view/NISX20261023_0003838837",
-    "https://www.newsis.com/view/NISX20261023_0003838858",
-    "https://www.newsis.com/view/NISX20261023_0003838872",
     "https://www.newsis.com/view/NISX20261023_0003838848",
     "https://www.newsis.com/view/NISX20261023_0003838701",
     "https://www.newsis.com/view/NISX20261023_0003838857",
@@ -4999,7 +4990,16 @@
     "https://www.yna.co.kr/view/AKR20261025000500083",
     "https://www.newsis.com/view/NISX20261024_0003839486",
     "https://www.chosun.com/jp/culture-life-jp/2026/10/25/2XSEUVKOS5ADPKJZ2VUCH6YXDE/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/25/GFQWGNRSGBRWMZDFGFQTIZBSME/"
+    "https://www.chosun.com/entertainments/broadcast/2026/10/25/GFQWGNRSGBRWMZDFGFQTIZBSME/",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261025012551166",
+    "https://www.yna.co.kr/view/AKR20261025000600071",
+    "https://www.yna.co.kr/view/AKR20261024052551085",
+    "https://www.chosun.com/sports/baseball/2026/10/25/HEZDIYTBGVRWMMLEHE2DCZRRGI/",
+    "https://www.chosun.com/sports/baseball/2026/10/25/GQ2DONTCMRSDIMJYG5SDMMBYGE/",
+    "https://www.chosun.com/sports/baseball/2026/10/25/GFRDGMZQG4ZDGZJXGNTGCMRQGU/",
+    "https://www.chosun.com/sports/volleyball/2026/10/25/G42TCM3DGJSWKYTGMZRGMZBSGE/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/25/ST4INI6IWJC5DHBRJC5EI2RNOU/",
+    "https://www.chosun.com/sports/football/2026/10/25/GQ4WKYTGGEYTAMBVMNTGMMZWGE/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7288,15 +7288,5 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZaF9YZHAtYlFUTGxjQURmSXYxOEVlWkp0RFduNmRsNFVwM2Z5aGM1bXdGQlFVcjNvMXllOHUyYnJWdlUzV2c?oc=5"
   ],
-  "feed_health": {
-    "SBS": {
-      "failing_since": "2026-10-24T16:15+00:00"
-    },
-    "SBS 경제": {
-      "failing_since": "2026-10-24T16:15+00:00"
-    },
-    "SBS 사회": {
-      "failing_since": "2026-10-24T16:15+00:00"
-    }
-  }
+  "feed_health": {}
 }
