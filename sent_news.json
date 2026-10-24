@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00aW8teHRSSy00bTJ2VjNFRURSNG9VZkk1UWM2N1ZwdXBtdGZQXzM5Zml4aFlqLVdETFdpUE9VbVNSaG9acElvaWdwVVZBLWZCR0VrUExMdGNqQkFLUGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54NVMzODJObUFOTzNQbU1FLVFoNFhDM0NXbVI4LUQzYmpvRVlLWnZBQTRxYjFOZnhTcV92dnpPNXdvbjFRZlM0UE96elpjRG9qTG9mMWJQd1h0aTJKR3c?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261023153744d1M",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261023153507yOc",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261023153339sIf",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261023153152uJw",
     "https://www.yna.co.kr/view/AKR20261023052351004",
     "https://www.yna.co.kr/view/AKR20261023130500061",
     "https://www.yna.co.kr/view/AKR20261023125400009",
@@ -4999,7 +4993,13 @@
     "https://www.newsis.com/view/NISX20261021_0003835093",
     "https://www.newsis.com/view/NISX20261021_0003834766",
     "https://www.newsis.com/view/NISX20261020_0003833611",
-    "https://www.newsis.com/view/NISX20261020_0003833676"
+    "https://www.newsis.com/view/NISX20261020_0003833676",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwLTFPVGthMTVDOERXZlEtVkJpRmNWSHBkbExyaXpUS0p2amZrdnRBejJUSkNfcUlUQjBCOUZhVVdwY25uVFFncDkxSDZ5QUZRTXZnc3BmdFVoQUl6TWpCM1p0SmV4Zw?oc=5",
+    "https://www.newsis.com/view/NISX20261024_0003839563",
+    "https://www.newsis.com/view/NISX20261025_0003839735",
+    "https://www.mk.co.kr/news/stock/12184183",
+    "https://www.mk.co.kr/news/realestate/12184186",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GVkFLMHdwaENWa0tzMnl1b2hBOFh4VFZFVVU3M0ZUNDJ5blN5b2RkVXVwSi1vVFRpS0hIUGgxQmRXclkzRlU3VmdsWEJtRU1VaGRreDNZUUtpbWxsVDRkTVhKY9IBY0FVX3lxTE9GVkFLMHdwaENWa0tzMnl1b2hBOFh4VFZFVVU3M0ZUNDJ5blN5b2RkVXVwSi1vVFRpS0hIUGgxQmRXclkzRlU3VmdsWEJtRU1VaGRreDNZUUtpbWxsVDRkTVhKYw?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7285,5 +7285,15 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZaF9YZHAtYlFUTGxjQURmSXYxOEVlWkp0RFduNmRsNFVwM2Z5aGM1bXdGQlFVcjNvMXllOHUyYnJWdlUzV2c?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "SBS": {
+      "failing_since": "2026-10-24T15:03+00:00"
+    },
+    "SBS 경제": {
+      "failing_since": "2026-10-24T15:03+00:00"
+    },
+    "SBS 사회": {
+      "failing_since": "2026-10-24T15:03+00:00"
+    }
+  }
 }
