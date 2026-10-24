@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/jp/economy-jp/2026/10/23/HUCMVG6KCNGXVC3JV3AL76WCZM/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PSVllQjh3dXlkQjBuM1RTd1FxdzhXU2t1WWRNWFpmWGN6akFsNjV2UDRZbjJCTXhtaGVZNkN3cHM0Z1JmeE1uY29VOWk0Z2dxc1JEM0Nn?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5odFZGdERTTWJNanpJdjZNZ1dOeTBPWU83SC1VYk41M004NGl2a3pfNFFaY29hY1A2cDYtVDFaUnBBSmJuVk9GUWpBdW5nVDR1QlF0cXBR?oc=5",
-    "https://www.donga.com/news/Sports/article/all/20261023/134896573/1",
-    "https://www.donga.com/news/Entertainment/article/all/20261023/134896895/1",
     "https://www.donga.com/news/Culture/article/all/20261023/134896760/2",
     "https://www.donga.com/news/Society/article/all/20261023/134896208/2",
     "https://www.donga.com/news/Economy/article/all/20261023/134896507/1",
@@ -4999,7 +4994,12 @@
     "https://www.yonhapnewstv.co.kr/news/AKR20261025003041iKa",
     "https://www.chosun.com/entertainments/broadcast/2026/10/25/MFSTEMZZMQZDGMDCGE4GCMDGGQ/",
     "https://www.chosun.com/jp/culture-life-jp/2026/10/25/EBDBOR4ADFDC3K2Z6ZUOYCPMRY/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdlNBc2ZVbGh5cGQ0SkdMUzdXSlRPeEl5NjM5UVloaVFCanU4S2xnQlZsSmZadXdSTUJLc2xNU2F5V0FkVTg2X1dValRINUZsa2dBS2VB?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdlNBc2ZVbGh5cGQ0SkdMUzdXSlRPeEl5NjM5UVloaVFCanU4S2xnQlZsSmZadXdSTUJLc2xNU2F5V0FkVTg2X1dValRINUZsa2dBS2VB?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yWElGMXhjSDZsNnpmVnNsTXZIcTNfdmZ6YTJ5Z2Q3SnRiM2FtNWtGVEhlSDRHTWt6NWJHTFdzUlphWS0xWk1DZ0R2S005YVNFMUl4ZU9pRjlhZUN3bmc?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261025003652P3v",
+    "https://www.yna.co.kr/view/AKR20261025000200109",
+    "https://www.chosun.com/sports/basketball/2026/10/25/GIZGKMRTGBSWINTFGI3GIZBSG4/",
+    "https://www.yna.co.kr/view/AKR20261025000400072"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7270,7 +7270,8 @@
     "겨우막던이자고금리에밀리기시작했다은행대출연체율10년래최고",
     "김정은집권후6번방중이번엔시진핑과정상회담없을듯",
     "뉴욕증시중동확전우려유가급등에하락마감ytn",
-    "中칭하이성서규모53지진티베트70강진의여진"
+    "中칭하이성서규모53지진티베트70강진의여진",
+    "美연준내주금리동결할까시장은12월추가인상전망"
   ],
   "opinion_date": "2026-10-24",
   "seen_opinion_links": [
