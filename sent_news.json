@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261023115000009",
-    "https://www.yna.co.kr/view/AKR20261023123900004",
-    "https://www.yna.co.kr/view/AKR20261023125100004",
-    "https://www.yna.co.kr/view/AKR20261023090951009",
-    "https://www.yna.co.kr/view/AKR20261023122300054",
-    "https://www.yna.co.kr/view/AKR20261023124900004",
-    "https://www.yna.co.kr/view/AKR20261023124700002",
-    "https://www.yna.co.kr/view/AKR20261023123600062",
     "https://www.yna.co.kr/view/AKR20261023116900053",
     "https://www.yna.co.kr/view/AKR20261023123800002",
     "https://www.yna.co.kr/view/AKR20261023121800051",
@@ -4999,7 +4991,15 @@
     "https://www.hankyung.com/article/202610231278i",
     "https://www.mk.co.kr/news/stock/12184176",
     "https://www.mk.co.kr/news/business/12184165",
-    "https://www.mk.co.kr/news/business/12183950"
+    "https://www.mk.co.kr/news/business/12183950",
+    "https://www.yna.co.kr/view/AKR20261024050552083",
+    "https://www.chosun.com/economy/economy_general/2026/10/24/G4ZTGZTBGMZDANJRGQ2DONJVGQ/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EM1RraUxiakI0N0RXRDM2RzFqQnp0TTd6VXd1cGlDeFNGR1hPb0ZUWThLZVFsay0tTndCb1NDLU1MQjVPbS01M0JFdUswd0ZXQ3A0VnpR?oc=5",
+    "https://www.donga.com/news/Inter/article/all/20261024/134901443/1",
+    "https://www.donga.com/news/Society/article/all/20261024/134901437/1",
+    "https://www.donga.com/news/Society/article/all/20261024/134901434/1",
+    "https://www.newsis.com/view/NISX20261020_0003833677",
+    "https://www.newsis.com/view/NISX20261024_0003839706"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7285,9 +7285,5 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZaF9YZHAtYlFUTGxjQURmSXYxOEVlWkp0RFduNmRsNFVwM2Z5aGM1bXdGQlFVcjNvMXllOHUyYnJWdlUzV2c?oc=5"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-10-24T13:21+00:00"
-    }
-  }
+  "feed_health": {}
 }
