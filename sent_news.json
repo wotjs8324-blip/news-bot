@@ -1,20 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Culture/article/all/20261023/134896760/2",
-    "https://www.donga.com/news/Society/article/all/20261023/134896208/2",
-    "https://www.donga.com/news/Economy/article/all/20261023/134896507/1",
-    "https://www.donga.com/news/Politics/article/all/20261023/134896771/1",
-    "https://www.donga.com/news/Politics/article/all/20261023/134896868/1",
-    "https://www.donga.com/news/Economy/article/all/20261023/134895668/1",
-    "https://www.donga.com/news/Economy/article/all/20261023/134896830/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812231&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812225&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812230&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812221&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812219&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812220&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812218&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261023_0003838887",
     "https://www.newsis.com/view/NISX20261023_0003838876",
     "https://www.newsis.com/view/NISX20261023_0003838884",
     "https://www.newsis.com/view/NISX20261023_0003838875",
@@ -4999,7 +4984,22 @@
     "https://www.yonhapnewstv.co.kr/news/AKR20261025003652P3v",
     "https://www.yna.co.kr/view/AKR20261025000200109",
     "https://www.chosun.com/sports/basketball/2026/10/25/GIZGKMRTGBSWINTFGI3GIZBSG4/",
-    "https://www.yna.co.kr/view/AKR20261025000400072"
+    "https://www.yna.co.kr/view/AKR20261025000400072",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ub0tPcGNTdktGSW1FdVFSdUFHRUlBN3RFbW9QSGVoZGJkUWNKSmEySnJYVUZUUEg2OURabmVyZlBMWEFmUEZFLW9nNllySEQ3cnpOMFhCNWJXaGFEMmlQRDVOR0laZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93TXZWeTFia1F1UHJNZjFyYm5FeFdrTEdPTnZNNVZUbnpicnhSYjl2SHBRZGFwNVY2N1VsTGhnZF9kTlo1ZjhqRmFLYXJ6QzdSSUdJY2k0WlBDaFBZMmZnQ1J3SW8wZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jRXlQYzlMdGpHQXhLMmRQTTN5ZUx1VTliVzRCR3dfaWNPREFEaHA5dWIzZVBKR01oa1A3ejNsbGdMYVp5RFVvSHVmSjNBU3FFNVZyaC1nZmpCeHFyYUdqVjllOUF0Zw?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261025005720hVx",
+    "https://www.chosun.com/jp/sports-jp/2026/10/25/VUL5BI2ZPRCYVITQSGBV42XUNU/",
+    "https://www.chosun.com/sports/world-baseball/2026/10/25/MEZGIZBRMVSWMNZRGA3GIZDCG4/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5odFZGdERTTWJNanpJdjZNZ1dOeTBPWU83SC1VYk41M004NGl2a3pfNFFaY29hY1A2cDYtVDFaUnBBSmJuVk9GUWpBdW5nVDR1QlF0cXBR?oc=5",
+    "https://www.newsis.com/view/NISX20261024_0003839451",
+    "https://www.newsis.com/view/NISX20261024_0003839410",
+    "https://www.newsis.com/view/NISX20261023_0003838847",
+    "https://www.newsis.com/view/NISX20261023_0003838768",
+    "https://www.newsis.com/view/NISX20261023_0003838328",
+    "https://www.newsis.com/view/NISX20261024_0003839732",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzLUFhamVRdzNsQkJfTWN4MHoxT0dlbGVVTExuMkdoV2puNVNBcXRVejRubGFYS3dzU21CYWhINTBrbzFENHNBQWtWcGhraF81LXpUTE1CUHVZTlhZNmg0c25CTkVzUQ?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261025005244CEx"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7271,7 +7271,8 @@
     "김정은집권후6번방중이번엔시진핑과정상회담없을듯",
     "뉴욕증시중동확전우려유가급등에하락마감ytn",
     "中칭하이성서규모53지진티베트70강진의여진",
-    "美연준내주금리동결할까시장은12월추가인상전망"
+    "美연준내주금리동결할까시장은12월추가인상전망",
+    "美연준내주금리동결하나시장에선12월은추가인상전망"
   ],
   "opinion_date": "2026-10-24",
   "seen_opinion_links": [
