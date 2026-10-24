@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261023_0003838871",
-    "https://www.newsis.com/view/NISX20261023_0003838840",
     "https://www.newsis.com/view/NISX20261023_0003838885",
     "https://www.newsis.com/view/NISX20261023_0003838886",
     "https://www.newsis.com/view/NISX20261023_0003838868",
@@ -4999,7 +4997,9 @@
     "https://www.yonhapnewstv.co.kr/news/AKR20261025005244CEx",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3R0J4aGVNQnFOS05RRVlnZlRNNjlYVzN1Y28xMkJoc3VmekVhUXhrWUNTeWlLYXpHdUpoc2JVMWFaYXhILWxSM2hxMnZ6U1lmVUg2blN4WjBfdWVCOWQtRUhpY1kxQQ?oc=5",
     "https://www.yna.co.kr/view/AKR20261025000500083",
-    "https://www.newsis.com/view/NISX20261024_0003839486"
+    "https://www.newsis.com/view/NISX20261024_0003839486",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/25/2XSEUVKOS5ADPKJZ2VUCH6YXDE/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/25/GFQWGNRSGBRWMZDFGFQTIZBSME/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7288,5 +7288,15 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZaF9YZHAtYlFUTGxjQURmSXYxOEVlWkp0RFduNmRsNFVwM2Z5aGM1bXdGQlFVcjNvMXllOHUyYnJWdlUzV2c?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "SBS": {
+      "failing_since": "2026-10-24T16:15+00:00"
+    },
+    "SBS 경제": {
+      "failing_since": "2026-10-24T16:15+00:00"
+    },
+    "SBS 사회": {
+      "failing_since": "2026-10-24T16:15+00:00"
+    }
+  }
 }
