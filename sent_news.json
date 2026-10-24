@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261023_0003838780",
-    "https://www.newsis.com/view/NISX20261023_0003838825",
-    "https://www.newsis.com/view/NISX20261023_0003838860",
-    "https://www.newsis.com/view/NISX20261023_0003838928",
-    "https://www.newsis.com/view/NISX20261023_0003838947",
     "https://www.newsis.com/view/NISX20261023_0003838943",
     "https://www.newsis.com/view/NISX20261023_0003838944",
     "https://www.newsis.com/view/NISX20261023_0003838937",
@@ -4999,7 +4994,12 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813447&plink=RSSLINK&cooper=RSSREADER",
     "https://www.mk.co.kr/news/economy/12184249",
     "https://www.mk.co.kr/news/stock/12184242",
-    "https://www.yna.co.kr/view/AKR20261024028000008"
+    "https://www.yna.co.kr/view/AKR20261024028000008",
+    "https://www.yna.co.kr/view/AKR20261024041400003",
+    "https://www.newsis.com/view/NISX20261025_0003839736",
+    "https://www.newsis.com/view/NISX20261025_0003839745",
+    "https://www.newsis.com/view/NISX20261023_0003839085",
+    "https://www.newsis.com/view/NISX20261025_0003839746"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7279,7 +7279,8 @@
     "취임4주년이재용최대실적삼성전자발판기술투자ma구상",
     "고점대비56급락sk하이닉스이번주실적발표반등계기되나",
     "홍콩els식제재엇박막는다금융위금감원사전조율공식화",
-    "코스피급락에10대그룹시총한달새1천100조원증발"
+    "코스피급락에10대그룹시총한달새1천100조원증발",
+    "러극동캄차카반도동해안에서또규모55지진gfz"
   ],
   "opinion_date": "2026-10-24",
   "seen_opinion_links": [
@@ -7295,5 +7296,15 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZaF9YZHAtYlFUTGxjQURmSXYxOEVlWkp0RFduNmRsNFVwM2Z5aGM1bXdGQlFVcjNvMXllOHUyYnJWdlUzV2c?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "SBS": {
+      "failing_since": "2026-10-24T21:32+00:00"
+    },
+    "SBS 경제": {
+      "failing_since": "2026-10-24T21:32+00:00"
+    },
+    "SBS 사회": {
+      "failing_since": "2026-10-24T21:32+00:00"
+    }
+  }
 }
