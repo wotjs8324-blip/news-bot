@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811516&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811489&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811467&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12183847",
-    "https://www.mk.co.kr/news/economy/12183825",
-    "https://www.mk.co.kr/news/economy/12183816",
-    "https://www.mk.co.kr/news/society/12183872",
-    "https://www.mk.co.kr/news/society/12183851",
-    "https://www.mk.co.kr/news/society/12183844",
-    "https://www.mk.co.kr/news/society/12183822",
-    "https://www.newsis.com/view/NISX20261023_0003838115",
     "https://www.newsis.com/view/NISX20261023_0003837944",
     "https://www.newsis.com/view/NISX20261023_0003838181",
     "https://www.newsis.com/view/NISX20261023_0003838126",
@@ -4999,7 +4988,18 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812994&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261024_0003839460",
     "https://www.newsis.com/view/NISX20261024_0003839473",
-    "https://www.newsis.com/view/NISX20261024_0003839456"
+    "https://www.newsis.com/view/NISX20261024_0003839456",
+    "https://www.yna.co.kr/view/AKR20261024023000062",
+    "https://www.yna.co.kr/view/AKR20261024022800055",
+    "https://www.donga.com/news/Politics/article/all/20261024/134900657/2",
+    "https://www.newsis.com/view/NISX20261023_0003839136",
+    "https://www.newsis.com/view/NISX20261023_0003839120",
+    "https://www.newsis.com/view/NISX20261023_0003839056",
+    "https://www.newsis.com/view/NISX20261024_0003839474",
+    "https://www.newsis.com/view/NISX20261024_0003839475",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226839",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226832",
+    "https://www.newsis.com/view/NISX20261024_0003839443"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7254,7 +7254,8 @@
     "세제개편시행땐세부담증가곳곳서하소연",
     "인니증시반값됐다상반기1위서최저가로코스피바닥논쟁",
     "미이란확정우려에무너진금값뉴욕증시끌어내려",
-    "美eu빅테크규제어깃장유럽산철강관세못내려위협"
+    "美eu빅테크규제어깃장유럽산철강관세못내려위협",
+    "lh사장李정부3년후공급본격화집값바로폭락할것"
   ],
   "opinion_date": "2026-10-23",
   "seen_opinion_links": [
