@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261023_0003838464",
-    "https://www.newsis.com/view/NISX20261023_0003838749",
-    "https://www.newsis.com/view/NISX20261023_0003838762",
     "https://www.newsis.com/view/NISX20261023_0003838760",
     "https://www.newsis.com/view/NISX20261023_0003838751",
     "https://www.hankyung.com/article/202610230513i",
@@ -4999,7 +4996,10 @@
     "https://www.mk.co.kr/news/stock/12184884",
     "https://www.hankyung.com/article/2026102426727",
     "https://www.hankyung.com/article/2026102426667",
-    "https://www.hankyung.com/article/2026102426647"
+    "https://www.hankyung.com/article/2026102426647",
+    "https://www.yna.co.kr/view/AKR20261024053000007",
+    "https://www.yna.co.kr/view/AKR20261024052600005",
+    "https://www.yna.co.kr/view/AKR20261024052500085"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7285,9 +7285,5 @@
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c1lpbUJnaXU0bVBBZEJTWkV3cHAtelpkVTM2eV9tM1pXVjkwVnR0UHdSVzVWYnNsY2JxemZHWmFRbWJzZ0hFTFBoU002YXpSVGc?oc=5",
     "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZaF9YZHAtYlFUTGxjQURmSXYxOEVlWkp0RFduNmRsNFVwM2Z5aGM1bXdGQlFVcjNvMXllOHUyYnJWdlUzV2c?oc=5"
   ],
-  "feed_health": {
-    "연합뉴스": {
-      "failing_since": "2026-10-24T12:30+00:00"
-    }
-  }
+  "feed_health": {}
 }
