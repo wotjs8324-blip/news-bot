@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3aVpnU0xmbjJCdkMtUkdscmNFNTNTQmxKN1NjODNfNjM2ZnJFYkMwTlk2RlFKYzVXdU5BMGZzRndlQ1lnVTcyRjhwZURWX1dkY0h5T1VR?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqVnJkTkVIUVRDWmRVUmJPS2hvM08tZjU4QnBiS1Q4RTNhYWJjRktfTXJ5OWR6T0xJeURVUmRWUTBtTlE3MTRoZnFIMUNDU1U2azQydEh3?oc=5",
-    "https://www.donga.com/news/Entertainment/article/all/20261024/134901039/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813120&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813084&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/society/12184820",
     "https://www.mk.co.kr/news/society/12184819",
     "https://www.newsis.com/view/NISX20261024_0003839566",
     "https://www.newsis.com/view/NISX20261024_0003839578",
@@ -4999,7 +4993,13 @@
     "https://www.hankyung.com/article/202610242427i",
     "https://www.hankyung.com/article/202610231279g",
     "https://www.yna.co.kr/view/AKR20261026007500087",
-    "https://www.hankyung.com/article/2026102638807"
+    "https://www.hankyung.com/article/2026102638807",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43dkdINXFhXzhtZTVCdGc5X1hPU29WdFRBZlVXaEwwLW9tVzJVQnNnRE40SnV5MDVvZWFsaDZ1cERFOVpFRHF5dElUbi1ZZ3hmakxVdXlR?oc=5",
+    "https://www.mk.co.kr/news/economy/12185294",
+    "https://www.mk.co.kr/news/society/12185055",
+    "https://www.newsis.com/view/NISX20261023_0003839061",
+    "https://www.newsis.com/view/NISX20261021_0003835208",
+    "https://www.mk.co.kr/news/business/12184815"
   ],
   "initialized_feeds": [
     "조선일보",
