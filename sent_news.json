@@ -7360,23 +7360,14 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxSzU1QVNSd1RXZHFNVS02U25BSy1xQ1FvYlg5Y0pwbzhFbXRsQ2VuV2tycWZrT0NpM1FLWUpkU19BUHFwcndTTmdyNGpzZHpQRGNVcU5xZw?oc=5"
   ],
   "feed_health": {
-    "KBS": {
-      "failing_since": "2026-10-25T18:11+00:00"
+    "SBS": {
+      "failing_since": "2026-10-25T18:15+00:00"
     },
-    "MBC": {
-      "failing_since": "2026-10-25T18:11+00:00"
+    "SBS 경제": {
+      "failing_since": "2026-10-25T18:15+00:00"
     },
-    "YTN": {
-      "failing_since": "2026-10-25T18:11+00:00"
-    },
-    "채널A": {
-      "failing_since": "2026-10-25T18:11+00:00"
-    },
-    "중앙일보": {
-      "failing_since": "2026-10-25T18:11+00:00"
-    },
-    "중앙일보 경제": {
-      "failing_since": "2026-10-25T18:11+00:00"
+    "SBS 사회": {
+      "failing_since": "2026-10-25T18:15+00:00"
     }
   }
 }
