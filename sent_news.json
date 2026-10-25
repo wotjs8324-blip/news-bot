@@ -1,20 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/sports/sports_photo/2026/10/23/MFRTQYRQMYYTEZBWGM4TCMJYG4/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/23/CXNPB36QCJBPHMJOYSYINJEURI/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92TWpHczBPaEprTVdOTmF1MVVjeTZTWjFKdnYwNVM5dXFwMUNkaXE3c2hWRWU5QnR0WERVQjc5RG5RaG85dFpiRk1tb0ZITW45eEpISUFB?oc=5",
-    "https://www.donga.com/news/Politics/article/all/20261023/134899406/1",
-    "https://www.donga.com/news/Society/article/all/20261023/134899111/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812534&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812533&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812531&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812530&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812529&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812528&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812588&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812527&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812526&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812525&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812524&plink=RSSLINK&cooper=RSSREADER",
     "https://www.mk.co.kr/news/society/12184521",
     "https://www.newsis.com/view/NISX20261023_0003839266",
@@ -4999,7 +4984,22 @@
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226948",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5226947",
     "https://www.hankyung.com/article/2026102530707",
-    "https://www.hankyung.com/article/2026102531807"
+    "https://www.hankyung.com/article/2026102531807",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80YUVvQ1lXVV9RaDJYMklDRmJNeTlCNGg1bXJCSGZOQUJrb1lWU3RKRTVBWGpTbGVvcnl3d052OW04NnR4N1FxWWNPcnhDVFJzYXZZX2FIU1ZsV2YwU3dtc2NOcG10dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JYkR0UmhJa1NVSVFfcUgtN2NxREtwanJhWjhWSjdlbmVXQ3ZVcTFHRml0X0pmc0g0cktHdC1wQ1AwbC10NVgtTVdtcVFtOVdBN0tpbHlWMUhjTnlpZ1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wWEhsMkhsbnREc3JJcEx2QXcwUjI5NEZhdkNVbVFTUUxUbWRabWttUzAtcWt0UWNla1Vad1pSQ0QyNUhzQWpvM0dIVENTVHoyS2pJdU1KdHQ2czhXd0E?oc=5",
+    "https://www.yna.co.kr/view/AKR20261025023951007",
+    "https://www.chosun.com/sports/world-football/2026/10/25/MJTDIY3CG4YDIZTCGNTDQOBYMI/",
+    "https://www.donga.com/news/Inter/article/all/20261025/134902776/1",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813828&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261025_0003839937",
+    "https://www.newsis.com/view/NISX20261025_0003839964",
+    "https://www.newsis.com/view/NISX20261025_0003839967",
+    "https://www.newsis.com/view/NISX20261025_0003839962",
+    "https://www.newsis.com/view/NISX20261025_0003839951",
+    "https://www.newsis.com/view/NISX20261025_0003839955",
+    "https://www.mk.co.kr/news/realestate/12184990",
+    "https://www.newsis.com/view/NISX20261025_0003839939"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7299,7 +7299,8 @@
     "남태평양바누아투포트빌라북북서쪽서규모62지진발생",
     "日태평양오가사와라해역서규모70지진쓰나미우려없어",
     "삼성역20분대도착동탄이어집값급등열차예약했나",
-    "규정어기고금융업체주식소유kpic코포레이션공정위제재"
+    "규정어기고금융업체주식소유kpic코포레이션공정위제재",
+    "코스피한달새188급락에10대그룹시총1100조증발"
   ],
   "opinion_date": "2026-10-24",
   "seen_opinion_links": [
