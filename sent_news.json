@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811447&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YbGNGOERENXJHa3FTSzhyeV9nUkFWaUxJSzVrUnJWUUIwYUp6eE5iWGY0LUNDU2FVY0F1OVZrejJOM3UyVGQzbzdLRHFlNWxGODNTWmZTX0FORUU?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCWk5NdFEtSF9fd0ZRWUllejRUUV9oUGhaTDVFN2d6cFlEbktRRWJ6MVY5M2hBVm04T09yNEF6c2psZlJZZHZlT0pMWWI5ZXlOZVFuQVdjUUthd2RWNHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Q2x3bC1MQm5rak4tQjk1S3VPOFo4SThDcTJaMDRqbkU3cHJMVm5RREMxcjYzbTlSMElpRmZ3TFJfamgtRHh2RGJSb3FKNjlYOHMwOUZVeDY1amxCZ3c?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261024102541bCc",
-    "https://www.yonhapnewstv.co.kr/news/AKR2026102410240223V",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261024102151XFP",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261024102111fTz",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261024101623F8n",
     "https://www.yonhapnewstv.co.kr/news/MYH20261024101609VUo",
     "https://www.yonhapnewstv.co.kr/news/MYH20261024101533UIr",
     "https://www.yna.co.kr/view/AKR20261024021300060",
@@ -4999,7 +4990,16 @@
     "https://www.donga.com/news/Opinion/article/all/20261025/134905816/2",
     "https://www.donga.com/news/Opinion/article/all/20261025/134905814/2",
     "https://www.donga.com/news/Opinion/article/all/20261025/134906026/2",
-    "https://www.donga.com/news/Opinion/article/all/20261025/134906024/2"
+    "https://www.donga.com/news/Opinion/article/all/20261025/134906024/2",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMQzNFbGltYm13UlhyNi0yUk5ZaDBGNGloem9jQldtWXF3Y3JfcTN6ZnRQdVJkM2F6c0x0bHZfWUdEcFNXak9ZeENTNktwVVZsWU5mRUpTSmVLSHFSR3fSAWNBVV95cUxQZ2RNY1RYWFpabE5ZTXRVU2lhcGpLdXdVbVdnWm1IaWtuUlpvcktEdG9hVXlkajQ3Q2JIQW1sQnFJUUVKR0llYVZ4T3BoSXVmeW1aRndPVmw0LVpOSmtseDRKYXM?oc=5",
+    "https://www.donga.com/news/Opinion/article/all/20261025/134905812/3",
+    "https://www.hankyung.com/article/202610242271i",
+    "https://www.hankyung.com/article/2026102314556",
+    "https://www.hankyung.com/article/202610231571i",
+    "https://www.hankyung.com/article/2026102302206",
+    "https://www.hankyung.com/article/2026102302076",
+    "https://www.hankyung.com/article/2026102422807",
+    "https://www.hankyung.com/article/202610231657i"
   ],
   "initialized_feeds": [
     "조선일보",
