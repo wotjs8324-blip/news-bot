@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/26/5ZMAEDYGE5HBXJRINRTNAZDGVM/",
-    "https://www.chosun.com/politics/politics_general/2026/10/26/INCCSX4WNNFXFL3IIIJE36PIQE/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/26/OG5IKZVI4VEJLFZT7WDPSVJQO4/",
-    "https://www.chosun.com/economy/stock-finance/2026/10/26/GI3WMYRZMYZWCYLDME4TKMTCGI/",
-    "https://www.chosun.com/sports/volleyball/2026/10/26/HE4TOZBUGRQTQOBVMFSDIYJTMM/",
-    "https://www.chosun.com/jp/sports-jp/2026/10/26/TFLVGFBVZFA4PKUPI4DK5B66ZU/",
-    "https://www.chosun.com/politics/politics_general/2026/10/25/E6VAU7IPHVDEFDAYCK7LTM3M4M/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/25/55FGZV7IFNBN5C5OZMMP4AVTDA/",
-    "https://www.chosun.com/sports/world-baseball/2026/10/26/HFQTANBQHEYDKNZYGAZDINJTG4/",
-    "https://www.chosun.com/economy/market_trend/2026/10/26/MEZTOZJXMQYGGMDFGE4TCZRWMY/",
-    "https://www.chosun.com/jp/economy-jp/2026/10/26/HOWZB3VZEFEL3NJQUTSGCOIMTE/",
     "https://www.chosun.com/economy/industry-company/2026/10/26/GVQTIN3EHE3WKNRTGQYGKOBYMU/",
     "https://www.chosun.com/jp/economy-jp/2026/10/26/Y5IN7N4WRVGKHK3DBXMRILO4WE/",
     "https://www.chosun.com/entertainments/broadcast/2026/10/26/GJRWGOJZGA2GCMRYHFSTCOJQMI/",
@@ -4999,7 +4988,18 @@
     "https://www.chosun.com/economy/startup_story/2026/10/27/T3PPUCOVGVFAFIEPW7NCXKRVYI/",
     "https://www.chosun.com/economy/market_trend/2026/10/27/MY4WMOLDGUYWGZBYG4ZDINZRGQ/",
     "https://www.chosun.com/jp/economy-jp/2026/10/27/7UPSKXWE3NCCREOSN7AWR2ZG7E/",
-    "https://www.newsis.com/view/NISX20261027_0003841979"
+    "https://www.newsis.com/view/NISX20261027_0003841979",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261027054103Z7H",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261027053943jww",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261027053858pUM",
+    "https://www.yonhapnewstv.co.kr/news/MYH202610270538057a6",
+    "https://www.chosun.com/jp/economy-jp/2026/10/27/AJCZAXNS2NAQLFT7JLLZGZVM2M/",
+    "https://www.chosun.com/economy/industry-company/2026/10/27/OMJ2FL5UT5GEHKFQBT3TFGTVZY/",
+    "https://www.donga.com/news/Economy/article/all/20261027/134913778/1",
+    "https://www.donga.com/news/Entertainment/article/all/20261027/134913775/1",
+    "https://www.mk.co.kr/news/society/12186508",
+    "https://www.mk.co.kr/news/society/12186506",
+    "https://www.hankyung.com/article/202610276404i"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7534,9 +7534,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxSzU1QVNSd1RXZHFNVS02U25BSy1xQ1FvYlg5Y0pwbzhFbXRsQ2VuV2tycWZrT0NpM1FLWUpkU19BUHFwcndTTmdyNGpzZHpQRGNVcU5xZw?oc=5",
     "https://www.hankyung.com/article/2026102643611"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-10-26T20:38+00:00"
-    }
-  }
+  "feed_health": {}
 }
