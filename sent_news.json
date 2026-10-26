@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/national/regional/2026/10/26/ZRUPL5TK7RCSXPIQ265L6DMV5U/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/26/CT5RS7F3VFEHNKUEGHNLXNNN2I/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/26/MM4DKZJWGAYDGNBTMYYWKMBWG4/",
-    "https://www.chosun.com/national/weekend/2026/10/24/AVS6ZP5JZNCBXDU7YW5NV64XBE/",
-    "https://www.chosun.com/national/weekend/2026/10/24/YQLK3A6EVZFC7BDHGWAGGJUR7A/",
-    "https://www.chosun.com/national/weekend/2026/10/24/RTA437PUNZFLXPMP6FFVVD7TJ4/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/24/KS5HIIYRWNBX7I2XYKTKH3VJAI/",
     "https://www.chosun.com/national/weekend/2026/10/24/QQ3VQEN4C5HKZKZP5MHEAV5XAU/",
     "https://www.chosun.com/jp/politics-national-jp/2026/10/24/HXENH37EJZEO7OZ5RYWNRUVJAQ/",
     "https://www.chosun.com/jp/politics-national-jp/2026/10/24/OTHJVCFJ2NHJNM6IZ2AK3AV7WE/",
@@ -4999,7 +4992,14 @@
     "https://www.yna.co.kr/view/AKR20261026013300001",
     "https://www.newsis.com/view/NISX20261026_0003841682",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BVEhUd1VhdFBDMng2S1c4S2poMlY1WGtHaENYLWhNcnpLUzFvVEt0ajJOQmJQN05VR0wwenJVNDRuWDJ1MnR1NTc0WHotMEZyRlJDV0hEYXJfMWFnenfSAWNBVV95cUxNazRSM0NLZ0ZMOFlzQkc0SWVwa3YxOGV4dkEzcU1JX2dqX2xkVE5yWUpnOEtSUGN4MldEdTQtSWZKU0RhSDNGZUJkZWZ5UU41QWU1S1l2VEZ0ZkFiQkNTa29VeVU?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NWNfNV83UE83cVpNMC1yYUpseXNER0o4QzZwd0xVekI5cV85WFA5T014LS01ZzJ2OEVzcXBCZFhVOWpvaTJFeXlKVUFxX3otdWR5Z2tqSmZWLWJJVXfSAWNBVV95cUxNYTRLMEE4VmI1TnItUnhmUXhIajVJVExZV0JqNkRhQldnS3Fkem01ZkVpSnNzcGE5QmdSbkhZWU1qWFJ0V09xWHRDQkZjQkRwVWNRT2QwdlI2eVl4R3UtMDQzbWs?oc=5"
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NWNfNV83UE83cVpNMC1yYUpseXNER0o4QzZwd0xVekI5cV85WFA5T014LS01ZzJ2OEVzcXBCZFhVOWpvaTJFeXlKVUFxX3otdWR5Z2tqSmZWLWJJVXfSAWNBVV95cUxNYTRLMEE4VmI1TnItUnhmUXhIajVJVExZV0JqNkRhQldnS3Fkem01ZkVpSnNzcGE5QmdSbkhZWU1qWFJ0V09xWHRDQkZjQkRwVWNRT2QwdlI2eVl4R3UtMDQzbWs?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TRzl4aHlXUkN3Y2tjVVJoLURDR1NtODYzNUVvNy02X2tTb3ZXVnpEcEwwb0JacHF2OWR1cl9DRjdlaEtYWFFjbGRWLWc2dFFjNWNhVFRCTHdzdlJDXzl2RVp2Ylk0Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83Rkw4Ti1QT3Qxak9IWmdNa2t5MmVfd1FuYVZEX3QycGpMSnZHT0NaNEZWdmNieWlqdGJzVXVwMklVdzNHcDBuRS1WRkRqalI2MUFRdFZMakJzTjg?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyeGV5Zkd3bURaNm13ZTExV2QxcmlNWmRNTWQwV0lIVzNLYV9LQjVySVRfS1VFVGRGYXg4QzFUaGpIOXRuRDdKSndmT2lJby1rQUdobmJsdTRtb3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OdnRleVJqbXY2Y3pncmhSbS13eG9sUEJHbEM4WVl6NmZLNVBZdzlWMXY0Z3BkZGNDdWZHcHJ2RW1ObzQtVW9sMXdIc3k4ZWZhdXlUaW5XUzdNZ2s?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1QlpHb3NxVmxtMlJCUGRnQjh5elVpOXRfUWRtVE9BcWd3WEtqSjc0NjV1WHRPc1hyanVSVHZvVGMtdUltakd2TXVNQy1wZXJkM0JuMVJJOUF6OUZHcVE?oc=5",
+    "https://www.yna.co.kr/view/AKR20261027004000091",
+    "https://www.chosun.com/sports/baseball/2026/10/27/MYYGEOBWG4ZDKY3EGU3DQNRWGM/"
   ],
   "initialized_feeds": [
     "조선일보",
