@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814605&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.yna.co.kr/view/AKR20261026022000008",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwLTFPVGthMTVDOERXZlEtVkJpRmNWSHBkbExyaXpUS0p2amZrdnRBejJUSkNfcUlUQjBCOUZhVVdwY25uVFFncDkxSDZ5QUZRTXZnc3BmdFVoQUl6TWpCM1p0SmV4Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CVjFEZGJnOU1CcDZhR2FaYWNLRzM4akJMVGNGVXJlYUJCZkhRcjJxUmV5M1ZJLXF1X1Q5czRuNXBfZWhtWEMwd09NR2tCd3k0TUdCU0ExeXJybmhESV9uY1M2UkpMUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cDIyQWowa0gwbnRNMXo5bEM4STlpRENrZno2SkJRdVJRMkp2YTZNRW5ZbnNlY21lNGlacG1GWldVSGllTGRXcDFZZUZoNzVKamRJc2JqLW9XMDROOTNXdWVLalBpdw?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKUkFmVG44d0JlS1A3TVM2cDJaeF94OGpqWkRxVW1kWEptc3VjYy1nLThuVWlhOUNyMWR3d0prNXFNVzBBcTZXN3R1dW9CMHhyWmxBSThYRDJUUXBhX0NLRXFCT05QUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTWldWZWVXX2cwMXR6dkh2MnhCbC1ndk9BaVFKS0lDbU9WakdPVUxrWnN5V3JMNU55Rk1uM2J1Q2lILUtkaXlHdzNVUWZJQXpNaGxTZjc0UFdqQkIwOUF0dTQxNWtodw?oc=5",
@@ -4999,7 +4995,11 @@
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE02SkF1U3Q3RE5mdFBCOVhzZGVlQmlrRk9vcUJXaEVfTm1iemZuSWo1dlBuMzBUWVF0X1NLSndpMlBXOEU4d1ZyTng0WjU1TXAxTmIzX0hucmFVXzNpX3hhMFVtZzhiREV0M2Y3U1prdHFNdGk0eDkxQ9IBeEFVX3lxTE5mR2dmcnNRZ0M4a1FNUklsWHI0SktnNllYNDNFWUstODJ0YzJZQ1JpUVdCYjVGMUVMQk5ubFRiR3k3Z2V3Q0RxTWhtTS1oVHZFbURzeG9Ka3JEXzllSUJsQTBxRDhuRFRiRkpkT3ZyNFRycGlHUGZ6dw?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaR1Rrd3E4NlB3eHVOY1BibE1xWW4yTEtHZDNOYlM2NUtybmJNa3lLa1czV1d0amNnX2hqV1RmVWJ4VHM0cHM1a2lxWVNWT29SWnVVS1ZoallSazk3ZmfSAWNBVV95cUxQTVdHd1FwbkpHM1gxaFdLX0hvWGNsZF9RT0Z6bENmTjdMNWVBTEFPZjNMRE9XREpqa3BWRTVCdmFfOW55XzBXbmgweGJYcFpKM1p1UmtmZ294cnFPNXd5MFFWN2s?oc=5",
     "https://www.chosun.com/sports/baseball/2026/10/27/HA4DONJUME4GMYRQGJSTIMTCMM/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XNjQyMDY3YWJsNG5WV0ZBMnI1TjRxcHNVbUVuUm12ejExeHM4VkZYc2QwNUtpMnYxOFVtZVRldjdUSDQzZXFzQktYb3p1UjhqTTd1SHRR?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XNjQyMDY3YWJsNG5WV0ZBMnI1TjRxcHNVbUVuUm12ejExeHM4VkZYc2QwNUtpMnYxOFVtZVRldjdUSDQzZXFzQktYb3p1UjhqTTd1SHRR?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LQWVaMFd3Y3h1U2xscjl6ZUhaNm1xam5weF9xa0xQV1FXenhIQnNEbjlZcGZZVTNZWWJiNlc3Tkltb3B6LWpHSzdpVEZ4RUxER3lnRzltM2xJTmJOUmU1REhGMUduUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE53Ym9Jc3JhWTVfN1dNNDBJcUpjRWZnV2VsRGI1VzVWWmVWNENuRzNjekNfQk5JSjdVZXVSWG96bmxrZXIxMVRKcWgyZDlOMEZGeXVPNXRwTkVOdEo5anlxemxXcl9UcGxob1cyd2c3SQ?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zMS1rOWZWMkRxZ1dfcDBVdzBOeWVHaWhiUUR4ZjlDeFYzQ3JodWxBX3lqak52ejFTbXhtcUk5UUJZbGRtMk9vekRNZG5zdjJtVzdOM2U1WnI0QURucmNkZk43Q19BbjRhS1N6M3RBSQ?oc=5",
+    "https://www.chosun.com/jp/sports-jp/2026/10/27/L5ZLHNNAT5E2VJRQNSJZFOUGYE/"
   ],
   "initialized_feeds": [
     "조선일보",
