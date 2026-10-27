@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/sports/baseball/2026/10/23/GU2TSMJSMQZDSZRRGNSTCZTCG4/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/10/27/GBTDMNJWGUYDCMTGGBRGMOBZGE/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/27/MU4GMNLGGE2DKYTCGQ4TQY3GHA/",
-    "https://www.chosun.com/national/court_law/2026/10/27/2NDQX5EZ2VH45HZ5E5VJOAY774/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/27/BG4WIOD5OBGGZFPBVNMB7UIOCY/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/10/27/GQYDEYZVMRQTEOLCGZRDSZLDHE/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/10/27/G4YTCNJSMEYWMZRTGMZGIZTFGU/",
-    "https://www.chosun.com/sports/sports_general/2026/10/27/MU3DAYZRGY4WENJVHFRTCNBZMI/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/27/GAYDQNJSGZTGINZQHAYDOYZSGA/",
-    "https://www.chosun.com/jp/economy-jp/2026/10/27/76QXAZ4HUFHKPBDDIDKLKPVQTE/",
-    "https://www.chosun.com/economy/stock-finance/2026/10/27/GE4DCNRYG5SDCMJYHAYDIMDGGU/",
     "https://www.chosun.com/economy/economy_general/2026/10/27/GIYWCNJQMJSGENRTMMYTENBXMI/",
     "https://www.chosun.com/economy/economy_general/2026/10/27/HBQTAZDBHA4WEZLFHAYGEZRWMQ/",
     "https://www.chosun.com/jp/economy-jp/2026/10/27/VAITE4U53NAQLPTGZ35WELIP44/",
@@ -4999,7 +4988,18 @@
     "https://www.newsis.com/view/NISX20261027_0003843435",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxY082X3dKbHRTUkF0a2xDczY0ODFmX2lMNXhYNEE3eVpKbU5ZTlZ4NkZOOUFtUF9xRGxBc2R4VUJKQ2RLdFZlYTYwSjFnYzVlZGF2RkFR?oc=5",
     "https://www.yna.co.kr/view/AKR20261028004800071",
-    "https://www.chosun.com/sports/baseball/2026/10/28/GZRDCZLFMJRWMZTCHE2TGNZVGI/"
+    "https://www.chosun.com/sports/baseball/2026/10/28/GZRDCZLFMJRWMZTCHE2TGNZVGI/",
+    "https://www.yna.co.kr/view/AKR20261028005100071",
+    "https://www.chosun.com/sports/baseball/2026/10/28/MZRGKZDFHFRDSZDCMNSGMYRXGI/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/28/5MLGABJSLNGEFNNWW62FODRLLQ/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817965&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/economy/12187375",
+    "https://www.newsis.com/view/NISX20261027_0003843510",
+    "https://www.newsis.com/view/NISX20261027_0003842762",
+    "https://www.newsis.com/view/NISX20261027_0003842548",
+    "https://www.mk.co.kr/news/stock/12187371",
+    "https://www.newsis.com/view/NISX20261027_0003843283",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uMnNub0Y2X3doM0RqdkZqYmk2QzlGNHlITFdoMFlFdVZOMXlRaHVfQ01YVnVxY2tEWE5HNlgwZkZJN01iSGpXNnppUzBxSzloQ0JjVTF1R1NCVkVRQWc?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7708,7 +7708,9 @@
     "민주당조희대대법원장국정조사탄핵추진여부의총서결정채널a",
     "美정부당국자전작권한미는조건기반이양에합의한것",
     "박빙의이스라엘총선네타냐후유임교체여부결정상당시간필요할수도",
-    "증시변동성에도환율은1320원대명목실효환율2년만최고중앙일보"
+    "증시변동성에도환율은1320원대명목실효환율2년만최고중앙일보",
+    "sk하이닉스오늘3분기실적발표역대급주주환원책내놓나",
+    "트럼프대캐나다관세부메랑미국알루미늄가격급등ytn"
   ],
   "opinion_date": "2026-10-27",
   "seen_opinion_links": [
@@ -7727,15 +7729,5 @@
     "https://www.hankyung.com/article/2026102643611",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE84X0xDRnFiV2QybnFwUDR3RFFMbVBFZDBVejZwMmJMcGQtLXFPMUl6SDMxNHJGcXFBN2JQMUpIUHQxc3NhcXZVRGlFZ0F3UjFwcFhPbTN5ZmFGMTdiM2JXTEVFVWtVLWQtUWc?oc=5"
   ],
-  "feed_health": {
-    "SBS": {
-      "failing_since": "2026-10-27T19:24+00:00"
-    },
-    "SBS 경제": {
-      "failing_since": "2026-10-27T19:24+00:00"
-    },
-    "SBS 사회": {
-      "failing_since": "2026-10-27T19:24+00:00"
-    }
-  }
+  "feed_health": {}
 }
