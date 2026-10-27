@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/sports/baseball/2026/10/27/MJTDCZJUMRRTGMJSHFRDKZRYMM/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/10/27/HA2WCYRZMRSTCOLFGEYDMNBXHA/",
     "https://www.chosun.com/sports/baseball/2026/10/23/GU2TSMJSMQZDSZRRGNSTCZTCG4/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/10/27/GBTDMNJWGUYDCMTGGBRGMOBZGE/",
     "https://www.chosun.com/entertainments/broadcast/2026/10/27/MU4GMNLGGE2DKYTCGQ4TQY3GHA/",
@@ -4999,7 +4997,9 @@
     "https://www.chosun.com/sports/world-baseball/2026/10/28/GUYTINBTGE4WGZRQMRSTEMRSGI/",
     "https://www.newsis.com/view/NISX20261028_0003843749",
     "https://www.newsis.com/view/NISX20261027_0003843435",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxY082X3dKbHRTUkF0a2xDczY0ODFmX2lMNXhYNEE3eVpKbU5ZTlZ4NkZOOUFtUF9xRGxBc2R4VUJKQ2RLdFZlYTYwSjFnYzVlZGF2RkFR?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxY082X3dKbHRTUkF0a2xDczY0ODFmX2lMNXhYNEE3eVpKbU5ZTlZ4NkZOOUFtUF9xRGxBc2R4VUJKQ2RLdFZlYTYwSjFnYzVlZGF2RkFR?oc=5",
+    "https://www.yna.co.kr/view/AKR20261028004800071",
+    "https://www.chosun.com/sports/baseball/2026/10/28/GZRDCZLFMJRWMZTCHE2TGNZVGI/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7727,5 +7727,15 @@
     "https://www.hankyung.com/article/2026102643611",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE84X0xDRnFiV2QybnFwUDR3RFFMbVBFZDBVejZwMmJMcGQtLXFPMUl6SDMxNHJGcXFBN2JQMUpIUHQxc3NhcXZVRGlFZ0F3UjFwcFhPbTN5ZmFGMTdiM2JXTEVFVWtVLWQtUWc?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "SBS": {
+      "failing_since": "2026-10-27T19:24+00:00"
+    },
+    "SBS 경제": {
+      "failing_since": "2026-10-27T19:24+00:00"
+    },
+    "SBS 사회": {
+      "failing_since": "2026-10-27T19:24+00:00"
+    }
+  }
 }
