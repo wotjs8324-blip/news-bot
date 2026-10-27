@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816644&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816634&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816615&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816614&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815392&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815379&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815255&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12185835",
     "https://www.mk.co.kr/news/politics/12186785",
     "https://www.mk.co.kr/news/society/12186781",
     "https://www.newsis.com/view/NISX20261027_0003842680",
@@ -4999,7 +4991,15 @@
     "https://www.mk.co.kr/news/realestate/12186757",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ca0VYcHd0d0pjZ1p6OXk2ZDlqVTg0S3FwalplMVdCMDNDSEQ0eXUxOHlwQlBFQkw5R1lQS0hJX2NERzF1RTJjN1FRRFItMTVKeFlyc2JsWTVDMlVRQ0E?oc=5",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43X1A0YmFLeFB5VzFBcWpwUUZJeGNDcHQzdUszc0FWWU1BcXRZQVNWblZJd01Vd3JxdHNoRzB2c3Y2emsyRmdBVzlsNFRFSnl0bDFuVmhB?oc=5",
-    "https://www.mk.co.kr/news/stock/12186772"
+    "https://www.mk.co.kr/news/stock/12186772",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261028011221kUH",
+    "https://www.yna.co.kr/view/AKR20261028001500079",
+    "https://www.chosun.com/sports/world-football/2026/10/28/G5TDOZRQHBTDKMJXHAYTEN3FHA/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/28/EZU5UAQJJJGT5OYCRFPGOMHV2Y/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56Sjl3OThNNU1SUDJRcUlCQUdHdjlCeTByQkV5V1ZrYmZmNEg5ZkJFMFEtSjQ4MmdraE5vM29sOGFsZEdCenFGa3dWek9wdHlYa2RLT2dR?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817878&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TS1hDU0JDVHVwSE8zX1o4ZlZtZDE2d2ZJN2o1R2xycUEwWnllYUk5S3h0aEhhVUhVaENHWjAtcW1mTzg3T2hZNk9CUWJZcGhEWGVHMnJaT0FkMmJleHc?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817902&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7703,7 +7703,8 @@
     "펑소리에바람까지가스폭발로4명중경상ytn",
     "압구정재건축20억이상하락거래잇따라",
     "고금리에中企건전성비상기업銀연체율15년만에최고",
-    "강북마저끝모르고오르는구나7개월만에1억추가상승에무주택자비명"
+    "강북마저끝모르고오르는구나7개월만에1억추가상승에무주택자비명",
+    "대캐나다관세부메랑미국내알루미늄가격급등"
   ],
   "opinion_date": "2026-10-27",
   "seen_opinion_links": [
