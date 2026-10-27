@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261027_0003842521",
-    "https://www.newsis.com/view/NISX20261027_0003842522",
-    "https://www.newsis.com/view/NISX20261027_0003842350",
-    "https://www.newsis.com/view/NISX20261027_0003842515",
     "https://www.newsis.com/view/NISX20261027_0003842440",
     "https://www.newsis.com/view/NISX20261027_0003842514",
     "https://www.newsis.com/view/NISX20261027_0003842512",
@@ -4999,7 +4995,11 @@
     "https://www.hankyung.com/article/202610264971i",
     "https://www.mk.co.kr/news/stock/12186714",
     "https://www.mk.co.kr/news/business/12187719",
-    "https://www.hankyung.com/article/202610277057g"
+    "https://www.hankyung.com/article/202610277057g",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIMlNnaHFyVkRTc3RsR3lUOEQ0Ym5IdkppTm9MTWZiYm11bk4wTkJkU0dOZ3V1SndSbXkzcTJMVER4b2x0THpsRWtqNmgtX3RFY3Y5S0ln?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816312&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816311&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/economy/12186722"
   ],
   "initialized_feeds": [
     "조선일보",
