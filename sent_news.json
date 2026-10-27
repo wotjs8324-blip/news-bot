@@ -1,19 +1,5 @@
 {
   "seen_links": [
-    "https://www.mk.co.kr/news/economy/12185810",
-    "https://www.mk.co.kr/news/economy/12185800",
-    "https://www.mk.co.kr/news/society/12186764",
-    "https://www.newsis.com/view/NISX20261027_0003842519",
-    "https://www.newsis.com/view/NISX20261027_0003842604",
-    "https://www.newsis.com/view/NISX20261027_0003842256",
-    "https://www.newsis.com/view/NISX20261027_0003842327",
-    "https://www.newsis.com/view/NISX20261027_0003842232",
-    "https://www.newsis.com/view/NISX20261027_0003842161",
-    "https://www.newsis.com/view/NISX20261027_0003842313",
-    "https://www.newsis.com/view/NISX20261027_0003842279",
-    "https://www.newsis.com/view/NISX20261027_0003842046",
-    "https://www.newsis.com/view/NISX20261027_0003842263",
-    "https://www.newsis.com/view/NISX20261027_0003842252",
     "https://www.newsis.com/view/NISX20261027_0003842154",
     "https://www.newsis.com/view/NISX20261027_0003842212",
     "https://www.newsis.com/view/NISX20261027_0003842042",
@@ -4999,7 +4985,21 @@
     "https://www.chosun.com/jp/economy-jp/2026/10/27/JWZ6ZSSP75EQTICUCWM46P3N3E/",
     "https://www.chosun.com/economy/economy_general/2026/10/27/ME3WKNTBGY3TKNBQGEZTEOLCGA/",
     "https://www.newsis.com/view/NISX20261027_0003843622",
-    "https://www.hankyung.com/article/202610279079i"
+    "https://www.hankyung.com/article/202610279079i",
+    "https://www.chosun.com/sports/world-baseball/2026/10/28/MRQTCMDEGBTDEN3DGAYGKZJYGY/",
+    "https://www.chosun.com/sports/baseball/2026/10/28/MY2TCNJTHFRWGNRYGIZDCMRWMY/",
+    "https://www.chosun.com/opinion/editorial/2026/10/28/TWYHI5UXXBEM7BWLTZPKO36P7E/",
+    "https://www.chosun.com/jp/opinion-jp/2026/10/28/GB3EX37EE5CKXAQ6AKX6T2PP6U/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/28/BYLOCHS6PVETZJENPFEPP4M3TE/",
+    "https://www.chosun.com/sports/basketball/2026/10/28/MFRGKMJSHFSTENRSGY4DIZJXHA/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/28/MVJDSGMUNJHJZOKLSXYOYG3JXE/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/28/LUD6IBSJVZDFLL25J6Z4WH2QVM/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UTXlMTmxQQVRuMTROU25ldXQxS1dfTmt0dnVzejZyV3dKX1BrLWdCR3FtUjV1eXhyWUFWMUFfZGtSTGQ2eWNTSWVjZjhNdkQwOXV5OU1B?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlV0stMFpjdW5IY1FUX2Y1N1VSaHpOMi1zWWIzNWxvOU1lYjIyeDJZaXBvSW5rM2NnSjNPOVl3QVpyZ0ZuQXBSNlVkdngzdjZscGN5V3RR?oc=5",
+    "https://www.newsis.com/view/NISX20261027_0003842436",
+    "https://www.newsis.com/view/NISX20261027_0003842141",
+    "https://www.newsis.com/view/NISX20261028_0003843738",
+    "https://www.yna.co.kr/view/AKR20261027192200072"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7698,7 +7698,8 @@
     "삼성전자hbm매출하이닉스첫추월가능성주가재평가",
     "k뷰티에전세계러브콜중소기업수출도역대최대",
     "박장범kbs사장尹탄핵가결파면뒤휴대폰교체mbc뉴스",
-    "sk하이닉스미레버리지etf상장석달만에청산채널a"
+    "sk하이닉스미레버리지etf상장석달만에청산채널a",
+    "트럼프대캐나다관세부메랑미국내알루미늄가격급등"
   ],
   "opinion_date": "2026-10-27",
   "seen_opinion_links": [
