@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Society/article/all/20261027/134915305/2",
-    "https://www.donga.com/news/Culture/article/all/20261027/134915519/2",
-    "https://www.donga.com/news/It/article/all/20261027/134915648/2",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816644&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816634&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816615&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4996,10 @@
     "https://www.hankyung.com/article/2026102770486",
     "https://www.mk.co.kr/news/stock/12186761",
     "https://www.mk.co.kr/news/realestate/12185786",
-    "https://www.mk.co.kr/news/realestate/12186757"
+    "https://www.mk.co.kr/news/realestate/12186757",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ca0VYcHd0d0pjZ1p6OXk2ZDlqVTg0S3FwalplMVdCMDNDSEQ0eXUxOHlwQlBFQkw5R1lQS0hJX2NERzF1RTJjN1FRRFItMTVKeFlyc2JsWTVDMlVRQ0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43X1A0YmFLeFB5VzFBcWpwUUZJeGNDcHQzdUszc0FWWU1BcXRZQVNWblZJd01Vd3JxdHNoRzB2c3Y2emsyRmdBVzlsNFRFSnl0bDFuVmhB?oc=5",
+    "https://www.mk.co.kr/news/stock/12186772"
   ],
   "initialized_feeds": [
     "조선일보",
