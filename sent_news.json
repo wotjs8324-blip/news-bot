@@ -1,21 +1,5 @@
 {
   "seen_links": [
-    "https://www.mk.co.kr/news/realestate/12185995",
-    "https://www.mk.co.kr/news/realestate/12185996",
-    "https://www.mk.co.kr/news/business/12188015",
-    "https://www.hankyung.com/article/2026102893847",
-    "https://www.hankyung.com/article/2026102892786",
-    "https://www.mk.co.kr/news/realestate/12186878",
-    "https://www.newsis.com/view/NISX20261028_0003843981",
-    "https://www.donga.com/news/Economy/article/all/20261028/134922184/1",
-    "https://www.yna.co.kr/view/AKR20261028028051527",
-    "https://www.mk.co.kr/news/business/12188014",
-    "https://www.yonhapnewstv.co.kr/news/AKR202610280832599ky",
-    "https://www.newsis.com/view/NISX20261028_0003843841",
-    "https://www.newsis.com/view/NISX20261028_0003843837",
-    "https://www.yna.co.kr/view/AKR20261028028000527",
-    "https://www.chosun.com/economy/tech_it/2026/10/28/YPLXTGY4P5GQRLQ5G7JCKRATZQ/",
-    "https://www.chosun.com/economy/stock-finance/2026/10/28/GU3TEZTBMJSDQZLGG4YTKZTGGQ/",
     "https://www.hankyung.com/article/2026102893806",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LRkVqVnRGNkZGMncxV3laT2twcGkxdXhWYm1UMWFhMU0temhVRnk4amo1ZDdXVzZQVllXaFRvNlp2NExlb1ZEcEJqcnBiTDEzX21fLUhfNmNfSVU?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TVFE3N29kQjNUdk9kTHh3Sm5ON1d0aFFCLVBTYUg3czMxREw3Z09Hb2cybkg3R3RFWDQxazE4NGRHaXVpMGd6MW0xU0lzbDVHLWF3dmVyUVdzc2M?oc=5",
@@ -4999,7 +4983,23 @@
     "https://www.hankyung.com/article/2026102815331",
     "https://www.newsis.com/view/NISX20261028_0003845391",
     "https://www.newsis.com/view/NISX20261028_0003845395",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227468"
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227468",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wX2E0emNCc0lWbW9POU5xUGJmOHFwY3FLSWF6SmhXSnVsSWl6SmhId2ppXzlYZTNIQXlYR2IwcFpianBEU2pIRURIU21SaDB5WXo1eW1PRGlhQWM?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LQWY4bmdLRy02Ylk5WFZOdC1ESXFDaXl2U3lseXV6Q2NOTE9Kd0JBVG9PejRGMGR4RG9RQ0NyQmxLV3lYa1Vic0lUR2NPZ2tpRzZNZEFnU1luNHM?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1SUxDUnhvNmRUSU9ZdUhPWVZTbGdISDBoa0NyS1NDNjZxVmd3a0I5SmRabTh2bWQxUWNqWkM2a1UtWWFXZ2lhMko1QUJ6Yi1nTk5zcE1yMmR5elYtTHU2aVpkRnc0MzlwVDVUcmtkNDFkd0ozV2c?oc=5",
+    "https://www.yna.co.kr/view/AKR20261028179200371",
+    "https://www.donga.com/news/It/article/all/20261028/134927243/1",
+    "https://www.donga.com/news/Economy/article/all/20261028/134927226/1",
+    "https://www.donga.com/news/Inter/article/all/20261028/134927204/1",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819727&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819726&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819116&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261028_0003845376",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227670",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227668",
+    "https://www.mk.co.kr/news/stock/12188780",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261028182751ONL",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227671"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7901,7 +7901,9 @@
     "lg전자3분기영업이익7819억원작년동기대비135kbs뉴스",
     "농협금융누적순익25조원역대최대",
     "스페인열차충돌사고최소한10명사망",
-    "대만증시美반도체주강세에이틀째상승마감204"
+    "대만증시美반도체주강세에이틀째상승마감204",
+    "초유의대법원장국조충돌與조작기소특검재추진시동",
+    "경제안보광맥캐다핵심전략광물공급망강화한목소리"
   ],
   "opinion_date": "2026-10-27",
   "seen_opinion_links": [
