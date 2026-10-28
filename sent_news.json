@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261028062200065",
-    "https://www.yna.co.kr/view/AKR20261028071400030",
-    "https://www.yna.co.kr/view/AKR20261028060500530",
-    "https://www.yna.co.kr/view/AKR20261028073800030",
-    "https://www.yna.co.kr/view/AKR20261028072500002",
-    "https://www.yna.co.kr/view/AKR20261028061300003",
-    "https://www.chosun.com/politics/politics_general/2026/10/28/AD6MFACH5JBKJPE6CECTA2KYQY/",
     "https://www.chosun.com/jp/politics-national-jp/2026/10/28/JTQW2MHVXZEVJCOBUTMYJLPL3I/",
     "https://www.chosun.com/national/national_general/2026/10/28/55Z6FMNFGZEF5DLOMBV6ZQ4OQE/",
     "https://www.chosun.com/jp/politics-national-jp/2026/10/28/OECMZLN5EFDXRJBCMCDD7PCU7Y/",
@@ -4999,7 +4992,14 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819951&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261028_0003844843",
     "https://www.newsis.com/view/NISX20261029_0003845537",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227720"
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227720",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yNzNkbE5LTEQ5LVRuZnVIWUYtc0FocVFWWEctY01FWTNyT045RG9nS0NyUkNralhCR1NPSTdvRmduVFo5dEsxT0xTNFNpNm5YNENQWUdzZkdvVE0?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tNElmNmROaUNZSWR6cnJyTEx1ZU1YZDRWSmRQX0tPeW5rUXo0WkRCNVFBbUdkSkpOcHNQRXRXVFlwZ3B6bWFOVXpyeWhBTFlZODN4dnA5TUFQWHdaQ1JvTlQzRGpXTmNIUGR3R05sVGtTTDBTM0hfd9IBeEFVX3lxTE1BSUp1ejRaWHA3VDhhbFQ2WWRUN2x2SktRdk5pdXhHQkhXQWRacEE1WGlqM0xsVjVpRjItTEE5S1pTRzlndXFjRFJJRFhkc3luOVo1U3FobGtFRDVyeWJaam5aWkM2UTRfbnk2dms5UGRRZHF4QlpJUw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jUktrVWU2WEtoY1pXYzNlSTRrWXFuV0x0QlgtTzJaWF8wRUVMVlpscVUzZUZVLVVHNnN4eFNFcW1TazQzUVhyeWI4Um1BZmVLcC1wdjVOeThWakh1TUE?oc=5",
+    "https://www.chosun.com/sports/football/2026/10/29/GNQTCYZYMU2DKZTEGVSWCMJTMY/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WWHF2OTRmdmZjMFl2SURaNjQ2blJNamdIaE5QcmJDaUpFUV9RdTU0NF90RzNuYUFDV0hzYkZDeVlXVU1DTV9yVml5NHpWc1FTUlVtd1hn?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819955&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819953&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
