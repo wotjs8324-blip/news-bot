@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2bFlVOV9CUlpFVDR6Z2hZRmNXaXhuR20ydVg2UEVYaElNZXh4NVQzYnAwRmd3aEJTT0RXWXNsRER2SVBKLUUwb3ZLY1VNTUVHY0swbHMwU0UxcTNFLXdHREFfS3gxZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JaUlCNmhpWW1URE1KS1JQN2xoWnpzM3ZxVUJxVEZKMk1DSmo2N3lWVXg1WHk0UWtGdlR0YUpVOFpsZTdWaFlESWRRZndtLVVkaERmX0RnV0VQc1lCbGfSAWNBVV95cUxOV2NjQVpfbXljMFM0OXNmYUMwY1hSWnAwaWROVUE3ekNpd2NZakZfNjdvcGhxUnczemZjUEZqYjhtd1laQTRyX0ptSkY0YmZKWk5fMnhCWkRDT1VOSUdQaVhibUk?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zQjF1Rnp3MEZyWFhZdGctY0lPN01JV1h1ZWk2S2g1M2VzT19kU3FDaHdzWFhhM1ZTdktFRk1KXy1iYVhiNEVFRWpfS3RTMmxDNjFzSy1sSFlrRnNDamfSAWNBVV95cUxOeFV4Z1c2N0RRbm1DaUhhdWlyZlEzTjlKNW1WRTRYOEx3ZjVKNHo0Z0g0U3phb2ZJaE1NRno3OFlPT2U5YkQ5bEx5YVFsY09Fd1E4aDh1NkYwT0VHZ1JJb1JZSGM?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JcUdWclZGUUpEVFg4bGotNktaQ3NFRFFWYzNqVXRZLXNwWktfbFlzai1uYnRGNVlHaVVid2RQQmxnYUxkQmlMVHk5anFQVUx2RjZSdWZZaEZRZmZNdGfSAWNBVV95cUxQekxiZW9mMW5FYzM5R256QjZTR0lyYWJUVzF4R3VUU0ZnbGF6aHVIam51SkRScHNuWlVzTjNLWVg3RFBlcnZGdEJWZzExb1ZyakZpeHU1T0pKUndyaVBRQWJOZHc?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261028112847r4L",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261028112816hhS",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261028112755ACb",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261028112609pwB",
     "https://www.yonhapnewstv.co.kr/news/AKR202610281125014vM",
     "https://www.yna.co.kr/view/AKR20261028089500504",
     "https://www.yna.co.kr/view/AKR20261028091400004",
@@ -4999,7 +4991,15 @@
     "https://www.yna.co.kr/view/AKR20261028188900001",
     "https://www.newsis.com/view/NISX20261029_0003845558",
     "https://www.newsis.com/view/NISX20261029_0003845559",
-    "https://www.yna.co.kr/view/AKR20261029009300072"
+    "https://www.yna.co.kr/view/AKR20261029009300072",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aTXNjdG91U3Bodm55T3RGLWR6WEtlVG9TdVRtM2xyWnB4ZjdYVUhfaG5GZFJUVHFjdnYweHFmTDNxLS12Z2w4RVVqYjRsamkyMXRrWno4djV3R01QZ2JOb3FwejVnMFo2Zmh6S1I5Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE03TFpyX2RKMWZpLUVuU0poTEZzTmRFeDhScmdJeDJlQjNrVDhERHVCd3drbDd6Rnl4RnhiVXBBcWtUNllpZUxPVkozQXVhUXkxeC1zcmdwOE5lVHdZZVN3RVlYZFJDZldtWHRyS2JoYw?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/MYH202610290516336BN",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261029051605YE9",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261029051510YUo",
+    "https://www.mk.co.kr/news/economy/12188232",
+    "https://www.mk.co.kr/news/business/12188235",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261029051729pL8"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7986,7 +7986,8 @@
     "李대통령오늘독일총리와정상회담미래산업협력논의",
     "美연준금리동결에도추가인상전망내년말까지3차례예상",
     "뉴욕증시금리동결에상승마감sampp5003거래일상승",
-    "美연준중간선거앞두고일단정중동월가12월인상유력"
+    "美연준중간선거앞두고일단정중동월가12월인상유력",
+    "lg전자3분기영업이익7819억135"
   ],
   "opinion_date": "2026-10-28",
   "seen_opinion_links": [
