@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261028_0003844444",
-    "https://www.newsis.com/view/NISX20261028_0003844415",
-    "https://www.newsis.com/view/NISX20261028_0003844405",
-    "https://www.newsis.com/view/NISX20261028_0003844426",
-    "https://www.newsis.com/view/NISX20261028_0003844443",
-    "https://www.newsis.com/view/NISX20261028_0003844442",
-    "https://www.newsis.com/view/NISX20261028_0003844255",
-    "https://www.newsis.com/view/NISX20261028_0003844173",
     "https://www.newsis.com/view/NISX20261028_0003844063",
     "https://www.newsis.com/view/NISX20261028_0003843958",
     "https://www.newsis.com/view/NISX20261028_0003843830",
@@ -4999,7 +4991,15 @@
     "https://www.hankyung.com/article/202610291896i",
     "https://www.hankyung.com/article/202610291886i",
     "https://www.newsis.com/view/NISX20261029_0003845553",
-    "https://www.yna.co.kr/view/AKR20261029007000072"
+    "https://www.yna.co.kr/view/AKR20261029007000072",
+    "https://www.yna.co.kr/view/AKR20261029006400071",
+    "https://www.yna.co.kr/view/AKR20261028155400005",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAweUhSSGNseGs2NEd4Y2laczFNRWtRSzRzdmE5MDVQaG5xTzRsVFlhWW1vbmxpN19hNWZJeVR5RDZwcGFYaURhRzNxSHhkY3NTUUxvZFJB?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kTXhyZzRZTmE1M1NrYmphWWNwRDJMbmlObjRVUEJ1ekF6bEdRY2VLRldCb0NzcUhNNFpWSXR4QkFfNmU2OWtLajdLTjZYXzA4TEpvNk9R?oc=5",
+    "https://www.newsis.com/view/NISX20261028_0003845338",
+    "https://www.newsis.com/view/NISX20261029_0003845555",
+    "https://www.newsis.com/view/NISX20261029_0003845551",
+    "https://www.yna.co.kr/view/AKR20261029007600072"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7966,7 +7966,10 @@
     "스페인고속열차추돌참사최소64명사망한국인6명경상ytn",
     "fed美기준금리연375400로동결",
     "워시연준의장내년금리결정회의7회2028년6회로축소",
-    "워시내년기준금리결정fomc연8회서7회로축소"
+    "워시내년기준금리결정fomc연8회서7회로축소",
+    "워시연준의장금리동결결정에정치적영향없었다",
+    "美연준기준금리375400로동결쿡해먹등2명반대종합",
+    "워시중간선거금리결정에아무런영향미치지않아"
   ],
   "opinion_date": "2026-10-28",
   "seen_opinion_links": [
