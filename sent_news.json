@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://www.mk.co.kr/news/realestate/12188209",
-    "https://www.mk.co.kr/news/realestate/12188217",
-    "https://www.mk.co.kr/news/business/12187174",
-    "https://www.newsis.com/view/NISX20261028_0003844429",
-    "https://www.newsis.com/view/NISX20261028_0003844470",
-    "https://www.yna.co.kr/view/AKR20261028076200001",
     "https://www.newsis.com/view/NISX20261028_0003844222",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVU8xemxIbkNjQV9PMU1sR2d4dG5kSGJmQV9TRmZ4QjBpUDIwVGdVOW1pY3dQQmNocjJpZ181WHN6cFFDeFhVZDAyUDZYZUF2Z3NKYXBRSG5Ua1U?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42MUZQNm16anZtc2paM29LY1RRRHdvMHpETXJONnkzVW1WMDVMRWNyUUh5LTRGQ2FWazFDbzVaOHNVOEtGM0ZRQkZHX0ttYjhMUHJhN0VfNzBmUTA?oc=5",
@@ -4999,7 +4993,13 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819994&plink=RSSLINK&cooper=RSSREADER",
     "https://www.chosun.com/international/us/2026/10/29/AAKHTMXLCBD2VGXPQQEMFQQO5Y/",
     "https://www.yna.co.kr/view/AKR20261029007800072",
-    "https://www.donga.com/news/Inter/article/all/20261029/134929385/1"
+    "https://www.donga.com/news/Inter/article/all/20261029/134929385/1",
+    "https://www.newsis.com/view/NISX20261028_0003845367",
+    "https://www.mk.co.kr/news/stock/12188472",
+    "https://www.mk.co.kr/news/business/12188216",
+    "https://www.newsis.com/view/NISX20261028_0003845284",
+    "https://www.newsis.com/view/NISX20261029_0003845554",
+    "https://www.newsis.com/view/NISX20261029_0003845556"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7973,7 +7973,10 @@
     "미기준금리추가인상없이375400동결",
     "美전쟁부강신철장관회담만결과발표따로안해",
     "워시내년기준금리결정fomc는7번만내후년은6번",
-    "美연준금리결정회의연8회6회축소내년가을부터개편"
+    "美연준금리결정회의연8회6회축소내년가을부터개편",
+    "삼성전자오늘3q확정실적발표hbm공급전략30조배당주목",
+    "리사쿡연준금리동결이례적반대왜물가우려속항의성분석도",
+    "금리동결워시물가안정미달성내년부터금리결정횟수축소"
   ],
   "opinion_date": "2026-10-28",
   "seen_opinion_links": [
