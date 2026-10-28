@@ -1,20 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261028_0003844198",
-    "https://www.newsis.com/view/NISX20261028_0003844464",
-    "https://www.newsis.com/view/NISX20261028_0003844448",
-    "https://www.newsis.com/view/NISX20261028_0003844460",
-    "https://www.newsis.com/view/NISX20261028_0003844221",
-    "https://www.newsis.com/view/NISX20261028_0003844013",
-    "https://www.newsis.com/view/NISX20261028_0003844457",
-    "https://www.newsis.com/view/NISX20261028_0003844273",
-    "https://www.newsis.com/view/NISX20261028_0003844463",
-    "https://www.newsis.com/view/NISX20261028_0003844020",
-    "https://www.newsis.com/view/NISX20261028_0003844459",
-    "https://www.newsis.com/view/NISX20261028_0003844439",
-    "https://www.newsis.com/view/NISX20261028_0003844450",
-    "https://www.newsis.com/view/NISX20261028_0003844432",
-    "https://www.newsis.com/view/NISX20261028_0003844112",
     "https://www.newsis.com/view/NISX20261028_0003844444",
     "https://www.newsis.com/view/NISX20261028_0003844415",
     "https://www.newsis.com/view/NISX20261028_0003844405",
@@ -4999,7 +4984,22 @@
     "https://www.donga.com/news/Society/article/all/20261029/134929380/1",
     "https://www.donga.com/news/Inter/article/all/20261029/134929377/1",
     "https://www.yna.co.kr/view/AKR20261029002951071",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1makFfLVJJdkF3bTg0cHU3U3l1TzFwalBwdWRrTWRVMzNSVWhoMjlqOXNKdVlpejNTQ3NwV1p5djRnYlBxUE1idWlGSWlqMjhhUUh5RllKOFN0MHpmSUdXb2czSHItcjl6ZW55SGFVaw?oc=5"
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1makFfLVJJdkF3bTg0cHU3U3l1TzFwalBwdWRrTWRVMzNSVWhoMjlqOXNKdVlpejNTQ3NwV1p5djRnYlBxUE1idWlGSWlqMjhhUUh5RllKOFN0MHpmSUdXb2czSHItcjl6ZW55SGFVaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WMDdoRk9iOEtpakxFMDF1T29QOU9tOVZXd1Q5a2xrOUsxSHloNGF1SW5rc3RNU29TYjcwa1hkSnBia05hM282cDlkdlpWSXFuMmZrS3Rrck8yQlk?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZR2NOM3lQVUl5eGZoQmN3aVBCX0pyV09mU1BxZWJuMlotOHFMbGpKWWZ5dDFtbFcyWDZQZHZRWmFhREE1bE9aRWo0d194NmRHc1I2QWtVME9fTzgtNlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOb3B2SVEzc1ROTmh0T2FGREVVZGgtRGxDZDNYWU15amQ0X0dzanN4QTRxZWFyWTl2d1pndHNmQW5Xc29QWk5yYWRVb1BldjNOenZ2N09ydEMxN1NjTVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82VVFGRWsxMU80aV9HTl9KQkUwQVVwTWswa085aUVJQ2FiTW9iNEtSdG9oM2RKSlNYeEd0Y0g0dUtNOWF0Yjh3UjNvUFZDVUswZ2hBZFZyNjhwZFh6dGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KaG1Xdjl4WWJIa2VTWHBocmlfOS1tbzlsQ1BmWDVhakJ5STBIMHdkSTJVV2FhcjJTRGdvV2F4MmMtTjF5YjZFcms2RFRHZGtXZlNNcnlwbWhxUWZpU1E?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261029035100Isd",
+    "https://www.yna.co.kr/view/AKR20261029006200091",
+    "https://www.yna.co.kr/view/AKR20261029006600072",
+    "https://www.chosun.com/sports/basketball/2026/10/29/MMZWGOJRHEYDMNLGGY4DQMDGME/",
+    "https://www.newsis.com/view/NISX20261028_0003845425",
+    "https://www.newsis.com/view/NISX20261028_0003843921",
+    "https://www.hankyung.com/article/202610291896i",
+    "https://www.hankyung.com/article/202610291886i",
+    "https://www.newsis.com/view/NISX20261029_0003845553",
+    "https://www.yna.co.kr/view/AKR20261029007000072"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7963,7 +7963,10 @@
     "美연준기준금리375400로동결쿡해먹등2명반대",
     "美연준금리동결에국채금리상승뉴욕증시는혼조",
     "美기준금리375400동결지난달인상뒤숨고르기종합",
-    "스페인고속열차추돌참사최소64명사망한국인6명경상ytn"
+    "스페인고속열차추돌참사최소64명사망한국인6명경상ytn",
+    "fed美기준금리연375400로동결",
+    "워시연준의장내년금리결정회의7회2028년6회로축소",
+    "워시내년기준금리결정fomc연8회서7회로축소"
   ],
   "opinion_date": "2026-10-28",
   "seen_opinion_links": [
