@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261028_0003844063",
-    "https://www.newsis.com/view/NISX20261028_0003843958",
-    "https://www.newsis.com/view/NISX20261028_0003843830",
-    "https://www.newsis.com/view/NISX20261028_0003843828",
-    "https://www.newsis.com/view/NISX20261028_0003843825",
-    "https://www.newsis.com/view/NISX20261028_0003843882",
-    "https://www.newsis.com/view/NISX20261028_0003844010",
-    "https://www.newsis.com/view/NISX20261028_0003844044",
-    "https://www.newsis.com/view/NISX20261028_0003844084",
-    "https://www.newsis.com/view/NISX20261028_0003844385",
-    "https://www.mk.co.kr/news/business/12188216",
     "https://www.mk.co.kr/news/realestate/12188209",
     "https://www.mk.co.kr/news/realestate/12188217",
     "https://www.mk.co.kr/news/business/12187174",
@@ -4999,7 +4988,18 @@
     "https://www.newsis.com/view/NISX20261028_0003845338",
     "https://www.newsis.com/view/NISX20261029_0003845555",
     "https://www.newsis.com/view/NISX20261029_0003845551",
-    "https://www.yna.co.kr/view/AKR20261029007600072"
+    "https://www.yna.co.kr/view/AKR20261029007600072",
+    "https://www.chosun.com/economy/tech_it/2026/10/29/EWJMORG5KZB25GEEERJXWAAMUA/",
+    "https://www.chosun.com/sports/world-football/2026/10/29/MFRGCY3CGIZTIZDBGQYTKOLBHE/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/29/SXFGG5BTLJEFZNGJGYAFHB2S5I/",
+    "https://www.chosun.com/international/us/2026/10/29/RB57TXOP3VHU7OGIVJ764LGYPE/",
+    "https://www.chosun.com/jp/international-jp/2026/10/29/BRSIU3JO3FHD5FQN3ZOB64VGNA/",
+    "https://www.mk.co.kr/news/economy/12189197",
+    "https://www.mk.co.kr/news/society/12189198",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819994&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.chosun.com/international/us/2026/10/29/AAKHTMXLCBD2VGXPQQEMFQQO5Y/",
+    "https://www.yna.co.kr/view/AKR20261029007800072",
+    "https://www.donga.com/news/Inter/article/all/20261029/134929385/1"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7969,7 +7969,11 @@
     "워시내년기준금리결정fomc연8회서7회로축소",
     "워시연준의장금리동결결정에정치적영향없었다",
     "美연준기준금리375400로동결쿡해먹등2명반대종합",
-    "워시중간선거금리결정에아무런영향미치지않아"
+    "워시중간선거금리결정에아무런영향미치지않아",
+    "미기준금리추가인상없이375400동결",
+    "美전쟁부강신철장관회담만결과발표따로안해",
+    "워시내년기준금리결정fomc는7번만내후년은6번",
+    "美연준금리결정회의연8회6회축소내년가을부터개편"
   ],
   "opinion_date": "2026-10-28",
   "seen_opinion_links": [
