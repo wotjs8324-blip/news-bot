@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261028_0003844397",
-    "https://www.newsis.com/view/NISX20261028_0003844478",
-    "https://www.newsis.com/view/NISX20261028_0003844462",
-    "https://www.newsis.com/view/NISX20261028_0003844318",
     "https://www.newsis.com/view/NISX20261028_0003844472",
     "https://www.newsis.com/view/NISX20261028_0003844465",
     "https://www.newsis.com/view/NISX20261028_0003844468",
@@ -4999,7 +4995,11 @@
     "https://www.yna.co.kr/view/AKR20261029002900071",
     "https://www.yna.co.kr/view/AKR20261029002800071",
     "https://www.newsis.com/view/NISX20261029_0003845545",
-    "https://www.chosun.com/economy/int_economy/2026/10/29/FQFCWLNOBJHXLFBKF2M765MQCM/"
+    "https://www.chosun.com/economy/int_economy/2026/10/29/FQFCWLNOBJHXLFBKF2M765MQCM/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05NVFRTl80ZzEtWFpFVmhRVnl3cjRxYXp4NEJIU3Vtc1VQQ09Idlo4S0hBUFhpZF9JUGI5M3EzREpoZlQ0ZEMwRUFTMExVNElkU3QzZTd3?oc=5",
+    "https://www.newsis.com/view/NISX20261029_0003845548",
+    "https://www.newsis.com/view/NISX20261029_0003845547",
+    "https://www.newsis.com/view/NISX20261029_0003845550"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -7959,7 +7959,9 @@
     "美기준금리375400동결9월인상뒤속도조절",
     "美연준기준금리동결375400유지",
     "美연준기준금리동결2명반대",
-    "美연준예상대로기준금리동결"
+    "美연준예상대로기준금리동결",
+    "美연준기준금리375400로동결쿡해먹등2명반대",
+    "美연준금리동결에국채금리상승뉴욕증시는혼조"
   ],
   "opinion_date": "2026-10-28",
   "seen_opinion_links": [
