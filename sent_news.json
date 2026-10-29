@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227807",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227806",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227802",
     "https://www.hankyung.com/article/202610293078g",
     "https://www.hankyung.com/article/202610293074i",
     "https://www.hankyung.com/article/202610289208i",
@@ -4999,7 +4996,10 @@
     "https://www.chosun.com/jp/politics-national-jp/2026/10/30/URA5ZF6KMFE6VCJH3SZNFP4JCU/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSb2doRlJzcHdfWHRCZVZwSHgzRllaeWVOSXFuOFo0S3lCZVFoallrTUthT1Q3YVYwcENXODBnc3JyNWlRMUx2ZzZ2czlVc1FqU1VDc2Zn?oc=5",
     "https://www.donga.com/news/Society/article/all/20261030/134937110/1",
-    "https://www.newsis.com/view/NISX20261030_0003847472"
+    "https://www.newsis.com/view/NISX20261030_0003847472",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261030031536UxU",
+    "https://www.newsis.com/view/NISX20261030_0003847473",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261030031510UGL"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8280,7 +8280,8 @@
     "카파도키아명소요정굴뚝붕괴3명사망5명부상종합",
     "튀르키예카파도키아명소요정굴뚝붕괴3명사망5명부상",
     "美국내생산확대車업체에관세완화방침아우디에확약",
-    "美국방부한미국방장관회담결과발표문안냈다"
+    "美국방부한미국방장관회담결과발표문안냈다",
+    "美국내생산확대하는자동차업체에관세완화아우디에확약"
   ],
   "opinion_date": "2026-10-29",
   "seen_opinion_links": [
@@ -8301,5 +8302,24 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoZHFRM0cyM2lrY1hZT2F6UnZmenc1V1lWRFlXUGhJeTR4RGs4V0VVTExFT3A5NXV6T1VNZFBzR1d0b3g2UDhOdG9BUnpOY2JvRUI2LUVXNA?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4MVE1NGR0aERqNlRWQzRNYV9Ua01oS1hJTmI3ZHdoRU0zR3FOQS0xX0l0NGtNWWtodVRDX0FSRElCd1pGNU9Lc3E2NXJwTjU2eXF3eTlFcw?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "KBS": {
+      "failing_since": "2026-10-29T18:20+00:00"
+    },
+    "MBC": {
+      "failing_since": "2026-10-29T18:20+00:00"
+    },
+    "YTN": {
+      "failing_since": "2026-10-29T18:20+00:00"
+    },
+    "채널A": {
+      "failing_since": "2026-10-29T18:20+00:00"
+    },
+    "중앙일보": {
+      "failing_since": "2026-10-29T18:20+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-10-29T18:20+00:00"
+    }
+  }
 }
