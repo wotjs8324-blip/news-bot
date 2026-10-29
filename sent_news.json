@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PeFhkNTBBWkp1VDFOeEFYYkRvcFVWZW1Wd0hKZ3BENTY0RGJab09pTFdhVk02b2xKZEVPTEdyamlFaUxWRE5Sd0ZUS012YmNlZUw4R04zaUNyTGpkZUFYNDVCNWtrRFhkallRdlRoWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CdUV3NURBT2t0cWFPM0RlQnRMY2ZVRk5wMGYwQ282QVNQeFZyRUdRMmpQVU1vZ0xPbjlvMlcyZG9LRVYwbU9KUFFTVGJPSjhHY0lMNVZLRmpWOTNCdTJvZUtqaUtVbHNrQmhCNW1Maw?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lc2ZPeFl0MEg3cUlxSkk5Vm9vVFduWWE0dUFSYUJidktEM0dqb3V6d1pqbmpoZmpLM05vendTMS1idEZfaDRfR0dISzdGbkxET1l4clY0TDVEb05GZ1lDSC10WVhGYVhxWVpVY0ZFWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhcy1KazdILWlYc2FITWludGxnOVRoYmlSN1FCY3VHX0l0MkpOY3RfSUM4dFlPbktkZVprYWVvQWZBTHlhMzNWQ01jMy1JdlhKamkxYXNJRlRTdkEzeHc?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261029115508uX1",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261029115226fZY",
-    "https://www.yna.co.kr/view/AKR20261029099300009",
     "https://www.yna.co.kr/view/AKR20261029098200530",
     "https://www.yna.co.kr/view/AKR20261029101700504",
     "https://www.yna.co.kr/view/AKR20261029080751003",
@@ -4999,7 +4992,14 @@
     "https://www.chosun.com/international/international_general/2026/10/30/M3KKKO7XNNFWZDDZJDDZN2ONSQ/",
     "https://www.chosun.com/jp/international-jp/2026/10/30/Z67KHQRRKZD6ZPWW7RGX5J246Q/",
     "https://www.newsis.com/view/NISX20261030_0003847466",
-    "https://www.yna.co.kr/view/AKR20261029210151108"
+    "https://www.yna.co.kr/view/AKR20261029210151108",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pcUFLLXhwZzU0VENvNnEtejJqSFFUOVBqSlNrTG9tQ2l6djhyMmEyNFBlUTNHZ29qUUFua0NVTHNUckdTcHFmaUtKN0p3MnpSRkE2NE5BWjAtTUJhMWQyLVppSDZnczc4X3VaSjFUdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oUF9pYW1ab3RPcTJUUWNubjZLSzdDY0wxZUZLT0VKemJHMlZsNWxNTll2RndXSUpwVmc2X19lZVg2a2tTOWFmLVAxUGl5LUtQT3dEVGhVLVVsdm9odWc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261030002900005",
+    "https://www.chosun.com/sports/baseball/2026/10/30/GIYGGODCMEZWKY3DGE3WMY3CMQ/",
+    "https://www.chosun.com/jp/sports-jp/2026/10/30/XORYQVWFWFHQNBBP4V3UKTMUU4/",
+    "https://www.newsis.com/view/NISX20261030_0003847469",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822175&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8277,7 +8277,8 @@
     "스페인열차추돌69명사망한국인도2명부상",
     "당정재건축반쪽짜리규제완화초과이익환수제는언급없어",
     "현대차생산차질에3분기매출영업익은증가",
-    "카파도키아명소요정굴뚝붕괴3명사망5명부상종합"
+    "카파도키아명소요정굴뚝붕괴3명사망5명부상종합",
+    "튀르키예카파도키아명소요정굴뚝붕괴3명사망5명부상"
   ],
   "opinion_date": "2026-10-29",
   "seen_opinion_links": [
@@ -8298,9 +8299,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoZHFRM0cyM2lrY1hZT2F6UnZmenc1V1lWRFlXUGhJeTR4RGs4V0VVTExFT3A5NXV6T1VNZFBzR1d0b3g2UDhOdG9BUnpOY2JvRUI2LUVXNA?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4MVE1NGR0aERqNlRWQzRNYV9Ua01oS1hJTmI3ZHdoRU0zR3FOQS0xX0l0NGtNWWtodVRDX0FSRElCd1pGNU9Lc3E2NXJwTjU2eXF3eTlFcw?oc=5"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-10-29T17:15+00:00"
-    }
-  }
+  "feed_health": {}
 }
