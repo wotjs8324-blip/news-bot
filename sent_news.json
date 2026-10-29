@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261029_0003846050",
-    "https://www.newsis.com/view/NISX20261029_0003846036",
-    "https://www.newsis.com/view/NISX20261029_0003846041",
-    "https://www.newsis.com/view/NISX20261029_0003846040",
     "https://www.newsis.com/view/NISX20261029_0003845901",
     "https://www.newsis.com/view/NISX20261029_0003845943",
     "https://www.newsis.com/view/NISX20261029_0003845933",
@@ -4999,7 +4995,11 @@
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227936",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227935",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5227910",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261029201859Fnr"
+    "https://www.yonhapnewstv.co.kr/news/MYH20261029201859Fnr",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mRExpV3ZaR3NyUDEwMmhUZW9WSWhDd3JnMDBSblktUi1HUkNqdm9oS3E3aU9YU0VMZFQ3NmF4WHlTZ0FuVExNTnZiUi1pbjhyQ1c1T2h3?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820498&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261029_0003847301",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820478&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8247,7 +8247,8 @@
     "투표지반출마친선관위특검투표지감정윗선개입규명주력",
     "명패빼요왜빼요김태규사임놓고여야충돌채널a",
     "한독강화된전략적동반자관계수립경제안보협력확대",
-    "서울아파트값상승세2주째둔화강남3구하락폭확대"
+    "서울아파트값상승세2주째둔화강남3구하락폭확대",
+    "삼성전자3분기반도체영업익만106조4분기도실적성장"
   ],
   "opinion_date": "2026-10-29",
   "seen_opinion_links": [
