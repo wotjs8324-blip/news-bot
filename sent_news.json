@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.hankyung.com/article/202610293078g",
-    "https://www.hankyung.com/article/202610293074i",
-    "https://www.hankyung.com/article/202610289208i",
-    "https://www.hankyung.com/article/202610292986i",
-    "https://www.hankyung.com/article/2026102926727",
     "https://www.hankyung.com/article/2026102924047",
     "https://www.hankyung.com/article/202610292880i",
     "https://www.mk.co.kr/news/stock/12188574",
@@ -4999,7 +4994,12 @@
     "https://www.newsis.com/view/NISX20261030_0003847472",
     "https://www.yonhapnewstv.co.kr/news/AKR20261030031536UxU",
     "https://www.newsis.com/view/NISX20261030_0003847473",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261030031510UGL"
+    "https://www.yonhapnewstv.co.kr/news/AKR20261030031510UGL",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fbGRaWlo0WXhrVUdyRlkxenowVi1Rb2lfSGoyR0dFbXpkYkdxS1BhZEVWS1cwckpIV1FBT3R4YU5scnFEUUFSNnU3LUhIcmE0SnpWQklHV2JLc1k?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhVmNyNWtvM2pJenBsa0MzT2I5WlRETEhDeEg0U0pUMXV5RTNHLTlLV3ZqdkhnLVY3eERRRGpkMXV2Z0RkT2YzeUNkOUN2dWhGeE9Md2xoRjk3eU0?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11WnM1RGJOa2dHOGQ5aWlzRzg0QlZiRUZIM1FDWkc1OHRQY3E3UGFMZ28weG5oMHVzX2Z4WHlPR2FpU3pINHZMb2prREg3LXNGb1RqLUh4U3dISlVKbmc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261030004300061",
+    "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9XV0paOWdWR2Vhako3aGNRUFpVVko4TjBkVXpCdW1zcVh1aHdYMjZMSXNMcmYtR0lQZ0R3c3dtbTQ?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8302,24 +8302,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoZHFRM0cyM2lrY1hZT2F6UnZmenc1V1lWRFlXUGhJeTR4RGs4V0VVTExFT3A5NXV6T1VNZFBzR1d0b3g2UDhOdG9BUnpOY2JvRUI2LUVXNA?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4MVE1NGR0aERqNlRWQzRNYV9Ua01oS1hJTmI3ZHdoRU0zR3FOQS0xX0l0NGtNWWtodVRDX0FSRElCd1pGNU9Lc3E2NXJwTjU2eXF3eTlFcw?oc=5"
   ],
-  "feed_health": {
-    "KBS": {
-      "failing_since": "2026-10-29T18:20+00:00"
-    },
-    "MBC": {
-      "failing_since": "2026-10-29T18:20+00:00"
-    },
-    "YTN": {
-      "failing_since": "2026-10-29T18:20+00:00"
-    },
-    "채널A": {
-      "failing_since": "2026-10-29T18:20+00:00"
-    },
-    "중앙일보": {
-      "failing_since": "2026-10-29T18:20+00:00"
-    },
-    "중앙일보 경제": {
-      "failing_since": "2026-10-29T18:20+00:00"
-    }
-  }
+  "feed_health": {}
 }
