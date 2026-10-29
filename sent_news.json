@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261029021752001",
-    "https://www.yna.co.kr/view/AKR20261029103800017",
-    "https://www.yna.co.kr/view/AKR20261029104600007",
     "https://www.yna.co.kr/view/AKR20261029104700004",
     "https://www.yna.co.kr/view/AKR20261029104500004",
     "https://www.yna.co.kr/view/AKR20261029104100064",
@@ -4999,7 +4996,10 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822195&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261029_0003847354",
     "https://www.hankyung.com/article/202610292477H",
-    "https://www.donga.com/news/Entertainment/article/all/20261030/134937142/1"
+    "https://www.donga.com/news/Entertainment/article/all/20261030/134937142/1",
+    "https://www.donga.com/news/Inter/article/all/20261030/134937145/1",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822221&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/stock/12190028"
   ],
   "initialized_feeds": [
     "조선일보",
