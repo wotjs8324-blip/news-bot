@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/sports/world-baseball/2026/10/30/MUYGMZLDGRSGMZJVMMZDMYJUMU/",
-    "https://www.chosun.com/jp/sports-jp/2026/10/30/C5M5HMSOBVDXLPER54B4AYBTOA/",
-    "https://www.chosun.com/sports/volleyball/2026/10/30/GZRDCMDDMQ2DEYZQHEYTIODGG4/",
-    "https://www.chosun.com/economy/real_estate/2026/10/30/MVSDGY3BMJRDANBUMIZTMNRXGE/",
-    "https://www.chosun.com/jp/economy-jp/2026/10/30/CYF6MLDTMFCRTDRXI3DXA2BSV4/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3anNVY2VWcU1qVEI4Q181T0gyMXBNMmd2Yk1VWkpvMUdNM2taYmltdENiTlNISjJIMUVNYlQ0dnlpQUNjUXR1RWVtTVg3alVscFRkNXZn?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YZDBvUXZtVTdaNTJPeG1Gemo0VXFXV0FINXQtbE04VHJ4WVJYc2l3dlpCN21NUXVhdEdaLVhXZjZOMDE4cmo3WkpXdzJnUnJJcFYtbWN3?oc=5",
-    "https://www.donga.com/news/Economy/article/all/20261030/134937965/1",
-    "https://www.donga.com/news/Politics/article/all/20261030/134937944/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822594&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822593&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822721&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822713&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822685&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4988,18 @@
     "https://www.newsis.com/view/NISX20261025_0003839987",
     "https://www.newsis.com/view/NISX20261031_0003849130",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHZEtyVWU0anhfTG1kWmZsbG5FUC1abVlsek1zMlRGMHRRbDJWTjVsc2t4SEt1a1YwazNleHh1MS1xU1RmdXExSzZaU2xvSDU2dm8tUk1R?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261030175223gHu"
+    "https://www.yonhapnewstv.co.kr/news/AKR20261030175223gHu",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ocGw3bGo1X3B3ZXhNY0kxejkwZmFSbUo1cml4N0tqMEp5Q2N2RlRoVUtuay1rSWl2MTgwZVF0TGhaUDVOb2htVnRXMGJBcDRYT0tyNXNEaFYybzlDRWc?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE53dm1VSkxOanRJSDQ0emN6SnpFcVBHNGFyUnk1bTBLUkhnRG1UbDNyOUVvaW5TX3dCUGk5MDBtT3JMaDVsaEs0VFc1VDdLT0R3REtUa2psYjdYNXFocFdpOGhVUWdvZ1plbWtEb013dw?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZNXpPY1NtQnVkYzNRUW1oWnJhSFR3Ti1TOFdYakV2aEVJREFITGlnOGdFbnRiMFRZN1Rtelh0SHgxWjdDLUtqR3gyYURNc1ptZW9DU1VfZDZjeklCVzJPaGxYX2FWeENkMW40?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261031050718a7H",
+    "https://www.yna.co.kr/view/AKR20261031005100079",
+    "https://www.yna.co.kr/view/AKR20261031005400072",
+    "https://www.chosun.com/economy/startup_story/2026/07/15/IC24GVKWLRFWXMQ3FFH23HURJQ/",
+    "https://www.chosun.com/economy/startup_story/2026/10/02/Z4SNWLUS65GORIW6GM7VMDSZ6E/",
+    "https://www.newsis.com/view/NISX20261030_0003849011",
+    "https://www.newsis.com/view/NISX20261030_0003848835",
+    "https://www.newsis.com/view/NISX20261031_0003849131"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8494,7 +8494,8 @@
     "7명사망한울산발전소붕괴사고는人災계산실측오류기둥과도하게잘라발생",
     "독일10월소비자물가28둔화연료세인하효과",
     "이대통령최길수특별감찰관에임명장해야할일많아사전예방중요kbs뉴스",
-    "美연준기준금리375400동결추가인상속도조절중앙일보"
+    "美연준기준금리375400동결추가인상속도조절중앙일보",
+    "뉴욕증시기술주실적부진에하락마감다우109나스닥286"
   ],
   "opinion_date": "2026-10-30",
   "seen_opinion_links": [
