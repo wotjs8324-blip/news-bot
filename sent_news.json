@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261030_0003847534",
-    "https://www.newsis.com/view/NISX20261030_0003848048",
-    "https://www.newsis.com/view/NISX20261030_0003848068",
-    "https://www.newsis.com/view/NISX20261030_0003848116",
-    "https://www.hankyung.com/article/202610305480i",
-    "https://www.mk.co.kr/news/stock/12189981",
-    "https://www.mk.co.kr/news/realestate/12191336",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5STm1jSXNSR1Rfa01pWC1uaTZwMWF5NlNjUHprcm5rN05FanlheFZ0WHFPeVZDUU8yVnFMekhaVUxFbFE1aGhEVm9PY0RLY2pvNHZ6WUVwUFJLcnBQM0pZdnB2elJ5VXd0Um1SSWlhdw?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJa0ZwWWlINklpTmM2QWhaT1FmYlVOVWRuUnFMcUNtWF8wR01PMFhCSzZmcG4wbHZJdHdYR1lGMVNpVnVOcjRJaVhDQ0tSV3BDblp5TzJpYXZoWTlHWldtNzM5TDB1Zw?oc=5",
     "https://www.yna.co.kr/view/AKR20261029209851071",
     "https://www.newsis.com/view/NISX20261030_0003848150",
@@ -4999,7 +4991,15 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824176&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822920&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261031_0003849158",
-    "https://www.hankyung.com/article/2026103173137"
+    "https://www.hankyung.com/article/2026103173137",
+    "https://www.yna.co.kr/view/AKR20261031018100007",
+    "https://www.yna.co.kr/view/AKR20261031018200007",
+    "https://www.yna.co.kr/view/AKR20261031017800053",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43djVjcUoxbHFuNGpoNktxX2F4Z1NDTVE3dTRRcXNyVWJUaTI3d29OTmRUSXBDWTVfMHc5cFcwdDd4N0hvUGd6X2JZcjV4c0pKTXNBM2V3?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKNjVjUUd0MmE5OVgyTmJna25fMFJPQXlhRGtvdmFwUkdkalUtMi1qVWt1dG1sZFBGT25YLS1LNnpFMjZjTjQ0Q1hGTWVZMlRSa1NfUGV3?oc=5",
+    "https://www.newsis.com/view/NISX20261031_0003849172",
+    "https://www.newsis.com/view/NISX20261031_0003849168",
+    "https://www.yna.co.kr/view/AKR20261031012200002"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8507,7 +8507,8 @@
     "특검도기소안했는데조희대국정조사실효성의문",
     "뉴욕증시기술주매도확대나스닥29하락",
     "뉴욕증시기술주매도확대에일제히급락마감ytn",
-    "대eu철강수출감소폭줄었지만잇단규제에업계긴장"
+    "대eu철강수출감소폭줄었지만잇단규제에업계긴장",
+    "소비자물가얼마나올랐을까9월국제수지도발표"
   ],
   "opinion_date": "2026-10-30",
   "seen_opinion_links": [
