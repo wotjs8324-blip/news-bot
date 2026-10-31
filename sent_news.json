@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261030_0003848619",
-    "https://www.newsis.com/view/NISX20261030_0003848544",
-    "https://www.newsis.com/view/NISX20261030_0003848606",
-    "https://www.newsis.com/view/NISX20261030_0003848612",
-    "https://www.newsis.com/view/NISX20261030_0003848553",
-    "https://www.newsis.com/view/NISX20261030_0003848608",
-    "https://www.newsis.com/view/NISX20261030_0003848550",
-    "https://www.newsis.com/view/NISX20261030_0003848603",
     "https://www.newsis.com/view/NISX20261030_0003848369",
     "https://www.newsis.com/view/NISX20261030_0003848594",
     "https://www.newsis.com/view/NISX20261030_0003848520",
@@ -4999,7 +4991,15 @@
     "https://www.mk.co.kr/news/society/12192484",
     "https://www.newsis.com/view/NISX20261031_0003849408",
     "https://www.newsis.com/view/NISX20261031_0003849410",
-    "https://www.hankyung.com/article/2026103064936"
+    "https://www.hankyung.com/article/2026103064936",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ycWhrczczMnVLTjJxbGlHZDFIbnhHYllJWXU3YWdLZkNPWkRnMG0tb1hrbzhVQUJWT19RaUdMY1lrWkprUUpIc3FYVEpzeDJVQV9rZm9rUVFRTE1VdEQyTFZiTEtXUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIalJnVmtSblNxT2FsVzgzc0ZWNHk1dDBTUFNnR0FEQm1RRWxNNEdBUmU0R0IxR3dxWWlIYlFoaFpkNnQ1Rk5vd2dUbk9vNC1yQ29kdlNMb1ZORjVHQXFUbFhVN0RQVHdZT01JV2V4dlQ4VFJYR2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1OU5HbzZmVUJCenVOaXpNREZPc1JpajBCUkM2Wi13MU85QXItUEN6R3Bza0VQNTRjYzcyS1RxdHFyaXBnalY0WkduS3lBaE1LWmNvSjI4ekN5ZjJmUUF0czFnRdIBY0FVX3lxTFB1OU5HbzZmVUJCenVOaXpNREZPc1JpajBCUkM2Wi13MU85QXItUEN6R3Bza0VQNTRjYzcyS1RxdHFyaXBnalY0WkduS3lBaE1LWmNvSjI4ekN5ZjJmUUF0czFnRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMFlfNk8zLVkxR3YtMnZBOTZSeDctODFtTDFleHlfRm9CSWQ1cDRGY0hLelkzdFVYX2prQWdnVVhKNkd3MzR4UHp5dGo5X0p1eVNRdDJONThQcXlGX1RrUnZMQdIBY0FVX3lxTE8zMFlfNk8zLVkxR3YtMnZBOTZSeDctODFtTDFleHlfRm9CSWQ1cDRGY0hLelkzdFVYX2prQWdnVVhKNkd3MzR4UHp5dGo5X0p1eVNRdDJONThQcXlGX1RrUnZMQQ?oc=5",
+    "https://www.chosun.com/sports/football/2026/10/31/MMZWGZTDMY4DSYTBMI3DSYJVMU/",
+    "https://www.chosun.com/sports/baseball/2026/10/31/MMZDCNDBMQ3WMNTGMRSTCMZXMM/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824378&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824490&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
