@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/sports/football/2026/10/29/GFTDONDCHBSDSMJSG4ZGGZDCME/",
-    "https://www.donga.com/news/Politics/article/all/20261030/134938382/1",
-    "https://www.donga.com/news/Politics/article/all/20261030/134938419/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823106&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12190065",
     "https://www.mk.co.kr/news/economy/12191421",
     "https://www.newsis.com/view/NISX20261030_0003848293",
     "https://www.newsis.com/view/NISX20261030_0003848288",
@@ -4999,7 +4994,12 @@
     "https://www.newsis.com/view/NISX20261031_0003849256",
     "https://www.newsis.com/view/NISX20261031_0003849262",
     "https://www.newsis.com/view/NISX20261031_0003849239",
-    "https://www.hankyung.com/article/2026103058897"
+    "https://www.hankyung.com/article/2026103058897",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YdmtGZ21GWXItaURVLS1HMFhqLWJOeXpCWWNJRXpRVDUwb0xaUXY0X0hDbzN5N1VqVFY1dTNNY2hsblJMYUdWbHlyQ2JwTDM3UDYtazNHUDljY3MyX1l1QXBweUNlWVRES3BCWldRbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJbXVJUWhxWDVEd2JJbndUTG4xVzMyVUl6dXhfNU1kR0JqNmI4SHF0SG9qSDVRMnJhR29PZjVoS2FtQlN2aUxqMTZ2dTB4NTAwZEdrRWdB?oc=5",
+    "https://www.newsis.com/view/NISX20261031_0003849263",
+    "https://www.newsis.com/view/NISX20261031_0003849264",
+    "https://www.newsis.com/view/NISX20261031_0003849260"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8546,5 +8546,9 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4MVE1NGR0aERqNlRWQzRNYV9Ua01oS1hJTmI3ZHdoRU0zR3FOQS0xX0l0NGtNWWtodVRDX0FSRElCd1pGNU9Lc3E2NXJwTjU2eXF3eTlFcw?oc=5",
     "https://www.hankyung.com/article/202610293963i"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "KBS": {
+      "failing_since": "2026-10-31T03:22+00:00"
+    }
+  }
 }
