@@ -1,20 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823444&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823504&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/society/12191595",
-    "https://www.mk.co.kr/news/society/12191583",
-    "https://www.newsis.com/view/NISX20261030_0003848717",
-    "https://www.newsis.com/view/NISX20261030_0003848718",
-    "https://www.newsis.com/view/NISX20261030_0003848714",
-    "https://www.newsis.com/view/NISX20261030_0003848687",
-    "https://www.newsis.com/view/NISX20261030_0003848583",
-    "https://www.newsis.com/view/NISX20261030_0003848709",
-    "https://www.newsis.com/view/NISX20261030_0003848701",
-    "https://www.newsis.com/view/NISX20261030_0003848695",
-    "https://www.newsis.com/view/NISX20261030_0003848706",
-    "https://www.newsis.com/view/NISX20261030_0003848707",
-    "https://www.newsis.com/view/NISX20261030_0003848699",
     "https://www.newsis.com/view/NISX20261030_0003848684",
     "https://www.newsis.com/view/NISX20261030_0003848661",
     "https://www.newsis.com/view/NISX20261030_0003848702",
@@ -4999,7 +4984,22 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuX2ZMV0habHh3Tk1JMFFZYk82a0szUVJYeDNTMGx2RFNoczN3NHlNcTJXZERLZElhZE9DbDNNVF91aU1MWUNaaEF1Uy1lc1RwMTFzaFdn?oc=5",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824539&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261031_0003849451",
-    "https://www.newsis.com/view/NISX20261031_0003849452"
+    "https://www.newsis.com/view/NISX20261031_0003849452",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE05S05GcjkxZTJMSnhaNmkwNXlkaEh3emh4WDFXNHJ6R3JjTU9HMFhiVTBjci1hT2tSUkMxUW0yRVd2T1ZRbEZrTGdaRTQ1QWpucjdiWDl0ZzJLeXI2Ty1oY0FrS2ozWURIZUow?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261031235258xa3",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261031234810vwb",
+    "https://www.yna.co.kr/view/AKR20261031050000004",
+    "https://www.yna.co.kr/view/AKR20261031048751108",
+    "https://www.yna.co.kr/view/AKR20261031049900004",
+    "https://www.yna.co.kr/view/AKR20261031049800004",
+    "https://www.chosun.com/jp/international-jp/2026/10/31/TX3MJ6OJT5HJ5H5RULFSOR6FJA/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CUm9xREJlX09XRWVLVkZMU1FsZHZMZlJwZ0VTZy03MlFDSzF5dW5LbTIxWWFSczgtdG9Kc2RGUk5JV0VYT3Y0RFV1ZDg2b09zSDVqeXZB?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824547&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824546&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/society/12192517",
+    "https://www.newsis.com/view/NISX20261031_0003849430",
+    "https://www.newsis.com/view/NISX20261031_0003849453",
+    "https://www.chosun.com/international/international_general/2026/10/31/GE2TSZTFMZRWMMBXMQYTGY3BGI/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8543,7 +8543,8 @@
     "폴란드정부전정권임명한헌재소장직무정지야권쿠데타",
     "조현독일폴란드외교장관과회담방산등협력논의",
     "금리동결찬성한美댈러스연은총재최소두차례더올려야",
-    "가평단독주택화재로50대남녀2명숨져1명화상"
+    "가평단독주택화재로50대남녀2명숨져1명화상",
+    "폴란드전정권임명한헌재소장직무정지野쿠데타"
   ],
   "opinion_date": "2026-10-31",
   "seen_opinion_links": [
