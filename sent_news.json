@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261030099000004",
-    "https://www.yna.co.kr/view/AKR20261030098600004",
-    "https://www.yna.co.kr/view/AKR20261030053100530",
-    "https://www.yna.co.kr/view/AKR20261030090200002",
     "https://www.chosun.com/jp/politics-national-jp/2026/10/30/HWXF576ZX5G3RJ6TOYFY3UXY54/",
     "https://www.chosun.com/national/regional/chungcheong/2026/10/30/BKAE3BHWEBBHDNSZ26IA44GXZQ/",
     "https://www.chosun.com/entertainments/broadcast/2026/10/30/GJSDONDBMM2GKMDBGFQTSOLDGE/",
@@ -4999,7 +4995,11 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824290&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261031_0003849276",
     "https://www.newsis.com/view/NISX20261031_0003849270",
-    "https://www.newsis.com/view/NISX20261029_0003846391"
+    "https://www.newsis.com/view/NISX20261029_0003846391",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSDZ5T3NaVTlUZmJkQzdFbGtLaDUzMHdGSFBXMXdXbmdhMTVWekVQR3hsYmtoSmpaQVNXUE1XbFAtZDRsTDg4U1BGcFlzMXp0SzhYVmdNejFDQXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OTlBlWW9YWUxETk5hcDU0NkpTSk41eWlHTjBOSkUyQWY0OHJnbnpZNzhSRGptRFdIcVNwUFFrM2hRcWh2X3V2d3BhVDRJaHgySFpaVnpKYTdxM0NtZ0HSAWNBVV95cUxPaEZyZDVjaE5OX0k5eVdBaVBDVDFZWDF1UktmcE1sa0tiSkRiTTA5WUxCYWxlMkhWTFdoeUVfRHl5aVpJZ2RlbGRCUVBMd3Qtb3NVWjlXOXNzdEZ3NVdldm4yLWc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261031029500009",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXeHNlQjNlcE9NYTRvQU42dnRudmZtLTdJSS00Q05DNHlHY0g1LTh2eVdCZnJFZFBZcnl5cXNrajFabTF0aTNXdUFYWTlQR2g2RkxQV0V3?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8547,5 +8547,9 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4MVE1NGR0aERqNlRWQzRNYV9Ua01oS1hJTmI3ZHdoRU0zR3FOQS0xX0l0NGtNWWtodVRDX0FSRElCd1pGNU9Lc3E2NXJwTjU2eXF3eTlFcw?oc=5",
     "https://www.hankyung.com/article/202610293963i"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-10-31T04:15+00:00"
+    }
+  }
 }
