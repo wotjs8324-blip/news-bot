@@ -1,18 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823603&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823598&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823597&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823580&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12191655",
-    "https://www.mk.co.kr/news/economy/12191653",
-    "https://www.mk.co.kr/news/society/12191661",
-    "https://www.newsis.com/view/NISX20261030_0003848339",
-    "https://www.newsis.com/view/NISX20261030_0003848806",
-    "https://www.newsis.com/view/NISX20261030_0003848802",
-    "https://www.newsis.com/view/NISX20261030_0003848786",
-    "https://www.newsis.com/view/NISX20261030_0003848769",
-    "https://www.newsis.com/view/NISX20261030_0003848703",
     "https://www.newsis.com/view/NISX20261030_0003848789",
     "https://www.newsis.com/view/NISX20261030_0003848796",
     "https://www.newsis.com/view/NISX20261030_0003848711",
@@ -4999,7 +4986,20 @@
     "https://www.newsis.com/view/NISX20261030_0003848473",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5228085",
     "https://www.mk.co.kr/news/stock/12191650",
-    "https://www.mk.co.kr/news/realestate/12191649"
+    "https://www.mk.co.kr/news/realestate/12191649",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TcFU2Z2NXd0xPN2Z5SU1oYnN6Y0pIV0drMXNCVVZZWFE2cjJZSG0zRm41YjItZl9fY0gzN283TVNDb2VtdDVfckwxUjFYZFZJclZaOEF3OEtyM2VROHdkQmdNYnpfdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SV0lpOGtGelNqcWJJNFNwVDUwamM4ZDJqVjB5d3hYSXlldFcwUUJhVzBKNURla3ZOekQ3LVA2QnNCMTRwZTdCZ0R1UjZrUEk0SXVsYlpuay1TNE0?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12Z2FvZHhXUU1Zb0dwbWpBbzE0SkJGUUpHN25yai1tcURIRV9BTk1rS0pqYzdQVC1UeXVmNjh3cmx4Q0Z4STk0WUdjcndIYzhPc1RsX1M3azdhMTBGbXc?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVFIaEdmSzdSZUo3R2ktLXJqd1B4YUtzOU1UdkFRMEtJX215NWlZc2NKdkVpandIQzctV1pnczZTejh1VjhRYjRRbGdQT2dkYVZXTmdJQUpqQW1sQ0FSdGtPT1FjcWFBQmFjR015Ym0tbVFHdzZDV1RBeElMSjY4VTBXc9IBY0FVX3lxTE1JRk5sNmljdDE4ODlnM2paekFXejA5elZ5aHhPZFJnS3BxNURvdkd1VUt5LS1xM3N3bU9XcVR6UG5JN1J0cWFSN3prNTJlUkpsSF9vMlVNbG1BWkZ2QVZvZU5nSQ?oc=5",
+    "https://www.yna.co.kr/view/AKR20261101005000055",
+    "https://www.yna.co.kr/view/AKR20261101004900062",
+    "https://www.yna.co.kr/view/AKR20261101004600057",
+    "https://www.yna.co.kr/view/AKR20261031030900008",
+    "https://www.yna.co.kr/view/AKR20261101004500064",
+    "https://www.yna.co.kr/view/AKR20261101004400053",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yZGlkb0cxQlF2Mm5LbFNLS0RIR0U1N2lEQ3JRbkxBVzdOYWRTMFI0cWYwcVJSNDhMWkpkeE9IeXFFd1ZOTWxabmFyWlFxZjlaN0duSDlR?oc=5",
+    "https://www.newsis.com/view/NISX20261101_0003849473",
+    "https://www.yna.co.kr/view/AKR20261031026200008"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8552,7 +8552,8 @@
     "아파트주차금지구역에오토바이6개월방치벌금200만원",
     "조합인가취소에재건축전환까지서울아파트리모델링흔들",
     "삼성전자창사첫2개창립기념사최대실적속원삼성물음표",
-    "美중간선거주요경제지표발표대기"
+    "美중간선거주요경제지표발표대기",
+    "다시변동성커지는증시코스피지난달16역대일곱번째"
   ],
   "opinion_date": "2026-10-31",
   "seen_opinion_links": [
@@ -8575,15 +8576,5 @@
     "https://www.hankyung.com/article/202610293963i",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWm5NZWozWUJwbEllc2lGYlBTUjgtc1ctZkVHZDhpY0FxRVBNZnpsSHJieHJPR1JRMzdWdkxkOHBkdFJzNFNSQnBFbmh4Z3J1OVItYWtn?oc=5"
   ],
-  "feed_health": {
-    "SBS": {
-      "failing_since": "2026-10-31T21:20+00:00"
-    },
-    "SBS 경제": {
-      "failing_since": "2026-10-31T21:20+00:00"
-    },
-    "SBS 사회": {
-      "failing_since": "2026-10-31T21:20+00:00"
-    }
-  }
+  "feed_health": {}
 }
