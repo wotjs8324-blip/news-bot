@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823557&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823500&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823548&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823573&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/society/12191636",
-    "https://www.mk.co.kr/news/society/12191635",
-    "https://www.newsis.com/view/NISX20261030_0003848740",
-    "https://www.newsis.com/view/NISX20261030_0003848749",
-    "https://www.newsis.com/view/NISX20261030_0003847907",
-    "https://www.newsis.com/view/NISX20261030_0003848649",
-    "https://www.newsis.com/view/NISX20261030_0003848685",
-    "https://www.newsis.com/view/NISX20261030_0003848739",
     "https://www.newsis.com/view/NISX20261030_0003848286",
     "https://www.newsis.com/view/NISX20261030_0003848770",
     "https://www.newsis.com/view/NISX20261030_0003848767",
@@ -4999,7 +4987,19 @@
     "https://www.newsis.com/view/NISX20261031_0003849412",
     "https://www.newsis.com/view/NISX20261031_0003849365",
     "https://www.newsis.com/view/NISX20261030_0003848503",
-    "https://www.newsis.com/view/NISX20261029_0003846818"
+    "https://www.newsis.com/view/NISX20261029_0003846818",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rN0k0S0M4UU8yX19fcWN6TFd3U3NSZjhrcTFnbHVJU0R6c2tnaGxpeDVSOEhzZWFkcW9xSGZkM2VMVUVJc0tvVVl2MmVDa19ac3hhaTY3ZlZqdnpBS3c?oc=5",
+    "https://www.yna.co.kr/view/AKR20261101003100082",
+    "https://www.yna.co.kr/view/AKR20261031043500001",
+    "https://www.chosun.com/economy/startup_story/2026/04/08/V2CGLA6X6ZCOLPVNDTG7HUL7S4/",
+    "https://www.chosun.com/economy/startup_story/2026/01/20/HI4KL4MOL5H7FLKI4NVF25MER4/",
+    "https://www.chosun.com/politics/assembly/2026/11/01/ZJ7GF2K4JBAD5E75O45EJLEQSI/",
+    "https://www.chosun.com/politics/2026/11/01/2C2XVBM6VNHD5OHUXY74OETHEU/",
+    "https://www.chosun.com/sports/baseball/2026/11/01/GE2TGYRYHFQWGNDDGEZGGMZQGI/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/01/NIJVNF6X5BEVZJRLM5WD3H526E/",
+    "https://www.chosun.com/politics/diplomacy-defense/2026/11/01/WYB7QS5P5NF6NK65WXOWAMEMSA/",
+    "https://www.chosun.com/politics/diplomacy-defense/2026/11/01/YLT4IOG5PNEMVGW4OS5HNWMT3U/",
+    "https://www.chosun.com/economy/startup_story/2026/07/20/3IPN66QPIRDLDMYCONGB4URF7E/"
   ],
   "initialized_feeds": [
     "조선일보",
