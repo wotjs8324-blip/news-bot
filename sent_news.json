@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/jp/economy-jp/2026/10/30/5C3A6FNMLZACFDQWMUSVDF3B4U/",
-    "https://www.chosun.com/jp/economy-jp/2026/10/30/ZCBFMGEWF5CFVKTKC6FUZDX5HU/",
-    "https://www.chosun.com/economy/economy_general/2026/10/30/GQZGIYZXHE4TCNBRMVTDOOLEHA/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42TUxXNVZBR2x1cFd2MGQ2QktxYTlCZFlRbTVpRUdYN1VUeC1HR0dXWnVyNUVhdXlQVGhFY1h2MldLLXp3M0J5SGZLWDh3dUhwMHMwS0xR?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwTUxEbTdreHozeklEVm5jZEE1WlNVemYwc04wUE1HWkFxY1gyWklpZnR4V1RzeU84N2FBekZUWWstWTZveWo5NS15cUY0WkZoSUZYNm5R?oc=5",
-    "https://www.donga.com/news/Society/article/all/20261030/134939822/1",
     "https://www.donga.com/news/Economy/article/all/20261030/134939803/1",
     "https://www.donga.com/news/Society/article/all/20261030/134939798/1",
     "https://www.donga.com/news/Politics/article/all/20261030/134939786/1",
@@ -4999,7 +4993,13 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUMVlMOWdnUEFZNWZodTZRTkZncVJIWkt3UGJSZHlnc2l4enczRWpmdnNGNXN0ZndmV3dZWWRWbGpFZnZnR0VDZngycjNwYnhDUkQ0RTRB?oc=5",
     "https://www.newsis.com/view/NISX20261030_0003848407",
     "https://www.newsis.com/view/NISX20261030_0003848559",
-    "https://www.newsis.com/view/NISX20261030_0003847810"
+    "https://www.newsis.com/view/NISX20261030_0003847810",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YeURDNFk1clk0eGdxakUzQjVXakNuMlVDR1JLMzJ2MUtMcmFpSjU2bHZsVDF2QW9qQXNMWFVKQXIwX2pxMENPX3JvRTZmdC1DUFhOSGEtdm83Ty1mUlE?oc=5",
+    "https://www.yna.co.kr/view/AKR20261031044652004",
+    "https://www.chosun.com/jp/international-jp/2026/11/01/3ID4RNBOBBDSRKDPITAU2VEG7A/",
+    "https://www.chosun.com/international/international_general/2026/11/01/757JCQIAPFEFXBPINFGK4Q46OY/",
+    "https://www.newsis.com/view/NISX20261101_0003849461",
+    "https://www.newsis.com/view/NISX20261030_0003848464"
   ],
   "initialized_feeds": [
     "조선일보",
