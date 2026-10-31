@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261030_0003848286",
-    "https://www.newsis.com/view/NISX20261030_0003848770",
-    "https://www.newsis.com/view/NISX20261030_0003848767",
-    "https://www.newsis.com/view/NISX20261030_0003848758",
-    "https://www.newsis.com/view/NISX20261030_0003848538",
-    "https://www.newsis.com/view/NISX20261030_0003848756",
-    "https://www.newsis.com/view/NISX20261030_0003848751",
-    "https://www.newsis.com/view/NISX20261030_0003848753",
-    "https://www.newsis.com/view/NISX20261030_0003848745",
-    "https://www.newsis.com/view/NISX20261030_0003848721",
-    "https://www.newsis.com/view/NISX20261030_0003848750",
     "https://www.newsis.com/view/NISX20261030_0003848627",
     "https://www.mk.co.kr/news/stock/12190628",
     "https://www.yonhapnewstv.co.kr/news/MYH20261030161648TGA",
@@ -4999,7 +4988,18 @@
     "https://www.chosun.com/jp/sports-jp/2026/11/01/NIJVNF6X5BEVZJRLM5WD3H526E/",
     "https://www.chosun.com/politics/diplomacy-defense/2026/11/01/WYB7QS5P5NF6NK65WXOWAMEMSA/",
     "https://www.chosun.com/politics/diplomacy-defense/2026/11/01/YLT4IOG5PNEMVGW4OS5HNWMT3U/",
-    "https://www.chosun.com/economy/startup_story/2026/07/20/3IPN66QPIRDLDMYCONGB4URF7E/"
+    "https://www.chosun.com/economy/startup_story/2026/07/20/3IPN66QPIRDLDMYCONGB4URF7E/",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FQnlzZkp4NjRLaDhPSUpobnZtNENBTGJQNzl5QjdsNHBGc0ZMNjZzVlJkaE9Ob1EtaHQxQnpER0k3OFItZ3NnNE5RRkgwTXRsaW9sc2R2OVpVOXBWRFgwa3M3ekNYSW9YeV9GbGRyY2s1M1FhUXl1Wktn0gF6QVVfeXFMTms5VngwX21rSkVxVnpoTGVrYURLYlo5aEk5emNhUjNlZkt5Z3FQckZnT1U2M0NjbVNVMVRrNThHRm51V2Jzc0VxZng5SDVJSTcyVFgyaXZXb0wxVlYtT2JvclRqWGdzVk9fcm53RWhPS203aDhvQmNXckE?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE50ZlRFVDdzRF9nM19jSkVpMGtpSVRsWDJHMTBvaF9lMHRUOEQ0NlRxaE9NNUwydTFnZFJ5S0tYeXczRUJSQ0EtbVRKNC02Y2pSbkZWUzlsN3hILVFPSmVLSFdDQWJBeHBkWXVsRExVdG8tckhXQjNVRUV30gF6QVVfeXFMTXFMNF9CTXdPazduY1JTTnktWXhocDhhaGlOUFlTVGFpWHJtUEh5cmRjNW1vaW5PdHlJTms0bXo0OE5CdVgwTzU1TVBSb0tReWxKYmdVRnJJTDhCd3dxdkdWc0dPMGItQzU3MjNkd1RfNG4wT1NpWEwySmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGVTRENlBwVFNENVgwMjZSaVpfOEoxcG1yVkdhTUdNTV9PWE4wNHlUSUlTY0Zna3lNT0FxX1NYS29rbFU2Y1JkUmFVZlRmS3RBOGwwZFBmdWRYUEF5eFg5NkFuTWNPT0lmYjQ4c2oxX2NsZ1dmbFhTRVpn0gF6QVVfeXFMTnAtcmZwUHNxbWprVllnenJIa2NUT3dvbEYyTWFRY3lEZDhXT2dYMk9JeFVaNWswa0pPV2d2NzBNTE1hRlQxLTI5Z1I5R3ZOcjhaUGJPUjRoRlNtUjRkNjAxR0dyZGRLRDJjdDNPMGFEemFLVE5nUWFmM0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjeWVBdDVGTXNSc3liNVgta0VVR0x2WFhYd1QtVEpzN0hScXhTSFFpTnNxSV9MVlNDNVRhMVFFUFpRVUttZU5fMnBCX0JpeGlRNnF1cVFCTXlKVmdLUGc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261101003200071",
+    "https://www.chosun.com/economy/startup_story/2026/10/27/DFI7WYCCQNEOXFD3TJPKHFIXLM/",
+    "https://www.chosun.com/economy/startup_story/2026/07/21/FZB6JWA4B5EHBPN2SNN66XFQHI/",
+    "https://www.chosun.com/sports/world-baseball/2026/11/01/GQ3TCNRSMFRTQZRVGE2DGZTCME/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/01/MT5NNV6EFRHEPGPJ5TOKBZRQZI/",
+    "https://www.chosun.com/economy/startup_story/2026/08/25/T4C3KRQTQBGFTOH6GESCUUISIU/",
+    "https://www.newsis.com/view/NISX20261030_0003848984"
   ],
   "initialized_feeds": [
     "조선일보",
