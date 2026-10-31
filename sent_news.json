@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261030_0003848396",
-    "https://www.newsis.com/view/NISX20261030_0003848678",
-    "https://www.newsis.com/view/NISX20261030_0003848716",
-    "https://www.hankyung.com/article/202610292687i",
     "https://www.hankyung.com/article/202610292579i",
     "https://www.hankyung.com/article/202610292320H",
     "https://www.yna.co.kr/view/AKR20261030131551008",
@@ -4999,7 +4995,11 @@
     "https://news.google.com/rss/articles/CBMieEFVX3lxTFBERFlLS3ZrWl8xZ2xERlZPMHoxaEhDMGNxanFrbk9nbDl4Q0dTdnR5b2JsQWdxbWNIWVFFLTRON0F6RUg2TEs2ZWFIVE8weTI2bGl2VF9kTFlSdmNyYi10ZGdZZ0hGMllIcXcwcEhvcWZ1QUJtV0psNNIBeEFVX3lxTE9OWm1Mdkg2aE8td3gwUmtTNjM1U0xtaHU1Tl91WDJhODZaMGkyZk1uWFU4MDh1TzIybEJqMEdEZ3pNTDNDcEQzblBUaG9ybDdEMnQxZzRMTUVOYWhZTFl0QS1oZEU2b3NUOE1xRk1ncEcxWkZmcXoxdA?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pMjhqN1pvbnFKWExBdlZza1BXSGdkU2x6SEJ5SE9RUGJVeVpoXzFBa2MzaURsVXd4WWJqNnd0WGs0ZEsxSXVBOTJ1cTE1bDNjYXhpdlFNc1luTWpCSnc?oc=5",
     "https://www.yna.co.kr/view/AKR20261101001600071",
-    "https://www.chosun.com/sports/world-baseball/2026/11/01/G43GGMBRMEZTMNBUGM2DMNBQMY/"
+    "https://www.chosun.com/sports/world-baseball/2026/11/01/G43GGMBRMEZTMNBUGM2DMNBQMY/",
+    "https://www.yna.co.kr/view/AKR20261101001700071",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDVVJoeHVYOUNEbUZoZkFwcG1ZQzVrZE1lcm9RWjhvSlRvUTZiNTZ5Q25za2ZTT2lVc3hRTmx3WXJLRF9WT2pqNzNtRkFrcFN3bGtxVHd3?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824572&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824570&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
