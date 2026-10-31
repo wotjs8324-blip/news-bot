@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.mk.co.kr/news/economy/12191604",
-    "https://www.mk.co.kr/news/business/12191606",
-    "https://www.newsis.com/view/NISX20261030_0003848743",
-    "https://www.newsis.com/view/NISX20261030_0003848700",
-    "https://www.newsis.com/view/NISX20261030_0003848732",
-    "https://www.newsis.com/view/NISX20261030_0003848741",
-    "https://www.newsis.com/view/NISX20261030_0003848710",
-    "https://www.newsis.com/view/NISX20261030_0003848712",
-    "https://www.newsis.com/view/NISX20261030_0003848733",
     "https://www.newsis.com/view/NISX20261030_0003848725",
     "https://www.newsis.com/view/NISX20261030_0003848735",
     "https://www.newsis.com/view/NISX20261030_0003848576",
@@ -4999,7 +4990,16 @@
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LNFBUZXk5T212MXBnRjg0cENkM2ptUnMwaWdjQW56MUNPa1NsY2tWT1NDdk1pUklLMXdhNEx0TjNRbGt1VTYzX3E5azhsanV6c2xxREVPMmRzREFXWEE?oc=5",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824563&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261030_0003848762",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5228281"
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5228281",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fTDVrdlhYd2RpeE4yM2lVbHFxMFlrR2RpVmh4TVR1b0tRVl9meXZmd3FBY1A2Rk43b19POW82MDUwZ3ZIcGNaMFZCNjgtUEtKN1J4aGpjMElXV0ZCNnc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261101000700071",
+    "https://www.yna.co.kr/view/AKR20261101001000082",
+    "https://www.chosun.com/sports/baseball/2026/11/01/GBTDSZRUGAZDKZJXMRTDGNBUMI/",
+    "https://www.chosun.com/sports/world-football/2026/11/01/GE2DCYJVGZRTOMZVGIZGMYJZGM/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/01/Q2AYBVOG35HOHDWT6WHEL4NKS4/",
+    "https://www.chosun.com/sports/sports_general/2026/11/01/G4ZTOM3EGI2DGMZXGQ3DMNZYHE/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/01/6IMFDUDOIBCJPGOJYSUTFSXEMU/",
+    "https://www.mk.co.kr/news/economy/12191608"
   ],
   "initialized_feeds": [
     "조선일보",
