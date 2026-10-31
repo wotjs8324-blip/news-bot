@@ -1,15 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Inter/article/all/20261030/134940116/1",
-    "https://www.donga.com/news/Economy/article/all/20261030/134940093/1",
-    "https://www.donga.com/news/Society/article/all/20261030/134940090/1",
-    "https://www.donga.com/news/Culture/article/all/20261030/134940082/1",
-    "https://www.donga.com/news/Society/article/all/20261030/134939858/2",
-    "https://www.donga.com/news/Society/article/all/20261030/134940066/1",
-    "https://www.donga.com/news/It/article/all/20261030/134940045/1",
-    "https://www.donga.com/news/Economy/article/all/20261030/134940040/1",
-    "https://www.donga.com/news/Society/article/all/20261030/134939996/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823558&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823603&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823598&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823597&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4989,17 @@
     "https://www.yna.co.kr/view/AKR20261030066600057",
     "https://www.chosun.com/economy/real_estate/2026/11/01/GBRDIODGGA2TCNTFME3GKZRYGM/",
     "https://www.yna.co.kr/view/AKR20261031028400003",
-    "https://www.chosun.com/economy/stock-finance/2026/11/01/GA4WIZBRGE4DMNZUMY2GMYJXGQ/"
+    "https://www.chosun.com/economy/stock-finance/2026/11/01/GA4WIZBRGE4DMNZUMY2GMYJXGQ/",
+    "https://www.yna.co.kr/view/AKR20261031011800007",
+    "https://www.yna.co.kr/view/AKR20261031011600007",
+    "https://www.yna.co.kr/view/AKR20261031000200008",
+    "https://www.yna.co.kr/view/AKR20261031047500003",
+    "https://www.chosun.com/jp/sports-jp/2026/11/01/6T3OR576URH3LCNYE6QH7FAL3M/",
+    "https://www.chosun.com/sports/baseball/2026/11/01/GMYGIMRUMIYTCNRUGZQTOMJRMU/",
+    "https://www.newsis.com/view/NISX20261030_0003848473",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5228085",
+    "https://www.mk.co.kr/news/stock/12191650",
+    "https://www.mk.co.kr/news/realestate/12191649"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8575,5 +8575,15 @@
     "https://www.hankyung.com/article/202610293963i",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWm5NZWozWUJwbEllc2lGYlBTUjgtc1ctZkVHZDhpY0FxRVBNZnpsSHJieHJPR1JRMzdWdkxkOHBkdFJzNFNSQnBFbmh4Z3J1OVItYWtn?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "SBS": {
+      "failing_since": "2026-10-31T21:20+00:00"
+    },
+    "SBS 경제": {
+      "failing_since": "2026-10-31T21:20+00:00"
+    },
+    "SBS 사회": {
+      "failing_since": "2026-10-31T21:20+00:00"
+    }
+  }
 }
