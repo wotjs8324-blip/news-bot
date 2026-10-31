@@ -1,15 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261030122600004",
-    "https://www.yna.co.kr/view/AKR20261030126500004",
-    "https://www.yna.co.kr/view/AKR20261030125700797",
-    "https://www.yna.co.kr/view/AKR20261030124800057",
-    "https://www.yna.co.kr/view/AKR20261030116000009",
-    "https://www.yna.co.kr/view/AKR20261030085551001",
-    "https://www.yna.co.kr/view/AKR20261030124000004",
-    "https://www.yna.co.kr/view/AKR20261030115100002",
-    "https://www.chosun.com/jp/economy-jp/2026/10/30/LWAJU3UDTRHYFGAFAZY3IAEV6M/",
-    "https://www.chosun.com/economy/tech_it/2026/10/30/GI3DOZLDG43DEOJSMI4GMMJRGI/",
     "https://www.chosun.com/jp/culture-life-jp/2026/10/30/NOH2CJBO7VARFN65UKXBILX234/",
     "https://www.chosun.com/entertainments/broadcast/2026/10/30/GJQTCOLCGAYDMODFGQ4TCMJWGI/",
     "https://www.chosun.com/jp/sports-jp/2026/10/30/UMQJMTCUAZF43CGH25CMUOZB2Y/",
@@ -4999,7 +4989,17 @@
     "https://www.newsis.com/view/NISX20261031_0003849398",
     "https://www.newsis.com/view/NISX20261031_0003849373",
     "https://www.hankyung.com/article/2026103176517",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261031185120ido"
+    "https://www.yonhapnewstv.co.kr/news/MYH20261031185120ido",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3YTlKekxNbmNlSndZRTVFdnFaVWQyMHNJQ2RMSndHMm5Zcl9sSkxYeWtxZ004WjQ0WGI5R2lQbENFODVzUHpRZXdfcUdyN3FMX1RIRUFB?oc=5",
+    "https://www.donga.com/news/Culture/article/all/20261030/134931093/2",
+    "https://www.newsis.com/view/NISX20261031_0003849329",
+    "https://www.newsis.com/view/NISX20261029_0003845771",
+    "https://www.newsis.com/view/NISX20261031_0003849385",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227920",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227913",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227899",
+    "https://www.mk.co.kr/news/stock/12191539",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CSHhKeG9tNndFb0xvZndaYXlWUHJDdlYyOWZGZGNpVVdId0RiWXQ2RVFMQUc2VVY2TzRpVGZtVnM1QnVHRU5OMXZNLXpGdWhoU2JCR3N3MjhmREFlZ3c?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8535,7 +8535,8 @@
     "인도히말라야서헬기추락힌두교순례객6명사망kbs뉴스",
     "이대통령집값하락전망게시물공유지금은견디는중ytn",
     "민주당선관위여성위원장후보문정복에경고선거운동규정위반",
-    "가평농막화재로2명사망1명부상가스누출추정"
+    "가평농막화재로2명사망1명부상가스누출추정",
+    "서울아파트값90주째서울없는주택공급ytn"
   ],
   "opinion_date": "2026-10-30",
   "seen_opinion_links": [
