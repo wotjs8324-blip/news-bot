@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Economy/article/all/20261030/134939803/1",
-    "https://www.donga.com/news/Society/article/all/20261030/134939798/1",
-    "https://www.donga.com/news/Politics/article/all/20261030/134939786/1",
-    "https://www.donga.com/news/Society/article/all/20261030/134939789/2",
-    "https://www.donga.com/news/Economy/article/all/20261030/134939748/1",
-    "https://www.donga.com/news/Inter/article/all/20261030/134939720/1",
-    "https://www.donga.com/news/Economy/article/all/20261030/134939352/1",
     "https://www.donga.com/news/Society/article/all/20261030/134939681/2",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823541&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823537&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4992,14 @@
     "https://www.chosun.com/jp/international-jp/2026/11/01/3ID4RNBOBBDSRKDPITAU2VEG7A/",
     "https://www.chosun.com/international/international_general/2026/11/01/757JCQIAPFEFXBPINFGK4Q46OY/",
     "https://www.newsis.com/view/NISX20261101_0003849461",
-    "https://www.newsis.com/view/NISX20261030_0003848464"
+    "https://www.newsis.com/view/NISX20261030_0003848464",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CYVFfZE1KaC0wemZYZUVKZ2NRcGQ2Q2xESTRIMTdzaVZpQkYzaEQzYWhVdDZQWW9HVWk5WGM2bFBLaEU2RXlyOHhtYVJRSUtPZFNkdEt2RXlCdlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdHczR094YkNscU9HZmMybE5aVjNFNy02WWdHUEhacHhqdXhZbVFzQXNUYk1vRDJ1Z1pockc2bXJCZmRXUjJ5S211SjlDT2xMUmY2UU5HRVNBNDVuMWc?oc=5",
+    "https://www.chosun.com/sports/baseball/2026/11/01/G5TGEZRWMM2DKYZZGRRTIY3GMU/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/01/JSV75DW6CVA67OWLHYMBHLZ65Y/",
+    "https://www.chosun.com/sports/world-baseball/2026/11/01/G4YDCZJSGJRDKNJVGMYDQZJXME/",
+    "https://www.chosun.com/sports/baseball/2026/11/01/MEYDKZRUG5SGGZRYMMZTMYRWGA/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/01/6GKVSUSSWBCVJF2GHF6WILQX5I/"
   ],
   "initialized_feeds": [
     "조선일보",
