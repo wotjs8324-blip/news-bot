@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/entertainments/entertain_photo/2026/10/30/MUYDIMRUMM3WGMRWGQ4WCZJWME/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/10/30/ME3DQMTGHA4DEZBTGRRDCN3BGQ/",
-    "https://www.chosun.com/jp/sports-jp/2026/10/30/6ZIUB7QSTFAXHNILFQWBBC3DVM/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/30/SEL2ME5WIRH5TDIT7UVPWK22MM/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/10/30/MU3GMYRWMNSWMMRXG5RDMN3FMQ/",
-    "https://www.chosun.com/sports/baseball/2026/10/30/MUZTSMJZMY2DGM3GGYZWEMTGGY/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/30/GUZTGZBXMU2TEZJWGE2TKYZVME/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OREtzdzBHWmN6bVpEZXJUMkJSeGxwZkR1dEkyU3JtOVNGdUVTbFgwRFc1ZWFWcENkckdjbDI5WkFrNWQ1aXh0cjBLMDJMRWliVUpMQ1JR?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mRExpV3ZaR3NyUDEwMmhUZW9WSWhDd3JnMDBSblktUi1HUkNqdm9oS3E3aU9YU0VMZFQ3NmF4WHlTZ0FuVExNTnZiUi1pbjhyQ1c1T2h3?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuX2ZMV0habHh3Tk1JMFFZYk82a0szUVJYeDNTMGx2RFNoczN3NHlNcTJXZERLZElhZE9DbDNNVF91aU1MWUNaaEF1Uy1lc1RwMTFzaFdn?oc=5",
-    "https://www.donga.com/news/Society/article/all/20261030/134939624/2",
-    "https://www.donga.com/news/Culture/article/all/20261030/134939605/2",
     "https://www.donga.com/news/Economy/article/all/20261030/134939422/1",
     "https://www.donga.com/news/Politics/article/all/20261030/134939644/1",
     "https://www.donga.com/news/Society/article/all/20261030/134939638/1",
@@ -4999,7 +4987,19 @@
     "https://www.newsis.com/view/NISX20261031_0003849384",
     "https://www.newsis.com/view/NISX20261031_0003849441",
     "https://www.donga.com/news/Society/article/all/20261031/134942945/1",
-    "https://www.yna.co.kr/view/AKR20261031049300004"
+    "https://www.yna.co.kr/view/AKR20261031049300004",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SMkJMaUx0R05xclVOdlZMYVpGTGZVWXlFZFJfUnlyLURtMHN1YUtwWXdaa0NOQ3JwdkRsUnRuVkQwMzRiRHZ6NHFBN013TWdFNmxXSnpTWEg1LVFtMW00OTUzLS1UZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCN1NsS1UwUlNCVUY3VXdpRllEM3Fyc1M4b25iOU1VaVFrSlJxSW9aTDZYMlVTZnpmQXBydHpGWVJOYmlMQzhEa1hrSHl1NDdrR1V0OFdUTTR1ZkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UbmpuX1BKVUxuNnJuUGkzZ1hsVDFEQnQtekJwZXVSdVk3SWRsUlhfZC1LOVBsbXZRM0MwNHpQMTZRM1BMN1ZjMThMSm9oWm05VU4tUnJXcUpmNEJfOXZaSi1uUW1Fdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iTFFpM3djVHJmYl9ucm52NGFXYXYtcTVESUlJc293TTNvV3dMUlk0S2FIeHhQR0p1TlhrVl8yeFhhdXlLekdjbnpqX0xHWDJSZnVwSDN3WnpKRHlyU3NZcG00NEY4QQ?oc=5",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/31/GVQTKNLFMVSDOMBUGA2WEZDDME/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/31/VNHP6OJIWRFEJMIIU7HDPOTTTM/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/31/PEYODID6ERAVTGMKMVX4WNNYW4/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/31/MZSTMMRSGVSDIMBZGMYDENDGMM/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/10/31/RQIZ5EGAMZCUJFA4QYNT2XUS6M/",
+    "https://www.chosun.com/entertainments/broadcast/2026/10/31/GIZGKZJQMIYWGZRQG5TGGYRTMM/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44YXNkX180R2NOYnNReFBKQU4zSnNZZ0Y2VnB4VTdYczNyRzdndklLSVo2UEhJd0dOcHNaODM1aklDaU1DNGJOV1VHQ1h5NEFYZnRJaFFn?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MZGsxVGJTcVpVUnRqdEw3YkdtdmZib0l2cFd6a29wb29fWnpDM3c5VmxZZVpYSW1rX0p3aUlTX0VndE42UWl5WGNBV08yVmdsNllfZmd3?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
