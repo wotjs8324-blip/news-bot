@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5228202",
-    "https://www.mk.co.kr/news/realestate/12191946",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QMXBzT1U2Z081eE42SnBDWnFjZE56TTlEdU5OLXdQaWZ6eUZtWV9GdlBBWFk3MjcxakF3RWNvSHdQd20xLU9sdk1zTUlwekhTRjBrdXQ5UDIwS21VWUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93ZkF0eVU2c0xTMlpELXNLSjlQb09FOWJJNmI2LTU5aGZPcE9vX2I0bmxqV2xEUmdydzFHUUY5Zkk5bmpIY3NTZllkQmJhaTdaZm93WjZVNXVfUno0TWc?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261031104307h5w",
-    "https://www.yna.co.kr/view/AKR20261031024200064",
-    "https://www.yna.co.kr/view/AKR20261030044400980",
-    "https://www.yna.co.kr/view/AKR20261030045900980",
-    "https://www.yna.co.kr/view/AKR20261030048200980",
-    "https://www.yna.co.kr/view/AKR20261030048000980",
-    "https://www.yna.co.kr/view/AKR20261031013600005",
     "https://www.yna.co.kr/view/AKR20261031023400011",
     "https://www.yna.co.kr/view/AKR20261031023500001",
     "https://www.yna.co.kr/view/AKR20261031023300005",
@@ -4999,7 +4988,18 @@
     "https://www.donga.com/news/Opinion/article/all/20261101/134946642/2",
     "https://www.chosun.com/jp/culture-life-jp/2026/11/01/S22FYOIF4BAXJH2AMRULK5KUT4/",
     "https://www.donga.com/news/Opinion/article/all/20261101/134946791/2",
-    "https://www.hankyung.com/article/2026103173617"
+    "https://www.hankyung.com/article/2026103173617",
+    "https://www.yonhapnewstv.co.kr/news/AKR202611012329414ZP",
+    "https://www.yna.co.kr/view/AKR20261101051300005",
+    "https://www.chosun.com/jp/international-jp/2026/11/01/KUPYRYWMTFC4NHJB7QJARQGPZU/",
+    "https://www.chosun.com/international/international_general/2026/11/01/MVQWKNBZMEYGCNZSMQZGGOLEGM/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/01/S6YXFIWJZZEQHHZ7TYVXPK5MRQ/",
+    "https://www.chosun.com/sports/football/2026/11/01/HE2TGN3CMZRDANJQGFTDOZLDGQ/",
+    "https://www.donga.com/news/Opinion/article/all/20261101/134946788/2",
+    "https://www.donga.com/news/Opinion/article/all/20261101/134946786/2",
+    "https://www.donga.com/news/Opinion/article/all/20261101/134946776/2",
+    "https://www.donga.com/news/Opinion/article/all/20261101/134946772/2",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5228201"
   ],
   "initialized_feeds": [
     "조선일보",
