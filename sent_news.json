@@ -1,15 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/31/K3PGVDIS6NDIFLA3ROAO7D5HUQ/",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824377&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261031_0003849328",
-    "https://www.newsis.com/view/NISX20261031_0003849305",
-    "https://www.newsis.com/view/NISX20261031_0003849330",
-    "https://www.newsis.com/view/NISX20261031_0003849321",
-    "https://www.newsis.com/view/NISX20261031_0003849320",
-    "https://www.newsis.com/view/NISX20261031_0003849303",
-    "https://www.newsis.com/view/NISX20261031_0003849319",
-    "https://www.newsis.com/view/NISX20261031_0003849313",
     "https://www.hankyung.com/article/2026102943641",
     "https://www.hankyung.com/article/2026102944171",
     "https://www.hankyung.com/article/2026102943651",
@@ -4999,7 +4989,17 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825430&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261102_0003850044",
     "https://www.newsis.com/view/NISX20261102_0003850048",
-    "https://www.hankyung.com/article/202610317607i"
+    "https://www.hankyung.com/article/202610317607i",
+    "https://www.chosun.com/international/international_general/2026/11/02/J7MG2TX5ABG4DKTJFURO3HROLQ/",
+    "https://www.chosun.com/jp/international-jp/2026/11/02/HRNSRZMYARDRDAPD5BT56H7W5Q/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/02/KMFCT2PHDVBUNHUB3KZKNJOMBU/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825433&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825422&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825438&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825437&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825421&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261101_0003849970",
+    "https://www.mk.co.kr/news/business/12192433"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8677,5 +8677,24 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWm5NZWozWUJwbEllc2lGYlBTUjgtc1ctZkVHZDhpY0FxRVBNZnpsSHJieHJPR1JRMzdWdkxkOHBkdFJzNFNSQnBFbmh4Z3J1OVItYWtn?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pRjNOcDNrMzRObG9ObkhLTGU4YlFpZFZWOUVxcXF0Ni04SFJPaldYTWRhYXd2SU02NkU5a1lJNDdLbTA2Qld5UG1XeTBpQjdmb0prcVpqc1U?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "KBS": {
+      "failing_since": "2026-11-01T21:30+00:00"
+    },
+    "MBC": {
+      "failing_since": "2026-11-01T21:30+00:00"
+    },
+    "YTN": {
+      "failing_since": "2026-11-01T21:30+00:00"
+    },
+    "채널A": {
+      "failing_since": "2026-11-01T21:30+00:00"
+    },
+    "중앙일보": {
+      "failing_since": "2026-11-01T21:30+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-11-01T21:30+00:00"
+    }
+  }
 }
