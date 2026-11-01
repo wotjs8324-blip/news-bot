@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/jp/sports-jp/2026/10/31/YGBEXSEQTJABBEWL4C3UQM3LIU/",
-    "https://www.chosun.com/sports/sports_general/2026/10/31/G5SDMN3EGNRDEOBUHEZTSNBQMQ/",
-    "https://www.chosun.com/economy/economy_general/2026/10/31/GIYWMNRUGNTGKZJUGBTGMNLEMU/",
-    "https://www.chosun.com/jp/economy-jp/2026/10/31/TRXEAQPZZBEGDBD35AZS7DNWP4/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/10/31/TG3F7HAUIJDJXPQXMBBC6PKHFQ/",
-    "https://www.chosun.com/national/regional/chungcheong/2026/10/31/J5MWPYQHGVDTFACQN4B6AZM234/",
-    "https://www.chosun.com/jp/culture-life-jp/2026/10/31/X5FCNMHCY5CJFI6YYXPR5I45YE/",
-    "https://www.chosun.com/entertainments/broadcast/2026/10/31/GNQTKZLCG44DQOJWME2GCNBXGA/",
     "https://www.chosun.com/entertainments/music/2026/10/31/MIZTMOLGMM2DAMLGMJTDSM3EGE/",
     "https://www.chosun.com/jp/culture-life-jp/2026/10/31/PLJJ3VTWXNDGDMXOW4ACZ2S7GA/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UV9VQzRHVmJqakZCRk84SndVTGdpRVRYeFZJb3FtbGZvVWsyWXpldlVqWXdGZHc5a3lyLTgwZlc2N3hXZ1lqZE1CTWFxSWFTUWQ2LTJ3?oc=5",
@@ -4999,7 +4991,15 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825255&plink=RSSLINK&cooper=RSSREADER",
     "https://www.mk.co.kr/news/society/12193025",
     "https://www.mk.co.kr/news/stock/12193024",
-    "https://www.yna.co.kr/view/AKR20261101047400001"
+    "https://www.yna.co.kr/view/AKR20261101047400001",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5TFdJZDFRdHpOb0dtRU5rYk5lenBDUHlNV0Qzc2FVMlc5SjA2THV3dE90Qm56cEx1UmR5VV9la3NlT0xwOThacmtiS3BxM1pTZEFvdFYyNTVwbmVKU3fSAWNBVV95cUxOYVZvTnYzQWFjcUNCLXA0SGdrbzFuWW12YjRhNlUzYWhtQlpOaXdCSG9lRnlaYWUwNHJuODNUVEllaXhpNGdjcVVYSFlSRThwN3VBNkRYLUVPTS1tQ2pONndmVzA?oc=5",
+    "https://www.yna.co.kr/view/AKR20261101049500061",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/01/GVRDSYRXG5SWMOLCGE2TGZJRGQ/",
+    "https://www.chosun.com/sports/baseball/2026/11/01/GBSGKNTCMY4DMZDEGI4DKZBXGQ/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825268&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825267&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825266&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261101_0003849986"
   ],
   "initialized_feeds": [
     "조선일보",
