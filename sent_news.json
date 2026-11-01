@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/sports/baseball/2026/10/31/MQZDINDBG5STEYZZGJSDAYRZGQ/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YOEpJeW1MaFhwR2tiTWliajFpM01IcGtqdFNmNUhvVTE0VzBwcFUzTk5xRWEzZHM2cjd5TDJPbG4zb0JIYTVVcEpiR20yMWJ2eFBVdG53?oc=5",
-    "https://www.mk.co.kr/news/economy/12192411",
-    "https://www.newsis.com/view/NISX20261030_0003848768",
     "https://www.newsis.com/view/NISX20261030_0003848868",
     "https://www.newsis.com/view/NISX20261030_0003849017",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5227888",
@@ -4999,7 +4995,11 @@
     "https://www.chosun.com/sports/baseball/2026/11/02/MYZGGMJWMY4GEZTEMY2GMZDCG4/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWm5NZWozWUJwbEllc2lGYlBTUjgtc1ctZkVHZDhpY0FxRVBNZnpsSHJieHJPR1JRMzdWdkxkOHBkdFJzNFNSQnBFbmh4Z3J1OVItYWtn?oc=5",
     "https://www.newsis.com/view/NISX20261102_0003850032",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261102013437awG"
+    "https://www.yonhapnewstv.co.kr/news/AKR20261102013437awG",
+    "https://www.yna.co.kr/view/AKR20261101036551079",
+    "https://www.yna.co.kr/view/AKR20261102001500079",
+    "https://www.chosun.com/international/international_general/2026/11/02/MZQTSMDEHFQTQNZSGBSDSNBXGM/",
+    "https://www.chosun.com/jp/international-jp/2026/11/02/VSFNKBTVONE5RMOU6JD64JF7CQ/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8663,18 +8663,5 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWm5NZWozWUJwbEllc2lGYlBTUjgtc1ctZkVHZDhpY0FxRVBNZnpsSHJieHJPR1JRMzdWdkxkOHBkdFJzNFNSQnBFbmh4Z3J1OVItYWtn?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pRjNOcDNrMzRObG9ObkhLTGU4YlFpZFZWOUVxcXF0Ni04SFJPaldYTWRhYXd2SU02NkU5a1lJNDdLbTA2Qld5UG1XeTBpQjdmb0prcVpqc1U?oc=5"
   ],
-  "feed_health": {
-    "한국경제 경제": {
-      "failing_since": "2026-11-01T16:45+00:00"
-    },
-    "한국경제 증권": {
-      "failing_since": "2026-11-01T16:45+00:00"
-    },
-    "한국경제 부동산": {
-      "failing_since": "2026-11-01T16:45+00:00"
-    },
-    "한국경제 정치": {
-      "failing_since": "2026-11-01T16:45+00:00"
-    }
-  }
+  "feed_health": {}
 }
