@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lY2dURUJPWE9OVm1hY2FpWE5aUU1xalY0bTJKbG1fNjRHZkR0SEYtTDhaUHlkNUlISEd5MjQ1a3JCZzFmOVFGNHBwZG5ZTjlSNzZpQVpGa04yanpEZlRlOGJ1djBrZw?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/MYH202610310929327tr",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261031092916x05",
-    "https://www.yonhapnewstv.co.kr/news/MYH202610310928350pM",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261031092755rpZ",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261031092632pJv",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261031092613zcM",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261031092502oqd",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261031092440Xar",
-    "https://www.yna.co.kr/view/AKR20261031020100065",
-    "https://www.yna.co.kr/view/AKR20261031019800001",
-    "https://www.chosun.com/sports/basketball/2026/10/31/TT6UP6FY2VE5VDJMI52FTM3ZVE/",
     "https://www.chosun.com/jp/sports-jp/2026/10/31/A7XCTGTC2JGMTP2AWVJVYN2DCQ/",
     "https://www.chosun.com/sports/baseball/2026/10/31/GA2DAZJTMU2GMN3BHFTGMMLCGY/",
     "https://www.chosun.com/jp/sports-jp/2026/10/31/DCC5RCPNEZDKHNJVCNDRLGHTNI/",
@@ -4999,7 +4987,19 @@
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5228367",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5228366",
     "https://www.mk.co.kr/news/stock/12192998",
-    "https://www.newsis.com/view/NISX20261101_0003849966"
+    "https://www.newsis.com/view/NISX20261101_0003849966",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kTHhPZnRoS3JMcTFiR1ZmVUpPWWVqQW9BaWxwdGlpYlRDMmg5QXFKZFl3cFpKcDlLQnRYSm9fMHd4WEQ0cnc2RkFYSDQ2b2dxVDJKeXFjcDlmS0k?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hc0cwU0JRZ2VMNkFjSFdENXJBUngzUkxEOXpBVUhfQmxiLWtHSm5TUlM0R1VST2xrVTVCZlpLWXhKc3IxRFVMSWVsZmRtdktuekxySzNRQTNQUU1WWVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QWFJpclRhMjdpWGl6RHNFenJ0Sk0wRFg2SkRaT2p3dEtEWFZsREhhOHAxeEpWa1cxZUFWdkJfTlc2VHA5MnNtNm9rTnVyTlNENm4xRTRYMEVJVnluRWt3dEYxbTQ?oc=5",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/01/MNRTMODDHAYDIYLEGQ2GIM3CGU/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/01/MLWGHAK2INAPPD2W25H5MJOYFM/",
+    "https://www.donga.com/news/Sports/article/all/20261101/134945941/1",
+    "https://www.donga.com/news/Economy/article/all/20261101/134945928/1",
+    "https://www.newsis.com/view/NISX20261101_0003849783",
+    "https://www.newsis.com/view/NISX20261101_0003849940",
+    "https://www.hankyung.com/article/202610317174i",
+    "https://www.hankyung.com/article/202610317321i",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825252&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8626,7 +8626,8 @@
     "이형일경제현안간담회개최주택공급국민일자리논의",
     "李대통령국빈방한한튀르키예대통령과3일정상회담",
     "이형일경제현안간담회개최주택공급일자리논의",
-    "인도야당주도선거위원장사퇴촉구시위에수만명운집"
+    "인도야당주도선거위원장사퇴촉구시위에수만명운집",
+    "나스닥폭락에촉각월요일코스피괜찮을까"
   ],
   "opinion_date": "2026-11-01",
   "seen_opinion_links": [
@@ -8650,24 +8651,5 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWm5NZWozWUJwbEllc2lGYlBTUjgtc1ctZkVHZDhpY0FxRVBNZnpsSHJieHJPR1JRMzdWdkxkOHBkdFJzNFNSQnBFbmh4Z3J1OVItYWtn?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pRjNOcDNrMzRObG9ObkhLTGU4YlFpZFZWOUVxcXF0Ni04SFJPaldYTWRhYXd2SU02NkU5a1lJNDdLbTA2Qld5UG1XeTBpQjdmb0prcVpqc1U?oc=5"
   ],
-  "feed_health": {
-    "KBS": {
-      "failing_since": "2026-11-01T11:30+00:00"
-    },
-    "MBC": {
-      "failing_since": "2026-11-01T11:30+00:00"
-    },
-    "YTN": {
-      "failing_since": "2026-11-01T11:30+00:00"
-    },
-    "채널A": {
-      "failing_since": "2026-11-01T11:30+00:00"
-    },
-    "중앙일보": {
-      "failing_since": "2026-11-01T11:30+00:00"
-    },
-    "중앙일보 경제": {
-      "failing_since": "2026-11-01T11:30+00:00"
-    }
-  }
+  "feed_health": {}
 }
