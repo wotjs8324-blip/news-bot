@@ -1,26 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261102_0003850306",
-    "https://www.newsis.com/view/NISX20261102_0003850321",
-    "https://www.newsis.com/view/NISX20261102_0003850307",
-    "https://www.newsis.com/view/NISX20261102_0003850281",
-    "https://www.newsis.com/view/NISX20261102_0003850319",
-    "https://www.newsis.com/view/NISX20261102_0003850076",
-    "https://www.newsis.com/view/NISX20261102_0003850029",
-    "https://www.newsis.com/view/NISX20261102_0003850088",
-    "https://www.newsis.com/view/NISX20261102_0003850297",
-    "https://www.newsis.com/view/NISX20261102_0003850223",
-    "https://www.newsis.com/view/NISX20261102_0003850300",
-    "https://www.newsis.com/view/NISX20261102_0003850296",
-    "https://www.newsis.com/view/NISX20261102_0003850028",
-    "https://www.newsis.com/view/NISX20261102_0003850293",
-    "https://www.newsis.com/view/NISX20261102_0003850280",
-    "https://www.newsis.com/view/NISX20261102_0003850288",
-    "https://www.newsis.com/view/NISX20261102_0003850289",
-    "https://www.newsis.com/view/NISX20261102_0003850286",
-    "https://www.newsis.com/view/NISX20261102_0003850282",
-    "https://www.newsis.com/view/NISX20261102_0003850292",
-    "https://www.newsis.com/view/NISX20261102_0003850284",
     "https://www.newsis.com/view/NISX20261102_0003850246",
     "https://www.newsis.com/view/NISX20261102_0003850268",
     "https://www.newsis.com/view/NISX20261102_0003850266",
@@ -4999,7 +4978,28 @@
     "https://www.hankyung.com/article/202611021256i",
     "https://www.hankyung.com/article/202611021249i",
     "https://www.hankyung.com/article/2026110212651",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRMVZ2NVItRDFTVnc4dWVkMWVONkVjV1dKNmtxU0NBRmpCWWVjUlJkcDB6TVZJaS1RM1ZlZ0ZnYTFSRms0cDlNNkRvenNHM3poV0NYLW93?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRMVZ2NVItRDFTVnc4dWVkMWVONkVjV1dKNmtxU0NBRmpCWWVjUlJkcDB6TVZJaS1RM1ZlZ0ZnYTFSRms0cDlNNkRvenNHM3poV0NYLW93?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261102204214gyh",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261102203406YpF",
+    "https://www.yna.co.kr/view/AKR20261102171100007",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/02/UEQPBL4TU5DJ5IGJHOILSUZBHQ/",
+    "https://www.chosun.com/national/incident/2026/11/02/PHGLNUFV2ZGELLJJ6QJLJRRHWU/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/02/GYYWIYRYMM3TGMZVHEYGGZRSGM/",
+    "https://www.chosun.com/national/national_general/2026/11/02/SFBK7BEZCBEF5CUXS5YP73PTM4/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/02/RMEJVD3VNJBAFE5EZ7AVYIREZA/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/02/DZLL54FQKZHGPAJ6EHKLJFWGSE/",
+    "https://www.chosun.com/economy/economy_general/2026/11/02/QMP3P7WXW5A5JLS3UOS4AWMW34/",
+    "https://www.chosun.com/jp/economy-jp/2026/11/02/BDFEJCCMXRAQ3CVHALT7KHQT7Y/",
+    "https://www.chosun.com/jp/economy-jp/2026/11/02/6MLPLVNWFVEJVAJGWIXQTSCRPU/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XejA5aTFjLWpnLWtFSEV1LXFGdHhTYi0ycXI1N0psT1llOGhER29BUGNLNVJZU1h5TlAxRjlWLXFPdjJfMW9hZjlJRnBZbjVjWERaZTdB?oc=5",
+    "https://www.donga.com/news/Politics/article/all/20261102/134952884/1",
+    "https://www.mk.co.kr/news/society/12193898",
+    "https://www.newsis.com/view/NISX20261102_0003851759",
+    "https://www.newsis.com/view/NISX20261102_0003851760",
+    "https://www.newsis.com/view/NISX20261102_0003851751",
+    "https://www.newsis.com/view/NISX20261102_0003851757",
+    "https://www.newsis.com/view/NISX20261102_0003851693",
+    "https://www.newsis.com/view/NISX20261102_0003851742"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8790,5 +8790,15 @@
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pRjNOcDNrMzRObG9ObkhLTGU4YlFpZFZWOUVxcXF0Ni04SFJPaldYTWRhYXd2SU02NkU5a1lJNDdLbTA2Qld5UG1XeTBpQjdmb0prcVpqc1U?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE90dmxYclFsamJ5Y2toXzBsVzRGZHhoYlcxLVJta2FRUXBoME5GLWtDVFV2WFJoNEo5UUp1cGJSX2hWQ3BfM3J1VVh6VDVjc3J5N0FUcGhENFM4ZDE3SWZRb2s4alRfVDNQdHc?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "SBS": {
+      "failing_since": "2026-11-02T11:45+00:00"
+    },
+    "SBS 경제": {
+      "failing_since": "2026-11-02T11:45+00:00"
+    },
+    "SBS 사회": {
+      "failing_since": "2026-11-02T11:45+00:00"
+    }
+  }
 }
