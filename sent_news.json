@@ -1,21 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261102_0003850520",
-    "https://www.newsis.com/view/NISX20261102_0003850277",
-    "https://www.newsis.com/view/NISX20261102_0003850516",
-    "https://www.newsis.com/view/NISX20261102_0003850513",
-    "https://www.newsis.com/view/NISX20261102_0003850514",
-    "https://www.newsis.com/view/NISX20261102_0003850479",
-    "https://www.newsis.com/view/NISX20261102_0003850310",
-    "https://www.newsis.com/view/NISX20261102_0003850484",
-    "https://www.newsis.com/view/NISX20261102_0003850493",
-    "https://www.newsis.com/view/NISX20261102_0003850448",
-    "https://www.newsis.com/view/NISX20261102_0003850505",
-    "https://www.newsis.com/view/NISX20261102_0003850486",
-    "https://www.hankyung.com/article/2026110184891",
-    "https://www.mk.co.kr/news/stock/12193190",
-    "https://www.mk.co.kr/news/business/12193196",
-    "https://www.newsis.com/view/NISX20261102_0003850459",
     "https://www.yna.co.kr/view/AKR20261102030100530",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DNTZzMEc2NDFYVGowTEJYT0ZYQjVRWWpvQlJWNDJjNnpZUWVpTnl5Q2RraHJIZXdIRFdzVXViX0Y0Z0V5NmxQT1F4cGQ5U3NONkZwNGZZci1iTHJtaDdTVkdvcWdULVRvamFv?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNY3BSQTVGOTVkQmZZSUlxV0ZYeVZpS01LLVdiMzVfZ2xrTW9LcWxmWDNQeExudEFJSXdUUTNHVVQweW4xaHI1TmVjT3BOY1hSMlJsZlZodlZNRTg?oc=5",
@@ -4999,7 +4983,23 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NbnM1Rk9kOFQ3LS04b3BLdDRoa3hCaHJEWjYtSEdQdmhFV2l5NXZKOHRxOXQ2bUM0dG9UVDVwVF90TzlKRXZwbnYySmlpeFFQSG1BVk1n?oc=5",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827223&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827221&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827222&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827222&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zY3ZraFozaHV6R3VCWlRBZFJrZ2l0dnRLOXozZWdVZ0gzb05MOWR4UzNBWnF6SjRReEJlbU81RGVsZS1lUzVIUVVGS0ZOeEdZVmNmcDJQUjJrVGxNV1RGa2JueXZjdw?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBveTM4YU5VNlR6MXlsQjc2NFRBS3l2RlVSV05UN3JCWVZUZG9Wd002WUNha2lhVEViN3lfX1o2My1SODNpTk5KTlV6c092dDZyRHpFdDlzTUk2eDFyNGo4TzFzM25lak42Q01vYWk2dw?oc=5",
+    "https://www.yna.co.kr/view/AKR20261103001000109",
+    "https://www.yna.co.kr/view/AKR20261101051600017",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/03/WGVPG2JK7ZA2DGUSTBN4R4X23U/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/03/MM4TGYRUGA3GEM3DGBRTSZLCG4/",
+    "https://www.chosun.com/economy/science/2026/11/03/PPIYVKT6YVG7FBMB7UGWEJAMQQ/",
+    "https://www.chosun.com/jp/economy-jp/2026/11/03/2QRSOK5FZJA3LD3KPK7F5PY7JE/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/03/VEW53JPMIFFJTPXHSK5T54OT7Q/",
+    "https://www.chosun.com/politics/politics_general/2026/11/03/2HOQUFBKK5D2HLKIVISVHGBRBY/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/03/A743JQEBRNGAFAKSIVML53KOZA/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/03/Q6B67WBY2JHAJBRAAZFQ4IQEAM/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40cjdvelphZ1AtR08xSnRvYWd2NDNSbFlLa2dKQ3ZlYTN0X01wZVJ2bDlFNVdFRXBBbXVRTG01YnVvQ3hpZzFJUkEwREVFR3ZFUUFnNVpn?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OWmstbk0zWms4YzN0VWpRRGpDeDZuc2pzOC02eHFLSkRHZDlmc0JCMTZYLThISU1jR3U2MnBVc3ltaWpTY3E5bG9TNUlyU2hQNEpaWV93?oc=5",
+    "https://www.newsis.com/view/NISX20261102_0003851421",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hVFA5MndRVk5iR1czbHMyS09Jd0p5M0hRWExjNE5LTTl1Z1RJdHM2SkhLV3JKczJrNF90NWpzQXZ0dk9HV05nbFpZemlST1hRVEVIM0Jxc0ZHV3o5M1ZYSUh0bmlyUQ?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -8778,7 +8778,8 @@
     "李대통령측헌재에답변서대법관임명권에선별판단권포함",
     "李대통령측헌재에답변서대법관임명권본질적으로인사권",
     "메이데이35초뒤마지막비명제트기추락해9명사망mbc뉴스",
-    "막판총력유세전민주당에지면미스터거부권"
+    "막판총력유세전민주당에지면미스터거부권",
+    "코스피미국발악재에도반등2대상승마감kbs뉴스"
   ],
   "opinion_date": "2026-11-02",
   "seen_opinion_links": [
