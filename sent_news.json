@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825888&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825878&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825862&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822374&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825717&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261102_0003850617",
-    "https://www.newsis.com/view/NISX20261102_0003850611",
-    "https://www.newsis.com/view/NISX20261102_0003850469",
-    "https://www.newsis.com/view/NISX20261102_0003850414",
-    "https://www.newsis.com/view/NISX20261102_0003850577",
-    "https://www.newsis.com/view/NISX20261102_0003850614",
-    "https://www.newsis.com/view/NISX20261102_0003850608",
     "https://www.newsis.com/view/NISX20261102_0003850599",
     "https://www.newsis.com/view/NISX20261102_0003850593",
     "https://www.newsis.com/view/NISX20261102_0003850605",
@@ -4999,7 +4987,19 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DSFNzelU4N05janNsU0E2ZG1XUXZKcXBfN0Yzc05NNllEcmRFNEEyazJ2YWM0aDhTdWcxT0hpZGVZZEtTZ21RaEQ4MU1yTFI4RmI3UnFB?oc=5",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827278&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261103_0003851828",
-    "https://www.newsis.com/view/NISX20261102_0003851767"
+    "https://www.newsis.com/view/NISX20261102_0003851767",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLRnZoRkxHNXdtWFRXd1gwRkY1aFpfWmFYZ3lBYUpmakRYWXdxX0dwdjZGcnA3T0h3REo0UkpFcUlOVnYzNlJKMTI0TDY4ZnhDV3ZKQlB1NTNhNVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIUXAzMEhzNkRhZTZ4azdyZDZVLXRlOHBHeGhEeEYzRVhaVlRzZG9nRTdSYUdUajNsYW5rSVhtV1c4ektBbTJnVWRzRENtQWhDOXdSWmh6b2NlQi1LZXc?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261103042205X1L",
+    "https://www.yna.co.kr/view/AKR20261103004400091",
+    "https://www.yna.co.kr/view/AKR20261103005100085",
+    "https://www.yna.co.kr/view/AKR20261103004200071",
+    "https://www.yna.co.kr/view/AKR20261103003900071",
+    "https://www.donga.com/news/Society/article/all/20261103/134954511/1",
+    "https://www.donga.com/news/Inter/article/all/20261103/134954508/1",
+    "https://www.newsis.com/view/NISX20261102_0003851649",
+    "https://www.newsis.com/view/NISX20261102_0003850782",
+    "https://www.mk.co.kr/news/realestate/12193949"
   ],
   "initialized_feeds": [
     "조선일보",
