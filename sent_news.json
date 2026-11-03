@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53RHQ5dVdOd1JlbkxndXdyQzR6dTVRVTI3R2N1MUstNEF0RkQ0VDhhTE9ZRUkzNGRnMHdHeXN5ZVJsbVp5SWJkeFZWY3k3MHo5R0w4RkdB?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45bC0zMFloYjI2bWs0aWt1aHdGU3g2XzhJZjlmY1MwbGFxOTR1YW1ObV9mVTFKZmlodWJoS1BVd0lzOUZpcTJqQTFqUmxOeVcwS1VWa2Nn?oc=5",
-    "https://www.donga.com/news/Economy/article/all/20261103/134956629/2",
-    "https://www.donga.com/news/Inter/article/all/20261103/134956608/1",
     "https://www.donga.com/news/Politics/article/all/20261103/134956605/1",
     "https://www.donga.com/news/Society/article/all/20261103/134956602/1",
     "https://www.donga.com/news/Economy/article/all/20261103/134956597/1",
@@ -4999,7 +4995,11 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829331&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261104_0003853609",
     "https://www.newsis.com/view/NISX20261104_0003853610",
-    "https://www.mk.co.kr/news/business/12194605"
+    "https://www.mk.co.kr/news/business/12194605",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NU01pMlR0NGtyRDcyelpMdi1uVW01STVLMkphSm1fdmE0a3J4MzVPV04xVzRVSThDMDJvT19HaktURmVhZXNNdVZRVWpBdmhMSjQyc3ZVTXN1RGFWdk1mTDNzcDFNc1nSAWdBVV95cUxOZ2tpbVVZQ21kYWtDVzNWUjJETndRNHFWeTJyU1RBS0lnUHlxbk1saUdvSkQ1TFRsX244MVRDV01KYzNBNDEzQ1U0cHM5aHRNUTdBLUp2M3AwZ3BuMUpuRFlTSm81SEdN?oc=5",
+    "https://www.newsis.com/view/NISX20261103_0003853118",
+    "https://www.newsis.com/view/NISX20261104_0003853616",
+    "https://www.newsis.com/view/NISX20261103_0003852071"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "eu규제강화경북철강제품수출에직격탄우려",
     "한국판ces만들수있을까정부전시산업발전로드맵발표",
     "코스피6300선까지밀려삼성전자4대급락ytn",
     "경찰8명부상인천흉기난동피의자신상공개검토",
@@ -9031,7 +9030,8 @@
     "홍콩els사태3년만에제재결론나나금융위오늘심의",
     "바이낸스해킹에국내가상자산거래소배상책임강화될까",
     "불법사금융예방대출연체율44로상승연령대낮을수록높아",
-    "스페인교통부장관연내2건의고속철참사로사임의사밝혀"
+    "스페인교통부장관연내2건의고속철참사로사임의사밝혀",
+    "강남은매물급증외곽은상승서울아파트시장양극화속진실은"
   ],
   "opinion_date": "2026-11-03",
   "seen_opinion_links": [
