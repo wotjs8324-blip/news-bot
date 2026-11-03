@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://www.hankyung.com/article/202611032191g",
     "https://www.hankyung.com/article/202611032325i",
     "https://www.hankyung.com/article/202611020436i",
     "https://www.mk.co.kr/news/stock/12194545",
@@ -4999,7 +4998,8 @@
     "https://www.newsis.com/view/NISX20261104_0003853589",
     "https://www.newsis.com/view/NISX20261104_0003853593",
     "https://www.chosun.com/jp/sports-jp/2026/11/04/OWBBVF6AYVFXPKWG4KKGPYE35I/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EYkhYQzNQUzVwOVFoci1UdUZEU1dBR1U1VnBUOVQ0QWVSQUNfZUI5c2RRbkRVY1QtRThrelZZeEdVQlUzY3VNcHV3bDVpSVFUMllia1dn?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EYkhYQzNQUzVwOVFoci1UdUZEU1dBR1U1VnBUOVQ0QWVSQUNfZUI5c2RRbkRVY1QtRThrelZZeEdVQlUzY3VNcHV3bDVpSVFUMllia1dn?oc=5",
+    "https://www.newsis.com/view/NISX20261103_0003852216"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9050,5 +9050,9 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE90dmxYclFsamJ5Y2toXzBsVzRGZHhoYlcxLVJta2FRUXBoME5GLWtDVFV2WFJoNEo5UUp1cGJSX2hWQ3BfM3J1VVh6VDVjc3J5N0FUcGhENFM4ZDE3SWZRb2s4alRfVDNQdHc?oc=5",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FOUdpZS1NTlh6aHBxUHpSal9PcEh4eWRFS3J5VFFreWl4NjZJUldXMEdjRF9NdFZyYmt2SzM2eVJSYWpoQ1AtMzlWNzBBSDBETlNpQg?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-03T19:00+00:00"
+    }
+  }
 }
