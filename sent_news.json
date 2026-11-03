@@ -9050,9 +9050,5 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE90dmxYclFsamJ5Y2toXzBsVzRGZHhoYlcxLVJta2FRUXBoME5GLWtDVFV2WFJoNEo5UUp1cGJSX2hWQ3BfM3J1VVh6VDVjc3J5N0FUcGhENFM4ZDE3SWZRb2s4alRfVDNQdHc?oc=5",
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FOUdpZS1NTlh6aHBxUHpSal9PcEh4eWRFS3J5VFFreWl4NjZJUldXMEdjRF9NdFZyYmt2SzM2eVJSYWpoQ1AtMzlWNzBBSDBETlNpQg?oc=5"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-11-03T17:45+00:00"
-    }
-  }
+  "feed_health": {}
 }
