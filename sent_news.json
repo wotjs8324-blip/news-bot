@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/04/GUZTQMDEGM4TGYLCHBQWIYJWMY/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/04/MU4GKOLFGUZDAZJUHA2GCNBRMU/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/04/GM2WMYJZGA4DGOJYMRRTEZLFGI/",
-    "https://www.chosun.com/economy/tech_it/2026/11/04/JWVB6NRKBFHKXAEO2UUBTASYJI/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/11/04/FMPX52T5CVA2JOYUZNFBHBPASQ/",
-    "https://www.chosun.com/national/national_general/2026/11/04/GPYHWISCQZGSNLVUHQRF2M4SPA/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/04/MU2GGZRUMI3WMZBZMJTDKOJZGA/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/04/GRRDGN3CG43DEZDFGYZDIMLBHE/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/04/MY2DQYLGMNRWGOJTMM2WENRQMY/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/04/HE2GKYZQGE4DOMJRGY2WGOBVHA/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/04/MJSTKNBSGNTDOOLDGJRWIMZTGM/",
-    "https://www.chosun.com/economy/real_estate/2026/11/04/GIZWEZJZMFQTOOJTGI2GEYZUGQ/",
     "https://www.chosun.com/jp/economy-jp/2026/11/04/2OKK6IDUZRAYRJBQBDJDJ3GK6Y/",
     "https://www.chosun.com/jp/sports-jp/2026/11/04/YBAYG55JA5E4FIHS3FB7AJUMFA/",
     "https://www.chosun.com/jp/economy-jp/2026/11/04/VXEACCWXTRFY5F5RKS3DEKN5G4/",
@@ -4999,7 +4987,19 @@
     "https://www.yna.co.kr/view/AKR20261104006151071",
     "https://www.yna.co.kr/view/AKR20261105005000082",
     "https://www.yna.co.kr/view/AKR20261105005500527",
-    "https://www.yna.co.kr/view/AKR20261105005100091"
+    "https://www.yna.co.kr/view/AKR20261105005100091",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xWFdmU1JKQnZnejJfVDZzbE44VjVETnZhTmpoQ1ltamc4UWFEckFVMWY4UTBZQ3ZFWWM4eFpHS1JPX2RZQk5rYlFNTnd1bXMwWHFKZjhneGxTblhfY2hHQ18tclkya1lVNDZOWkFGQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE44cW5tQzlzRDQ1UFo2MC1kRUxEenJKcDg4V1ZpUDQ3VnhQQWJ0ZkZmM2gyRmpUclRQLTFIMEhpZjVHMFJoaFdJaW9rZmJfV1N1RW5GajhOWTk4Rm1Kc0QwaWFQS1NHWEQ3M29vWWNwQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJSVNOQlFFWFF6ZS1WaVVpSk9feTVHWHpURzRJY3B0NnJZcjUxbnp0LUhjZ0lQR0NHSXVlTkF2eVNyVnVkMUJnVTBoNjg1QVA1bEQ4UUlFRjFkYVdXS2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVTzRHM2VLNEgta2ZNdjh2eW5fWDZLLVVXRXBWVkZxVUFhSXBEc1BEdTlHdlY1Mzdsa1hMLWN1Y2JBWkh2ZWFvaVdoa0xtbUVFSDk5d1ZXUnY1ZG1Rcnc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwcGhNY0RVaDVGNU5fM1JDNHh0VkFPRXJkVEFsS3hHVm9JM1dKQ1QzbVItODktRnhvSmEwdFJiSlZxWGtEMGYzX29LdnVJb2h1RDE3a0dCRVZkLWdyRXc?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261105035406bVp",
+    "https://www.yna.co.kr/view/AKR20261105005700527",
+    "https://www.yna.co.kr/view/AKR20261105005600075",
+    "https://www.yna.co.kr/view/AKR20261105005400071",
+    "https://www.newsis.com/view/NISX20261104_0003854102",
+    "https://www.newsis.com/view/NISX20261105_0003855389",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wTzdCa2FuRzNJRV92Q2ZCRE1GeG43aE5wR2ZTUGUyQWEybmt4dXJwYUwtMzMzeGhTNjQwaWRTc01KNno0WUQwek9mVm04OC1jMmJjVWlZUkxiZW1DMFE?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "부부살해피의자신상공개600만원인출후성인오락실서탕진",
     "인천남동구흉기난동사건피해자주민심리상담지원",
     "인천남동구흉기난동피해자주민에심리상담지원",
     "전연인해치겠다112신고한50대살인예비혐의체포",
@@ -9031,7 +9030,8 @@
     "美9월무역적자1050달러전월比07감소",
     "트럼프거부권행사할것vs민주당부패지적할것ytn",
     "트럼프민주당나를탄핵하면파멸할것경고",
-    "트럼프나를탄핵하면민주당파멸할것"
+    "트럼프나를탄핵하면민주당파멸할것",
+    "미국민간고용86만명증가금리인상설뒷받침ytn"
   ],
   "opinion_date": "2026-11-04",
   "seen_opinion_links": [
