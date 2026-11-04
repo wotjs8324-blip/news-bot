@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Inter/article/all/20261104/134963450/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828679&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/politics/12196236",
     "https://www.newsis.com/view/NISX20261104_0003854281",
     "https://www.newsis.com/view/NISX20261104_0003854285",
     "https://www.newsis.com/view/NISX20261104_0003854362",
@@ -4999,7 +4996,10 @@
     "https://www.mk.co.kr/news/society/12197522",
     "https://www.newsis.com/view/NISX20261105_0003855412",
     "https://www.newsis.com/view/NISX20261105_0003855408",
-    "https://www.mk.co.kr/news/stock/12197497"
+    "https://www.mk.co.kr/news/stock/12197497",
+    "https://www.newsis.com/view/NISX20261104_0003853874",
+    "https://www.newsis.com/view/NISX20261104_0003853650",
+    "https://www.newsis.com/view/NISX20261105_0003855407"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "中9월희토류수출6719월누적물량은감소",
     "日닛케이지수4가까이하락美물가충격반도체약세여파",
     "전연인해치겠다신고하고흉기준비살인예비혐의50대체포",
     "증시파란불에도빛나는방어주ktampg4대상승",
@@ -9031,7 +9030,8 @@
     "트럼프이란전탓패배대체로맞아나탄핵하면민주당은파멸",
     "與오늘본회의서조작기소특검법처리추진국힘필버예고",
     "대안이없다삼성전자中lcd패널값인상에tv사업적자장기화우려",
-    "체이널리시스총괄북한해킹한번에수십년치무역대금"
+    "체이널리시스총괄북한해킹한번에수십년치무역대금",
+    "뉴욕증시美중간선거민주당압승에상승마감다우303급등"
   ],
   "opinion_date": "2026-11-04",
   "seen_opinion_links": [
