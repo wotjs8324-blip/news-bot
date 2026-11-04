@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/list/article/all/20261104/134963254/2",
-    "https://www.donga.com/news/Politics/article/all/20261104/134963241/1",
-    "https://www.donga.com/news/Economy/article/all/20261104/134963238/1",
-    "https://www.mk.co.kr/news/society/12196198",
     "https://www.newsis.com/view/NISX20261104_0003854295",
     "https://www.newsis.com/view/NISX20261104_0003854296",
     "https://www.newsis.com/view/NISX20261104_0003854294",
@@ -4999,7 +4995,11 @@
     "https://www.yna.co.kr/view/AKR20261105006000527",
     "https://www.yna.co.kr/view/AKR20261105004451071",
     "https://www.yna.co.kr/view/AKR20261104182851085",
-    "https://www.newsis.com/view/NISX20261104_0003855101"
+    "https://www.newsis.com/view/NISX20261104_0003855101",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261105041628wF7",
+    "https://www.yna.co.kr/view/AKR20261105004200071",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831254&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261104_0003855116"
   ],
   "initialized_feeds": [
     "조선일보",
