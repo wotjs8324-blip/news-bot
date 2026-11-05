@@ -1,20 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261105047200030",
-    "https://www.yna.co.kr/view/AKR20261105051600002",
-    "https://www.yna.co.kr/view/AKR20261105034700064",
-    "https://www.yna.co.kr/view/AKR20261105047900062",
-    "https://www.yna.co.kr/view/AKR20261105049500061",
-    "https://www.yna.co.kr/view/AKR20261105048700030",
-    "https://www.yna.co.kr/view/AKR20261105049900002",
-    "https://www.yna.co.kr/view/AKR20261105046600062",
-    "https://www.yna.co.kr/view/AKR20261105048000009",
-    "https://www.yna.co.kr/view/AKR20261105050300007",
-    "https://www.yna.co.kr/view/AKR20261105047600052",
-    "https://www.yna.co.kr/view/AKR20261105050900053",
-    "https://www.yna.co.kr/view/AKR20261105043100030",
-    "https://www.yna.co.kr/view/AKR20261105048100017",
-    "https://www.chosun.com/national/nie/2026/11/05/TAV5FITDNVD6BHXYGUKUPW6IKA/",
     "https://www.chosun.com/sports/baseball/2026/11/05/ME2TCYRQHEYTGYLDGAZDAZJQGA/",
     "https://www.chosun.com/entertainments/broadcast/2026/11/05/MZRTSMJQMRSGENDDMI4WGZRTGA/",
     "https://www.chosun.com/culture-life/culture_general/2026/11/05/HLY43WSV3FH2FFDID2WV576SUE/",
@@ -4999,7 +4984,22 @@
     "https://www.newsis.com/view/NISX20261105_0003857120",
     "https://www.newsis.com/view/NISX20261105_0003857123",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831269&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/stock/12198029"
+    "https://www.mk.co.kr/news/stock/12198029",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EdkY3SEZmc2NFR0R3SUpITkpTVFFxMF9YZFIteWpSWmprbC1NZkExVUdnbWhSX1RDSXNsb0RJajYzbWxKdGlPUmtubU4wMFpGdG5hV1Q1RWJFQ3lucXlLWjNIY3QxUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zMUxMWU5FbjN2UVY2N0NGSWo3bTRSazMwSEtTWWcyRURVRUJEWWhJY25KT20zWl9jRXBEU2xFZ3FPc1VyclpyTEtSenExUEt2eXNEck8tNDNnbnBIaW9pVmJkN19MUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfRnRDNVozQkdLY240OFVQbkxwVl8wQ0s3ZFk2TkNTRHB0YkpmMEg0NUZ3MXJoSlpHUDJiZzJ0X0c1aWFNQlJQbkNyWld4SVNSc1hsLVF6VUN1VzE3MVBjQXJGSThIdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wVm8tRUQ5U3FRZlFiZVdyN194bWFkNzg1b2lXNUpZb3dNQVN5bVEwV1lDWjY0SFI4dDRYY2wtbktiS2U1eHdkRjRMbTlpTmpMVDlMbGlmY0xjWHRGVG5MMWlsby1MUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12ZzdVWlUwaG5qMVhYREZxN0ljY2pwRU9rRjdiMXRabXNYb1BhbmhMQjZzUDhVeXQ1Q25ISFVZSFNKYTFDdXZUZHRNUEZ5eW53cjVjaWNtaVlYZEk?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jX1dWUHZuUjl4NHAtd2tSQmxvZzdtWHJ6eVVhRkZ6V2QyWFA2T3lCZ21rVkdSV25jalFrR1hNak91OTFqUHhVeUlHWnlLQnI4bnZSRmYwaVQwOHpldDNZZTJKUjBwNXQ4a3JMTW1zWEg5dktoR1gyTtIBeEFVX3lxTE5wbWxVWmVKZ0lkSTVILWVrWXAwVnFiUWo1NGtwSUhuSzV5RzRtWW9yUThkNGdtdzJzVWNVVW5FUnVWaEpqOFE5Y2U4U1FxOXUzOTh6b2RXME9XS2wxRWxvTk9aWWZzU0pIdnRHUjB0SjAyVWZLV2J6aA?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iYkVoUGFyNFloYlRGSUZZUVFKRjEwZDU1Rmk3aVJSbHR6TWxCMUhncVZuX3ZBZTRocVZlVF9YQXZWUmZNUUNMODFOWlgyVFYzdUpXbWpzM050RVFhXzhUU3FGN3hRZ1BEdVl2cVM3ckdheF8xUktYX9IBeEFVX3lxTE1SRjN4enE5cXdIdER4V0VuSF90TjNzMUtWTGhMbHN1Sko5S0xIYjJKM3huZi1mU01QOE9CY1FKSndVLTdxTDVjaHFIMGFhMXg2anBFbU9mdnJhc1hqZmoyNmpKV0NzN3pBcUYwTjI4bGJRSWJkT1A0Nw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85Ri1iV01YX29PTTlCdDlvbUZ1UU5TTEVTRzNlbENodmdYVWpZMnFKVGJNckxOS2dzUmxoZXo3R2xSVVpzV0V0MVZTY0F2RExSOE5sZnhCMU9YaFlhRGc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261105186300085",
+    "https://www.yna.co.kr/view/AKR20261105186151079",
+    "https://www.yna.co.kr/view/AKR20261105186200099",
+    "https://www.newsis.com/view/NISX20261105_0003857121",
+    "https://www.newsis.com/view/NISX20261105_0003857125",
+    "https://www.hankyung.com/article/202611059539i",
+    "https://www.yna.co.kr/view/AKR20261105186900072"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,9 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "與오세훈서울집값상승남탓만吳정부실거주정책이문제",
-    "트럼프또사형언급소방관살해범도사형구형지시",
-    "뉴욕증시국채금리하락에3대지수반등마감",
     "코스피급락세에매도사이드카발동ytn",
     "인천흉기난동범오늘구속심사계획범죄정황속속",
     "강북오피스텔살인50대첫재판서혐의인정",
@@ -9031,7 +9028,10 @@
     "영국3년만에금리인상boe총재추가인상도가능종합",
     "조작기소특검법민주당주도로법사위통과국민의힘반발퇴장kbs뉴스",
     "코스피코스닥지수5대하락반도체주급락kbs뉴스",
-    "서울아파트값91주째상승오름폭3주째둔화"
+    "서울아파트값91주째상승오름폭3주째둔화",
+    "조작기소특검법필버충돌與조작수사처벌野李구하기사설로펌종합",
+    "엔비디아강력매수유지루멘텀인수경쟁가능성부각",
+    "美주간신규실업청구18만9천건57년만의최저치"
   ],
   "opinion_date": "2026-11-05",
   "seen_opinion_links": [
