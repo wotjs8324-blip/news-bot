@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261106_0003857490",
-    "https://www.newsis.com/view/NISX20261106_0003857447",
-    "https://www.newsis.com/view/NISX20261106_0003857321",
-    "https://www.newsis.com/view/NISX20261106_0003857401",
-    "https://www.newsis.com/view/NISX20261105_0003856944",
-    "https://www.newsis.com/view/NISX20261105_0003856452",
-    "https://www.newsis.com/view/NISX20261106_0003857354",
     "https://www.newsis.com/view/NISX20261106_0003857491",
     "https://www.newsis.com/view/NISX20261106_0003857465",
     "https://www.newsis.com/view/NISX20261106_0003857498",
@@ -4999,7 +4992,14 @@
     "https://www.yna.co.kr/view/AKR20261107005000071",
     "https://www.yna.co.kr/view/AKR20261107004600082",
     "https://www.chosun.com/international/us/2026/11/07/I2LAAAIUFFERVCOZBMLLZTYP3U/",
-    "https://www.chosun.com/jp/international-jp/2026/11/07/H6CAZPO3TFAGLE4VF4K453S6DQ/"
+    "https://www.chosun.com/jp/international-jp/2026/11/07/H6CAZPO3TFAGLE4VF4K453S6DQ/",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BZVlGOHhFdFNaWkJGVjJPcC1oNVUzVnhlckE3ZFo5VEt1Z214RGNhNDh3WU90aXlMUExrYnhMRGtDYXI1bzYwamFZbnVFY011XzNCanVjV2VqQkNDX1NoZl9YdURoNnY1MF9N?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uNDdrRUlvMkp5LW02bmlKZE9PUWxEVEN3YjhWSHNXOGNtNlFJTDI4dGliR0ZhZHozYkxnQ0RoUG1SV3Jnek95MnJreml0eGRKcXcyQ2RrQzQtRWRwODRFeTBxUXlNbGhEZkhyWTlUdXJTRkxF0gF0QVVfeXFMTmxBcHRaMW5HYjg1NXF4aE1UNHpfQUx0UTZfWGhCd004NUpGaWhldnRJNzR3TnFKUGJmVFVsUkFxMjNFRmtsYk9lSHlFVkF3b1BKTXpoc1VCemRoMVlhNW5xTHkyY3dRZFBkbEliNm9sLVRZR08?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hblVHelZ2LTUybW9hR2tKVGxrblBXVlpnZGh1QS1abktmemNXazdSN1FPVm1ESTJRbFpkd3BIdjU3TnlQb3NfYjZLMk5zSkNOcXNUWFFNMVptRlp4TXc?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR202611070429368dW",
+    "https://www.yna.co.kr/view/AKR20261107005100075",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPelhodGN5WHRyUk5vWDRjTm1yYTBRSUNtaG53ZWhpVnJaTlVpMkQyelN5VmNWRk9udm0wX3hXbzRwTnZ4azU3TE0yZDZzYVZEa0tQbVRR?oc=5",
+    "https://www.mk.co.kr/news/economy/12200227"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "너희없으면이런일도없어흉기들고자녀위협한부모",
     "뉴스거리만들려고인천흉기난동범최충락주거지압수수색",
     "상습흉기난동에도최충락은위험관리3등급결국또",
     "테슬라공중부양로드스터시연성공스페이스x합병설다시부상",
@@ -9031,7 +9030,8 @@
     "삼전6하닉8급락코스피매도사이드카발동중앙일보",
     "조작기소특검법독립성위헌성은kbs뉴스",
     "5천피무너졌다코스피급락에서킷브레이커중앙일보",
-    "미국11월소비자심리예상상회물가우려도완화"
+    "미국11월소비자심리예상상회물가우려도완화",
+    "노후자금까지주식에넣었는데코스피급락하자다시예금으로"
   ],
   "opinion_date": "2026-11-06",
   "seen_opinion_links": [
