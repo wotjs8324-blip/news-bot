@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261106052900017",
-    "https://www.yna.co.kr/view/AKR20261106050900005",
-    "https://www.yna.co.kr/view/AKR20261106049300004",
-    "https://www.yna.co.kr/view/AKR20261106050700030",
-    "https://www.yna.co.kr/view/AKR20261106046300054",
-    "https://www.yna.co.kr/view/AKR20261106052600017",
-    "https://www.yna.co.kr/view/AKR20261106050400030",
-    "https://www.yna.co.kr/view/AKR20261106042900003",
-    "https://www.yna.co.kr/view/AKR20261106044100003",
-    "https://www.chosun.com/economy/industry-company/2026/11/06/5LX5OAXOKFDHBHXSRF7FPL3CMY/",
-    "https://www.chosun.com/national/regional/2026/11/06/NDGNEQQJJJDFPNG2GHA6Q4GTMQ/",
     "https://www.chosun.com/economy/startup_story/2026/07/13/4Z4EK6X7BVFRZE6XY7DKCREAAQ/",
     "https://www.chosun.com/national/education/2026/11/06/HOHGJOVDC5E3HLLP3S6TJUDFEU/",
     "https://www.chosun.com/jp/politics-national-jp/2026/11/06/AEFK4VRMSJGXNGZIHS3XXBJVEA/",
@@ -4999,7 +4988,18 @@
     "https://www.yna.co.kr/view/AKR20261107002800085",
     "https://www.chosun.com/sports/baseball/2026/11/07/GAZWCMRZMZRTOZRYMNRTAYZXMQ/",
     "https://www.chosun.com/sports/baseball/2026/11/07/GI4GIN3CHAYWCNBZGAZDAZJZG4/",
-    "https://www.newsis.com/view/NISX20261107_0003858711"
+    "https://www.newsis.com/view/NISX20261107_0003858711",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xbURrbkxkcXJwamNXX3RNa19mbVgzWmwzU1VVeUpxb2RtNnhKYzR3TmpIZldTc1A0RnhremlYOWhmcUM1RmZtRVFDUmlJcHlGM2phVkpKSU80TlZqQ3lQb0w1V1kxdjEtLUpRZ0tUdzVpVkpKRFgzRdIBeEFVX3lxTE1KLVNsbzhaVnhiV216eER1NVZ0VXozMFFRa2dmLTNSWWZEeXg2aXRxeHlidlVBcGg0MW9HeC1oVHFIcjBxaldlWHl2LWx0ZEJRYVluX2NPZUZrN2pCSlp5RWNYekZ6VXlTVVB0UE81RUVGUV81dDRwOA?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261107025535iPN",
+    "https://www.yna.co.kr/view/AKR20261107002100071",
+    "https://www.yna.co.kr/view/AKR20261107002400072",
+    "https://www.yna.co.kr/view/AKR20261107002000071",
+    "https://www.chosun.com/sports/world-football/2026/11/07/MRTDSZJVMEZGGNJRGRRTEYJQMQ/",
+    "https://www.chosun.com/sports/baseball/2026/11/07/GJSDSNZSMEZGINRRMQ2TGMZZG4/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/07/6ZHLLN2A5RC4LFDU4RLNWLZQP4/",
+    "https://www.newsis.com/view/NISX20261106_0003858002",
+    "https://www.newsis.com/view/NISX20261107_0003858709",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261107025043jgs"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "경찰인천흉기난동최충락주거지압수수색ytn",
     "너희없으면이런일도없어흉기들고자녀위협한부모",
     "뉴스거리만들려고인천흉기난동범최충락주거지압수수색",
     "상습흉기난동에도최충락은위험관리3등급결국또",
@@ -9031,7 +9030,8 @@
     "조국조작기소특검법위헌소지민주위헌없다ytn",
     "삼전6하닉8급락코스피매도사이드카발동중앙일보",
     "조작기소특검법독립성위헌성은kbs뉴스",
-    "5천피무너졌다코스피급락에서킷브레이커중앙일보"
+    "5천피무너졌다코스피급락에서킷브레이커중앙일보",
+    "미국11월소비자심리예상상회물가우려도완화"
   ],
   "opinion_date": "2026-11-06",
   "seen_opinion_links": [
