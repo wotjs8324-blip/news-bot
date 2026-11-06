@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833564&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833566&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12200227",
-    "https://www.mk.co.kr/news/politics/12200224",
     "https://www.newsis.com/view/NISX20261106_0003857490",
     "https://www.newsis.com/view/NISX20261106_0003857447",
     "https://www.newsis.com/view/NISX20261106_0003857321",
@@ -4999,7 +4995,11 @@
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wQ093V2ZIeUx4bUg5Q3Q3ZkQ5c0d6RWtVUHAyZ09QVUtpM0txTDR1RkZwZWhIYmpOTWJQZ3BjN2lFV2R6SnNQZDUtVkNvMzZreTR2VkJFUWYyY1dGOUpjRV9ITFctdw?oc=5",
     "https://www.yonhapnewstv.co.kr/news/AKR202611070400558pv",
     "https://www.yna.co.kr/view/AKR20261107004500085",
-    "https://www.newsis.com/view/NISX20261107_0003858714"
+    "https://www.newsis.com/view/NISX20261107_0003858714",
+    "https://www.yna.co.kr/view/AKR20261107005000071",
+    "https://www.yna.co.kr/view/AKR20261107004600082",
+    "https://www.chosun.com/international/us/2026/11/07/I2LAAAIUFFERVCOZBMLLZTYP3U/",
+    "https://www.chosun.com/jp/international-jp/2026/11/07/H6CAZPO3TFAGLE4VF4K453S6DQ/"
   ],
   "initialized_feeds": [
     "조선일보",
