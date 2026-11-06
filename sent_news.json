@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261105_0003856913",
-    "https://www.newsis.com/view/NISX20261105_0003856840",
-    "https://www.yna.co.kr/view/AKR20261106006000072",
-    "https://www.yna.co.kr/view/AKR20261105166600001",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BSUJaSEFYdnc4bjF5MUtpbnNoT3Fodkk3YU5vQjRCSnFGa09XV3J6Q3E0eERJeWtLVjQtc2EwZEt3emFrQ2JvVzNWQXRXdmQ2a0g3Q3RwTXN4VnozUUNnNHJKREVkdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hU1pMTXJ1TWtPSGRLYy13aEFmTzhTZmhhanZCdmg1S0RidHhtd2NzSDlRWHV6bUUyMlRXR24tMnNla2Y3M05SR04ycXhWNzlJNTRZdVZQMUNtRW1XYVE?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/MYH2026110605271220V",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106052538IWD",
     "https://www.yonhapnewstv.co.kr/news/MYH20261106052413BKk",
     "https://www.yonhapnewstv.co.kr/news/MYH202611060523223CU",
     "https://www.yonhapnewstv.co.kr/news/MYH20261106052058sGd",
@@ -4999,7 +4991,15 @@
     "https://www.hankyung.com/article/202611057436i",
     "https://www.hankyung.com/article/2026110573046",
     "https://www.mk.co.kr/news/stock/12200777",
-    "https://www.yna.co.kr/view/AKR20261106176300001"
+    "https://www.yna.co.kr/view/AKR20261106176300001",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVTd6ZGRoVldaRkVKX1dEM3VRT1NGWEJtTVBIVUJqUGxUVTNVRURFVTJCVktJR0JwUzYxTG5GQm9kVkFfcl9COW5aUXZzYVU5bExWT0NFZzZtTGs?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE96ZjVaU2VMWWJoeFZDZWFZS0JsWWhUMjJwNkRyY2gxUFNZbkJTbXhVZ2pxOUdRN2NzWFlRNEJFU0VQRmxEVUp3cE1tSUN3bmpPckZpVFA2MDl3aklPdmZhNUlfYlE5UGxSTFFpTC1rM09fbThIVkxEbGhR0gF6QVVfeXFMT0UtSTZtNmVKWnAtaGVaMTUxbVFnX2hpbVpra2hKNTZ0V3pjTDdqQk1JMHBZbGtjQW84LTUzOUpGbGdkWnJuM3VsV0JwcDMzYjFYbFZzRXYxNGZLRGFVUHdPNjZleFROMV9qdV9tQ0hCY0RmZThMTFZEM1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82NndTWnFiVFlKRVFYRTZHUGFBeDRuX2d1LTVlaTJ1N1ExZnJUQUtDWVU1LXo3NVVaMkdDRVdxOUEwQjBkcVpVSG5IdUhpd3VjVjlWT3pUbzFJaXVHYkHSAWNBVV95cUxQS01CTG5nVTllOHRrUFI3VEZySTZRZEo2QUN6SWNRS2tNTHlnYzg3cW5JUnZGM1dFSWlTNDZmSkN5azU4OE9mdUdZeFBMVVZyZUtxTXhHa3hTN1J6VDdyZ3lQb1U?oc=5",
+    "https://www.yna.co.kr/view/AKR20261106178000007",
+    "https://www.donga.com/news/Sports/article/all/20261106/134981730/1",
+    "https://www.newsis.com/view/NISX20261106_0003858587",
+    "https://www.mk.co.kr/news/business/12198405",
+    "https://www.yna.co.kr/view/AKR20261106174300004"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "호신용품이라도사야하나흉기난동에1000원호루라기도품절",
     "인천흉기난동범59살최충락구속심사선상황탓에횡설수설kbs뉴스",
     "추가대출규제없다못박은정부강남집값잡혔다는데서울외곽은",
     "돈쭐내러간다인천흉기난동막은식당찾은개그맨중앙일보",
@@ -9031,7 +9030,8 @@
     "與증시급락에긴급간담회국민우려무겁게받아들여",
     "조작기소특검법국회본회의통과",
     "조작기소특검법안與주도국회통과李정부7번째특검중앙일보",
-    "與증시급락에긴급간담회불공정거래엄정대응"
+    "與증시급락에긴급간담회불공정거래엄정대응",
+    "성남인연이용철법무장관후보지명에檢공소취소용인사반발"
   ],
   "opinion_date": "2026-11-05",
   "seen_opinion_links": [
