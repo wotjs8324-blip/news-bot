@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Politics/article/all/20261106/134976825/1",
-    "https://www.donga.com/news/Economy/article/all/20261106/134976804/1",
-    "https://www.donga.com/news/Inter/article/all/20261106/134976799/2",
-    "https://www.donga.com/news/Society/article/all/20261106/134976766/1",
-    "https://www.donga.com/news/Politics/article/all/20261106/134976723/2",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833564&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833566&plink=RSSLINK&cooper=RSSREADER",
     "https://www.mk.co.kr/news/economy/12200227",
@@ -4999,7 +4994,12 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rUlE1SEtJaEtvZ2EwZ2xkdGFQakgwUEpJdERoNlY1TE9NbFdTMGxGYTk5a0tCOVl0VkVpUEMtYmZlOEFabmllWktFc1lvQVNQRXAzRWZ3?oc=5",
     "https://www.donga.com/news/Inter/article/all/20261107/134982832/1",
     "https://www.donga.com/news/Inter/article/all/20261107/134982829/1",
-    "https://www.newsis.com/view/NISX20261106_0003858138"
+    "https://www.newsis.com/view/NISX20261106_0003858138",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBReFg3UmFjd3BnMDdUYWx5dUxuN0FBVzZESnZJV1lGQkJRck9tLXRIeldQOWxRcHJhcTlPLVB5T1pwbnlzTXh5TzJubEI4bV8zdWxNY0xrQUZETVN5OUJhVGhncGhOUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wQ093V2ZIeUx4bUg5Q3Q3ZkQ5c0d6RWtVUHAyZ09QVUtpM0txTDR1RkZwZWhIYmpOTWJQZ3BjN2lFV2R6SnNQZDUtVkNvMzZreTR2VkJFUWYyY1dGOUpjRV9ITFctdw?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR202611070400558pv",
+    "https://www.yna.co.kr/view/AKR20261107004500085",
+    "https://www.newsis.com/view/NISX20261107_0003858714"
   ],
   "initialized_feeds": [
     "조선일보",
