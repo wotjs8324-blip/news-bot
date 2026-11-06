@@ -1,22 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Qd0Y4NmJERl9KdU1HWFBSOUtVb1JsNXQ1Yk1hb2IxX0pyaks1YllPMmFxd2lWUzNUdG1mREVZOEhaVWtnSDhCQUdDb1RHSmM3NXBoSVBIR0xQeTFwZWdYX3kyUUlmbnZzcktLaVdYZW9veF9L0gF0QVVfeXFMTng1bHBRSmlWTHFLajFFYVJKUUpxVkZWMkZHWVlUMWlJZlRkdnVfSHhpR3VCREVXT1Fpdk9FUVMtOGRqVjRGQWxLNG5PbUFwUksxV0pPVlpZRGN6S1pCWVg3UkE0RmxaTzVtb2dxd2lNM295dXQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXY25nR1BqanZZQWdOU3hoT21OWktUWGZpTWZ2Y21vbTVIUXBtRGxGVEc1MlNMOGFwc2ExRnN2ZnJKZm9ZYTlRVlpEQWk2YlE5NmZ4NUV2RWVDYUJra2NTQnlyVnBtelZ0cGxfSm1QeHVPdjdBUkd6TjNR0gF6QVVfeXFMTWtEMW9HdENQbTBFTHR5aW1UdmZXQmZicWFuR3RwbXZmUUNjUC04THhEeE9VRjJzZFlNeHNEaFdVdGZGZk05aTZ6cTlCZkJ3UlU5al9vTkk3S0J1Z1ZYY1VXVnZseklUREVMVDRnbFJlcjdvYkxxR0gtREE?oc=5",
-    "https://www.yna.co.kr/view/AKR20261106047200054",
-    "https://www.newsis.com/view/NISX20261105_0003856928",
-    "https://www.mk.co.kr/news/realestate/12198259",
-    "https://www.mk.co.kr/news/economy/12200226",
-    "https://www.yna.co.kr/view/AKR20261106050600008",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qa2F2azJkT0FUV0ppVUp2d1QwVmNKMmI0WkhCY3pZT0VIcHlmcWtITWtzUGxBa3lUbHRiclJEbEhhRV9XVFJXM3N0X3NLcnJkOUh3Ny1NcGlZM28?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iei12QXY3VEx3b2F2ZzZZZkthcXFHWlRwc2E0Z3pBYndKRVhxQ0ZmelhUYmhZTTYxS01wWVg0akpjOTlKVmFIVjY1YXNGWmF6WkdYdVZTR1E2TU9ReHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TYXNDQnVJdFpXSk8zUmRVNXdBQU1RaXRuVHkwd21fdnJoSVgydHYzQkNFR1lMX3RycmE4QTdqVTFiVzkxWFUxX3lfWWo0T1pfYTg0ai1aMjROTno4dDR3?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WLVRZc0diODFlME5JS1JpQ21RanV5c0tyc2ZaakJPQU1OdHJvMTJRVVRmTmkwSlVvSXZTYkxtUzgxR1ExbmptNENKNUxQZU5mdmRzaVdpaWxsNS1fMVB6WEZPYkI4NEN5VWVTVnVmRWw3UDZkRXJpZUFyRQ?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WYlBNS3hINzgyTzN3M1RLaU9NZjJ6clhONXpWOWFpOEdYZzcyWm5KM0huRDBiNHNmWDZRNUxVNWVGMk9yZGVFanhOajlDb0tZQi1kaTZoNGFib1U0cHk5dG5VdXpXU293Njh3Tkg5UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE44U1hRbWhibXppYWdsaUc3a0tMSnZiZTcwWEJialVCR2tPaklsQU00c2hKc19zejhjRXViUVB4aE14RjZwQ0g0bGZFb1ZmNkdjeTBNSDF2NUlIZHY0UHRRcW40X2hsLS13aWNCZUVoUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Zd21CeHBJS3dmTFozWWxkTmpoS3FzS0habFN4c2s0UEZtYmtLdE82VFJSbDhuclcxcXRxR2s5ejJiRHkxb0ZHWUZiejgxXzFtQVVaWGUyZlk0Ylo0cXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ESlZOWDQ0VktzSklQa1JmSUF3WkQtb2RpTWhlQTNpajNET1hKSGFIa0lRb2JwSFQ5YUNseUdvTWdHTVRPOFBJRGRSSkNNb1U1WGNhczJQV0s3UHZHZFHSAWNBVV95cUxNd2NZZ2gxaV9PN0EtUXQtUlM5U1VOem1YWTNvbm85ajVJbmZnZU5zMWUxUHcxOUhudlg0amROajl6NE5lWVM3NVRUeXFINmk2UnB6a0NlRmctZW1GUjIxUDJPZnc?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106101258tur",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261106101217HwF",
     "https://www.yonhapnewstv.co.kr/news/MYH20261106100917Bi6",
     "https://www.yonhapnewstv.co.kr/news/AKR20261106100906h9j",
     "https://www.yonhapnewstv.co.kr/news/AKR20261106100450qq0",
@@ -4999,7 +4982,24 @@
     "https://www.chosun.com/economy/startup_story/2026/01/20/HI4KL4MOL5H7FLKI4NVF25MER4/",
     "https://www.mk.co.kr/news/realestate/12200218",
     "https://www.mk.co.kr/news/business/12200220",
-    "https://www.hankyung.com/article/2026110601807"
+    "https://www.hankyung.com/article/2026110601807",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92N194X01DclZsRzc4LVJTcVdTbFlBdmlZdi1Jb0NMVVpnMld0c09WOU5xQVRJWmdYNmlvVV9VQ0x6UlQ2dWNxejg4cGwxSm0yanpmc3o0bVlkaTRaUVZqdWFMS21Mdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13UV9oZUc0bDFtd2ppNlRRNTRlTEltdWVRdWVhRmsycVVjV2hzTmZ2YVh6aC0wVUNKbVVWRUxoTnYtc2lfN3FVbFR6VnJOMFpVZHhLRjdqSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PZlU1Z3NtLTZjQUo2b1JvWF9WZnRVWlIzZXNVTDM0MFhTTDUxNlNNOWFWeHBBcmVCTnZGeGN2aXprY0dHUnRlUVltdDlHY29GOEhLNHFqbVZUZkJhTFRtSXJkVHBDVkV2QWdHTnMzRVJrTjAzRXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oUTVMUHFXZEhHcWZjVGZIWmhibVFpR0pYT19GU0x3M1JOVUJrbWNtWXNNVnk3eDRVMTdDQVpMalVuU1Q4Tk0tX3ZpbVNibjY1d2VSdFJYdDljNEdiT0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTWUtZYWxRazlscG1BeV9SODBkSzh6OVFLc3pYVG9kRXRBdmptQmhnNWpzd1JxUFExVHltdjV5OGtSM1dfU1RaUDJ5UWFHTHlkbWZ6SHJOWURaTFUtM1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NaWZfN2hsMmVkY0d5dWsyQnpONV9JOVJYQWpvMmVjVDJkeUlDYVhYd3p5R0JUWUJRR0VweTdlVk96Mk1maG9IVUlNRENFMVoxWWJDTlZQaDJfVmZiX0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YeEpoVTI3STZ4S2ltYnhua2RzelhZa2pHVDdWMk1xNXhjUXFsYngyZEtnTGxmbERJWERZQXRNLXZwZm0waEYtdXpRY0hEUWpqRFNpWloyWmx1Nk1mSnc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261107006100071",
+    "https://www.yna.co.kr/view/AKR20261107005051071",
+    "https://www.chosun.com/economy/startup_story/2026/10/02/Z4SNWLUS65GORIW6GM7VMDSZ6E/",
+    "https://www.chosun.com/sports/world-football/2026/11/07/GZTGEMJXGVQWCOBVHA3DGNDEMQ/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/07/M2OQAZCXQRCFPAAGRXJKVMWXCM/",
+    "https://www.chosun.com/economy/startup_story/2026/08/25/T4C3KRQTQBGFTOH6GESCUUISIU/",
+    "https://www.newsis.com/view/NISX20261106_0003858266",
+    "https://www.mk.co.kr/news/business/12200498",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2eTdLWTZ0UFkxZ3luT2NXcF9vYWxaMjdnN0x3QU9VOG1hVlo3cEtXUjAzUzJtWWV0N1kxM0t3a2tTRi1qc3pjVXFSd2Rvb042b0VLZWk5NkFFYjBCQmfSAWNBVV95cUxNbEtNNWp6YUpaaDdNZXh3Z2FMblhoTWdCQkw4alhmSGRnT2pRRXc2SVpwcVlQS1JVY0daLWZNdkRTLTFPMmxMVm9YWlVleXVQek54TjZFVUZjcWZ0TTFvemdpV0k?oc=5",
+    "https://www.mk.co.kr/news/realestate/12200386"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "상습흉기난동에도최충락은위험관리3등급결국또",
     "테슬라공중부양로드스터시연성공스페이스x합병설다시부상",
     "트럼프그레이엄법대러제재고율관세시행않고면제발표",
     "은행주담대변동금리6줄줄이돌파차주한숨커진다ytn",
@@ -9031,7 +9030,8 @@
     "5천피무너졌다코스피급락에서킷브레이커중앙일보",
     "미국11월소비자심리예상상회물가우려도완화",
     "노후자금까지주식에넣었는데코스피급락하자다시예금으로",
-    "국힘서울도심서조작기소특검법규탄대규모집회"
+    "국힘서울도심서조작기소특검법규탄대규모집회",
+    "이사없이1억이면새단장재건축비용급등하자강남에뜬가성비리모델링"
   ],
   "opinion_date": "2026-11-06",
   "seen_opinion_links": [
