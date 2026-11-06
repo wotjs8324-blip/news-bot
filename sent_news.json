@@ -1,21 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Economy/article/all/20261106/134976750/1",
-    "https://www.donga.com/news/It/article/all/20261106/134976708/1",
-    "https://www.donga.com/news/Society/article/all/20261106/134976304/2",
-    "https://www.donga.com/news/Society/article/all/20261106/134976690/1",
-    "https://www.donga.com/news/Culture/article/all/20261106/134976687/1",
-    "https://www.donga.com/news/Culture/article/all/20261106/134976663/2",
-    "https://www.donga.com/news/Culture/article/all/20261106/134976658/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833533&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833465&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833503&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261106_0003857437",
-    "https://www.newsis.com/view/NISX20261106_0003857429",
-    "https://www.newsis.com/view/NISX20261106_0003857451",
-    "https://www.newsis.com/view/NISX20261106_0003857406",
-    "https://www.newsis.com/view/NISX20261106_0003857464",
-    "https://www.newsis.com/view/NISX20261106_0003857420",
     "https://www.newsis.com/view/NISX20261106_0003857460",
     "https://www.newsis.com/view/NISX20261106_0003857449",
     "https://www.newsis.com/view/NISX20261106_0003857376",
@@ -4999,7 +4983,23 @@
     "https://www.newsis.com/view/NISX20261106_0003858438",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GX1RQZ3plUElRVTJFWHRfYm40NHQ0NGtacmlNRVB4dE9GX3pMay0tS0Y1ZXlSYTdpSkZNUTdaeC0xTjdXYURDR0FacXRieDFuUFgzTGh1Q0dsMFhzU0xHcFFhNDZtQQ?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQdlFfQWxqdE9nRGlXRmpoaHpYVktBZXozQ1hZTV9uQVg0U01yUUEyaV9OeHZoUDVLeXNCX0lObEZpOWZackZSV3k1bkhBMW9wcFFISmxKNmMtdjhpdFE?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GUTByM0hlR21NV2tQSkpmR1JtNHIxbm13VldZZkYwQ29jT0o3T053bnRaTGV1UmlzTzI3ZEJWck4zOUNWWHN3eUpKa3VFaURRaF9PX1g1b2RHbUU?oc=5"
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GUTByM0hlR21NV2tQSkpmR1JtNHIxbm13VldZZkYwQ29jT0o3T053bnRaTGV1UmlzTzI3ZEJWck4zOUNWWHN3eUpKa3VFaURRaF9PX1g1b2RHbUU?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsV3NWcWdETHpiNk5iWXdWcDhZZ0RqT2h0eDJyWkVyTTNJVGQ1anhha242QnNmSV9Kb0ZyUV84ZWN1X28xTXlGdlpxamczYkRqUlBaVFpBTWxRT1ktTzhoSWVrb0Y3WHlLa3BBMFp3RQ?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZRWZkU2NmX3IxWHNCU0llNlZnZ3FaQUVRSzV2UGVxZWRvS2F0LWcwQUVnUm5ZREFSQ0FwVWNNbXFhdFlGUndwRkxLY2tsRW1VcHdlS2p6elBxZ0RDdzVSc2U5T1hyNXBFdnIzZU1Lbw?oc=5",
+    "https://www.chosun.com/sports/baseball/2026/11/07/GU2DKZJZHBRWCMJUG4ZDIYRTMM/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/07/L3T2MUQ36ZDKVBS5L6X5MOGRFU/",
+    "https://www.chosun.com/sports/world-football/2026/11/07/GZSWMM3FG5SWIZLFME3WKYLBMY/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/07/G6EFB7SJEFG5LFGPT6YBZ76O5Y/",
+    "https://www.chosun.com/sports/baseball/2026/11/07/GA4WGNZUGU4DMNZXGBSDANZSGQ/",
+    "https://www.chosun.com/sports/baseball/2026/11/07/G4YWMOJZMNQTANRZGQ2TKOBUHE/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/07/FLYAEXR7RJDELMXVQSRY62X3XI/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zd2RVc04wTFQ2ZW51UzRjU1p3dzFtazh6TGpfWGVzSkRhUFNMYl9KNllVWDBhOTNfa0hHWC1yYmdld0QxMFh1ZXY3UnVoWkh0Ym54c2p3?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KWHZIT3F1c3ZYbDl5am9LWEl5RzlOWEQ2Tlk1cjRmWUstZFFUTVdrRFRLM2dGYTRCQk9ublhuSGkyVG8zS1g2eC02N2I4UEJlcVIyZnF3?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12b2I4cHpnYm9Nb3dlajJYRFJoOThQNi0wY1lGUjZQb0RZOTZuVnhjTkdKNzZPY3lKN0tMSnMwUTVVUU9Hejl1cFRWV0hBYV9SZ1dCUVVR?oc=5",
+    "https://www.donga.com/news/Society/article/all/20261107/134982797/1",
+    "https://www.donga.com/news/Entertainment/article/all/20261107/134982794/1",
+    "https://www.newsis.com/view/NISX20261107_0003858708",
+    "https://www.yna.co.kr/view/AKR20261107001700072"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "속보경찰인천흉기난동최충락주거지압수수색종료ytn",
     "이란꾐에빠져노르웨이10대영국서청부살인시도",
     "아저씨들이의자들고인천흉기난동대형참사막은용감한시민범행당일보호관찰관지도감독경찰왜못막았나",
     "1명사망7명부상부천공장화재합동감식",
@@ -9031,7 +9030,8 @@
     "與조작기소특검강행처리한날李는성남라인법무장관후보지명외",
     "李본인사건수사특검을셀프임명법치주의대원칙어긋나",
     "美고용깜짝호조에12월금리인상확률6676",
-    "美고용호조에국채값하락12월금리인상확률70globalmoneyclub중앙일보"
+    "美고용호조에국채값하락12월금리인상확률70globalmoneyclub중앙일보",
+    "美증시급락에헤지펀드도백기10여년만에최대포지션축소"
   ],
   "opinion_date": "2026-11-06",
   "seen_opinion_links": [
