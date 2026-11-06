@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229387",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229383",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229379",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229375",
-    "https://www.mk.co.kr/news/realestate/12200218",
-    "https://www.mk.co.kr/news/business/12200220",
-    "https://www.hankyung.com/article/2026110601807",
-    "https://www.hankyung.com/article/202611060015H",
-    "https://www.hankyung.com/article/202611069928H",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106095830Gtv",
-    "https://www.newsis.com/view/NISX20261106_0003857463",
-    "https://www.newsis.com/view/NISX20261106_0003857479",
     "https://www.yna.co.kr/view/AKR20261106038251008",
     "https://www.donga.com/news/Inter/article/all/20261106/134976769/1",
     "https://www.chosun.com/economy/stock-finance/2026/11/06/MQZWKMJYHAZDQYJSGA4TKYZZGM/",
@@ -4999,7 +4987,19 @@
     "https://www.newsis.com/view/NISX20261106_0003857867",
     "https://www.newsis.com/view/NISX20261105_0003856431",
     "https://www.newsis.com/view/NISX20261102_0003850616",
-    "https://www.newsis.com/view/NISX20261101_0003849897"
+    "https://www.newsis.com/view/NISX20261101_0003849897",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MWmNiRkNIYUVuUWpSZU9zTFgwVHRBUzRzUUtoTFRuSHZkU2xsTE50SmtJcWh2bk16ZEx0Skd0T3p2WWlaV0hsTXd1V3dQS3dtOTUzc1FNa1VidDA?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zSG9oQXRRejRCVXNWcHQ3akw1cXo0cjlLLXhZdDRIUTFYQ1Fvbmd0azdmUWhfWGtZakt1bGlRN3NRMGtscHBWdGRrYkVrMGY5ZDY4ZnpBajQwalJkT3c?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261106162409AAQ",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261105140433OTw",
+    "https://www.yna.co.kr/view/AKR20261107005600072",
+    "https://www.chosun.com/economy/startup_story/2026/11/03/ACAU2WEPSJCJLFOL2IWEHVGIGI/",
+    "https://www.newsis.com/view/NISX20261106_0003858454",
+    "https://www.newsis.com/view/NISX20261106_0003858408",
+    "https://www.newsis.com/view/NISX20261106_0003857723",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229388",
+    "https://www.yna.co.kr/view/AKR20261106178400001",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qV2RTTVh5bU9jOVNlVHgyQTFvbUo5X3BZR1ozNU5iZGc4WHkwQzBfeWs1TTdtSFNLb1JWcXZXVjRoTnFjRDZTWDJuZXI5d3Y3ZElOckVSV2l4ODFVZ3c?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "뉴스거리만들려고인천흉기난동범최충락주거지압수수색",
     "상습흉기난동에도최충락은위험관리3등급결국또",
     "테슬라공중부양로드스터시연성공스페이스x합병설다시부상",
     "트럼프그레이엄법대러제재고율관세시행않고면제발표",
@@ -9031,7 +9030,8 @@
     "조작기소특검법독립성위헌성은kbs뉴스",
     "5천피무너졌다코스피급락에서킷브레이커중앙일보",
     "미국11월소비자심리예상상회물가우려도완화",
-    "노후자금까지주식에넣었는데코스피급락하자다시예금으로"
+    "노후자금까지주식에넣었는데코스피급락하자다시예금으로",
+    "국힘서울도심서조작기소특검법규탄대규모집회"
   ],
   "opinion_date": "2026-11-06",
   "seen_opinion_links": [
