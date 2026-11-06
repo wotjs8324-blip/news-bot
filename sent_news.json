@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261106049700005",
-    "https://www.yna.co.kr/view/AKR20261106054200009",
-    "https://www.yna.co.kr/view/AKR20261106055600530",
-    "https://www.yna.co.kr/view/AKR20261106046200001",
-    "https://www.yna.co.kr/view/AKR20261106044800057",
-    "https://www.yna.co.kr/view/AKR20261106055000062",
-    "https://www.yna.co.kr/view/AKR20261106052800004",
-    "https://www.yna.co.kr/view/AKR20261106051100005",
-    "https://www.yna.co.kr/view/AKR20261106050300530",
-    "https://www.yna.co.kr/view/AKR20261106055400527",
-    "https://www.yna.co.kr/view/AKR20261106053100060",
-    "https://www.yna.co.kr/view/AKR20261106054000062",
     "https://www.yna.co.kr/view/AKR20261106049200004",
     "https://www.yna.co.kr/view/AKR20261106048900054",
     "https://www.yna.co.kr/view/AKR20261106053900030",
@@ -4999,7 +4987,19 @@
     "https://www.mk.co.kr/news/stock/12200213",
     "https://www.mk.co.kr/news/business/12200206",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rY01vNHQ3Z3prOUNYcWp1TkhFU1RnWnVwNURhdVRVWFh4THF5NnJOeTFjdDhTQ29JQXQtRGlYNi1SZWZJd2d1TmVNajRKMThxaWVleHV3?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtdktLeURqNHk5NTFXSFNoZzA4aWJoN01PU09QNTdmVFZWWlFhLVVRNElDLUlDVUV3VDdmOGF0SHpiWWdvQWJXMThaTFVwbHBhUlBSS0xobFBZdXMtTlpEMGpqS3EwQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtdktLeURqNHk5NTFXSFNoZzA4aWJoN01PU09QNTdmVFZWWlFhLVVRNElDLUlDVUV3VDdmOGF0SHpiWWdvQWJXMThaTFVwbHBhUlBSS0xobFBZdXMtTlpEMGpqS3EwQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PTTZKbnFoV3lQSGZkQW1TdV96eUF2Q3gtRnJLcEtEbS1HNUNLdVNhcVlDbXNRWDN3WVdaVlViQWFEY2RwNHc0T3ZOVFkyaC1Gd0NIcTJoN1NjYXNKLTg4MUVrZ05uUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KY3NOZjlaQThPUnhxVTlaRjg3RjJRQU1jMjl5bS1TcFBYZnNWdWItTTZhczVnZWkzWmNaRm5sZU1pVUp1dHBYZVZ0UkZveU1rM3pJbWJMejVSTGM?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iNUNBajZpWGI2Y0o1cXZPWVBlTUh0TnJWTzNwZGFLdXQtdzJNdWFZLUlQT0toM3lhaW5xbmFucng3REhSUzBJZDJVbXhybWE4UjRWSnRGNUd0NXl1TDlXZGRBVVFpLW90Yl9TYWJsTDdPaS1BeUs4NtIBeEFVX3lxTE5BelRSZ3dOY2gyMndYd1ZBOTRZM0hHaktvdEFTTk1fRlR6ZWZ4VjZpbnVZMW03bXRFaUs1LVY0RnJOTlp5TUVMaVk2a2NZMlM1SlVYTU44WW15bDZZaUNCRHViNkk0NjVfWDBIQV9BcTNSSWNfX21Gbw?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mX285M1FrUU5ad0s1U0VyeWVfMXE1MklEVVdWU3dRRXhXUk5rTDhtcnRwYW9UYjM4dFBqVnFBc054ekthcWRlLUNpaFFXdnpxd3BjVzE1dGxQM24zNVNQbGRJSkpVZWFsek5PWlVTYklhSFpo0gF0QVVfeXFMUHVvb3BnaWI2TWVBOThzUzFVUTZTaV9OcUNkajYyd1hRR2hIT0NQNlloMk9jSkhmbVRudFRPaUNFTGxqTWRIb1BJUXRmd0x2cHd5Q3J0V1VWWnVaVi1UMU45WFN1NGpURXpvM194ZWxYNWxTQ1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TTGlweU8tbGpRUU04UUxOVmhHYVV0OTVDMUJCWEhTZ18wLVdYeXoyQ2NhYS1hYk54LS00UzVCdnZZU2gxS1B0UlhRU2xnRnJDTW9DYmQ2T0FrNWdYTVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpcFdmM1JEOWRRb0xhbUdVZi1STjREbUpIRWJpZDhtSEM1Q0hjRWZTM292TzROTHdVOV9zWnZ1MV9hVFl2VnRnclBiYS1faWxZeWhibldvdFZrX0FKMUHSAWNBVV95cUxOUk9zaTd0TWtOZjdENk1ndTVzQUtYMGRuTDVCX1NYNFF2c2M4b253Qk84MTJqXzBUaEZmNmFEY3IwWG1MaTBPNDhxTGRkSGVxMWNTVVY0ampMNmt6a2FlVWlxcnc?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261107021019hNY",
+    "https://www.yna.co.kr/view/AKR20261106186651082",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xSHFCb29TaGZDbFRIN0M2RkJPakdxX2lmUmFRX3E5dGpZWVZ4YV96NkRPRDFKNzZ2YUwwMVRwSmJka1Zzb2RIMG1VbW52S0IyMVlkell3?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RMF9DUnUwOGNhRDhjdTJPcjJLQ3pnZGdfQThoYkh4NGlpblRXdHFMU25MU0Z0OU8ycW9RVmRlbWthcmRUaFpBaDdhQ2k4bm1UbnpjVWF0TFRCeTloX0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41SWNZeUNyLU9PMDB5TzBNX0tHQ1phYUlGYk11bGhjMXBySHlycWpkR1FrWDZYRmlCVEluUmUxZ1RDQlV5NEFmU0hYUjRlb1hqX1pvZlln?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hQ2NyaDFsUDNKcGNqNG5LaE5ZbDYwRkk0WjdDT1NuR0JJanJwbURXOHVhb2NWcGZJbmdxS0o4aGdMSkNqbG5ITlYzUGNwMVV3emlhdzZB?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "경찰인천흉기난동범최충락주거지1시간여압수수색종합",
     "경찰인천흉기난동최충락주거지압수수색ytn",
     "너희없으면이런일도없어흉기들고자녀위협한부모",
     "뉴스거리만들려고인천흉기난동범최충락주거지압수수색",
@@ -9031,7 +9030,8 @@
     "조작기소특검파견검사20명에수사권구법적용위헌소지",
     "조국조작기소특검법위헌소지민주위헌없다ytn",
     "삼전6하닉8급락코스피매도사이드카발동중앙일보",
-    "조작기소특검법독립성위헌성은kbs뉴스"
+    "조작기소특검법독립성위헌성은kbs뉴스",
+    "5천피무너졌다코스피급락에서킷브레이커중앙일보"
   ],
   "opinion_date": "2026-11-06",
   "seen_opinion_links": [
