@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.mk.co.kr/news/stock/12198988",
-    "https://www.mk.co.kr/news/business/12198971",
-    "https://www.hankyung.com/article/2026110594087",
-    "https://www.yna.co.kr/view/AKR20261106085251008",
     "https://www.hankyung.com/article/2026110612847",
     "https://www.yna.co.kr/view/AKR20261106120351001",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMG5iMVlYTlVxYm9COUYtLWpBLXBubUpwVjdlX3Bxalh6SWdjRVQ5VGc5bFp6T3dMZUtmaVpCSXVCUG5Pd1dnVlBaQnhJTDYwazNpeEFtXzNVN3c?oc=5",
@@ -4999,7 +4995,11 @@
     "https://www.yna.co.kr/view/AKR20261107052851099",
     "https://www.yna.co.kr/view/AKR20261108003100071",
     "https://www.newsis.com/view/NISX20261106_0003858134",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kV1pJR25ZTHF1TXBHakVmWUh3blBtczZFLVE0QUNCY21uTG5PbnZiaHBsLVBqT0R6bHlKMUxvVmw1YmhCRElreVlFWFZ2QlM4NnhFaG5CYXNxbk5tc1E?oc=5"
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kV1pJR25ZTHF1TXBHakVmWUh3blBtczZFLVE0QUNCY21uTG5PbnZiaHBsLVBqT0R6bHlKMUxvVmw1YmhCRElreVlFWFZ2QlM4NnhFaG5CYXNxbk5tc1E?oc=5",
+    "https://www.yna.co.kr/view/AKR20261108003200071",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835519&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835516&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835515&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "학생들칼에맞았어요제발빨리인천흉기난동당시119녹취록보니",
     "이달원달러환율2년1개월만에최저원엔도19년래최저",
     "공공주택물량만늘리면끝lh공급사업정부평가서c등급",
     "전세가구이자부담7년새144상승매매전환압박커진다",
@@ -9031,7 +9030,8 @@
     "일본시즈오카현하마마쓰시북쪽서규모57지진",
     "트럼프민주법무장관등탄핵위협법무부에조사지시",
     "한국계댄고미민주당연방하원의원당선ytn",
-    "트럼프민주법무장관등탄핵위협법무부에조사지시ytn"
+    "트럼프민주법무장관등탄핵위협법무부에조사지시ytn",
+    "트럼프민주당법무장관등탄핵위협최고수준공갈행위"
   ],
   "opinion_date": "2026-11-07",
   "seen_opinion_links": [
