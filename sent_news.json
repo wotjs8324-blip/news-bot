@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261106_0003857800",
-    "https://www.yna.co.kr/view/AKR20261106085200008",
-    "https://www.newsis.com/view/NISX20261106_0003857784",
-    "https://www.mk.co.kr/news/stock/12198408",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106114234Wgk",
-    "https://www.yna.co.kr/view/AKR20261106085800001",
-    "https://www.newsis.com/view/NISX20261106_0003857777",
-    "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9Zd3RiYnZpSnpkYlBtYnltd0l3NUFsZ2VxdVl2bHBGaV91ZmluSGFkRWNaY25yZXFHRl9Ubw?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mNlhTX1UyY2k4TWdvZjd3NzJUS3RCeVNOS3Z1anV6c2ZGbmxwY285U0hvMktqOWtwLTZCVVd4ZURFekRScWpHLURZaXM1VXhfUmdFRW4xbUxiSzN1ZUE?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OckVNYUsyTXFpN2h6aS1jUG1GSXhFZjRSVXRoTHNfQmpvMkp2OU90ZkVOTVBCdzhqai16aHRCVk9VdWR6eVVFd0dvME5zdnJ0dWcwWktCeDVUbkc3Y0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SdERVSFdHQ1ZoUFV2bkpITWJCS0lyZ3Y1MXl4am9veGRjUlNvMnl6RlpCNnNObFJtSVhqdGQxMGE4RTZRZUpqOVM4Q1BmSDNmMTc3UHJhUUpCNnJ5QVE?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UN1BGaEg5eWVUUmZtR1Z3WmNISFpoMkZpTXo1Zl84NmFlV05UR1RDWDRLLU5LeXQ2VkZqZVBDR0RKWkVyVGhzM2p0R2F0cmZLQXYxUTkxWDlVWEdGV2c?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aSXZ0bi1PVXN0bmsyRXRGa3Q2T1l2TEJ1UXhWeG1lNWdDdXFDM1dSMnBQc1BRNkFkY1BKbmVLc3BCVzZSSVJZV0h4OE5scUlwY1B1SXFHVGJmLWc0LWc?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CcjJnWGNrNWloRllVOC1BNWdOWGpUMmFWbDhnTHZMcFhkOXJmdXp3cy1WR1U3U1VaUE5OSW1QRm9kMUozNUVYTjFfb1pTd3dDckh6Vlh2ODBHLS15aXc?oc=5",
@@ -4999,7 +4988,18 @@
     "https://www.newsis.com/view/NISX20261107_0003858811",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835119&plink=RSSLINK&cooper=RSSREADER",
     "https://www.chosun.com/economy/economy_general/2026/11/07/G5TDIMZVMRRTEMBVGM3TAYJVGU/",
-    "https://www.yna.co.kr/view/AKR20261107028200001"
+    "https://www.yna.co.kr/view/AKR20261107028200001",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uTWRGbURHMGpQSEVFaHJRZFRXTlhOZkRjWWl2WUlibzNidHRwTEw3aTZSbmdUc3VSblJDQ1ktdUk3T25BQjM1MUg4aDNvMW5HTXNOQlRLOEFrVXpIV0E?oc=5",
+    "https://www.chosun.com/sports/baseball/2026/11/07/LMZEBNUAWFA7ZGUWJJNYDIOVWY/",
+    "https://www.chosun.com/sports/baseball/2026/11/07/HBSGGOJQMI2GINZTGMYDQYJXGI/",
+    "https://www.chosun.com/sports/world-baseball/2026/11/07/GI4GMOLCHBTDEZJTMFQTCYZTG4/",
+    "https://www.donga.com/news/Society/article/all/20261107/134983219/1",
+    "https://www.mk.co.kr/news/economy/12200358",
+    "https://www.newsis.com/view/NISX20261107_0003858853",
+    "https://www.newsis.com/view/NISX20261107_0003858825",
+    "https://www.newsis.com/view/NISX20261107_0003858846",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835121&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/stock/12200359"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "이렇게죽을순없어생각하나로여객기추락막은기장첫인터뷰",
-    "이달환율2년1개월만에최저원엔19년만에가장낮아",
     "10월넘기고11월에전문가들금리인상숨고르기전망",
     "안전한건은행예금증시폭락에유동자금밀물",
     "폭락장세뒤반등했지만악재는여전이번주코스피향배는",
@@ -9031,7 +9029,9 @@
     "與국민호도멈춰야국힘조작기소특검장외투쟁비판",
     "민주국민호도멈춰야국힘조작기소특검장외투쟁비판",
     "한동훈조작기소특검법은이재명특권법",
-    "국힘李대통령인사전횡막장의끝이용철지명철회하라"
+    "국힘李대통령인사전횡막장의끝이용철지명철회하라",
+    "서학개미코스피급락장에미국주식3조폭풍매수",
+    "증시급락에신용융자담보비율유지의무3개월면제9일부터시행"
   ],
   "opinion_date": "2026-11-06",
   "seen_opinion_links": [
