@@ -1,19 +1,5 @@
 {
   "seen_links": [
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106170455xTQ",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106170415CLG",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106170130dxr",
-    "https://www.yonhapnewstv.co.kr/news/MYH202611061700506Lw",
-    "https://www.yna.co.kr/view/AKR20261106141300004",
-    "https://www.yna.co.kr/view/AKR20261106156000062",
-    "https://www.yna.co.kr/view/AKR20261106092600004",
-    "https://www.yna.co.kr/view/AKR20261106154600009",
-    "https://www.yna.co.kr/view/AKR20261106091000004",
-    "https://www.yna.co.kr/view/AKR20261106155400008",
-    "https://www.yna.co.kr/view/AKR20261106153100704",
-    "https://www.yna.co.kr/view/AKR20261106153000001",
-    "https://www.yna.co.kr/view/AKR20261106104151504",
-    "https://www.yna.co.kr/view/AKR20261106154700003",
     "https://www.yna.co.kr/view/AKR20261106154400005",
     "https://www.yna.co.kr/view/AKR20261106152900054",
     "https://www.yna.co.kr/view/AKR20261106152600054",
@@ -4999,7 +4985,21 @@
     "https://www.newsis.com/view/NISX20261108_0003859088",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMG5iMVlYTlVxYm9COUYtLWpBLXBubUpwVjdlX3Bxalh6SWdjRVQ5VGc5bFp6T3dMZUtmaVpCSXVCUG5Pd1dnVlBaQnhJTDYwazNpeEFtXzNVN3c?oc=5",
     "https://www.hankyung.com/article/2026110612847",
-    "https://www.yna.co.kr/view/AKR20261108003500099"
+    "https://www.yna.co.kr/view/AKR20261108003500099",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93V2NjclFQdVIzbDhDX0FnUVZDOHZ3WmxDUEpZSDdyRWdHOTl5Ml9zMXNucXpiYm1YeU9EYk5naUtvd0lQa1NfaHpJaUpHX0tPeUdIOHlTdnItNnFac1NZSVVkWEs3Zw?oc=5",
+    "https://www.yna.co.kr/view/AKR20261108001751098",
+    "https://www.yna.co.kr/view/AKR20261108003251071",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vamdaUnV2S1dnWVQzSThYM1NDQW1aUm9lSDBpYmg3eEdrOGF5WG9Fc2NUT0dHZUtrdDc1Zk92Y2dzRExzSUR1YU9Eb0JpVDlxSE9ReVZ3?oc=5",
+    "https://www.newsis.com/view/NISX20261108_0003859083",
+    "https://www.newsis.com/view/NISX20261107_0003859054",
+    "https://www.newsis.com/view/NISX20261107_0003859012",
+    "https://www.newsis.com/view/NISX20261106_0003858174",
+    "https://www.newsis.com/view/NISX20261105_0003856430",
+    "https://www.newsis.com/view/NISX20261102_0003850618",
+    "https://www.newsis.com/view/NISX20261108_0003859090",
+    "https://www.newsis.com/view/NISX20261108_0003859089",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229624",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8taFJBNnhJcTEyamZET044RE9PcnV4dnRWdmFPYkd5RzNNbFpUYWNrVkFmYTk2LW1OUlpGNC0xc1NoNE1TdnZ5Q2MtNVpzNVlUUlZtUng3bFV2anc?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "공공주택물량만늘리면끝lh공급사업정부평가서c등급",
     "전세가구이자부담7년새144상승매매전환압박커진다",
     "경찰인천흉기난동범행적조사거듭병원탓ytn",
     "기준금리연속인상한금통위이번달동결전망도ytn",
@@ -9031,7 +9030,8 @@
     "한국계댄고미민주당연방하원의원당선ytn",
     "트럼프민주법무장관등탄핵위협법무부에조사지시ytn",
     "트럼프민주당법무장관등탄핵위협최고수준공갈행위",
-    "트럼프美민주당법무장관탄핵위협법무부에수사지시"
+    "트럼프美민주당법무장관탄핵위협법무부에수사지시",
+    "일본시즈오카현하마마쓰시북쪽21km지역규모57지진kbs뉴스"
   ],
   "opinion_date": "2026-11-07",
   "seen_opinion_links": [
