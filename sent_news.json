@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834150&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/society/12200506",
-    "https://www.newsis.com/view/NISX20261106_0003858166",
-    "https://www.newsis.com/view/NISX20261106_0003857872",
-    "https://www.newsis.com/view/NISX20261106_0003857233",
-    "https://www.newsis.com/view/NISX20261106_0003857272",
-    "https://www.newsis.com/view/NISX20261106_0003858263",
-    "https://www.newsis.com/view/NISX20261106_0003858244",
     "https://www.newsis.com/view/NISX20261106_0003858248",
     "https://www.newsis.com/view/NISX20261106_0003858265",
     "https://www.newsis.com/view/NISX20261106_0003858027",
@@ -4999,7 +4991,15 @@
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229614",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229607",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229606",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229605"
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229605",
+    "https://www.yna.co.kr/view/AKR20261107045800004",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/07/MFSDIYRWMI3GKNRXMZQTQZJVME/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/07/FXOGHUBAVJDDHMJ7NOXSFTBOLI/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834318&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261107_0003859022",
+    "https://www.hankyung.com/article/202611072089i",
+    "https://www.hankyung.com/article/202611072240i",
+    "https://www.mk.co.kr/news/realestate/12201523"
   ],
   "initialized_feeds": [
     "조선일보",
