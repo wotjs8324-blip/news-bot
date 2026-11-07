@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.hankyung.com/article/2026110612847",
-    "https://www.yna.co.kr/view/AKR20261106120351001",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMG5iMVlYTlVxYm9COUYtLWpBLXBubUpwVjdlX3Bxalh6SWdjRVQ5VGc5bFp6T3dMZUtmaVpCSXVCUG5Pd1dnVlBaQnhJTDYwazNpeEFtXzNVN3c?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GZ0xfSkpxSkRkNmlSOElMblRfMW03U1I3ZWNTQ2xPS3lJbzNzRGFEWEpEd09hbTR2T01fUlBxT3FNa1RSSnN6NjBzY0RtQnBzbE9UZmlJTF9ubjZ4WHFvclUySURLN1dRSHlmQzl6bzBiNnBSNTVzQW1fYw?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106171356Bbu",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106171158Y7f",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106171021t6s",
     "https://www.yonhapnewstv.co.kr/news/MYH20261106170939ws0",
     "https://www.yonhapnewstv.co.kr/news/MYH20261106170848rIl",
     "https://www.yonhapnewstv.co.kr/news/MYH20261106170547iJ3",
@@ -4999,7 +4992,14 @@
     "https://www.yna.co.kr/view/AKR20261108003200071",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835519&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835516&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835515&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835515&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85SlNjV2RhMk1Bb1lJRGpYSnNVaUxNTFBKa2M3bXJ5VFFPaXNqREh6Q0hNWXJYajJYNmQwdlBpRmZsSU5EZjBJbEpONE53ZFlJcjlhMjdZNTFXZ25rRWZyWXNYR1paQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VOV9CN09IMlNnOERsR3Z6cXlpcnJ6SjhOUl9hZkRzRDMtSzN0TW90OUE4MFFRdGl6d2ZiNjVFR3RfTGNVd2gxZXR2cXBsQ1p3MzZ6aUdwRHFaNHEyU3fSAWNBVV95cUxPMVFVWDVqLWJ4eGw1VncxVDdhTFlUTFE0NTJuWXA0VlRiZlNzQm9DMHY1WVFiLWJnMm5MV2huQzJGTUcxUUd6cXg0X1FRWXpWN0JPNkRGU1RydFI2ZmhOYzVVc3c?oc=5",
+    "https://www.yna.co.kr/view/AKR20261108003400075",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835522&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835521&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/business/12198971",
+    "https://www.newsis.com/view/NISX20261108_0003859088"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "이달원달러환율2년1개월만에최저원엔도19년래최저",
     "공공주택물량만늘리면끝lh공급사업정부평가서c등급",
     "전세가구이자부담7년새144상승매매전환압박커진다",
     "경찰인천흉기난동범행적조사거듭병원탓ytn",
@@ -9031,7 +9030,8 @@
     "트럼프민주법무장관등탄핵위협법무부에조사지시",
     "한국계댄고미민주당연방하원의원당선ytn",
     "트럼프민주법무장관등탄핵위협법무부에조사지시ytn",
-    "트럼프민주당법무장관등탄핵위협최고수준공갈행위"
+    "트럼프민주당법무장관등탄핵위협최고수준공갈행위",
+    "트럼프美민주당법무장관탄핵위협법무부에수사지시"
   ],
   "opinion_date": "2026-11-07",
   "seen_opinion_links": [
