@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/international/international_general/2026/11/06/ME3GEZDFG5RGCMRQMRRGGN3CGM/",
-    "https://www.chosun.com/jp/international-jp/2026/11/06/YDX37YFP6NBY5G7I66HXPJ4AX4/",
-    "https://www.donga.com/news/Inter/article/all/20261106/134980565/1",
-    "https://www.donga.com/news/Society/article/all/20261106/134980554/1",
-    "https://www.donga.com/news/Inter/article/all/20261106/134980194/1",
-    "https://www.donga.com/news/Society/article/all/20261106/134980541/1",
-    "https://www.donga.com/news/Sports/article/all/20261106/134980475/1",
-    "https://www.donga.com/news/Society/article/all/20261106/134980095/2",
-    "https://www.donga.com/news/Society/article/all/20261106/134978620/1",
-    "https://www.donga.com/news/Society/article/all/20261106/134979270/1",
-    "https://www.donga.com/news/Culture/article/all/20261106/134979513/1",
     "https://www.donga.com/news/Economy/article/all/20261106/134978468/1",
     "https://www.donga.com/news/Economy/article/all/20261106/134978683/1",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834294&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4988,18 @@
     "https://www.chosun.com/economy/startup_story/2026/11/06/JDS2S45BBRAHBP732KZRKQKPQY/",
     "https://www.chosun.com/economy/startup_story/2026/08/21/QTEZLPW7CFH3JBU36DI4KAOMF4/",
     "https://www.mk.co.kr/news/economy/12200763",
-    "https://www.newsis.com/view/NISX20261108_0003859091"
+    "https://www.newsis.com/view/NISX20261108_0003859091",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jZnRDakUzU1dLME5GX2ZBOTRLQjdSdDJEbkJXZ0RIdGVTWTM3X2FBbXd0TFpYTXppSklkWEdWbXhiWkcxRHg3a1l0MmpHZVU1Wll1WTgyYkhYbjJhUzNIVF9SSTA4dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZZm45UW9TRjNlM0VEeHotejA3dGN5VlRmSXlYQ0FaWlZOR2JYQ3RCSEc2SVJxVzJEVkJrZVJEYS1KcXlfYzlpYzRNX1ZVczJkSzVuN0hjR1hSV0dGb1E?oc=5",
+    "https://www.yna.co.kr/view/AKR20261107029200003",
+    "https://www.yna.co.kr/view/AKR20261106170700003",
+    "https://www.yna.co.kr/view/AKR20261106181800003",
+    "https://www.yna.co.kr/view/AKR20261106146900003",
+    "https://www.chosun.com/jp/economy-jp/2026/11/08/ZYT3737VGBDCPD5U5BPWCM57FY/",
+    "https://www.chosun.com/economy/money/2026/11/08/KKCIDCCYRBA45PZKRSPKZLBGI4/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XUVQ4RmgxcGRVQjRkRm5Valk5b3E0Zk1NeEVyODNZcnYzQ2VXUGxWR2lRdjBHUU1QM3lMWkJQekJ4RW9ldU5DZEk1UzVTR2d6MnY5MFNn?oc=5",
+    "https://www.newsis.com/view/NISX20261108_0003859093",
+    "https://www.yna.co.kr/view/AKR20261107047300003"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "경찰인천흉기난동범행적조사거듭병원탓ytn",
     "기준금리연속인상한금통위이번달동결전망도ytn",
     "루비오트럼프세계경제영향분석위해대러제재유예",
     "증시폭락에국민연금도손실100일만에200조원날아가중앙일보",
@@ -9031,7 +9030,8 @@
     "트럼프민주당법무장관등탄핵위협최고수준공갈행위",
     "트럼프美민주당법무장관탄핵위협법무부에수사지시",
     "일본시즈오카현하마마쓰시북쪽21km지역규모57지진kbs뉴스",
-    "박수영미래대응기금정권쌈짓돈으로만들려고경제부총리도경질"
+    "박수영미래대응기금정권쌈짓돈으로만들려고경제부총리도경질",
+    "④군함해외건조규제완화등마스가실행에도변수"
   ],
   "opinion_date": "2026-11-07",
   "seen_opinion_links": [
