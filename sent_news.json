@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261106_0003858294",
     "https://www.newsis.com/view/NISX20261106_0003858362",
     "https://www.newsis.com/view/NISX20261106_0003858345",
     "https://www.newsis.com/view/NISX20261106_0003858359",
@@ -4999,7 +4998,8 @@
     "https://www.newsis.com/view/NISX20261107_0003859044",
     "https://www.newsis.com/view/NISX20261106_0003858264",
     "https://www.newsis.com/view/NISX20261106_0003858211",
-    "https://www.newsis.com/view/NISX20261106_0003857959"
+    "https://www.newsis.com/view/NISX20261106_0003857959",
+    "https://www.yna.co.kr/view/AKR20261107054400099"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9061,5 +9061,9 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xUHlMVUFrb29RcllWcHdpeWR6Uk5lMGZvX2NSMjQ1Y1RHRkRhNGEtUExyeUJEN1NpQW4xMGJpNG1JQmZmQlJFWGtnaDEtRTJYM2dGejlQNA?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BdGFjUTRYZkdIZENaZGplUGtvMnJMSWRYY2loZmVSalBtekNUa1ltajdET0FsTy1XZW9mbkNkRXBWaWhjZVQ1bnJTVFVPUW9lemE2elFzWQ?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "KBS": {
+      "failing_since": "2026-11-07T15:15+00:00"
+    }
+  }
 }
