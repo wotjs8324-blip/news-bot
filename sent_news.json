@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261106143100008",
-    "https://www.yna.co.kr/view/AKR20261106148800008",
-    "https://www.yna.co.kr/view/AKR20261106084700030",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45LXVaYk0zV1UyZ0hiY3o5YTBtMmhCVGVROWVWcU5iWEVJN2Jjcm5nSThrZkF4UFBRNTR0YVRsQXQ5NXEzVDU2UXJnd3JCa0wzRlVQX3ItU3lJVWM?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xUHI1dC0xZjJaY2Z6eDVfeGthcTh1a3RQWml3TjZZUzEzMVJKc09RemlrNlRGeGtNa1RtelFmZmNiVUpJUXZOLVpuUFpxYmc2Mm9sUmVWblg3bkhYT3k4RWcyLXRpSVVTRlpv?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhbWZGX09jVTRsTmh6VGh2d243QjZqaU9LTTdTb1I5cFFhYUEwQ2ZrNjRtektITkc5Wkl3X1g3NVhxWjhSMG5FUm44amM4eFdXMW1MSkpERUNPSjg?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WRlJUV3JXd051aWNzSldNY0J3OFNPdXJhRERMZ25hY09DRk93N3hYSjBPQm5yZHBCdkw2NFBTM1VfbnNyd3Y5N2ZvbE52ZFNOTzUzQlBhME9WbG1JOFFYeFREZkV3clc3TVI0?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqLWxjR2hCSnhHZmdhOGtYTkxUS2lxZUJESE9sUlJCUTBsUnAxdExDbms2Y0pqR1d1OUlNVzJoenNlTXI0ZXFnQVFQRVlJUGZzc3NrcU93T0Vyc2hPMFVJT21RX1I2bnU2ckpxNWNjOEN0MW1Mai1OdNIBeEFVX3lxTE1heGQzR1JTNmp0UWM5TmFhb21GRVk1b2NxWVhuNnh4V3pQdm5OM3l6RHVUSGYxYXNJZ2I1ZEhTX1FlUVc3SkgwN0pobDBkem9udGdGTlF0T3g1N28ybUZ0bUZyS1FHZnprcmc0U20zVUFRQ1hTSTRYYg?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uRkJZM3VTcjFmeTFtUXhvYmJjUm5PbTZ3TnRaTkZ3WFVLZjVPUGF3anRrN3dOSFdhVThHeHFhMXY5QTNMQjFmS0FBM29CZmFLSjV1a0lzSENyZktScmVDb0J5YjdDMHg0ZjdpejFKUm43a283cnRIT9IBeEFVX3lxTFAxUWJ4bm5zaXZybjFFMTBDc3hDM2F2MDM4cTRLRDR1M25DVk54TDg1TVlKc2RYN1hfLXd1SkxKQzBsTUNtbEtxaFJad2xRLVM4TFVWWTJYYXVCdFZRa0NqN3VIR1lRdjl0c2x2ZG8wOFVVV3NkOE9WWA?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pMmJlR2ltNnpLclpyU0RsSDM4Y1VMNVJ6eWZFRjFnbDQ0TmNlQ2lOc3laOWZLaUVtNWdBVVFleXR4dlF3VnJMV3BsN0JmN0wzZmlaQmxtMU5VaVF4Y3I3UmQyek82WllHSUhIZUZsZDdlSWdSenNPbDZrQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE96TVpRdzdEV2hWbFM4Rkl5Uy1xcGctT3NSUHVsV2hCYlRzWGNnTkZSbHMtTGJ2NDRxUXBuUllWRDUxUUZCc2lFQmpXanRkMW1HNUdsM0JRdFRGcFpWclppSWtpOXVtd3lvejh1Y29ZWk5mS2RMS0txeVI0Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QeFByQ1hGQzBPSHQwX1o0OFhPeDNENEYzRTNTUTVzZF93ODdTUjJ4UTdnSnFRaU1KR0tRNXVSQnFWZTlMSHJydlBxX0sycThIbU1rU241MjB3UDdySmfSAWNBVV95cUxQeEdsZVZ6WXRIcWVEak1vZ2hTc0YtVlkyai1tM0UwV1FfTjZ3V3hhWE9pSmh4QkRuTF9DT2YyS1ZVTTIzNkR3LUtIVUdIQjBhZjRjbnJuMlFmQU4wR2hKMmhwNlE?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XS2F0cHhaV2tQcGFMUU1wZ3U1X0RJelpDUWZDWlZGNlR3Z2djYURpQzJDOVZNdUMwTWNvSHJra0dzbnhJNXF1NGFEZF9md09iTzZFUU8tTmU1bTBIR2fSAWNBVV95cUxQN2xKMU1wYmd2NERObE1XSTRGV3MyYjg5eFpCUlRTUll6UGQzT3VvV1h2dUJ4R2lJdW9QeW4yd0ZQaDhUWFlVUG84alVaSFBGU1pLQ3RWbW5sTWZKeG9pNnVXT1U?oc=5",
     "https://www.yonhapnewstv.co.kr/news/MYH2026110616585513t",
     "https://www.yonhapnewstv.co.kr/news/AKR20261106165758lfA",
@@ -4999,7 +4987,19 @@
     "https://www.newsis.com/view/NISX20261107_0003859077",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229311",
     "https://www.mk.co.kr/news/stock/12200570",
-    "https://www.mk.co.kr/news/stock/12200566"
+    "https://www.mk.co.kr/news/stock/12200566",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rSlg5TXM3N19ON2IwVlVWcFdYUWVBNmhyQ3NMNjJfSktOd2RzUGZGMEZwTWhrZ2lqLUpLRElMR1ZRQ3g2dE1UN185Z0pCQzB0ZkxxSVdSUnJkTnFaaFREZlNfU2ZIZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96aXpmYmdPT1dwMEdCTmpxOWtIUW5vekNGSy1vY3N4NWlZM1AxVDJabkVfa0E3WjZfVVRLTmVBUTRhZS1aS0JKazBSd2p3QVpVa1JhUkJidTFHS1VkUEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FT3Vmb0ZPMnBDMFFKMEt1YktkeWplaTZKUFJLZXJ5UXFqbTUwdXpQYWNxbXBKNm54cXVNS2czYTY5b2tEMHJiLUE3S0tfZ3dfTHZ4RlNqZTNXOFVrMFE?oc=5",
+    "https://www.chosun.com/jp/sports-jp/2026/11/08/R7UKJDBRCFCTDDRPOWU5DV7E3Q/",
+    "https://www.chosun.com/sports/sports_general/2026/11/08/MU4DIY3BMZSWMNDEMYYGGMZTMU/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/08/NPNJRTHD4ZDAFMZSR7NQ7QZ534/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835500&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/stock/12200564",
+    "https://www.mk.co.kr/news/stock/12200563",
+    "https://www.mk.co.kr/news/business/12200579",
+    "https://www.mk.co.kr/news/business/12200549",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wNmdfd3laYTVSTmNobXRFXzg5cm9uZUJtSi11cUNJRDdaV0JGMWlGQjVkT3hoc2FjOHJiWnNYOTlaY2ZnTVo1VVR6RkpiRlRSNXBTOVVDc1Jfc3F4bFHSAWNBVV95cUxOcHoyc0J5LWhHN2RuVkNVOFY2dEFKVW9pZUFmTUJ1ZW91NlJRRnoxWFVLRXQ1ZjM2SUd0NnRhZ3JXMjkyR2NGdzM3blg4clhPZ0dQRTZ5Nkh1c0ZIaGxwTkJPb1U?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
