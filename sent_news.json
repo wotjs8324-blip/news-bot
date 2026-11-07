@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834446&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12200598",
-    "https://www.mk.co.kr/news/society/12200605",
-    "https://www.newsis.com/view/NISX20261106_0003857902",
-    "https://www.newsis.com/view/NISX20261106_0003858414",
-    "https://www.newsis.com/view/NISX20261106_0003858363",
-    "https://www.newsis.com/view/NISX20261106_0003858412",
-    "https://www.newsis.com/view/NISX20261106_0003858409",
-    "https://www.newsis.com/view/NISX20261106_0003858392",
-    "https://www.newsis.com/view/NISX20261106_0003858332",
-    "https://www.newsis.com/view/NISX20261106_0003858202",
-    "https://www.newsis.com/view/NISX20261106_0003858053",
     "https://www.newsis.com/view/NISX20261106_0003858312",
     "https://www.newsis.com/view/NISX20261106_0003858310",
     "https://www.newsis.com/view/NISX20261106_0003858318",
@@ -4999,7 +4987,19 @@
     "https://www.yna.co.kr/view/AKR20261108001900099",
     "https://www.chosun.com/sports/baseball/2026/11/08/MM2DKNJQHE4TENJRGRSGEMRRMI/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQMm5LN3FWOEs1SFp6YUdXLWoza0JTLUdHRzctb215Wjd0RlVIaUFEdXlzTjhtZnozb0RsVllaMXRKVjFHdE1ua2tmcFg4NHNjdFgwM2tR?oc=5",
-    "https://www.newsis.com/view/NISX20261108_0003859084"
+    "https://www.newsis.com/view/NISX20261108_0003859084",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4M2hGa3dVQm4zUHdSV3RqYUFqT0Rxa3RjMjRMTmxTdkU4eUthdWIzX2xXYk51S3o4V2pqSFFlc3FLcUhCQVpZUTk1dWQ5bEZEcjFLcDk4aEk2d213R0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxRm5JVDlBQ2ctZ0xkR0MwU0ZLR1ZUVEF1LVRPbkYtcGp6ZS03QWNPdnNLa3JEa3ROT09xX1VoaXBDSE9XMmg0RXE3aHlRdDVIRW55WkRsUEJOeDdrR2fSAWNBVV95cUxPaDZnNElKWmE4R1lqY0pCSFpKWVEySUh3YnhqSXBmUEpZd0RKR0gyWlRpUTZRYTgxT1VEN2FMME95ZkE1SjItMFdfTldDNGE0Z3o0SkF0TDlxQ0RSZFEwaF9QSTg?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ra1NIUzZLR3VUTmVtYmNCUWtsRVdwaWVXYnc0b0lsc3lzSWNkdlhvTzBzczBfVjh3dXN6YkZ5Rk9aYm5sRnZIeTRYb2pSSU9ycGRMZ1FIczJxRWFTUUHSAWNBVV95cUxNNFhoZ1gxR0xxWjdVMkNKYXZ5U0VQRWZSYU8yeHlELTYwVHdkVFpZRlJRdlk3WFRRbFZlc19BRnQ1MGtUd3JLTUhZM3B2OEVMNnlIRHFOLU42SnFtRkhDUmlKTmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05d19iSXNqTnhpYWlXaFhlSm1kNHVqTzJpbkNwb01nc1RVWTZOaXQ0bUd1a3pBS3ZIRTNERjhNOEIxWFJ3Z1c5ei1BekZST0ZxYXFub21TVWpubXJtQmfSAWNBVV95cUxPLWVDYmpoUXl5T1dDVE03M0l0LV9qb3lxcko5Q3RLREJjZTZfQVliTkFSbHdwUVBpY0hwblZaXy1QY1BYd0RpTFUzcGNyVURSc1JqbE5nVUpoamxYX3QxcFhEeFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPdXBjbS03NHFYblFJdWJNeU9YZk5ud09lNmt5RFo4empnZHE2bXRLa2JKRGdSR1piMzlqaUE5WHlJOUJSbUdPUEN1aTBaelNucnhlYU9CclY3c25vYXfSAWNBVV95cUxNU1htakl1NFZBdmNMdkVQak5OT0VuSk04MVlZdXFOUGZxY1M3S1VYVENrMGYzU1dvSXoyOF9qOXdEcC1sdnBGRDdOUFNvU0NUSkc4RW1CWVRWX0NXbnlIcVpWR1U?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSmc5aVVTZjA2RGFKWUplMnZfbWhfY2J2bzlINFJ5RDVLMVQ2bmM1ZFFJeU1ibHpwdktqOVJsd3gwbXFHR0Y5OGlMX3o0eTFkMzhueDdoZXRWbGF3NkHSAWNBVV95cUxONkJRRFVKN05ObXRObnZJYTVRZ2MtSktBSWJ3SVdvaUNWeXF0S092VFZMNkdvN3BnSmthY0w0SklqZlFROFVLZFFRV2IwYlpDdklCMlRpWEZ0TzhnQnpNUkNuelk?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZUUJmWS1IaW5nT1lxQVU1Z29ENlJ2bDJjX3VKeFVUYzVNR1JqclFPWG1TNkttOVp5S3ZlZFhpd2t0dkxuMmhHdlFUSkdHcl9lUzljU1JMdnpnU0FiYnfSAWNBVV95cUxNN0JRajRJSGVFQ1V5VVNaM0pzdXZ1dUVuRHFZNWJ4S0xNcWFmUXVfNHVWWmVaUDQ2UWx6MlYxZi1CVi1BU0E5WGJXZXdJaHduRWc4dzcyYVQzdWFmc2J2Tm1PWWM?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NQUVpU1NmZjhvRlhiRm1qeVlWdndKWDZva3hyYlE4bXY3SEJ2OWxHOEtKMVBybUJMNDJ6OUtVLTdrVmJhRHRuOGFwdEhVM0ZRMWlxNEFlaW1tT3ZlenfSAWNBVV95cUxOeW9KdUZvdGpiWklpV0M2T05CUHA2LTNfLVpoNnJLdlpTSkhYVnphOVhrbVZyc216SF83VWNCc0puOVBMbU80bHotQ2hmNXNtUjZldkdCamh2UUMxbGh1RF9EUW8?oc=5",
+    "https://www.yna.co.kr/view/AKR20261108002100072",
+    "https://www.chosun.com/jp/sports-jp/2026/11/08/3INZETTFMZEX7CUYL5WVF46U6U/",
+    "https://www.chosun.com/sports/baseball/2026/11/08/MEYDKMDEGAZTINTFGI2WKZRTGM/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NUkZ0dnVqcjI0WVlGUGo4NnB4LWUtWDI0emVEMXM5ZUYxbV9TX05BU2hDY2NqOVNDS2djZV9CY2tXd3NkVW4zV0RFYlV4VVBmTFlZTmZB?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
