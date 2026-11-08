@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835284&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835281&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261106_0003858455",
     "https://www.newsis.com/view/NISX20261107_0003858908",
@@ -4999,7 +4998,8 @@
     "https://www.mk.co.kr/news/economy/12201465",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wYzA2TUROUnVzSWdJT3pxblE0N1dJVzRYa3FUSWQwbnNEOFVKN2dHd1dWRWRzeU5OTXpMSDBuSEg2N29pV1ZQU29xMDRPaXhYcHRGR1UtWEk4bjQ?oc=5",
     "https://www.mk.co.kr/news/stock/12201467",
-    "https://www.chosun.com/politics/assembly/2026/11/09/5FBH7N4ZEVAT7C5SD22Y3OJSVI/"
+    "https://www.chosun.com/politics/assembly/2026/11/09/5FBH7N4ZEVAT7C5SD22Y3OJSVI/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835286&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
