@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835172&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833985&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261107_0003858877",
-    "https://www.newsis.com/view/NISX20261106_0003857672",
     "https://www.newsis.com/view/NISX20261107_0003858910",
     "https://www.hankyung.com/article/202611058693i",
     "https://www.chosun.com/economy/economy_general/2026/11/07/GIZGMYZQGYZTGYLEHA3TKMDGHA/",
@@ -4999,7 +4995,11 @@
     "https://www.donga.com/news/Society/article/all/20261108/134987831/1",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836161&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836158&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261108_0003859546"
+    "https://www.newsis.com/view/NISX20261108_0003859546",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FcFVVSnlmMWFWalZtdkxmTU9LRVN3SkhkWFhjeXU3U0RlU01KbUFjRktHOTd6RVl6STM1WGtlWVdCblhCMFJEblg3YTBPNWkzd1UwMXVfWi1KdEl2OHE2cUpCbnFyWFFmeDNzRk9XUnBQejFv0gF0QVVfeXFMTjE4TkdmXzIybFNvQklDNXpnY1J0NUlBRWlUMzNLN1EyTmFZN0ZCdTJjZ05PNTRBSXRxNDVqeU43UHpwNnJ5NXpiNzBFdm9QUTIzV2x2S2F5STFOeVBhM3Z2Xzh3X2loWDdGWTF5TGdHRDEweWw?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aOVJZOFN4Vy16WC00dmxvVEFwTm12Y2MtT1ZrQkhDc05kQlVrNUtDZmJidTlQTjZvS1NIeFVfNE1jc2t5aWhlcWFEeDJ6SE1aYlgwWXh3?oc=5",
+    "https://www.newsis.com/view/NISX20261104_0003854879",
+    "https://www.mk.co.kr/news/realestate/12201950"
   ],
   "initialized_feeds": [
     "조선일보",
