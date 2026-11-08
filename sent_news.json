@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261106_0003858653",
-    "https://www.newsis.com/view/NISX20261106_0003858503",
-    "https://www.newsis.com/view/NISX20261106_0003858501",
     "https://www.newsis.com/view/NISX20261106_0003858591",
     "https://www.mk.co.kr/news/stock/12200973",
     "https://www.mk.co.kr/news/realestate/12200965",
@@ -4999,7 +4996,10 @@
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9taFM1RTN4Z1BZUXdoa3dxS1NtTVdRM2VqOEZDVmRzUjlQVGNneUZSX2Mxa1lyWE80ZUZVNHBDdDJ3ZWNpOFFKQ2hHMzVJMFFrT2Zhb3JadmtEWHhaVExpc01SSWFfdw?oc=5",
     "https://www.hankyung.com/article/202611057471i",
     "https://www.newsis.com/view/NISX20261108_0003859288",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iU2NVTjBXRG56U0VYM2hsS1FhTFZkenJYc3dheWFaRWo2N283dWhCUmd0U1UwM1lfck0wM3dVY1EzcDc0eWFJMHZGT3ctWFUwYWxISS1tc2tKeWUzVnfSAWNBVV95cUxPb2Zsel9yUGU2WGNXejhraHZtWTVqSXg4bEFjSFE4bDJTM3Bmd01lVG9vLWoyN080Mk1lT0x0NFF2YnE1aU0wNm56djhhcWotck11bXRkLUo4U2pyZ1ZvcGtsTE0?oc=5"
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iU2NVTjBXRG56U0VYM2hsS1FhTFZkenJYc3dheWFaRWo2N283dWhCUmd0U1UwM1lfck0wM3dVY1EzcDc0eWFJMHZGT3ctWFUwYWxISS1tc2tKeWUzVnfSAWNBVV95cUxPb2Zsel9yUGU2WGNXejhraHZtWTVqSXg4bEFjSFE4bDJTM3Bmd01lVG9vLWoyN080Mk1lT0x0NFF2YnE1aU0wNm56djhhcWotck11bXRkLUo4U2pyZ1ZvcGtsTE0?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qQnZIbkpFVnBKcWZsRVA0OHNzMzVscjZ4bG9MUkVHaHRNcjBUS0d6QXVwcjFYRjlnNERUMjRpOUhfclFYbzR2TFd0VlZ3S0ptV0t2SWhn?oc=5",
+    "https://www.hankyung.com/article/2026110829047",
+    "https://www.hankyung.com/article/2026110590826"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9061,9 +9061,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xUHlMVUFrb29RcllWcHdpeWR6Uk5lMGZvX2NSMjQ1Y1RHRkRhNGEtUExyeUJEN1NpQW4xMGJpNG1JQmZmQlJFWGtnaDEtRTJYM2dGejlQNA?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BdGFjUTRYZkdIZENaZGplUGtvMnJMSWRYY2loZmVSalBtekNUa1ltajdET0FsTy1XZW9mbkNkRXBWaWhjZVQ1bnJTVFVPUW9lemE2elFzWQ?oc=5"
   ],
-  "feed_health": {
-    "조선일보": {
-      "failing_since": "2026-11-08T03:30+00:00"
-    }
-  }
+  "feed_health": {}
 }
