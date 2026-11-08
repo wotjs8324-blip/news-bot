@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261107_0003858918",
-    "https://www.newsis.com/view/NISX20261107_0003858876",
-    "https://www.newsis.com/view/NISX20261107_0003858904",
-    "https://www.newsis.com/view/NISX20261107_0003858915",
-    "https://www.newsis.com/view/NISX20261107_0003858909",
-    "https://www.mk.co.kr/news/realestate/12201453",
-    "https://www.newsis.com/view/NISX20261107_0003858835",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835191&plink=RSSLINK&cooper=RSSREADER",
     "https://www.mk.co.kr/news/stock/12200375",
     "https://www.mk.co.kr/news/stock/12200372",
@@ -4999,7 +4992,14 @@
     "https://www.chosun.com/international/international_general/2026/11/08/HEYWCNZTGAYDMZJQMEYWGOBQG4/",
     "https://www.mk.co.kr/news/it/12201959",
     "https://www.newsis.com/view/NISX20261108_0003859560",
-    "https://www.mk.co.kr/news/economy/12201960"
+    "https://www.mk.co.kr/news/economy/12201960",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/08/IR3AAKPYOJCZXCQUISY5LW3EQM/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/08/GQYDGNJQMUZTGOLBMI2GIMZQGI/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/08/VKR5WQ47WZCKVECHDB4G6KPEH4/",
+    "https://www.donga.com/news/Inter/article/all/20261108/134985864/1",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836283&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261108_0003859554",
+    "https://www.newsis.com/view/NISX20261108_0003859561"
   ],
   "initialized_feeds": [
     "조선일보",
