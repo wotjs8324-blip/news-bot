@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/entertainments/enter_general/2026/11/07/MMYWKNJTGQ2TMNJVMMYWKOLGME/",
     "https://www.chosun.com/sports/sports_photo/2026/11/07/GI3TSZJSMI4GMMZUGU2GMY3FHE/",
     "https://www.chosun.com/sports/sports_photo/2026/11/07/GQ2GCZRWHBSDMYTFMNSWKOBSMQ/",
     "https://www.chosun.com/sports/sports_photo/2026/11/07/GBSDAMJXHEYDONLEGFQTCZBSGY/",
@@ -4999,7 +4998,8 @@
     "https://www.newsis.com/view/NISX20261109_0003859579",
     "https://www.hankyung.com/article/202611045024i",
     "https://www.hankyung.com/article/202611060163i",
-    "https://www.yna.co.kr/view/AKR20261109002800079"
+    "https://www.yna.co.kr/view/AKR20261109002800079",
+    "https://www.yna.co.kr/view/AKR20261109002600071"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9062,9 +9062,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BdGFjUTRYZkdIZENaZGplUGtvMnJMSWRYY2loZmVSalBtekNUa1ltajdET0FsTy1XZW9mbkNkRXBWaWhjZVQ1bnJTVFVPUW9lemE2elFzWQ?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54MWtOaThiQXg2ck9hU1JZa19lc1F5VEt2QjBRWGZCRlhGU0xDWl9ORDRtYVdzRV9obUpsQ2RONzQtcHRySi0yc3c0NnUzYnV1VnRQRDY3UQ?oc=5"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-11-08T18:46+00:00"
-    }
-  }
+  "feed_health": {}
 }
