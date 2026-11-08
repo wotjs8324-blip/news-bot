@@ -1,20 +1,5 @@
 {
   "seen_links": [
-    "https://www.yonhapnewstv.co.kr/news/MYH20261106211604YVA",
-    "https://www.yna.co.kr/view/AKR20261106185600007",
-    "https://www.yna.co.kr/view/AKR20261106187000007",
-    "https://www.yna.co.kr/view/AKR20261106186900007",
-    "https://www.yna.co.kr/view/AKR20261106125900007",
-    "https://www.yna.co.kr/view/AKR20261106186600082",
-    "https://www.yna.co.kr/view/AKR20261106186800007",
-    "https://www.yna.co.kr/view/AKR20261106185700007",
-    "https://www.yna.co.kr/view/AKR20261106186400099",
-    "https://www.chosun.com/entertainments/2026/11/06/WVWWUGNJBRESHEOEIS5DBAMXP4/",
-    "https://www.chosun.com/sports/baseball/2026/11/06/7HM3XMXHHZAWJDW344MRXSBLCM/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/06/MVRGKODBGI2TQNJXHE4GEMDGGY/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/06/G5QWENBWGQYTEYJVHE4TINJYMY/",
-    "https://www.chosun.com/jp/sports-jp/2026/11/06/4RM7NE6IIBC2XGLFP3CHMZBWXQ/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/06/MMYGGNDBHEYWIOBWMU2DKMBYMQ/",
     "https://www.chosun.com/sports/baseball/2026/11/06/HA3TKMLCG4ZGIMJXGE4WIZTFGM/",
     "https://www.chosun.com/jp/culture-life-jp/2026/11/06/7PEJO3YTOBEQFEMEQBZ3KXGBHI/",
     "https://www.chosun.com/sports/sports_photo/2026/11/06/GUYTKNZZGQ4TSNRSG42GGZRSGA/",
@@ -4999,7 +4984,22 @@
     "https://www.mk.co.kr/news/society/12201626",
     "https://www.newsis.com/view/NISX20261108_0003859260",
     "https://www.newsis.com/view/NISX20261108_0003859252",
-    "https://www.mk.co.kr/news/stock/12201625"
+    "https://www.mk.co.kr/news/stock/12201625",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JaE5QT01BdVZ2OG1pazBPTGZpU3lDT21PN1hHOFBIWlRBYWVBSTNRejFnT2hKSXhEMW1jZjkxek0weWJwcHlqSmZtY01pTF9DZEVvRW1B?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mLXB3YzFhWUpSUC1Rdi12cFh2Y29zR0VyZnNHdTluY3ZHQzJ5WkV0VTQ1TnY4cV82N3hMRVBUQkVURC1WRUdDY052NVNNNkI4TTRpdTAwaWR4WTRlWGfSAWNBVV95cUxNeG9tLVJMaGNyTDZKWUg0Y1F6VzZpT29OYXo3bWhUOFZXQU9nekM1UEJfZ2dBRkItTk1IRS1QYnhJcHVOcV90T2dlRWJlOFRPTHJDRUNCejJaRkZERkhYRFBNQkU?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261108114106MTl",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261108113828diR",
+    "https://www.yna.co.kr/view/AKR20261108022300001",
+    "https://www.yna.co.kr/view/AKR20261108022400004",
+    "https://www.yna.co.kr/view/AKR20261108023100030",
+    "https://www.mk.co.kr/news/society/12201631",
+    "https://www.newsis.com/view/NISX20261108_0003859249",
+    "https://www.newsis.com/view/NISX20261108_0003859265",
+    "https://www.newsis.com/view/NISX20261108_0003859261",
+    "https://www.newsis.com/view/NISX20261108_0003859164",
+    "https://www.hankyung.com/article/202611060918g",
+    "https://www.hankyung.com/article/202611061772i",
+    "https://www.mk.co.kr/news/realestate/12201632"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "저금리전세금정책대출청년신혼부부주목",
     "캐나다앨버타주군기지서폭발화재최소7명사망",
     "사우디주도연합군헬기예멘부근서추락2명사망",
     "울산서차고지진입하던버스에치인80대보행자사망",
@@ -9031,7 +9030,8 @@
     "국내증시추락에상장사3곳중1곳올해최저가",
     "경기아파트값상승률8주째서울웃돌아경기남부강세kbs뉴스",
     "k콘텐츠저작권수출10늘면관련상품수출37증가",
-    "일본시즈오카현서부규모57지진23일간큰지진주의"
+    "일본시즈오카현서부규모57지진23일간큰지진주의",
+    "경기아파트값상승률8주째서울상회수도권오름세견인"
   ],
   "opinion_date": "2026-11-07",
   "seen_opinion_links": [
