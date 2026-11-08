@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/jp/sports-jp/2026/11/07/MHL2CMIZ55GXZONR6XQ5Z2GSSY/",
-    "https://www.chosun.com/sports/baseball/2026/11/07/GJSWEOBSMQ3DEMZYGFTDQZJQME/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/07/MQ2DCN3GHEYTMMZUGFTGCM3FGY/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/07/MY4TEMBZMQYTKZRSHAYWMMJRMU/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/07/MNSTEM3CGM2DEYZRME3DSMJVGI/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/07/MJSWGZDFGU2DCMTBMI3WGZLDMI/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/07/MEZGMYZZMRRTEN3FMVSDSZTBGA/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/07/HE2WGNZRGMZDKNZXGM4TGZTDGA/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/07/HBRGCNZZHEZDOMBVGM4WCZRZMU/",
-    "https://www.chosun.com/jp/sports-jp/2026/11/07/NKQHFWOELVE2VAP7F4ZPHAUISA/",
-    "https://www.donga.com/news/Entertainment/article/all/20261107/134983575/1",
     "https://www.donga.com/news/Entertainment/article/all/20261107/134983571/1",
     "https://www.donga.com/news/Politics/article/all/20261107/134983487/1",
     "https://www.donga.com/news/Society/article/all/20261107/134983566/1",
@@ -4999,7 +4988,18 @@
     "https://www.yna.co.kr/view/AKR20261109003000079",
     "https://www.yna.co.kr/view/AKR20261109002700091",
     "https://www.yna.co.kr/view/AKR20261109002900071",
-    "https://www.newsis.com/view/NISX20261108_0003859562"
+    "https://www.newsis.com/view/NISX20261108_0003859562",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tQVdKTkRWaHJYTGJPR1dkVFBDYkloUVo1VmtOWmZlRzFrSjNmRU9JbjVhS2ZkakpVblRkdlpXN29PMTl5UXluVnlXckJ6Xzd5cmFUcmUydzBuWF9GMFHSAWNBVV95cUxOX0RRcDVaYzhfSnEwenNkY2J1SV82eU1oNmYzMXkycFNkOXJvWTkxOHAzeWNqNERTMkJlTnRGWFdoNGNLUjlBeDRCV05rQlVrWHdvNkhLSGxscE5jQ2RQMFlieHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Cb1d0YjVJM3ctSDA0c2xUMmxQOVViRTJCaG5pSXdLeXpvMXlFTExKQlZRTThuMEppZkZtQ2JhUEM4RWFEREhYYWZncmtQMTdiMmZ4Sk9vNk9UN1RmcEHSAWNBVV95cUxNZHY5VGhGaVFqcklJNGJ0T1BCUzY3RUR1V2pYZG1TQU1MQ09vbGRWdDhCTWRidDAteDR4aXFIYThQV0RUZ1JUemtXcTNDNGVCaXlpZURCXzFzTDdvUnI2SmVhd0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WMFBRdXloX0d5WEVwYUJvYlFWVUJFdjZqenRLYlE1RElITjlzSFJVX25fb3EwMVNkd0p6QzRSVEV1RzhpQzB0cG9DVlpCdndtUld2RWJmMjJWTVhoaEHSAWNBVV95cUxNSjB4Q1Z0YjY4MjRQNVNZSXdWN3BmOVByNVhuMVNMSzR3WjNBLVBhOTYtQ0FjVDZyaWZfSmZWN3ZBVE1qNG92T0hNbld3enNiVjdzdGZ1ZVdPY2E3c2pqUl9JQTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QaEgwTU83Z1JnUWpvbEFEQ21qakdKVDJ3N0pVOWNqRDE5VjRzT012T1VfUTExUnh1TXFkaVNlVUlucmdxWVF2LWkxd2x2OUUzYjlCdHVnRzlkbWRrZnfSAWNBVV95cUxQaFk1TEpSTHl6WGgzNzRycjBjTGZ6THNFdUhJTG1mT094V29iZG0yZHZlYW5uQjVMV0FNc0R4akRzSUtDZ1VLNWU3eHB5ckdrcnQ3V1BPeFNCdVp0eERJQmxKZE0?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YeEQ3TlZ5MTR5ay1TN3hzSnhjWUlFWXlwS2kzTnA5dUdGYnY0dURDUEU0ZXByXzFCN2w3MEQyTUtNY3JTM2Rvam01Qk90d3pLeVdiYmtDU1lrX2dtS1HSAWNBVV95cUxQNFJ3QUtTTkVjZk5VNjFWWVVLLURNNXdFVHFyNVExaWMtazkxTkxBbHF6Rk1KS0E2cm5TRjc2RW55b29DNVI2MVR0c3I0WmctdjA1TDd5N21BTnNyZ3AtRTBLaG8?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45YW9lRXJlYXR0b0ZCcUNNZm02eEwzUUxsNjBGZTNUMDk3VjhXbGZTR2lBaTFlTUllX3o3bno1MUxsX0lZUFlaX1dsNGhYT2hwczV1ZHVMdGNCREJreFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wSEd3elQ3MUk3anRreVpzWldxck9LZ1pjSTJwMzZqYWVaeHVzcnJ0M04zTlJwRnZuN19td3JKZGQxTHBKbTlRelRwZ2RxemRFQnBMai14N1lfRUpUNXfSAWNBVV95cUxQYmFzZmo1ckdFbzFuQ3g4eTFMTThZN0paNkQ4TTNTQ3cwUEF5NVVTc0p4TGdUN3IxVFY2SXhuVXRweUlwVHdzUkROLUQ3QU14b3BCRDVDTDJabzAtMTd1bHdnY28?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xSXhUajNEZDQ4Mk05UERpd1hhODFQTDlUQTBzVlRKZEhKb0ZYMEFOTzBEajljOWNzQzRxSExOVy01cG5CYUhsOHBGZUV0aUtJaW5sV1VrSndubTc0bVHSAWNBVV95cUxNNmVpREoyZEkzMHhSSFdyWC1xYnBSWnB5V1gwZDVjRUVjQnVUWjlodmRldURPRngxcnZPNnNNeWhLV2RUc3JmbFc2R29EVENjbmpWTlBfSUtPSldNWURUOGFVWXM?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nWkdOTVpQWU1jV0lzS2gwT2UtZmVFVE91M3lTTzUzQmU5UV9PZHRXRVdyTFdpV2dMa0JLTHRldXVZTnZuZ1dNN3dVRnVURm1LcFRuWVM2YkRnSjBmRnfSAWNBVV95cUxNVlFjejJ0S3RYUEdUbmQtSlBaRzJBZnhtbkU1Ukp5ZkdBNnNzdFJPVmsxR1g2Tk9CX1lTVmNUZDlJeDBLTWhSMVdWTEJUNW5KRTVYUkNCTEZUMEhrRFVDV3AtcTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XaHp2eENKdDdieC02TW5MeHZSbzJVTjJVbGZqU3g0bnNoZWZlVjVJXy1ZUmlxTWNtYTNQQ2VKM2YxQVZBT2VzRUxYRVJXVkZjZ2YxRXlhaEI3WlFYa0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRVJ1amdtMndVY3dKVk9OT1FNN2NRd2hsMzhtei0tWk50Y3RmYmxFLWhGcXpBSW4yaXRXUHFadmpDSmZGc05MbC12c09EWlRsRUtsSmV3?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
