@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261106_0003858619",
-    "https://www.hankyung.com/article/2026110617271",
-    "https://www.mk.co.kr/news/stock/12200838",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834679&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GZzUtdlpWMHpVTURtWFhtSVVJdGNmWHFQelBLVXU3Zm1yVTlCLVJVV240UTd0VW9vbTJGZE14cEJ3WkJGaG9MdFJKMXJFQlRCX2kzdjJPZU43SW1aNkJZTjc1a2xNZ1djaU1jM2s0WVhkbjVwZFJ3QVlR0gF6QVVfeXFMTjdSZEhsMW8wNkdVTTAzbzJhOWVtbEJJaElNNDdxd0ZOMC12U3JDYzVKNnlla0dwUkFZV200SzFSeTUxOVY3U1o2SW5uakxCT1BTS0lIME9raE15UEJOQi1hUU84cG1zT1owTlpiaHVkZXNaY2ZzOENLVGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CVktQUlVQcnpydkhqYTVPdGVUU1BYRGRYNGdNTlRsU1hfQ0tGQ3ViQzlWUDlubUliVjZfNWJDZlgwaXFUa01VWVpwY1pQYWt0NmNIZVZETTBXdGVLM08wNUd0ZnBWeGFKNUlkQktqRjYxbkxtbFdCQXdn0gF6QVVfeXFMTXRieDVWRWdRM0dFVTNuRDQ5anMxWlhlblJXYmhDYW93VWZPTTZpRm9YcWpERHpWNVVUdWdPcHNJdVVqc3dLUHFDU0ZTM1IyalJmTFBxYWVqMUZPOFVjTGprdWFwUldRZUFlRFJ3N3dwM1Z5bU56MDBPRmc?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpRWljYnFiNlBvN1lMN3pBbHF5WWFtZzBDZ3M1b1Jod2puZUFxZnFMcUVjY0M3cTJ4ZVNGVDBqNXpCTnBfNnF1VWk4UlFKMm1BZVpoczZ0aEJyYWtxeUpWSzJ0QzZlUC1Bb0FJVjdjVFIxM053Rkx6UtIBeEFVX3lxTE1LU1NsNnJEWUJPTDVKa1hGMXd2RVRtSTVaT0VubEhjTVJKRHZTLTFaeW1jczkzTXZCeHFnOW9hM0ZtTW9XaDVmWG5ITDRBWkQ2QWJTUUo2NVI3MURlZ2szTDVkRnU3YmF0VTJZV3dQd1ExdTBxYjBYRA?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/MYH202611062014269fQ",
     "https://www.yonhapnewstv.co.kr/news/MYH20261106201305o4u",
     "https://www.yonhapnewstv.co.kr/news/MYH20261106201103sAL",
     "https://www.yonhapnewstv.co.kr/news/MYH20261106201019g7d",
@@ -4999,7 +4991,15 @@
     "https://www.mk.co.kr/news/business/12198416",
     "https://www.chosun.com/economy/money/2026/11/08/PIYSMDRUINESLOSIQERDHIOV4I/",
     "https://www.yonhapnewstv.co.kr/news/AKR202611081030538Li",
-    "https://www.hankyung.com/article/2026110616777"
+    "https://www.hankyung.com/article/2026110616777",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261108104354wP3",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYdUJxTUJfRC05aXFZbHFIazNabFQ0d1VfTlFZc213N29Pb1pOVnI3TllpYW1FRGk4ek1LZEo5bVo2eW5wdF81eXY1T1Z1OVA2cXNFZkF3?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EaEM4U183a3BZUGhLN3hfdjBDdThvRUFoN3RFTWNBUEFHWjVNeERIMHFZWXdxXzlvcTB2Yjk4aW9iRGVvYzdjQ1RucHQtb3BqcjBJcnZR?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fLVJzVWxWZlJ1X0F1d08zYkhuWUtDTm5RN2VUX3ZYeXBTU1RzSnBLbW16dzZCSnd4QXVSdnMyY2ExME1Jd0NHZnE3SEJiSkx4MHpncFdR?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834680&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/economy/12200828",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229510",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NMFh0QkJ5VnFBdHpGN3FEdElTVW1EX09KcWRTRXc1LVhySVdQUnhYQVVPeDNtTDJWS2VQZXdMSU1famZDMHdFR3VUbzg3VlNPZVJoRFJn?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
