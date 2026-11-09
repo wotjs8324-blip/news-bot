@@ -1,24 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/jp/politics-national-jp/2026/11/07/3QK7RO6CDJDSTJWPH3VULQ25WQ/",
-    "https://www.chosun.com/jp/economy-jp/2026/11/09/YC5XUQK6JRAGZANKGLXW75P4HI/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/09/HAZWCZBXMU4DGNRSHAZGEZJRGY/",
-    "https://www.chosun.com/jp/international-jp/2026/11/07/H6CAZPO3TFAGLE4VF4K453S6DQ/",
-    "https://www.chosun.com/international/us/2026/11/07/I2LAAAIUFFERVCOZBMLLZTYP3U/",
-    "https://www.chosun.com/jp/economy-jp/2026/11/09/JAKSMOYOMNFMJPXFXYVJLSUF6U/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/09/GIZGCNZZGY4DMZJQGUZWIYRUME/",
-    "https://www.chosun.com/economy/startup_story/2026/11/07/MFMQSRXGTJCIFD6JADMYWW4E64/",
-    "https://www.chosun.com/economy/industry-company/2026/11/09/MYYTQMTDHE2DOZBQMVTDIOBRGA/",
-    "https://www.chosun.com/jp/economy-jp/2026/11/09/WZNEFXCV2BFNTFWPDMGUSB2NMI/",
-    "https://www.chosun.com/national/court_law/2026/11/07/JPC63TCJEBGXFE6QXIBYQGFU54/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/11/07/SMSJYIBKZFBOZHT6FJP6MIIE5I/",
-    "https://www.chosun.com/jp/economy-jp/2026/11/09/3WVZOAABYZCTZLES3HEZ5ZWCBE/",
-    "https://www.chosun.com/economy/money/2026/11/09/NIHDMEXVGVAS3LRU7CZXDBJ3AU/",
-    "https://www.chosun.com/economy/tech_it/2026/11/09/MFQWGYJWMVRGGYZWGJTDEYRRMU/",
-    "https://www.chosun.com/jp/economy-jp/2026/11/09/I4BNE6KPXFB5NBXEEAROG4F5TU/",
-    "https://www.chosun.com/sports/world-football/2026/11/07/FD564LTECNC6FJF5UX2X6T65KM/",
-    "https://www.chosun.com/jp/sports-jp/2026/11/07/MOZ6MTKAP5AZ5J5OYQOLIMQ564/",
-    "https://www.chosun.com/sports/world-baseball/2026/11/07/ZL3PWWIWZBABVMRXURI7SRV5YA/",
     "https://www.chosun.com/politics/politics_general/2026/11/07/T3F2GRPDIBE53LZBFOPSU66CUY/",
     "https://www.chosun.com/jp/politics-national-jp/2026/11/07/OVO2AJD6ZVH67BNXN6QMOKI45Q/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ETHlPOGhNVWc2ZG9jNjlIUk9FMExVRHlud0VEX1JlMTAweEstOEJIaG9sRlJib0k2ZVNHREJHZkI2X3VuRVk4NHZDUUhneWlVcHowUThB?oc=5",
@@ -4999,7 +4980,26 @@
     "https://www.hankyung.com/article/202611094074H",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838089&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261109_0003861069",
-    "https://www.hankyung.com/article/202611093940H"
+    "https://www.hankyung.com/article/202611093940H",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261109174712RFs",
+    "https://www.yonhapnewstv.co.kr/news/AKR202611091755348d1",
+    "https://www.yonhapnewstv.co.kr/news/AKR202611091138190vk",
+    "https://www.yna.co.kr/view/AKR20261110005900071",
+    "https://www.yna.co.kr/view/AKR20261110005100009",
+    "https://www.yna.co.kr/view/AKR20261109148300001",
+    "https://www.yna.co.kr/view/AKR20261109135600001",
+    "https://www.chosun.com/economy/startup_story/2026/11/10/FPHOSZMIDNBLHIJU4GM4KYGMFA/",
+    "https://www.chosun.com/economy/industry-company/2026/11/10/EKBKYN5DV5HD3PFXV37ASP4CLU/",
+    "https://www.chosun.com/medical/2026/11/10/YKFREPWNEFC4RAWI2RQZEQQX6Y/",
+    "https://www.chosun.com/national/court_law/2026/11/10/22VZ46CKC5D25I3GTPGCULXWWY/",
+    "https://www.newsis.com/view/NISX20261110_0003861187",
+    "https://www.newsis.com/view/NISX20261109_0003860903",
+    "https://www.newsis.com/view/NISX20261109_0003860989",
+    "https://www.newsis.com/view/NISX20261109_0003860858",
+    "https://www.newsis.com/view/NISX20261109_0003860966",
+    "https://www.newsis.com/view/NISX20261109_0003860918",
+    "https://www.newsis.com/view/NISX20261109_0003860895",
+    "https://www.yna.co.kr/view/AKR20261109126800001"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "남태평양바누아투바다서규모63지진",
     "서울역삼동상가서화재30대심정지등2명중상9명부상kbs뉴스",
     "조희대탄핵소추현실되면대법관제청불가김건희선고차질",
     "장모살해김성우송치보복살인혐의적용",
@@ -9031,7 +9030,8 @@
     "與장특공폐지도수정론당청부동산갈등재점화",
     "稅부담높이는개편안전세시장불안키울수도",
     "대출규제에서울59m²집값올라84m²와17억차",
-    "국힘이틀째청와대앞에서조작기소특검법규탄오늘현장의총"
+    "국힘이틀째청와대앞에서조작기소특검법규탄오늘현장의총",
+    "국힘청와대앞의원총회조작기소특검법거부권촉구"
   ],
   "opinion_date": "2026-11-09",
   "seen_opinion_links": [
