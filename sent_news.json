@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229750",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229619",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229760",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229757",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229756",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229753",
-    "https://www.hankyung.com/article/202611093878g",
-    "https://www.hankyung.com/article/202611093982i",
     "https://www.hankyung.com/article/202611094066i",
     "https://www.hankyung.com/article/202611093811i",
     "https://www.hankyung.com/article/202611093819i",
@@ -4999,7 +4991,15 @@
     "https://www.donga.com/news/It/article/all/20261109/134995914/1",
     "https://www.mk.co.kr/news/economy/12203045",
     "https://www.newsis.com/view/NISX20261109_0003861152",
-    "https://www.yonhapnewstv.co.kr/news/MYH202611092249032wt"
+    "https://www.yonhapnewstv.co.kr/news/MYH202611092249032wt",
+    "https://www.donga.com/news/Opinion/article/all/20261109/134995541/2",
+    "https://www.donga.com/news/Opinion/article/all/20261109/134995409/2",
+    "https://www.donga.com/news/Opinion/article/all/20261109/134995411/2",
+    "https://www.donga.com/news/Opinion/article/all/20261109/134995415/2",
+    "https://www.donga.com/news/Opinion/article/all/20261109/134995417/2",
+    "https://www.donga.com/news/Opinion/article/all/20261109/134995037/2",
+    "https://www.donga.com/news/Opinion/article/all/20261109/134995033/2",
+    "https://www.donga.com/news/Opinion/article/all/20261109/134995045/2"
   ],
   "initialized_feeds": [
     "조선일보",
