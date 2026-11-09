@@ -1,24 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261109008900017",
-    "https://www.yna.co.kr/view/AKR20261108054400007",
-    "https://www.yna.co.kr/view/AKR20261109037700002",
-    "https://www.yna.co.kr/view/AKR20261109009151053",
-    "https://www.yna.co.kr/view/AKR20261109045600009",
-    "https://www.yna.co.kr/view/AKR20261109044900005",
-    "https://www.yna.co.kr/view/AKR20261109041600009",
-    "https://www.yna.co.kr/view/AKR20261109045900073",
-    "https://www.chosun.com/national/national_general/2026/11/07/EIKMP5F6ONEA5L6COJ5LXH7UMU/",
-    "https://www.chosun.com/sports/basketball/2026/11/07/YPFEIF5KCZB3TNUNPJEU2VTIOA/",
-    "https://www.chosun.com/sports/baseball/2026/11/07/JGWT2B7CFBAMDD4IC673EO7OCM/",
-    "https://www.chosun.com/economy/auto/2026/11/08/5RHK63IQGVFHZI6KYUSJYNBUGE/",
-    "https://www.chosun.com/jp/economy-jp/2026/11/08/6TGWICQOKNBK3ERHDYKFCJJLVE/",
-    "https://www.chosun.com/national/regional/2026/11/09/XUL6H47KWRBWXKODDV6QEYSO6E/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/11/09/4TJUQQOYUJGCRDTWWKK476ZQWY/",
-    "https://www.chosun.com/entertainments/movie/2026/11/09/MQZTIOLBGNSWCNTFME2GIOJRGM/",
-    "https://www.chosun.com/politics/blue_house/2026/11/07/X2TITOFNSBEJNKQVEGFV4CSFAQ/",
-    "https://www.chosun.com/jp/economy-jp/2026/11/09/MY6FV7P3LVG5TKRT74MSEZPFUU/",
-    "https://www.chosun.com/economy/tech_it/2026/11/09/GFRTCNBTGVRTONZWHBRDAMJZMY/",
     "https://www.chosun.com/jp/economy-jp/2026/11/09/5YFFAGJKYRBUTG7WAOWHA7ROWE/",
     "https://www.chosun.com/economy/tech_it/2026/11/09/MY4TKYRWHFRTEYLEMNRTMNBYMI/",
     "https://www.chosun.com/jp/culture-life-jp/2026/11/09/OWRWTP53C5BANJU6YTDZD3TON4/",
@@ -4999,7 +4980,26 @@
     "https://www.mk.co.kr/news/stock/12202086",
     "https://www.mk.co.kr/news/stock/12202078",
     "https://www.mk.co.kr/news/realestate/12202080",
-    "https://www.mk.co.kr/news/realestate/12202079"
+    "https://www.mk.co.kr/news/realestate/12202079",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlci02c1pzbFJ2eXViQ0t4QXMxdDBjWUp5Y1pabERlSEQxOUUtZzEwdU1VYzVtZW51cWZPTkpORXRqa2hocnVseExicXNIaFFxWmJPc0YybC1Cc3FhYzhCZVJJcmlMZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zZUJPUnU0THdQMFlqU1QtNlkwNDZJRGVfeHZ6dFFGVmRCdlFScXlpaTcxczNaUk04Z2N6STNBR1VaNVotRTIzcDBWMTdrSjBpNXB5U0lJUXJna1J5bk11MWxMYw?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfV184cG84WkQ2YjU2NTh4NV90ckpSZ3dSZmNQZ0x2b00yNE5kWTdHdlV4NDVqbnNCZjVhSnBEcVJMYm1NMXVHdXdlNGhlaDhRWUhoOGZVdjkzcnVpU2lwZGhNcEI1U1hFbGhkRHRrOVA1VnByMTZqT9IBeEFVX3lxTE5OWWMxWHRBNm1JQ0hWX1R3UmpMbHFMNXA4UUQtZ1Y5eUpNV3pJUWx2T2V6ajBGbEloRE9xUVFRNExzYXdOdks5Q1oxMEVFeGZkQ2c1QjdGdmFNRDhobXM3TEVGWi1maWEzNlg5b3BUdC1sTHA5OWxsZA?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NOXVyN01neGo0UXVTdVZDbmNXQ0NFWk1Hc1RnaGpKNU5pMkl5M1hKWS1ycjFJS2g5Y1Vnd0RKblhqYUhVQV9XemJyTWNBMUtlY2hrZUZaNllBaWY0UEloTnlsT1c2clpJcHFXREVhUVBsSGxsdkZScdIBeEFVX3lxTE9fUU5aVEh3VVFVWjJqeEFobm1HMk1MT19qNk9RLVNYZjE4R3JrOXRfMlRSRERmc0xPbml0Ni1OeVdvQTlrai1LVHVPLVNXYl9LX1JqSWRydzh5VzJYajZkYndUTVZSNTFaTmN5clVRS0czaEkzazJGYw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPRFJOVk00aE40VmtqVWpwNkp6aWRsTmZYN3laRTkzX0IxeVJwVi1nTUNOSkNpX2prN2E0cTl3SmNXemp3RktpbmF2OEd3clFhem9iaWt4Y3E4d25YOXfSAWNBVV95cUxPWkc5VzRYbnh0dmV2QkMydkxZRzhsd29zdFcyYU05UkNoa2pfczQtcVRFOE5TU3FoemZiYkRid1RrQnU5U2Y5dDJXUUYyLXBIMHhqWkFNMEhVLWZodkcxZVBJRlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiNFdURnZtbW9CWWVCR01WQjZlME9wWWtTc0ZoVWJCNExjb3RKSmZQVVlIdmZXaEZ4c3FRREJmOFRkSm5qVWhXVFN3blhPZVZrSU5wZkZIM2tZcVhReHfSAWNBVV95cUxNd0ppNDlWOE9hRkIxbEJGckFvNnBFRXVHLWY5LXZoNmItZFBYYV9BbHI3RVBfRGJWOEdZeVBBeWdjV25RUno5RlBtMGp4RnRqR2tSa20wQnk2N0VhYmRLSUEzRzA?oc=5",
+    "https://www.yna.co.kr/view/AKR20261110001400071",
+    "https://www.yna.co.kr/view/AKR20261110001000071",
+    "https://www.chosun.com/sports/baseball/2026/11/10/ME3DCZLGME4TIMBQMQ3TCMBXGE/",
+    "https://www.chosun.com/sports/world-football/2026/11/10/G4ZTCMZWGU2GEMTGHAZWGZJYHE/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/10/GM2DKZTDMYYTOZBWMI3TMNRUMM/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/10/WCZMEKQODRFT7BDDGQTQTAXOGU/",
+    "https://www.chosun.com/jp/international-jp/2026/11/10/MDLX7YRI4FAEBC6ZQNYMNHKCCQ/",
+    "https://www.chosun.com/jp/economy-jp/2026/11/10/F6ZNMHNH5JFZDD3P6U2E7L6YVE/",
+    "https://www.chosun.com/jp/economy-jp/2026/11/10/MQHYJHHDPRH5FCLHDQ7IYYNPII/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/10/KPJ4Z234MNHS3HNSTKT424HQMM/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/10/JTYDLHO5VBGVLJUZSDKWW3JJBI/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/10/HXAZEM7VJFAMTN44ZAIKIRPFF4/",
+    "https://www.yna.co.kr/view/AKR20261110001500109"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "유튜버법인상위10신고수입이76차지",
     "한국콜마k뷰티수출호조에따른odm사업경쟁력부각등에주가상승세mk시그널추천후상승률1004기록",
     "여고생살해장윤기무기징역광주법원국감서양형질타",
     "사형선고했어야여고생살해범장윤기무기징역에질타쏟아졌다",
@@ -9031,7 +9030,8 @@
     "프랑스고물가시위에최저임금16인상노조턱없이부족",
     "청와대조작기소특검법다음주국무회의상정예정",
     "뉴욕증시상승개장中간첩불륜의혹엔비디아7하락",
-    "국회보고서도비거주1주택과세강화우려위장전입늘고전월세가격뛸것"
+    "국회보고서도비거주1주택과세강화우려위장전입늘고전월세가격뛸것",
+    "튀르키예서부제철공장서폭발16명사망"
   ],
   "opinion_date": "2026-11-09",
   "seen_opinion_links": [
