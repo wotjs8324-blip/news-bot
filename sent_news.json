@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836773&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12202098",
-    "https://www.newsis.com/view/NISX20261109_0003859931",
-    "https://www.newsis.com/view/NISX20261109_0003860011",
-    "https://www.newsis.com/view/NISX20261109_0003859996",
-    "https://www.newsis.com/view/NISX20261109_0003859932",
-    "https://www.newsis.com/view/NISX20261109_0003860001",
-    "https://www.newsis.com/view/NISX20261109_0003859960",
-    "https://www.newsis.com/view/NISX20261109_0003860002",
-    "https://www.newsis.com/view/NISX20261109_0003859744",
-    "https://www.newsis.com/view/NISX20261109_0003859982",
     "https://www.newsis.com/view/NISX20261109_0003859986",
     "https://www.newsis.com/view/NISX20261109_0003859973",
     "https://www.newsis.com/view/NISX20261109_0003859820",
@@ -4999,7 +4988,18 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zU00yVFAtZTZXcGtLMF9qakN4RW5BdU8xQU1sVW1CWFh0Y0wxYVY3V2xRSmRWd2FEYzRUdUlYbzFHZ1g2TVBlVm0yaFJpcGpJckRBUzhn?oc=5",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KSk8zWkplbURLRlpJYmpsRTkzMEhwZmRIQjhoMkd0V0hjOEpZNlZabzU5clVCRWpMUVF2VVZJNzVXOUNVOF9jOVg5X3ZrQ2tHejVrMnh3?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90Q3JCMENzbDZBaEZDWVJ6dEkzX2Exay1ibmY0RXIzTlVPeHdzaTJyZl9Bd2RMdzFCbHNGT0dVbnJRWnEwN01NaUQ4T0hiZDR2VC1qTVJTZ3IxVnEzMFHSAWNBVV95cUxOWngzRjdITkR3WmQ3aGxnOTRSaXJzZDFTV0dCRWx3UWEyY1diT1Z6c1VWY0dOckhKNmJ1bEY2Q0hBNEpqOGM5T1JtRUgxTW9JRFRManBuSnR4TjlQOVctRnlZeXc?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6TDlENXpuWE9xTWhxUS04TUh0S0FmdUQzbUI5d3lzZzJjbWxrby1EZ1J4SHg4dFVsSnUyNHV1d1lZRVpSTTNsYkZBczFvS2dmQ0hNSkZQRzZpV091RjRjb25vN0JZZw?oc=5"
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6TDlENXpuWE9xTWhxUS04TUh0S0FmdUQzbUI5d3lzZzJjbWxrby1EZ1J4SHg4dFVsSnUyNHV1d1lZRVpSTTNsYkZBczFvS2dmQ0hNSkZQRzZpV091RjRjb25vN0JZZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05Z0k0X3FtdDVTYm9ZSTlYcGlPbDJjNjN0SHd6bmRaUWZDQm5RanJqYmQyUGl1YTE0WEZjejk1SzdRbGF6a2lFMjFQeF9lT3Ruc1c5WGpBTUpoQXM?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jM2pvanJBYUU0V2N5ck4ydVQwVUNhV1duRHFrcGdTeHBRQmxwZWN1NEJGem9pV1FCalZKWWgyYXdoTGpSM0l1R2QwTnAwbHBubXZuR1libGxyVkJaOVJfMUpFdk0xdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FeGs3c2NsWW1QYUpteHE5M1FpUzNvSWJrNklXcjhCOHJ2T3hZTGpCUUQ5M2w3dFNOaEVVTk9pcXVxb3FneHBhY3ozdVZUY1g2X3Jkb19pTnN3dVBPUVJUVUtidzY5UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZeGdybmlic0gtODVsSVJlM2p1S1oyOUVTZEVya1E1X1pIc2UxY2k0RENFMU4zWllDbXZnQmNUYzV2bWhTNDdkSTgtaGFjUUtTb3F0RnpNaFZYSXpzamc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tdk8tTmdINkNfWFhhdXVKSC04WmxMOTViYXRBWUg4eHFOcGhGd2ROOGs2WGlGNWl0WnNZT3EwY2prdkpfZlotNDNwVDBLNnItZDFpMTA1RTg3MUZVeFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54ZmxzX05rRk1JVy1EOXhPajlycmlUb19oQjdkYTN3c3A5TjRTdFNhclFRV1RuRnJ4ODFHV08yaGlaY204TTVSMXJtMWRVOXBUUGExS2JhZmIxNFdHLVE?oc=5",
+    "https://www.chosun.com/sports/world-football/2026/11/10/G5STAYRWGI4DMOBZMJSDMMBRGM/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/10/UJH5DFPMYJBGVHIF3QZF4RALBQ/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaYnUwTDBBcFRVdzhNS1E2c19aaG45bE83dE5paDFRQUltS3lQcFN3SzFzRVhzZ1V6RGVCQkxiMmJ1bFMwWk5oTjN1UWY1M19DZzlMMzRR?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838065&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.yna.co.kr/view/AKR20261110002300087"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "한국콜마k뷰티수출호조에따른odm사업경쟁력부각등에주가상승세mk시그널추천후상승률1004기록",
-    "여고생살해장윤기무기징역광주법원국감서양형질타",
     "사형선고했어야여고생살해범장윤기무기징역에질타쏟아졌다",
     "광주법원국감서여고생살해범장윤기항소심은사형내려져야",
     "中세계시장70점유터널굴착기수출통제드론규제도조정",
@@ -9031,7 +9029,9 @@
     "청와대조작기소특검법다음주국무회의상정예정",
     "뉴욕증시상승개장中간첩불륜의혹엔비디아7하락",
     "국회보고서도비거주1주택과세강화우려위장전입늘고전월세가격뛸것",
-    "튀르키예서부제철공장서폭발16명사망"
+    "튀르키예서부제철공장서폭발16명사망",
+    "고창단독주택서lpg가스폭발30대거주자중상",
+    "파면된파라과이전대통령별장서비밀금고발견"
   ],
   "opinion_date": "2026-11-09",
   "seen_opinion_links": [
