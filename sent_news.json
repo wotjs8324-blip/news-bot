@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261109_0003859877",
-    "https://www.newsis.com/view/NISX20261109_0003859821",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229624",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229762",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229759",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5229758",
     "https://www.mk.co.kr/news/stock/12202086",
@@ -4999,7 +4995,11 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838011&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838010&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838009&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261110_0003861170"
+    "https://www.newsis.com/view/NISX20261110_0003861170",
+    "https://www.yna.co.kr/view/AKR20261109048700017",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838013&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261110_0003861171",
+    "https://www.newsis.com/view/NISX20261109_0003860791"
   ],
   "initialized_feeds": [
     "조선일보",
