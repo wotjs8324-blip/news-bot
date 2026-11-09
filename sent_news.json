@@ -1,23 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Society/article/all/20261109/134990255/2",
-    "https://www.donga.com/news/Entertainment/article/all/20261109/134990247/1",
-    "https://www.donga.com/news/Culture/article/all/20261109/134989995/2",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836906&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836891&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836904&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12202134",
-    "https://www.mk.co.kr/news/society/12202136",
-    "https://www.mk.co.kr/news/society/12202133",
-    "https://www.newsis.com/view/NISX20261109_0003860089",
-    "https://www.newsis.com/view/NISX20261109_0003860091",
-    "https://www.newsis.com/view/NISX20261109_0003860103",
-    "https://www.newsis.com/view/NISX20261109_0003860111",
-    "https://www.newsis.com/view/NISX20261109_0003860048",
-    "https://www.newsis.com/view/NISX20261109_0003860044",
-    "https://www.newsis.com/view/NISX20261109_0003860126",
-    "https://www.newsis.com/view/NISX20261109_0003859919",
-    "https://www.newsis.com/view/NISX20261109_0003860082",
     "https://www.newsis.com/view/NISX20261109_0003860075",
     "https://www.newsis.com/view/NISX20261109_0003860046",
     "https://www.newsis.com/view/NISX20261109_0003860107",
@@ -4999,7 +4981,25 @@
     "https://www.newsis.com/view/NISX20261110_0003861200",
     "https://www.chosun.com/economy/realty/investment_trends/2026/11/10/GI2TQNZWG4ZDIMJWGYZDSZRRHA/",
     "https://www.yna.co.kr/view/AKR20261109118900003",
-    "https://www.yna.co.kr/view/AKR20261109117000030"
+    "https://www.yna.co.kr/view/AKR20261109117000030",
+    "https://www.chosun.com/economy/real_estate/2026/11/10/GY3DANLFGNRDGMZSGQZGEMZQMQ/",
+    "https://www.chosun.com/economy/stock-finance/2026/11/10/GNRTSMZSGRRDINZWGUYGMODDMI/",
+    "https://www.chosun.com/economy/tech_it/2026/11/10/GBQTEZBTGJSGCOBXMVRTQZBRHA/",
+    "https://www.chosun.com/economy/real_estate/2026/11/10/MFSDQMBVG42GGOJXMNQTCZJUGM/",
+    "https://www.chosun.com/economy/tech_it/2026/11/10/MMYGKNBTMFRWCNJYMNRDONRZMU/",
+    "https://www.chosun.com/economy/market_trend/2026/11/10/HE4GINZWMQ3DCZBWGM4WINBYG4/",
+    "https://www.chosun.com/economy/industry-company/2026/11/10/MM2DSNZSGUZTQOJQMU2WKY3GGE/",
+    "https://www.chosun.com/economy/market_trend/2026/11/10/MNRTIMTCMIZWEOJWHFRTKZTBGA/",
+    "https://www.chosun.com/economy/smb-venture/2026/11/10/MZRDOODFMQ4TGZJQGNTGMZRWGE/",
+    "https://www.chosun.com/jp/international-jp/2026/11/10/BPXG5RHE6BFXJJHRS5KS75AYAA/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/10/6NOUL4WRVJBR5E7SU2AWB3L6HQ/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PLWNnWVB6ZldsdnNlUlJvODdpeDVoMGhKSEY0eHVJQVc4QmtmUGxTMWRMbXltaUVtVm9FY2VWR3BYV0NWNUJ5UTRYY0Jac2hMM0Z0THBR?oc=5",
+    "https://www.donga.com/news/Culture/article/all/20261110/134996218/1",
+    "https://www.hankyung.com/article/2026111061777",
+    "https://www.hankyung.com/article/2026111061747",
+    "https://www.hankyung.com/article/202611106146i",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.chosun.com/economy/smb-venture/2026/11/10/GMZGKZRRGQ3TOYJZGMYTKOBXMU/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "코스피4대하락sk하이닉스장중한때7급락ytn",
-    "강남역삼동빌딩2곳연달아화재5명중상14명경상",
     "경찰인천흉기난동범검거기여5명에검거보상금",
     "돈자랑지인흉기로찌르고금품뺏어2심도징역10년",
     "이대통령주택공급전격전펼쳐달라택지조성인허가착공기간최대한단축종합",
@@ -9031,7 +9029,9 @@
     "뉴욕증시저가매수유가하락에상승마감엔비디아급락",
     "국평아파트동대문이문동20억중랑구16억강남대신강북폭등",
     "국내상장사소액주주18개월새24삼성전자797만명1위",
-    "중기부글로벌육성기업수출706만달러전년比56증가"
+    "중기부글로벌육성기업수출706만달러전년比56증가",
+    "뉴욕증시일제히상승엔비디아만급락",
+    "중기부지원소상공인31개국신규진출수출액56증가"
   ],
   "opinion_date": "2026-11-09",
   "seen_opinion_links": [
