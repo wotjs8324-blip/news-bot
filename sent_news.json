@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.hankyung.com/article/2026111066506",
-    "https://www.mk.co.kr/news/stock/12203615",
-    "https://www.mk.co.kr/news/stock/12203611",
-    "https://www.mk.co.kr/news/stock/12203610",
-    "https://www.mk.co.kr/news/economy/12202312",
-    "https://www.mk.co.kr/news/business/12203613",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iWjIwckZhWllOWGRSUXFmdE5nb2had1RGVFY1SkdzRmRDV1o3MWJlM2lrWnZKYUFWMUpCaXoyUnJ6dS1HRWVKcmNLY0piVGVJWVlMSjFTY2dOa2ZYSWc?oc=5",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838398&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.chosun.com/economy/real_estate/2026/11/10/752MKW6VTZBSZBSF3XW75MPHPQ/",
     "https://www.newsis.com/view/NISX20261110_0003861662",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sX0djRTRnX2p0a2tPMXF1SXRrNFA4OXpxVHZUUHdFNFIwcWpNcDRWX3gtbGdqMVlpZ0JDYUtFSU9McGVodHk3X21PQzJIN1NDTWpIV0s2T3JhY0psTGc?oc=5",
     "https://www.yna.co.kr/view/AKR20261110056300008",
@@ -4999,7 +4990,16 @@
     "https://www.chosun.com/jp/international-jp/2026/11/11/BSVIMDQ2IBBHZLDR4SGHZBYYLU/",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839986&plink=RSSLINK&cooper=RSSREADER",
     "https://www.hankyung.com/article/2026111086411",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94ZWxIQUJQTERwaVlQNmlwajRlbnNSMXN6TklsM1ppaGdGVmJlMlh6SVZiak9iWkVDZDc4SnZzZnp1MkVGS1I2ajRJQUxGcWdJUWVJY2NB?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94ZWxIQUJQTERwaVlQNmlwajRlbnNSMXN6TklsM1ppaGdGVmJlMlh6SVZiak9iWkVDZDc4SnZzZnp1MkVGS1I2ajRJQUxGcWdJUWVJY2NB?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RVVl4ajR5MHNld08ybERBU3N4UzdaOXhMcm1wS3FzRVhudWFSbUlxc2lZUEhVRWRldmpFU2hCYk5jYkdDbWU3UlBBSW1VR2FJekR1d3E1X3gySjNVQnFNb3A0di15WENONzFSUVhDLVd3TVR2U2ZLbtIBeEFVX3lxTE9QODg1RUNHOTBfWUcwcllDVEExOUhqdTYzc3pwblZzUVQzNDk2cWJndzZBWVViRkFGUzhtR1lxbjY2bVdaZ1p4bUI4QWZldGJpd29kQzFVZU1aUzF4RzVHbXB3bW9vcTNSOHNxOFp3a2hfdDlra2swbA?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Zak1nSENlSWxQUWtoS185UDBRbUhobFpkMnl3ek1NUjZnS2dqMmFjbVpGQmFhMHhRWXRYdGJTVkpXaXVNVVhKallQUDh0OVRIdFlMVVpHWERZLV9WQjYyWDQ4Zm9heVhlaWtDMjdoMUxTX20zS2ZRNtIBeEFVX3lxTE8zb2lyeFU1SjliX2FMcVJtYnp0dDM4a3U2Yk5aRmszNHc3YzNkZkE5VXMxcTJieHl0a2JueWJUOEVYU3ZiOE9YOGdOM09FemRPN0t3TXZsUWFqSW9vcFpCbDM0eEM2VWpEVUZ4SXUwb1UtMndHVlZOcw?oc=5",
+    "https://www.yna.co.kr/view/AKR20261111003500072",
+    "https://www.yna.co.kr/view/AKR20261111003400072",
+    "https://www.chosun.com/sports/basketball/2026/11/11/MYZTSZBUGU3DQODBGA2WCNTFHA/",
+    "https://www.hankyung.com/article/2026111066626",
+    "https://www.hankyung.com/article/2026110956166",
+    "https://www.hankyung.com/article/202611106706i",
+    "https://www.chosun.com/international/international_general/2026/11/11/GMYDQOBUMVTDIN3GMU2WMMRQHA/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "내년사상최대실적삼성애플업고9급등한두산테스나",
     "테슬라스페이스x합병하면테슬라주주들에겐得일까失일까",
     "코스피반도체주반등에33강세마감코스닥도14올라",
     "땡큐슈퍼마이크로삼전닉스반등에코스피3대강세마감",
@@ -9031,7 +9030,8 @@
     "연준월러12월금리인상빅스텝가능성도",
     "댈러스연은총재금리최소두차례더인상해야",
     "美물가예상웃돌자국채금리급등12월빅스텝부상",
-    "헤그세스전쟁중인장관탄핵국가안보파괴하는사보타주중앙일보"
+    "헤그세스전쟁중인장관탄핵국가안보파괴하는사보타주중앙일보",
+    "美국무장관경제제재로이란타격대규모군사작전불필요"
   ],
   "opinion_date": "2026-11-10",
   "seen_opinion_links": [
