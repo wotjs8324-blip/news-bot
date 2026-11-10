@@ -1,20 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/sports/basketball/2026/11/10/HA3TMZDFHE3WEMLCHFSTSYRVGY/",
-    "https://www.chosun.com/economy/tech_it/2026/11/10/HAYGCZDBGBTGMYJTGZSGIOLCGM/",
-    "https://www.chosun.com/international/international_general/2026/11/10/HFSWKMLCG5SDCYJZMU4GCYRYMU/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/10/HAYWINDCMNTGGYLCHFRWMNJRMY/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/10/HFTDEMDDGA3DSN3BGA4DCYZRMM/",
-    "https://www.chosun.com/economy/real_estate/2026/11/10/MQ4TGYJVMY3WCZLGHEYTGYRZGI/",
-    "https://www.chosun.com/economy/realty/realestate_news/2026/11/10/MU4TCMBVGVRTCOJYGIYDMMLBMM/",
-    "https://www.chosun.com/entertainments/enter_general/2026/11/10/G44WKZLDMU4WGOBVME4WCN3FGU/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/10/GU2TAMDCGY4TQMRSGJQTSYRXGM/",
-    "https://www.chosun.com/sports/world-football/2026/11/10/MIZTEOJVMI2DONTCGE4DKYJWMI/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/10/HEYTQY3FGBQTMMJQMYYDSNJTGA/",
-    "https://www.chosun.com/entertainments/music/2026/11/10/GVSWMNZVGA3DAZBWGNRTAYJUG4/",
-    "https://www.chosun.com/economy/startup_story/2026/11/03/ACAU2WEPSJCJLFOL2IWEHVGIGI/",
-    "https://www.chosun.com/economy/startup_story/2026/10/27/DFI7WYCCQNEOXFD3TJPKHFIXLM/",
-    "https://www.chosun.com/economy/startup_story/2026/01/19/SI4XCG2GGBF6NLNOLBOBPUR2L4/",
     "https://www.chosun.com/kid/kid_cartoon-quiz/kid_puzzle-game/2026/11/04/WIONLSPECZE77PZP5GGF776A6Y/",
     "https://www.chosun.com/economy/market_trend/2026/11/10/GRTDSYJWMI2DKYRRHA2TKOLFMQ/",
     "https://www.chosun.com/entertainments/broadcast/2026/11/10/MM2WCZJWGNRTMNLFGRSDIMJZMM/",
@@ -4999,7 +4984,22 @@
     "https://www.yna.co.kr/view/AKR20261110169651098",
     "https://www.yna.co.kr/view/AKR20261111006200072",
     "https://www.chosun.com/international/us/2026/11/11/PGXFRL25CVGEHOIJHEK3S7PPUI/",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838492&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838492&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261111052858hYt",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261111052839HVo",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261111052755orT",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261111052645J0I",
+    "https://www.yonhapnewstv.co.kr/news/MYH202611110526195R4",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261111052520vTf",
+    "https://www.yna.co.kr/view/AKR20261111006300034",
+    "https://www.chosun.com/sports/world-football/2026/11/11/MIZDGMDDGBRWEZBZG5STGZJRG4/",
+    "https://www.chosun.com/economy/startup_story/2026/02/02/VNHFMP6AHVFK3FVNIVJU6JQRQA/",
+    "https://www.newsis.com/view/NISX20261110_0003862609",
+    "https://www.newsis.com/view/NISX20261110_0003862770",
+    "https://www.newsis.com/view/NISX20261110_0003862706",
+    "https://www.newsis.com/view/NISX20261110_0003862813",
+    "https://www.newsis.com/view/NISX20261111_0003862930",
+    "https://www.newsis.com/view/NISX20261110_0003862336"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "실거주의무강화부작용청년전월세대출사상최대",
     "만기일직접정하는정기예금토스뱅크최고연38금리",
     "신용정보법과징금세분화금융위23일부터시행",
     "中9월청년실업률18로소폭하락취업난은여전",
@@ -9031,7 +9030,8 @@
     "美공화젠슨황감싼트럼프에반발수출통제강화움직임",
     "佛유도영웅내년대선출마리네르올림픽금메달만5개",
     "李한미외교안보합의이행전작권핵잠계속추진강조",
-    "美공화젠슨황조사압박수출통제강화움직임"
+    "美공화젠슨황조사압박수출통제강화움직임",
+    "환율이어국제유가까지하락항공업계수익성개선기대"
   ],
   "opinion_date": "2026-11-10",
   "seen_opinion_links": [
