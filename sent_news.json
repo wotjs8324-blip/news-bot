@@ -1,22 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261110059500005",
-    "https://www.yna.co.kr/view/AKR20261110056400056",
-    "https://www.yna.co.kr/view/AKR20261110052400008",
-    "https://www.yna.co.kr/view/AKR20261110060100065",
-    "https://www.chosun.com/economy/startup_story/2026/04/16/C5MKNXEA2RHMLHDWD3PVWPU3UE/",
-    "https://www.chosun.com/economy/tech_it/2026/11/10/SCS6UOVGFNEONLNMXGW7B25ELQ/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/10/C6JUTCEOABHQLF52I22R3D42RI/",
-    "https://www.chosun.com/economy/industry-company/2026/11/10/QMDHQVSN4RDZJGK6KDJZVM63A4/",
-    "https://www.chosun.com/economy/science/2026/11/10/H5PTEJVBDREGHCX6ZCV45ZJSGE/",
-    "https://www.chosun.com/sports/baseball/2026/11/10/MUYDIMBQGUYGGMZVGEZWMNJWG4/",
-    "https://www.chosun.com/economy/economy_general/2026/11/10/FN7WMEFZA5FHREIW5ODUXYUKKI/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/10/33F4NH5U4ZHJJMPMYBIOTKIERA/",
-    "https://www.chosun.com/economy/economy_general/2026/11/10/MY3DCNLGGFRTSYJSMJRWEODGMM/",
-    "https://www.chosun.com/entertainments/music/2026/11/10/MVRGIZJXGY4DGY3EMJSTGNZVGA/",
-    "https://www.chosun.com/entertainments/music/2026/11/10/GQZDSMJUMUYDCZRYMMYTSM3BMQ/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/10/MY2DIMDEGM2DIMZUHEZWEOJWGM/",
-    "https://www.chosun.com/economy/industry-company/2026/11/10/GU2WKZJVGRSDEYRSMI2WMMZUG4/",
     "https://www.chosun.com/entertainments/broadcast/2026/11/10/MRTGMMJZMIYDIMBQGY3DENJZGM/",
     "https://www.chosun.com/economy/money/2026/11/10/CYRGIE4GDVDN7FXZMTRV4PQKHM/",
     "https://www.chosun.com/national/education/2026/11/10/YBX6DIOHFZF25OLV3LVDZ4XE2Y/",
@@ -4999,7 +4982,24 @@
     "https://www.yonhapnewstv.co.kr/news/AKR20261111034957wbL",
     "https://www.yonhapnewstv.co.kr/news/AKR20261111034840nER",
     "https://www.chosun.com/jp/international-jp/2026/11/11/WSRDZ7HPTVFJLBRRHJAYZHGWAM/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FQ1JaS0c1LVFidjF3TlJkNkNlVmMtamFMaVZ1YmZHTDRLRHNKRWI4Z1NtcXg1UThFbmIzZnRhVk02TDNMWno5SGc5LUpOZUNiZUZMaGlB?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FQ1JaS0c1LVFidjF3TlJkNkNlVmMtamFMaVZ1YmZHTDRLRHNKRWI4Z1NtcXg1UThFbmIzZnRhVk02TDNMWno5SGc5LUpOZUNiZUZMaGlB?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE90X1R0SEN4X0VMZFZTRzI5TGFJcFVZSEtJQVNRUWpmZjhYa0lic3VqR1VxLWVxRkV2Nmt1OTVPNVNRVlhqaTA3NzNNYW8zdndOS1lnTmZtS1JFR3NnbFJUZ0lLdjB5VGtWMDhmcEZXZTVXR1AyckI1SNIBeEFVX3lxTE84Yy1scEVBT2JQZzlMNEdjNExDTGx2SGFhdjZRN0ZWU0dRMjg5NFRxd2pSbmZac1FPUW8wSVNWbmpQNWoxbnJYTXJRd1djeVNGZHpWZnNPaFNIai05cS00MDJKdE42Q19JeVgzaXROYzNaSENQLXJzdw?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE15eVNpb0pPR3Q3WGdnQTEzS1lPZnFxM1RaNGJER0VoRWJOTTF1STYybGpIRGdTV3RpbFhEQTdnM01aekF0eDdQdjRtcHJfbHlsQkZyVy1BTXM4Z2hBZDlUUUpoeDhtOC1hVXFxeWNoNTNiZmgyNDVv0gF3QVVfeXFMTmhKdlQ0bVZCdVZGNGxEUUp3REN0MDVlaUEzUlAzYUUtVzh1b1pBSkRFbTF4OExyY3k2Q3p4M0JGTEdEYllYTnNMd2d0bkFDMlRmT29ESWl5SW9mVTRNV3l3VTZES3JqaVozVGxLMEU3Sm5kN1BtWGc?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYdDdJMEdvdF85Y295WHVoeWkwUHZqbXVQOU1BOFVwM1BENDh3OUtONU52Zkh2RElweE5Qci0ySFZvUU83YnJPWnJwTnpYWmU5MFNSTTRHbUtwWUdyQTgyX1JWcnZjRUtkOWV5cHRfZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03OWRfOGMtRTduYmFHVjU3bkdZSDVOcl8zWVhuRXZHNXJjWkNwSlBEYVVDczJ6UkxCTW40MG51ZEV6ZUZ5N3FMOHlMVnVYS1JPUXZWMkl3Rkt1SEo3VFE?oc=5",
+    "https://www.yna.co.kr/view/AKR20261111002051085",
+    "https://www.donga.com/news/Culture/article/all/20261111/135003300/1",
+    "https://www.donga.com/news/Society/article/all/20261111/135003297/1",
+    "https://www.donga.com/news/Culture/article/all/20261111/135003294/1",
+    "https://www.donga.com/news/Culture/article/all/20261111/135003291/1",
+    "https://www.donga.com/news/Culture/article/all/20261111/135003288/1",
+    "https://www.donga.com/news/Culture/article/all/20261111/135003285/1",
+    "https://www.donga.com/news/Culture/article/all/20261111/135003282/1",
+    "https://www.donga.com/news/Culture/article/all/20261111/135003279/1",
+    "https://www.donga.com/news/Culture/article/all/20261111/135003276/1",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840001&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261110_0003862765",
+    "https://www.yna.co.kr/view/AKR20261111003800071"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "새주인맞는다코스피폭락뚫고35상승국내1위업체는",
     "신변보호전처살인미수60대구속도망증거인멸염려종합",
     "밀양주점앞서동포흉기로살해한30대캄보디아인구속종합",
     "경찰역삼동연쇄방화피의자살인미수혐의확대수사",
@@ -9031,7 +9030,8 @@
     "주식털어집샀는데주가폭락에부동산시장도얼어붙었다",
     "美연준월러이사12월50bp인상도고려빅스텝거론종합",
     "美연준월러이사빅스텝시사12월50bp인상방안도검토해야",
-    "美연준월러12월금리50bp인상검토빅스텝가능성도중앙일보"
+    "美연준월러12월금리50bp인상검토빅스텝가능성도중앙일보",
+    "美공화젠슨황감싼트럼프에반발수출통제강화움직임"
   ],
   "opinion_date": "2026-11-10",
   "seen_opinion_links": [
@@ -9064,9 +9064,5 @@
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIdVVQSWVfdU95OThnUUVJSU5UckZGR0Q1WlJxV181cDNCSUt3SkpId1BQSVVUejNaeWdTNXBNZ0ZYejlXRHZHNERpRkFtRy1Tb2NiS0g3aXBpRDQ?oc=5",
     "https://www.hankyung.com/article/2026111083431"
   ],
-  "feed_health": {
-    "YTN": {
-      "failing_since": "2026-11-10T19:00+00:00"
-    }
-  }
+  "feed_health": {}
 }
