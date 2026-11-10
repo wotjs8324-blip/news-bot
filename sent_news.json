@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261110_0003861592",
-    "https://www.newsis.com/view/NISX20261110_0003861664",
-    "https://www.hankyung.com/article/202611032404i",
-    "https://www.hankyung.com/article/2026111066626",
-    "https://www.hankyung.com/article/2026110956166",
-    "https://www.hankyung.com/article/202611106706i",
     "https://www.hankyung.com/article/2026111066506",
     "https://www.mk.co.kr/news/stock/12203615",
     "https://www.mk.co.kr/news/stock/12203611",
@@ -4999,7 +4993,13 @@
     "https://www.yonhapnewstv.co.kr/news/AKR202611110150556KM",
     "https://www.yna.co.kr/view/AKR20261111002500079",
     "https://www.newsis.com/view/NISX20261110_0003861860",
-    "https://www.hankyung.com/article/202611118709i"
+    "https://www.hankyung.com/article/202611118709i",
+    "https://www.chosun.com/sports/sports_general/2026/11/11/GFRDIYRZGI3WKM3FMI2TKYZQGI/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/11/HZPIAMBJ7RAQHPAIESEIBB5TCQ/",
+    "https://www.chosun.com/jp/international-jp/2026/11/11/BSVIMDQ2IBBHZLDR4SGHZBYYLU/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839986&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.hankyung.com/article/2026111086411",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94ZWxIQUJQTERwaVlQNmlwajRlbnNSMXN6TklsM1ppaGdGVmJlMlh6SVZiak9iWkVDZDc4SnZzZnp1MkVGS1I2ajRJQUxGcWdJUWVJY2NB?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "테슬라스페이스x합병검토공식화테슬라주주지분희석우려",
     "내년사상최대실적삼성애플업고9급등한두산테스나",
     "테슬라스페이스x합병하면테슬라주주들에겐得일까失일까",
     "코스피반도체주반등에33강세마감코스닥도14올라",
@@ -9031,7 +9030,8 @@
     "물가불안에빅스텝까지연준월러12월05p인상",
     "연준월러12월금리인상빅스텝가능성도",
     "댈러스연은총재금리최소두차례더인상해야",
-    "美물가예상웃돌자국채금리급등12월빅스텝부상"
+    "美물가예상웃돌자국채금리급등12월빅스텝부상",
+    "헤그세스전쟁중인장관탄핵국가안보파괴하는사보타주중앙일보"
   ],
   "opinion_date": "2026-11-10",
   "seen_opinion_links": [
