@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261110061300065",
-    "https://www.yna.co.kr/view/AKR20261110057100057",
-    "https://www.yna.co.kr/view/AKR20261110058300083",
-    "https://www.yna.co.kr/view/AKR20261110060500062",
     "https://www.yna.co.kr/view/AKR20261110055400030",
     "https://www.yna.co.kr/view/AKR20261110054300051",
     "https://www.yna.co.kr/view/AKR20261110059200062",
@@ -4999,7 +4995,11 @@
     "https://www.yna.co.kr/view/AKR20261111001251072",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95ekdSMFhLRk5uNlhFUkdGZTdDeC1yX2JRU2RObGVBSC1rR1daRjd3Nk82RW14U09BTVI5RVFHYmxEb0drU1BEcGYwMFN2TlRKTURXOGZGeGJJOFpSYmc?oc=5",
     "https://www.chosun.com/international/international_general/2026/11/11/PDEY3QLGX5GOJMNF5FUIMNQWOI/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04QkRCVVh4NDVtNzFFeWxWYzZ6UnNBcXU1bWZuSVdtV1VtUDI3ZzRITkJWSUpsWlZWWjVPSFpoR1VBSXNMNzlUVjVvUDByTmlpUEM1TElR?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04QkRCVVh4NDVtNzFFeWxWYzZ6UnNBcXU1bWZuSVdtV1VtUDI3ZzRITkJWSUpsWlZWWjVPSFpoR1VBSXNMNzlUVjVvUDByTmlpUEM1TElR?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xVGVzczlsajJBeEgtX1FFSmh3MUxuZFZuSzJjNjZmNktPMmNxS2RHUTBlMzFsOEFldGZUbC03Zm55bUJZblVLUTJZZkNTQW01ellzamQxSHpqeV9FYTNFNERjMTdLTm96N2FpUmVzNA?oc=5",
+    "https://www.yna.co.kr/view/AKR20261110168351085",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/11/VRXNZDOQYRDFNG5IZ3GF3HPE3M/",
+    "https://www.newsis.com/view/NISX20261111_0003862923"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "화성송산농협샤인머스캣필리핀수출검역협상타결후처음",
     "증시대기자금90조원위태빚투도30조원으로감소",
     "새주인맞는다코스피폭락뚫고35상승국내1위업체는",
     "신변보호전처살인미수60대구속도망증거인멸염려종합",
@@ -9031,7 +9030,8 @@
     "미증시강세유가하락코스피44반등마감ytn",
     "속보코스피439오른5239선마감ytn",
     "주식털어집샀는데주가폭락에부동산시장도얼어붙었다",
-    "美연준월러이사12월50bp인상도고려빅스텝거론종합"
+    "美연준월러이사12월50bp인상도고려빅스텝거론종합",
+    "美연준월러이사빅스텝시사12월50bp인상방안도검토해야"
   ],
   "opinion_date": "2026-11-10",
   "seen_opinion_links": [
