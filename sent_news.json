@@ -1,21 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/national/national_general/2026/09/02/Q345ELU6AFC35AEUX3PVVJNLQ4/",
-    "https://www.chosun.com/economy/smb-venture/2026/11/10/GZQTKZRVMMZDMOLGGYYGGMJSGM/",
-    "https://www.chosun.com/international/international_general/2026/11/10/GUYWKZBXGFSTQYLEHA3GKZLEGI/",
-    "https://www.chosun.com/economy/industry-company/2026/11/10/GJRWIOBXGEYDOMBRGZRGGZJRMY/",
-    "https://www.chosun.com/sports/sports_general/2026/11/10/GYYGGMBQMNSTCZTGMM2DEYLEMI/",
-    "https://www.chosun.com/sports/football/2026/11/10/HBQTAZJVMVSTIYZRMU3TMNZYGU/",
-    "https://www.chosun.com/economy/economy_general/2026/11/10/GM3GCNTEMM3TEZRSGIYWEMLDGM/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sTEVqNE1ocEZWcWoyQ2R0TFdvZEh0SWxzekdPRlhHclYtSmhwVGdHZmxiejN0bEgxak5OM2VyWmE3ZWY4N3N6UWpGeThRTTlQeGxjZk1n?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fbkJJUWY5MDhBU2VnQzU1Nlp1anVTQ2FzNzRJWUd4ZFQ3S2JnbGFjWDlUN3VDV1JLZGh1ZGFCRWtlMTd2dUFxV3l5blBBWlZKMmVpa25B?oc=5",
-    "https://www.donga.com/news/Economy/article/all/20261110/134997981/1",
-    "https://www.donga.com/news/People/article/all/20261110/134997973/1",
-    "https://www.donga.com/news/Society/article/all/20261110/134997970/1",
-    "https://www.donga.com/news/Politics/article/all/20261110/134997978/1",
-    "https://www.donga.com/news/Society/article/all/20261110/134997959/1",
-    "https://www.donga.com/news/Society/article/all/20261110/134997946/1",
-    "https://www.donga.com/news/Society/article/all/20261110/134997939/1",
     "https://www.donga.com/news/Inter/article/all/20261110/134997921/1",
     "https://www.donga.com/news/Economy/article/all/20261110/134997907/1",
     "https://www.donga.com/news/Culture/article/all/20261110/134997893/1",
@@ -4999,7 +4983,23 @@
     "https://www.mk.co.kr/news/stock/12203709",
     "https://www.mk.co.kr/news/realestate/12203688",
     "https://www.mk.co.kr/news/realestate/12202371",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840129&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840129&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNTkRoVHFxLXN3MFlUN2tCTnRwNTk2bWRUZkxxbGRBdGJUdEY3MHRmNXZVbzdnY3d2dFlWX0EwWHVMbUw3VXhLUmpwWEtkOVpZdzBOdDVqd0x0S0lnS2c?oc=5",
+    "https://www.chosun.com/international/international_general/2026/11/11/Z2D2FDPLN5CIHIR5HTKK4U36A4/",
+    "https://www.chosun.com/sports/world-football/2026/11/11/GQ3DCNJQHBQTGMBWGYZGGNZSG4/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/11/G44DQMJXGFSTOYLEMMYGCNJXMI/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/11/GAZDIZLCMRQTIZDGMVRDAZDFGU/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/11/YTRAX7FKCVBMTAG36LU5B74CRA/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/11/PNSMN35XCRHFZKUDHKLSACMVKU/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/11/IIQCUBQM7BCQ7KHXJ7B2M5J5BU/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/11/YMYCRGXYDNGLFMRKYEWG2A6KQY/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53MllGeDlNOVRXaUFrbE9nNUZDdVFMc2wtZFd1aGd4UjhJR3VVMlNHRGdtNFVoV0R3em5sTXhpWXhMcVF6bUs1aW5JVEhYS04tMmNXOHNB?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840011&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840010&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261111_0003862991",
+    "https://www.newsis.com/view/NISX20261111_0003862984",
+    "https://www.yna.co.kr/view/AKR20261111019000504",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840004&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "삼성전자하만인수10년24일부터jbl80주년기념행사",
-    "삼척시액화수소산업경쟁력강화모색",
     "당진맷돌포구선착장추락승용차서남성운전자시신발견",
     "제주서스토킹신고여성보복살해한60대구속",
     "역삼동연쇄방화살인의도있었나특정직원찾아다녔다kbs뉴스",
@@ -9031,7 +9029,9 @@
     "美연준12월빅스텝까지예상웃돈물가에월러05p인상도고려",
     "영국신차유통규제폐지에현대차기아판매전략재정비고심",
     "민주당원내지도부부동산세제개편개별목소리경고공식절차통해야kbs뉴스",
-    "소비자물가예상치웃돌아연준12월05p인상도고려kbs뉴스"
+    "소비자물가예상치웃돌아연준12월05p인상도고려kbs뉴스",
+    "조현우크라외교장관과회담상호존중합의이행강조",
+    "물가부담속금리인상언급뉴욕증시하락"
   ],
   "opinion_date": "2026-11-10",
   "seen_opinion_links": [
