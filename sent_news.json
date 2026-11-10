@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/economy/industry-company/2026/11/10/MMZWKMLCMZRTQZTCMNQTGMRZGA/",
-    "https://www.chosun.com/economy/realty/realestate_news/2026/11/10/MQ2GIOBZGEZDIMRXMVSTCNJYHA/",
-    "https://www.chosun.com/entertainments/music/2026/11/10/MMYTAMRQGA2WCMZVMU4TEZRUGI/",
-    "https://www.chosun.com/international/international_general/2026/11/10/MRTDINTEME2TAZBQHEYDAM3FHA/",
-    "https://www.chosun.com/economy/tech_it/2026/11/10/G44TEOBUMQ4TGNJZGEYDCNDFGU/",
-    "https://www.chosun.com/entertainments/music/2026/11/10/G4ZTKYRZGE4TMYLFMVSWIMZQMY/",
     "https://www.chosun.com/economy/realty/realestate_industry/2026/11/10/GZSGKNTDMYYGCNBZMEYGMYJXMY/",
     "https://www.chosun.com/jp/culture-life-jp/2026/11/10/D47KJKQR65EATMWGRIJWGY43LI/",
     "https://www.chosun.com/entertainments/music/2026/11/10/MIYGENZQGMZTMNBXGJRDQYZRGY/",
@@ -4999,7 +4993,13 @@
     "https://www.newsis.com/view/NISX20261110_0003862889",
     "https://www.mk.co.kr/news/stock/12203515",
     "https://www.yonhapnewstv.co.kr/news/MYH20261110224605AEy",
-    "https://www.chosun.com/economy/int_economy/2026/11/10/6XRRBGC7ANAMVHZS3FBSUA4CTU/"
+    "https://www.chosun.com/economy/int_economy/2026/11/10/6XRRBGC7ANAMVHZS3FBSUA4CTU/",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE44dUEtSHVCOExWc3VRRjdVU0g1WXlIM1FWclpxWUFoZmtrZHVnV0ttTjB6dWg4OTZ6aTBYMTJ6NmxpdnJhT3JPYWdPNVRHd3Z0andUTWF0ZzBKUGdFQlV6VU15alJlQVFLU05oQW84Q0FhbExKOHIzdjZ30gF6QVVfeXFMUGJqcFI1T0pzRnppRFg4dF9uOVU5SWZ6LUZESjdTN2V2MHZ5blNqRk1ET211Wmt3YzBXTXF2cTducWJtUUFqV0VRMFJLY05ydWlyQUtuNWJxOEZLWG1DbmxIUC1rVGRTaDM1cmtjSkoyLXdMYzcyeTVtbFE?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/MYH202611102259143jL",
+    "https://www.yna.co.kr/view/AKR20261110054953001",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Gb3ZQQ25tOFQ4ZHhGRnlINklKQUI2bWJsTWNpMHRXNDA3VjRNekREcmxzdVBlZXNET2U3S3BaeG5jTXFER0QwcWVvSVI4S3d4Um9QbEZ3?oc=5",
+    "https://www.hankyung.com/article/202611108646i",
+    "https://www.newsis.com/view/NISX20261110_0003862901"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "코스피329오른573566마감코스닥138",
     "코스피18292포인트329오른573566마감",
     "코스피일단반등했지만폭락급등널뛰기에불안지속종합",
     "코스피ai투자심리회복에33급등마감삼전닉스5종합",
@@ -9031,7 +9030,8 @@
     "총선에민감종부세완화꺼냈다가이틀만에역풍mbc뉴스",
     "미10월소비자물가04올라근원물가는03상승2보",
     "野조작기소특검법총공세靑내주상정",
-    "美10월소비자물가04올라예상상회12월금리결정앞둔연준부담"
+    "美10월소비자물가04올라예상상회12월금리결정앞둔연준부담",
+    "미10월물가예상보다높게04상승연cpi인플레수치는공란"
   ],
   "opinion_date": "2026-11-10",
   "seen_opinion_links": [
