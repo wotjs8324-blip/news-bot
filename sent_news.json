@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20260901_0003771808",
-    "https://www.newsis.com/view/NISX20261110_0003861387",
-    "https://www.newsis.com/view/NISX20261110_0003861600",
-    "https://www.newsis.com/view/NISX20261110_0003861636",
-    "https://www.newsis.com/view/NISX20261110_0003861634",
-    "https://www.newsis.com/view/NISX20261110_0003861526",
-    "https://www.newsis.com/view/NISX20261110_0003861459",
-    "https://www.newsis.com/view/NISX20261110_0003861585",
-    "https://www.newsis.com/view/NISX20261110_0003861542",
-    "https://www.newsis.com/view/NISX20261110_0003861588",
-    "https://www.newsis.com/view/NISX20261110_0003861392",
     "https://www.newsis.com/view/NISX20261110_0003861388",
     "https://www.newsis.com/view/NISX20261109_0003861005",
     "https://www.newsis.com/view/NISX20261110_0003861535",
@@ -4999,7 +4988,18 @@
     "https://www.chosun.com/jp/culture-life-jp/2026/11/11/6HRGVX2YXZB4RCC5HZRKBXO7TE/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSamluLVZ1WVhEUUVDY3ptOXNCLThSOVVzODhlSUhLRTdBbDBubUpRcG1oTkNiVlZtREJVaDNMR2ZBYzBNNHpyTV9Tc1hKMGxRVzhkX2JB?oc=5",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839980&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839976&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839976&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jMlpweXluZkpDTFFsZjkwcHlDVTZiNzJFa3Ytb1hpem1jVXk0bE5ja05WSFBvaUkxaXRWYmFtMXY4YTVpNWRPVXR2VkFtSmhxTlRZczZ6aVFmTWl1TlgyUXZLejltQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZNGpvYkoxQkxXTGZURGVmVW02bFR6UV9LYkFzSXBIM1Rhb1VFTWNjUFVady0xV2NSZ2xfZnFZaHRDZXM4OU1jYUpEb05qTW9wVEZiWmFhaksyWU1nNlHSAWNBVV95cUxNS29GeGJCS2lGbEJDVUhvek83T0tGU2ViZnNTVm94dVpRVUUzS0RCY3hHQlRqenBvZE8wd3V6eFY0akJPM0JjWGV3VURkcGVwRy1OTlA5anhVX1BCVnctTlU5UUE?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261111015107SW1",
+    "https://www.yna.co.kr/view/AKR20261110177151082",
+    "https://www.chosun.com/sports/world-football/2026/11/11/MFQWIYRTME2TKZBSGYYWEMLGHA/",
+    "https://www.chosun.com/international/international_general/2026/11/11/GY4TEYRQGNSWKMZUHE4DEZBWMY/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/11/U5CA2WP4ZZFZFMTK6QFKN5LV6M/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/11/VOTAFORGTJDQTN77F6VFMBUZEA/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/11/YII5HQEYX5H65L2RQN7G6DBYOU/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oOWR5RDZuajRyNmVZQkt2bEZuazhnM2RnNDQ4YnFzak4xdWdJLTNkWVljMDlsS1A2UGl2THcxMmJrby1mendVSDl1N2NGT2tsbnhRellR?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR202611110150556KM"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "경찰흉기난동최충락사이코패스검사피해자는여전히의식불명ytn",
     "민경선고양시장공공주택공급때공업지역도배정해야",
     "테슬라스페이스x합병검토공식화테슬라주주지분희석우려",
     "내년사상최대실적삼성애플업고9급등한두산테스나",
@@ -9031,7 +9030,8 @@
     "대법원조작기소특검법형량의무감면에제동법원재량필요kbs뉴스",
     "美연준월러이사12월50bp인상도고려빅스텝거론",
     "물가불안에빅스텝까지연준월러12월05p인상",
-    "연준월러12월금리인상빅스텝가능성도"
+    "연준월러12월금리인상빅스텝가능성도",
+    "댈러스연은총재금리최소두차례더인상해야"
   ],
   "opinion_date": "2026-11-10",
   "seen_opinion_links": [
