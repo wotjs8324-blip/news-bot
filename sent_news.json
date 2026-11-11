@@ -1,18 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261111085200005",
-    "https://www.yna.co.kr/view/AKR20261111068000051",
-    "https://www.yna.co.kr/view/AKR20261111085800055",
-    "https://www.yna.co.kr/view/AKR20261111085400061",
-    "https://www.yna.co.kr/view/AKR20261111083300009",
-    "https://www.yna.co.kr/view/AKR20261111083800060",
-    "https://www.yna.co.kr/view/AKR20261111084100704",
-    "https://www.yna.co.kr/view/AKR20261111075600009",
-    "https://www.chosun.com/economy/startup_story/2026/08/21/KL6BBPYKZVGYNJXN2IVHB2WJLE/",
-    "https://www.chosun.com/sports/world-baseball/2026/11/11/MJQWKY3BMZTDAYZUHA4TAOBXMQ/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/11/GA3TOMZSMM3DOOBYGFSTQNTDMQ/",
-    "https://www.chosun.com/sports/world-football/2026/11/11/MIYDIY3CMMYTENDEHE3WGZRZME/",
-    "https://www.chosun.com/entertainments/movie/2026/11/11/GVTDMY3DMZRWKMDEG5SWMNRXMI/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/11/11/MM4TAZTBMNSGMNRSGUYTGNJYG4/",
     "https://www.chosun.com/politics/assembly/2026/11/11/ZRAR55TY45CD3OQI7CXBWXNMQY/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/11/11/MY3DGZLBGUYWEZBRHBTDQMBRGQ/",
@@ -4999,7 +4986,20 @@
     "https://www.mk.co.kr/news/stock/12205946",
     "https://www.chosun.com/economy/stock-finance/2026/11/12/GBSTMZRQMI4TIY3BMY2WKOBRMU/",
     "https://www.hankyung.com/article/202611121547i",
-    "https://www.chosun.com/economy/stock-finance/2026/11/12/S4AZL7BXNNHTBMLGQBXYSKA6YE/"
+    "https://www.chosun.com/economy/stock-finance/2026/11/12/S4AZL7BXNNHTBMLGQBXYSKA6YE/",
+    "https://www.yna.co.kr/view/AKR20261112022651001",
+    "https://www.yna.co.kr/view/AKR20261112026000008",
+    "https://www.yna.co.kr/view/AKR20261112022700009",
+    "https://www.chosun.com/culture-life/performance-arts/2026/11/12/STV4SPGKLVCZPNJJSYIACXLKRE/",
+    "https://www.chosun.com/economy/tech_it/2026/11/12/DNKZHYLLJZDHNHJKFVJKCSPPNY/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/12/GU4WGMJUGJTDQNRSGU3DGZJQMM/",
+    "https://www.chosun.com/economy/stock-finance/2026/11/12/GJTGEMLFGM3WKZDFGBSTENBQGY/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/12/VAW3FLXP4ZEX7NGIIPISMQNV4M/",
+    "https://www.chosun.com/jp/economy-jp/2026/11/12/K5KG56XLK5HL7KOJ7DBX67TY5E/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/12/B5645QCL6BHXHKALIGRSE7OEDQ/",
+    "https://www.mk.co.kr/news/realestate/12205198",
+    "https://www.newsis.com/view/NISX20261112_0003864711",
+    "https://www.chosun.com/economy/tech_it/2026/11/12/GIYTIOLBHAYDQZBSGU4GKNDFGQ/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "강원도청년임대주택1만호공급",
     "韓총리도심주택공급활용부지적극발굴사업속도내야",
     "신현송이번동결은호미질결실정부재정정책쓴소리도중앙일보",
     "신현송금리동결은호미질의결실긴축기조는지속",
@@ -9031,7 +9030,8 @@
     "아직도안했냐재판때마다혼나는종합특검부실기소논란",
     "kb證실리콘투환율급락하며수익성불확실성확대목표가하향",
     "코어위브가되살린ai랠리마이크론12폭등코스피반등이어질까",
-    "상반기금융복합기업집단자본적정성비율186작년말보다84p상승"
+    "상반기금융복합기업집단자본적정성비율186작년말보다84p상승",
+    "네이버3분기매출액3조4724억원전년比107늘어사상최대"
   ],
   "opinion_date": "2026-11-11",
   "seen_opinion_links": [
