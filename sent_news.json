@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230216",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230215",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230207",
-    "https://www.hankyung.com/article/202611119552i",
-    "https://www.hankyung.com/article/202611119521i",
-    "https://www.hankyung.com/article/202611119323H",
-    "https://www.hankyung.com/article/202611119431g",
     "https://www.hankyung.com/article/202611119149g",
     "https://www.hankyung.com/article/202611119376g",
     "https://www.hankyung.com/article/202611119329g",
@@ -4999,7 +4992,14 @@
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZSTVac0hQczBnZTZfa1RlQnZKNnRuLVNWZHdhTW1BaVpqV0pMb0dWajVxTGhYTVJJUTZzMFotcl9JakY4SVZfdEJXd3NzbjdSZ19RdkNzWnBPUkttNEE?oc=5",
     "https://www.yna.co.kr/view/AKR20261112004600087",
     "https://www.chosun.com/jp/politics-national-jp/2026/11/12/SESFU3EWPFFIJJZVPI5N4IHTSU/",
-    "https://www.donga.com/news/Inter/article/all/20261112/135011076/1"
+    "https://www.donga.com/news/Inter/article/all/20261112/135011076/1",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pRzdHbE9rV2N5eVZDX1VsZzFSYjZYNnZudHYyNDNQSFBnTERkOElScmF3OVhSWjJGMGpnWUpiUW5PVDBZSXZCMmtKV3EwZng5TTJuLXQtNnFoRnhTN2hveFpIVGNxVUJJc05V?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IcUJSeVN1cHZtcVFDTEdvaGJ5SFpaNTJ5NGRWSEZiZ1BXTjY3V1JJYlJpLUlnRWdINjlBVEU3eVVyYXp0Nm5GbEs4Rm1UVzloNkZyR002eDk1c0NqYng4d3JtMUd3UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OelRrMmxoVUVJTWlZQVpVVEFmejBBTlJmYkU4VUozZkZxeXlaYWQ3NFpqZUE1QXd2dXUzdS1jbEFVeHd0Sm9aRm0yMXM1aTNUWjFiSm5HLVljajMyd3c?oc=5",
+    "https://www.yna.co.kr/view/AKR20261112001600109",
+    "https://www.chosun.com/international/us/2026/11/12/5ZQSTMIP4BFYVLTDZ7OPTNKQM4/",
+    "https://www.newsis.com/view/NISX20261111_0003864182",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230204"
   ],
   "initialized_feeds": [
     "조선일보",
