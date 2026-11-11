@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.hankyung.com/article/202611119149g",
-    "https://www.hankyung.com/article/202611119376g",
-    "https://www.hankyung.com/article/202611119329g",
-    "https://www.hankyung.com/article/202611119341i",
-    "https://www.hankyung.com/article/202611119273g",
     "https://www.hankyung.com/article/202611107609H",
     "https://www.mk.co.kr/news/world/12205112",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEM1dVQjRkaWdoQndZVTBVSXduMW5YZDRyMnpOUFk4VDZfeGFkOVpHUC1ScVMwbFU0Q1djUkVOXy1HS2dabkRqMGlTZnJ1UU94X3lrVWdRd1VnVzA?oc=5",
@@ -4999,7 +4994,12 @@
     "https://www.yna.co.kr/view/AKR20261112001600109",
     "https://www.chosun.com/international/us/2026/11/12/5ZQSTMIP4BFYVLTDZ7OPTNKQM4/",
     "https://www.newsis.com/view/NISX20261111_0003864182",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230204"
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230204",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvTFkxdHNtZmRTSXhVbDBBbzFybzZvWHU1N0Z4RXRHRkEtSkZqM1pCcWlVaVk3alBwMmd5RmV4YldwNjRsNDZyVlRzRUlCMVZqQkFSRkxyeDJERGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UTlFmY2NSVko3MU0xc2JCemhURFQwdjRVMFUtb1dqdkFoalNic1RwYXVWV3pybWd3RHhDdlBQam1tZjBRTUNtcFBCb2dnRnRFNk9JOUJ3YjFqTEU?oc=5",
+    "https://www.newsis.com/view/NISX20261112_0003864596",
+    "https://www.newsis.com/view/NISX20261111_0003864347",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841923&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "머스크만배불리나테슬라스페이스x합병의그림자ytn",
     "예상웃돈실적에도주가뚝삼성바이오수주공백에발목",
     "美기업과징금韓의21배라는데매출대비과징금카카오가더높았다",
     "스페이스x테슬라합병성사될까주주설득부터中승인필요",
@@ -9031,7 +9030,8 @@
     "美소비자물가04상승연내기준금리빅스텝가능성",
     "탄핵위기넘긴헤그세스민주당내년재추진",
     "미국연준월러이사빅스텝거론12월50bp인상도고려kbs뉴스",
-    "美연준빅스텝이냐연속인상이냐긴축속도논쟁가열"
+    "美연준빅스텝이냐연속인상이냐긴축속도논쟁가열",
+    "경기광명다세대주택화재3명중상"
   ],
   "opinion_date": "2026-11-11",
   "seen_opinion_links": [
