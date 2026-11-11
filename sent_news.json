@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261111_0003863358",
-    "https://www.newsis.com/view/NISX20261111_0003863383",
-    "https://www.newsis.com/view/NISX20261111_0003863347",
-    "https://www.newsis.com/view/NISX20261111_0003863384",
-    "https://www.newsis.com/view/NISX20261111_0003863286",
-    "https://www.newsis.com/view/NISX20261111_0003863380",
-    "https://www.newsis.com/view/NISX20261111_0003863379",
     "https://www.newsis.com/view/NISX20261111_0003863376",
     "https://www.newsis.com/view/NISX20261111_0003863341",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5229842",
@@ -4999,7 +4992,14 @@
     "https://www.newsis.com/view/NISX20261112_0003864593",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Zy1fT0NDUGVRTUpYTHFzbjlqeW9ucXlVYlI0T3dPdGhDU1o2bGw3STlxc0lpUHpUZHJYMjdmNlBrenVMMi1jbnZ4RGUxcjhpYnVMdUdWRnBNelVQaW9CRmlLVTFXMHNfZk9Kc1R6UktSVHZXaEwyQ9IBeEFVX3lxTE9hdFRibXJ6Ujk2X1E2eFRYa1lpa0IwWmJSUG5DSDRxMmJqWUNzWHRhZGdsRFNNakUwbEZSSVRHT3pDQkNINmlkbktwRklTNmZFYWNUemVVcXdvWDE2LUlYbFh4bEhhQk5EMXVDSFdzOVFsdU5yR3JFLQ?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzNzlpSjdnVnNOU1pGRTlaRU5lcW1xRTRvcklCcEZnai0zd2MzYUg5LVRXcXBKbEY4QmlLZGNUaldzYkNZOUZBcTBzZGl0UFhENEJOS21wOXRTczNKQ0lXM0paUzlBVVMycGVOUTNQMA?oc=5",
-    "https://www.yna.co.kr/view/AKR20261112002300071"
+    "https://www.yna.co.kr/view/AKR20261112002300071",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YNzNTZjZtbFRxWExkaTJidV9HYjBsTHhvQjVyQnA3cjVBTEhrLUMxSEZzbm0zcjdIVjZUM0NSZVpjVmo1UzJaWHIxUERaZ19WV0RrRHo1aWFST2szRmVWR00xUWdjbUtmeUdPS0JLUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50WTRyVHJLakE3TGE4VHk2Nm51cEVBLUdyY2hJemFBamhTcWtnbVBONzNIMEZmdVN5Ry0wWldNUWlxQldKTUlaUUVnMzQ5bXNJLVB6RkVHRTVfUkdNYmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MZWlfeXkyOE5Sd3VvT1pFSGV4ZkZFVjdNUDloS2dRRVZZT0RtcnoyVXJsd2FMT2RNSlVSR2NqWjdyOXdWSFl6TjlheVVJVVBFcTFMODd0VjljdVg5UWc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261111182151082",
+    "https://www.newsis.com/view/NISX20261111_0003863110",
+    "https://www.newsis.com/view/NISX20261112_0003864594",
+    "https://www.yna.co.kr/view/AKR20261112002600072"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "nh농협은행대출금리인하전세대출최대03p낮춰",
     "머스크만배불리나테슬라스페이스x합병의그림자ytn",
     "예상웃돈실적에도주가뚝삼성바이오수주공백에발목",
     "美기업과징금韓의21배라는데매출대비과징금카카오가더높았다",
@@ -9031,7 +9030,8 @@
     "뉴욕증시코어위브호실적에힘입어상승세출발",
     "美소비자물가04상승연내기준금리빅스텝가능성",
     "탄핵위기넘긴헤그세스민주당내년재추진",
-    "미국연준월러이사빅스텝거론12월50bp인상도고려kbs뉴스"
+    "미국연준월러이사빅스텝거론12월50bp인상도고려kbs뉴스",
+    "美연준빅스텝이냐연속인상이냐긴축속도논쟁가열"
   ],
   "opinion_date": "2026-11-11",
   "seen_opinion_links": [
