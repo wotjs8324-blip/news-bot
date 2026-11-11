@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/10/HBRWMOJSMRRTSYLGGI2WCYZQMQ/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/10/MQ4TGYZYGE2DIMLFGBTDMNBTHE/",
-    "https://www.chosun.com/kid/kid_nie/kid_upper-grades/2026/11/10/ZTAB43SRMFEV7I7VDINQAZZE3M/",
-    "https://www.chosun.com/national/court_law/2026/11/10/ZRDSZ3NHARBZDOLI7MAXQYYQPA/",
-    "https://www.chosun.com/economy/tech_it/2026/11/10/MEYGGYRZMU2DGNRYMI4TQYJUGM/",
-    "https://www.chosun.com/national/court_law/2026/11/10/IXLTIF6O65CKZLZQXXRTCM3HOU/",
-    "https://www.chosun.com/economy/tech_it/2026/11/10/CS7B4WJ2RRFDVEVEIYQFHUJUFA/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/10/GYYWIZLEMQYWMNLEGM4TMOBQMQ/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/10/MU2TMYJWGZQTAYLGGFRWKMJUG4/",
     "https://www.chosun.com/sports/world-baseball/2026/11/10/GAYGMNRTGYZTONLGMQ4TOYRYGA/",
     "https://www.chosun.com/economy/economy_general/2026/11/10/MQYTGZBQMM3GIYTBGAZDMYJSMY/",
     "https://www.chosun.com/entertainments/movie/2026/11/10/GMYTOZBTGEZTGMJQHBSTGMDGGA/",
@@ -4999,7 +4990,16 @@
     "https://www.newsis.com/view/NISX20261111_0003863680",
     "https://www.yna.co.kr/view/AKR20261111091200001",
     "https://www.hankyung.com/article/2026110957121",
-    "https://www.chosun.com/sports/world-football/2026/11/11/MZTDIN3BMNRWMNTGMRRGIYRRGQ/"
+    "https://www.chosun.com/sports/world-football/2026/11/11/MZTDIN3BMNRWMNTGMRRGIYRRGQ/",
+    "https://www.chosun.com/economy/real_estate/2026/11/11/GFTGGY3DHFSGIMTEGNRGINBXGE/",
+    "https://www.chosun.com/economy/economy_general/2026/11/11/ME2DAYJQGI2WINLBGFRDKNJQGU/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/11/LDLF7CU27FEIDA7DSC24NIYYH4/",
+    "https://www.chosun.com/jp/economy-jp/2026/11/11/MTNE5AYECFDYBGPZIYPKJZZP7M/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/11/LKH5MFUVNBCJ5BU3J3RCHLDYIE/",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230235",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230237",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230236",
+    "https://www.newsis.com/view/NISX20261111_0003863693"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "서울강서구서모친살해한딸체포경찰에직접신고종합",
-    "한은만장일치로기준금리연3동결기존인상효과점검",
     "노원구기원서말다툼중살해한60대재판서살해고의부인",
     "서울강서구서어머니살해했다신고40대딸긴급체포종합",
     "서울강서구서어머니살해했다신고한딸긴급체포",
@@ -9031,7 +9029,9 @@
     "국고채금리물량합의낙찰금리높여정부부담증가공정위15개은행증권사등에과징금1조6300억원금융권은반발",
     "與전월세안정화의원모임첫토론회수도권전월세난대책필요",
     "與부동산정책강온대립일부의원부동산실용주의모임결성",
-    "내안전보장해주면더폭로하겠다맨시티재정문제드러낸후이핀투영국수사당국과비밀협상진행"
+    "내안전보장해주면더폭로하겠다맨시티재정문제드러낸후이핀투영국수사당국과비밀협상진행",
+    "코스닥이틀연속매수사이드카발동4대급등",
+    "韓총리내년도농업예산역대최대22조원전략산업농업혁신적극지원"
   ],
   "opinion_date": "2026-11-10",
   "seen_opinion_links": [
