@@ -1,24 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261112_0003865248",
-    "https://www.newsis.com/view/NISX20261112_0003865148",
-    "https://www.newsis.com/view/NISX20261112_0003865153",
-    "https://www.newsis.com/view/NISX20261112_0003865246",
-    "https://www.newsis.com/view/NISX20261112_0003865256",
-    "https://www.newsis.com/view/NISX20261112_0003865227",
-    "https://www.newsis.com/view/NISX20261112_0003865240",
-    "https://www.newsis.com/view/NISX20261112_0003865186",
-    "https://www.newsis.com/view/NISX20261112_0003865239",
-    "https://www.newsis.com/view/NISX20261112_0003865245",
-    "https://www.newsis.com/view/NISX20261112_0003865181",
-    "https://www.newsis.com/view/NISX20261112_0003865231",
-    "https://www.newsis.com/view/NISX20261112_0003865133",
-    "https://www.newsis.com/view/NISX20261112_0003865237",
-    "https://www.newsis.com/view/NISX20261112_0003865233",
-    "https://www.newsis.com/view/NISX20261112_0003865038",
-    "https://www.newsis.com/view/NISX20261112_0003865093",
-    "https://www.newsis.com/view/NISX20261112_0003865064",
-    "https://www.newsis.com/view/NISX20261112_0003865234",
     "https://www.newsis.com/view/NISX20261112_0003865225",
     "https://www.newsis.com/view/NISX20261112_0003865036",
     "https://www.newsis.com/view/NISX20261112_0003865223",
@@ -4999,7 +4980,26 @@
     "https://www.newsis.com/view/NISX20261112_0003865936",
     "https://www.mk.co.kr/news/business/12206534",
     "https://www.yonhapnewstv.co.kr/news/MYH20261113050749vLi",
-    "https://www.yonhapnewstv.co.kr/news/MYH202611130511331kv"
+    "https://www.yonhapnewstv.co.kr/news/MYH202611130511331kv",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYcDBTT19FbEc4ek5jSXZRUm9GN0NheXhTRHdIb2FVSWxCb01qdERhMGNVSC1QanhId2xtdXYxN3AwU3RScy0xVmhhYVVTUnA5TmVVQ09WT01nR1hoMFZsU0JDTldzdw?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiNEFHcjl2NEgxbTF6S2N0a3dPckJ1NU5sSUlMb083QlZvcG4td2tndWl6REg0dFNWRklUZmEtUFcxYk5jYS1tNVJEYTJ0SVdOTU90MVhJc2U2blRpSXZjTm1GNWJfcElrdGVLdWQxeUlHRHR5WVhqMdIBeEFVX3lxTE9JaWo0eFpmUWd6c002b1c2MUJibTA0Z0NhLW10aUxhaEUwSlJtcDRlNmlBdzRRczh2a3Y1UFgxZkZtZGJ2enc1RDhObVBHaXNHNkg1UkYtNWlOOXkyQ2oxUS1mZ0ZUSENlZ0VWRXlHRk8wSkw1UFJjRw?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261113052929NkW",
+    "https://www.yonhapnewstv.co.kr/news/MYH202611130527544WN",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261113052647P8G",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261113051508brf",
+    "https://www.yna.co.kr/view/AKR20261113007300091",
+    "https://www.chosun.com/economy/startup_story/2026/11/13/DLWMXVYH5NFTPMWUQE47GPPJF4/",
+    "https://www.chosun.com/economy/startup_story/2026/08/28/MNRH7ZUACVAOVNQYBPQUZLNGRY/",
+    "https://www.chosun.com/economy/startup_story/2026/11/13/FL6SZGHIMZCLVKIJCMN5MV46AM/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/13/DOWLAFYBFRBSHAVFCRULKP7HOE/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842388&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842387&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261112_0003866122",
+    "https://www.newsis.com/view/NISX20261112_0003866249",
+    "https://www.newsis.com/view/NISX20261112_0003866116",
+    "https://www.newsis.com/view/NISX20261112_0003866140",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261113051607lxX",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VQ1NvOUhpUFdwdXE2Snh3bVVCempZS05OOWNhck9sWmZWWUZRQTIwVVpYeVQwQ2tuS2cwZGxELWwyekRiRDNSYmdLMU5TSWMzWC00VkFBWFp4VHdtTXc?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "이대통령중수청지휘감독포기는탄핵사유대통령권한인동시에책임kbs뉴스",
     "몽골초원대형화재일본통신사자회사활동관련발생사과kbs뉴스",
     "해양산업금융경쟁력강화부산은행창립59주년기념식",
     "하나금융3분기누적순익3조6243억역대최대전년比56",
@@ -9031,7 +9030,8 @@
     "조작기소특검법암초에본회의무산주택공급3법또미뤄져",
     "베선트메가스피드제재러트닉中과무역전쟁될것백악관충돌",
     "엔비디아뉴욕증시서13급락출발",
-    "오늘베이징서한중외교장관회담한반도정세논의"
+    "오늘베이징서한중외교장관회담한반도정세논의",
+    "11월서울경기주택사업자경기전망큰폭하락"
   ],
   "opinion_date": "2026-11-12",
   "seen_opinion_links": [
