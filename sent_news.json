@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261112071100065",
-    "https://www.yna.co.kr/view/AKR20261112065100062",
-    "https://www.yna.co.kr/view/AKR20261112021351009",
-    "https://www.yna.co.kr/view/AKR20261112063400062",
-    "https://www.yna.co.kr/view/AKR20261112070700053",
-    "https://www.yna.co.kr/view/AKR20261112056700057",
-    "https://www.yna.co.kr/view/AKR20261112066700064",
-    "https://www.yna.co.kr/view/AKR20261112067500009",
-    "https://www.yna.co.kr/view/AKR20261112070100004",
-    "https://www.yna.co.kr/view/AKR20261112063900005",
-    "https://www.yna.co.kr/view/AKR20261112063300011",
     "https://www.yna.co.kr/view/AKR20261112062200053",
     "https://www.yna.co.kr/view/AKR20261112070600007",
     "https://www.yna.co.kr/view/AKR20261112061500062",
@@ -4999,7 +4988,18 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFTWtfYzBsZUJCb1oyTnRwME12THBzbWk2OGNRRjVVUWFQazhXbEVmZjBmSzZCRHlVR21MRVk4aDBSNHhzUHlob2hHWmFHVURKWFBBWWt3?oc=5",
     "https://www.newsis.com/view/NISX20261112_0003865651",
     "https://www.newsis.com/view/NISX20261113_0003866352",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10T29DZzdmUGJJSExObTVPcE54Z3lYZE9MUzVEZXlaYU9rRnlDUXVOcnpaVmZ5WDFmTWJOd0RBMHZyMkJTLU1ld2VOWVNBZWs2NERmZE1VRHpLM2J2cGVidWlhd2g1UQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10T29DZzdmUGJJSExObTVPcE54Z3lYZE9MUzVEZXlaYU9rRnlDUXVOcnpaVmZ5WDFmTWJOd0RBMHZyMkJTLU1ld2VOWVNBZWs2NERmZE1VRHpLM2J2cGVidWlhd2g1UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DZmNTSWNBUnQzaDhBSFlkckI4WFR4dVdiT0g5NVdNVHVyTU5HSE1zeXNrMHF4ckZHaFRHNG1BSTV0czJEM1hRRlhVRkFjcjlCVVluSnN5R2tDYXd4VDVlamZQeWxqQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kRlhmM0RNcmlmdTMwNWhSY1hVMllxUk1WYVZJbHVZbWlJaFU2TDMxbWVnUGlfZC1rbzd6UWVTbDM3S3BDN3JFUDR1Y1p0cjZrUTJuOGwxYnNnYjA?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VMjZyR3U1ZmZ3cVd0bmM3bmtuRGtQTENOZk5WYmJlT28xNElhSlNoekYyWERMdzFwNkRSQmc5ZDQzWUkzTWxJWnh0a2ZMbmpjbVVLYU1paHJXRlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vY0I4VWI1c0JvVFJWYnBtOEgxT1B3WVJhVnhXTjh2NlYxaXIzZ3k3T0RvN1oyOGwtNTUzR1kxM2pWaWZTNFVzNlRRZVNIX1RzcEhtQTFTbDVEVW8?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE91WW91bm42SG9rUGNKaldSZERjQXc3ZDc2ZnN1Q0lqUnk4NEVRRlBFcVMtQW1BR1ViUWpFNERzM280c0xtdUlwTEFpOU0tS3U1OExoVFZ4aG0taFlpb3N6TENEMW9qWWJaV19RSmo4U0psbHhUZGd2M1Rn0gF6QVVfeXFMTXN5dkduYmZheGo3NHJkb1Qwa0JiUzJDSmdFdXpUanc4YjAtbmZmYWtrZGtRRFkxU0RPSUZBd0R2a1FhSEJhZ1d4LUxyb08tM1g0cWlTVnRMbmlhQzlHR0tVbjNsNzlNX2x2ek5DcUFfNVpSU3BqdFd6ekE?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OVVBMMV82c0pweGJvX1VvcVdFbURiOHZibVpydzdsZ04zTzNXSzhDQVMwdXFPTjN3Zy05RldZTUl6WTl1SVloSjJxbWpQaVF3VXVvMGV6YWxINVBaV3FoQzNZNEI5ak05Zm5FVXd3S0tZQ3YtUUJDMXNR0gF6QVVfeXFMUC1lVXJtRVpSWXl4WmhJNmhJNU1DeGYzOXpLMWJEcVI3cktTV2RwRTFmczFZaVlwaXJjMzI3eE1JSWdrNVE3LVBFWXkzMHVYcUJDM2wtd3NobUFQSlM3QlA3dmRSamtjRWNUaWRrZmJUSWJ1YUpqQlRiUGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MQ1ppdmdUaWtOZTJ3NmdITEZxcGE4cEJBOU81aGstOUR0QUgyOUxJX20zV1QtSFlzaUpQQ1FoWHVvd3ZHZFI1bFlyYlQ0LTkxN0NhcTNYX1VFdWJIbHMyV25lNDhrdU5oTTV3aThNbkl3eGw1MXFQTDJR0gF6QVVfeXFMTV9lcThabTdBZHZRV3JVbkMtNFM2WHpnVlkxbXZTN04yTHJpaU5Kb0N1ZmNMdGhaZXFVNFRTMXZxM1ZtS2xRdHZVd0hBMGhLQXNoY3k5cDZiYkVIWWhuaFpCQmwyeXlqdDE5dnVGMXFKdXhjQVRMcTNJWFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qRXVhTDBCcldZd0sxdmVhQ0lSVG1FV0xlaG1yQU5PVHJHVlFxMlVEUlNjSmN4Si1qbzIzTHRxcFQ4QWNLMTN3ZkJBWmZ5d0szVTk5d3pXR0NxZ1VyeFJKTmJhakRGQS1iTzc1d0lMT1JSZWtjNDhuZXBB0gF6QVVfeXFMTW1qTnpUcEVIZTdCaXV5UVdLbW0tcXZaZndub2Y4dUpKYzk1TWR1MFZGNjZ1Z2ZXM1ozdW1BSHo5YTRJV3RRR2JCYzhvNk9ZZnlBWWJJdHlQRUE4dFloVlV2ZmdQSnBVNWx2X1JIcVkwUGVTeldSMUNaUGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkOUxhQnV4OEo5ZGlVU1ZvS2pGR1NnZjR1YXN0NXBEbm5DWmVMRUVYc0h5dkh1eHJMMGFJcV82OFhpdnE1cmV0TWRaV0xwS05KdGJfN3EzeXhmMVh1TDEyUWNUSlVRV0NyckdrSmd3LUUyWnJTZy1jTi130gF6QVVfeXFMUHBQVXVFQUoxRWVSWmVsZmFkRWptaEpMRzJ1NDE2WTVSamVGSmtoM1p2QWlIWEMyLUNOaklOS2FyUXdyUTJaQ3dSamNqR2VZT2FKaGVzeWJGMTlETW9ZVnZva01wWTNoLUNRRFNRYzU2aV82cUZkWmxNd0E?oc=5",
+    "https://www.yna.co.kr/view/AKR20261113005000079",
+    "https://www.chosun.com/sports/sports_general/2026/11/13/G4YGCY3DMI4TAMRTGQ3WINDDMQ/"
   ],
   "initialized_feeds": [
     "조선일보",
