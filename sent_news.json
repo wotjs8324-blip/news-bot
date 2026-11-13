@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230615",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230614",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230613",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230612",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230611",
-    "https://www.mk.co.kr/news/stock/12207635",
-    "https://www.mk.co.kr/news/realestate/12206774",
-    "https://www.mk.co.kr/news/business/12207636",
     "https://www.chosun.com/economy/real_estate/2026/11/13/GRRWKNTDMNQWMNZWGQ2DGMJSGI/",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HRkR6V3NYc3EzdWJMdTBUVDRwMTBBUnN0Ul9TbkVCTW1rNjhXVENYa25KcUtUY3FHLWljUExpTU0xZ1RfNFdVWkczZ0I0RFlPR2NlVTBkSld2UFlXdkt3MWRBYlh4VWNTNXRxN2E2Z3RMdWc0OVdidGJn0gF6QVVfeXFMTW85dkI3Q2xMUHY5YmQzWWRsWHJqOVJNVmR6VUhnTXhfR3ppU04yc2lWN1VoUW9WZ25ucUtaZTFzY0RrcjNUUkhReUt2aFNxMmN6VlpxdDVScC1Za29wV0I3eVQ3RGpZNXhVcm5rT1ZyRjJOM1pFLWo5cGc?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE9USmlCZmdjTlE1dEpYU01hU2dPZUs4cVZoX0RZRG83ZlNnT21jYV95Zk02N1FRdzlfaDBYcDNxTUM5UWtoQlVsdDM2aGkzUEJOa3lGTmdXVVl2Y2E3SVFFSV84RGZtMlkyT21YVVJlMnl6cnhOekE?oc=5",
@@ -4999,7 +4991,15 @@
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdEZuTTVET3lJemFST1Z0TDJsWGpNYklYQVBqdm5HeUE4MTNZX2tpTGtNa0o2QTBfQWZHNTZwc1EyNGhpUzFUcVdFN2xmR1prZkt3RGRrMXhSNVk?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LaHJqODUxeHhHRXdoY19OSEFBQlhSZjdOb2JuXzh0VWZGbGNHOVA3N2hOU3ZXbkRuaDFGc2UwMlNDc2JGZXItY1A0RS1KcU5jN05QRGpBVzlzdjNrZEE?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10T3hhemxRTHdhTklCNTI5Yjc5cVJyUHlnMVowemtnc3VvOF9mM0dla05Pd2lmRXRQWjROTTd3U1UtSGt5UmhOUm55Z3pSdkxILTdyWXEyeVhpeUJqOFE?oc=5",
-    "https://www.yna.co.kr/view/AKR20261114002900072"
+    "https://www.yna.co.kr/view/AKR20261114002900072",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LUk1xanM3NDdEMDI1QkdNZjFwM3QyVy1DRVFNYXowTlFROFJKOGZURHJtRlJYeGN0WHdWVm43NnpqQkxQb3FENW44N1pIU0FXU2hYczNKSlhHSTBsc09ZbHRGNEVmeGtYS080?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kenZkem9DUG9CWnhVcDgzQXhqZlNoX0JnR2o1Nl9tZnVYVnlHMHV6Wkp1ZkgxNkpGeDJUZERQdy1tMWVsZUF0OUtLeHFYUzdtYnQ5YmZfX3cxcjFUM2xVdnVLRzNuODRmMVRmTWZvejEtQ0NCN29R0gF3QVVfeXFMT2pXZWp4VktqTDZlU0FTMkZyakZqT3VUZzhsMWZGd21HLVN1dl9wOXQxQWFvNklUdmswMXdJNEIxWHRfSk1tczJyb2JPQ21oWlBySlQtVjhGa1d2U1paRUZNSVlHa1o2V28wSWRzQndOSkhUcEN4MEk?oc=5",
+    "https://www.yna.co.kr/view/AKR20261114003800007",
+    "https://www.yna.co.kr/view/AKR20261114003600087",
+    "https://www.yna.co.kr/view/AKR20261114002400072",
+    "https://www.chosun.com/sports/football/2026/11/14/GEYDSMZUMVRWCZBVMYYDOYZUMU/",
+    "https://www.newsis.com/view/NISX20261113_0003866542",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230447"
   ],
   "initialized_feeds": [
     "조선일보",
