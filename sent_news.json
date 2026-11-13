@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261113_0003866593",
-    "https://www.newsis.com/view/NISX20261112_0003866115",
-    "https://www.newsis.com/view/NISX20261113_0003866589",
-    "https://www.newsis.com/view/NISX20261113_0003866458",
-    "https://www.newsis.com/view/NISX20261113_0003866586",
-    "https://www.newsis.com/view/NISX20261113_0003866552",
-    "https://www.newsis.com/view/NISX20261113_0003866591",
-    "https://www.newsis.com/view/NISX20261113_0003866444",
-    "https://www.newsis.com/view/NISX20261113_0003866533",
     "https://www.newsis.com/view/NISX20261113_0003866590",
     "https://www.newsis.com/view/NISX20261113_0003866550",
     "https://www.newsis.com/view/NISX20261113_0003866585",
@@ -4999,7 +4990,16 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845570&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845569&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845568&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843955&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843955&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE82RVhZbFNPWEVTS3NBZ0FXR3djRHRMTnRLR1pwc1d0QzNCZmhHWGswem1BZk5TYnpLQmVSYzFWaGE2UENGNWV6eDBkWXhVck41VHp4SW92ckxJcG51WFpMc3pZRjE3Vjk2d01R?oc=5",
+    "https://www.yna.co.kr/view/AKR20261114005000079",
+    "https://www.chosun.com/sports/world-baseball/2026/11/14/MEYWINTDMY3TQOLEMIYTCZJVGY/",
+    "https://www.chosun.com/sports/football/2026/11/14/HA3DGMJRGI3TENBSMMYDEYTBMI/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/14/B2KYN7DVWNCBBB2UEFWKWCWK5E/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845581&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845574&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/business/12208038",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845573&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9067,9 +9067,5 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DeEduS2dBb2c0bXhZOVNmN0dXakpLUjhsTE9rM0xNTjk1Mm1vRWRCUi1nOEZVOEZvVnRudmZnTkQtclRfUExTS1dDdFFvM1RzMkRBemdzTlJwbTdoWllhQVUzNlJVMVZwQ0E?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PY1VYU3RSTVdVekJ5QWM2c2ZkMkMzejhqM3l1YnpPM1p3My1JYl9tcHhvX3R5cmlVbFVjOHEta0JjY3VSckdIclRGMzlZOXBnUC1DSFB1dDE?oc=5"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-11-13T19:30+00:00"
-    }
-  }
+  "feed_health": {}
 }
