@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QcW1BdmdOdjQ0MkszcXlxQnVhMEJCWGtCZTBNMkRSY0pRRGZEeTdqZG1nRnhib2ZkY01CcnZ2aXhIZ1hNMDBveGs3MnZwSUl3cUNVeDVBVGFqNUlPRUHSAWNBVV95cUxPYmZhNGE0QVVsWkRYZ1M4b3JjSm1rOGdHZHpmMlFqeVFyR0ZEUFk4VmZfTGljd3o4MDZvVjVwZDB6R3RvWnpXSjZkTVZncDN3c0VkOEgta1NWcHdadmVSdkkxQ1U?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261113045558zGM",
-    "https://www.yna.co.kr/view/AKR20261113008800075",
     "https://www.chosun.com/sports/world-baseball/2026/11/13/MM4GIOBYGVRDMNBSGY2DAYZYGQ/",
     "https://www.donga.com/news/Culture/article/all/20261113/135018071/1",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843981&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4996,10 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845364&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261113_0003867843",
     "https://www.newsis.com/view/NISX20261113_0003867844",
-    "https://www.yna.co.kr/view/AKR20261113174500099"
+    "https://www.yna.co.kr/view/AKR20261113174500099",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261113202959EtI",
+    "https://www.newsis.com/view/NISX20261113_0003867849",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230800"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9067,5 +9067,24 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DeEduS2dBb2c0bXhZOVNmN0dXakpLUjhsTE9rM0xNTjk1Mm1vRWRCUi1nOEZVOEZvVnRudmZnTkQtclRfUExTS1dDdFFvM1RzMkRBemdzTlJwbTdoWllhQVUzNlJVMVZwQ0E?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PY1VYU3RSTVdVekJ5QWM2c2ZkMkMzejhqM3l1YnpPM1p3My1JYl9tcHhvX3R5cmlVbFVjOHEta0JjY3VSckdIclRGMzlZOXBnUC1DSFB1dDE?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "KBS": {
+      "failing_since": "2026-11-13T11:30+00:00"
+    },
+    "MBC": {
+      "failing_since": "2026-11-13T11:30+00:00"
+    },
+    "YTN": {
+      "failing_since": "2026-11-13T11:30+00:00"
+    },
+    "채널A": {
+      "failing_since": "2026-11-13T11:30+00:00"
+    },
+    "중앙일보": {
+      "failing_since": "2026-11-13T11:30+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-11-13T11:30+00:00"
+    }
+  }
 }
