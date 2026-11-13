@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261113_0003866507",
-    "https://www.newsis.com/view/NISX20261113_0003866485",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230447",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230619",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230617",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230615",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230614",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230613",
@@ -4999,7 +4994,12 @@
     "https://www.newsis.com/view/NISX20261114_0003867920",
     "https://www.hankyung.com/article/202611146106i",
     "https://www.yna.co.kr/view/AKR20261114002200071",
-    "https://www.chosun.com/sports/football/2026/11/14/MVQTCZBUHAZWIMDDMJSGCNBWGY/"
+    "https://www.chosun.com/sports/football/2026/11/14/MVQTCZBUHAZWIMDDMJSGCNBWGY/",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wVEd6NjNvaWQ4UUVLZnZsaUlyYnExSTRBWHlWT19pQmdTT3hlMGNLQ1VzQ3M1M2xVZThORGxPbDNpWmtLcWxJT1JWdEhlUnJrU05kMjVXSWFKdUpvN3VlSjJwajJrUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdEZuTTVET3lJemFST1Z0TDJsWGpNYklYQVBqdm5HeUE4MTNZX2tpTGtNa0o2QTBfQWZHNTZwc1EyNGhpUzFUcVdFN2xmR1prZkt3RGRrMXhSNVk?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LaHJqODUxeHhHRXdoY19OSEFBQlhSZjdOb2JuXzh0VWZGbGNHOVA3N2hOU3ZXbkRuaDFGc2UwMlNDc2JGZXItY1A0RS1KcU5jN05QRGpBVzlzdjNrZEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10T3hhemxRTHdhTklCNTI5Yjc5cVJyUHlnMVowemtnc3VvOF9mM0dla05Pd2lmRXRQWjROTTd3U1UtSGt5UmhOUm55Z3pSdkxILTdyWXEyeVhpeUJqOFE?oc=5",
+    "https://www.yna.co.kr/view/AKR20261114002900072"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "tsmc실적숫자만보면놓친다ㅣ월가는이렇게읽는다1화",
     "올파포놓친것땅치고후회고분양가논란단지도가격급등했다",
     "증시흔들려도개미들은etf로개인순매수사상첫80조돌파",
     "집값주춤하나kb부동산10월서울아파트값상승률연내최저",
@@ -9031,7 +9030,8 @@
     "미10월도매물가전년대비65상승4년만에최고",
     "조희대탄핵다시꺼내드는민주당",
     "한중외교장관회담中관계개선궤도복귀韓北대화복귀역할당부종합",
-    "엘니뇨타격페루중앙은행약4년만에금리인상"
+    "엘니뇨타격페루중앙은행약4년만에금리인상",
+    "베선트메가스피드제재권한은상무부러트닉공개저격"
   ],
   "opinion_date": "2026-11-13",
   "seen_opinion_links": [
