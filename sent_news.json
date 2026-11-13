@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261113_0003866590",
-    "https://www.newsis.com/view/NISX20261113_0003866550",
-    "https://www.newsis.com/view/NISX20261113_0003866585",
-    "https://www.newsis.com/view/NISX20261112_0003865911",
-    "https://www.newsis.com/view/NISX20261113_0003866583",
-    "https://www.newsis.com/view/NISX20261113_0003866563",
-    "https://www.hankyung.com/article/202611134312g",
-    "https://www.hankyung.com/article/202611134239g",
-    "https://www.hankyung.com/article/2026111342967",
-    "https://www.hankyung.com/article/2026111342257",
-    "https://www.hankyung.com/article/202611134234i",
-    "https://www.hankyung.com/article/202611134192g",
     "https://www.hankyung.com/article/202611134205i",
     "https://www.hankyung.com/article/202611134128i",
     "https://www.hankyung.com/article/202611134184i",
@@ -4999,7 +4987,19 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845581&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845574&plink=RSSLINK&cooper=RSSREADER",
     "https://www.mk.co.kr/news/business/12208038",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845573&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845573&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261113_0003867890",
+    "https://www.newsis.com/view/NISX20261113_0003867886",
+    "https://www.newsis.com/view/NISX20261113_0003867812",
+    "https://www.newsis.com/view/NISX20261113_0003867527",
+    "https://www.newsis.com/view/NISX20261113_0003867729",
+    "https://www.newsis.com/view/NISX20261113_0003867733",
+    "https://www.newsis.com/view/NISX20261113_0003867619",
+    "https://www.newsis.com/view/NISX20261113_0003866954",
+    "https://www.newsis.com/view/NISX20261112_0003865755",
+    "https://www.newsis.com/view/NISX20261112_0003866173",
+    "https://www.newsis.com/view/NISX20261109_0003860176",
+    "https://www.mk.co.kr/news/stock/12208142"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9067,5 +9067,18 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DeEduS2dBb2c0bXhZOVNmN0dXakpLUjhsTE9rM0xNTjk1Mm1vRWRCUi1nOEZVOEZvVnRudmZnTkQtclRfUExTS1dDdFFvM1RzMkRBemdzTlJwbTdoWllhQVUzNlJVMVZwQ0E?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PY1VYU3RSTVdVekJ5QWM2c2ZkMkMzejhqM3l1YnpPM1p3My1JYl9tcHhvX3R5cmlVbFVjOHEta0JjY3VSckdIclRGMzlZOXBnUC1DSFB1dDE?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "한국경제 경제": {
+      "failing_since": "2026-11-13T20:00+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-13T20:00+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-13T20:00+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-13T20:00+00:00"
+    }
+  }
 }
