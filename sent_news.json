@@ -1,18 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBodVJZNF8wdERXbDlzQjJSMjNpa2VVellwUkV3NmRFUVE5M3RFOGZiZjFILWQ5SXgzV0pKbHNfTml5VWVzeGhiQUhOQUI3aGNXVW9fa0NjbU9KZDdDakNtbEQxX21sd19ZQ1RkeXhIZVNEOWVtR3Q00gF3QVVfeXFMUFI2ekFIbVFoLWtzRXI5TEZqSVJXd3UxY1NQa3N6TXFIdUxHY20yX0swTDQxclh4TlJDRzdKSldOU05PM3ZyeVljMHVPRWRvQm1qT0RlQmN3SFFyNkx2blNvSndBSnpTWWJHaXlobXZzeU9qR1V1UWs?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTR1M1cDIwTXZMdzZDdXJVUi1JQkxfSWR4ZnNscGxXeENUREtzc3RqcEZjbTFEVnVDbjhsSFFJRWdwQlo3SEVTNXdwU0d4SDZadnNmQXBTUVFsbFI4SXBwQ1l5UDN6WWZvTlFmU2RKT1lsOHNXMUowWNIBeEFVX3lxTFA3ZXAyVU5WQVRUd2dneWZhZk9zS25HM2RKYWp1NEtHVjRBUWhOOWxnRnNrQWpfWnpJdExQVGt5VmFHMktYOG82WkVVc1hxY1daUVRyUU1QLUFudXBYRXBHdlB5WXV0MzhTbWlxQkhiZU1QbFNQS2czQw?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tVi14UFFCWmNtdFAzMXRTdktGR2tRNzU4TUE2NlpXbzF6NHNaT3hCN0FiMEl0WnRzNEM1Zzhxa2hQSjYzVWllRTdNQ01ZNlE4dE1td1R3NmFnVHdYOGpKNUgxMDg2M3V4S0ZPOU14bw?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KdFFzaEkyZ01FWXQ4Ym96LTVLcWRMTlREanNOUVpCZ3I5cFllXzFLcVFJaEQ5R056MkRoeHhNczNTMjBSRzEyYldqRm1pcVNuSjJMZUhQdUltQWhJeWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBValJ1VHRqWG9uQ2dTYU1HanAwM0VhTUsyMjZyVGI4dWNuSFNlMnRTZ3B2YXgweDNMaHVCZm00djQ4VzRGVVV0YzFINF9GVldmd0JmcDlreW8yTnRHSkduT0hTLVU1QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PVUk3MnM0MkNfbTZwUnVZTVM2eWpDTllxZV9wMHFsbEVPOG5FcjBlWUdzZ1RKVFNGMjlWWlYxbTNOcC1zbWlpbVp1U2w0VXNFSzJCdjNHaUxiMUFDcFE?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sUEdvYWY1UlZiWEFiT3FHZkFNamJhenYzYkoweXAxOGpvSXlaUFkxZlVfaW5HNUpkRG1CNGhISl9DNUlqRVp3V0phUFhXcUM4TkFNbUtaWFpEUjJvUXfSAWNBVV95cUxQTjFIWnpVeVRraTRvUXA1RnBWa2xBNFZDMU5EQTIwSWVCMTA0RHFzb3BxY1BZZkVSMnJrb2cwS1dRY1NWeTZLUXVjazdHbEdiOGtXY256bG85cEhYN3BHX0tkWFU?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261113092056KKj",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261113091804Nab",
-    "https://www.yna.co.kr/view/AKR20261113039000009",
-    "https://www.yna.co.kr/view/AKR20261113042200062",
-    "https://www.yna.co.kr/view/AKR20261113042400007",
-    "https://www.yna.co.kr/view/AKR20261113041500005",
     "https://www.yna.co.kr/view/AKR20261113041200062",
     "https://www.yna.co.kr/view/AKR20261113039900003",
     "https://www.yna.co.kr/view/AKR20261113039800005",
@@ -4999,7 +4986,20 @@
     "https://www.newsis.com/view/NISX20261113_0003867088",
     "https://www.newsis.com/view/NISX20261113_0003867689",
     "https://www.newsis.com/view/NISX20261113_0003867625",
-    "https://www.yna.co.kr/view/AKR20261113148300001"
+    "https://www.yna.co.kr/view/AKR20261113148300001",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JaE5QT01BdVZ2OG1pazBPTGZpU3lDT21PN1hHOFBIWlRBYWVBSTNRejFnT2hKSXhEMW1jZjkxek0weWJwcHlqSmZtY01pTF9DZEVvRW1B?oc=5",
+    "https://www.yna.co.kr/view/AKR20261114006400091",
+    "https://www.chosun.com/economy/startup_story/2026/11/03/ACAU2WEPSJCJLFOL2IWEHVGIGI/",
+    "https://www.chosun.com/economy/startup_story/2026/10/28/5NGB67QO7NG35ABONIR7SK63FA/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/14/MU2DSNBVGUYDKYLCGM3TANZZMY/",
+    "https://www.chosun.com/economy/startup_story/2026/09/08/7KF7I3NUZVDU7CTOXZQM3J4GTY/",
+    "https://www.chosun.com/sports/baseball/2026/11/14/MVRGMYJRMQ2GMMTEHE4WINJUMM/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/14/EUDHT3TVA5FILEVSC24ETSBPOU/",
+    "https://www.newsis.com/view/NISX20261113_0003867799",
+    "https://www.newsis.com/view/NISX20261112_0003865814",
+    "https://www.newsis.com/view/NISX20261114_0003867932",
+    "https://www.mk.co.kr/news/stock/12207669",
+    "https://www.yna.co.kr/view/AKR20261114006000071"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "집값주춤하나kb부동산10월서울아파트값상승률연내최저",
     "태풍참피영향으로타이완인명피해일본만여가구정전ytn",
     "서울아파트값상승최장기록재경신전세대출도불안",
     "여성경제인협회출산육아고려한창업지원기준개선환영",
@@ -9031,7 +9030,8 @@
     "엘니뇨타격페루중앙은행약4년만에금리인상",
     "베선트메가스피드제재권한은상무부러트닉공개저격",
     "엘니뇨직격탄페루4년만에금리인상단행ytn",
-    "국힘오늘서부산서조작기소특검법규탄집회"
+    "국힘오늘서부산서조작기소특검법규탄집회",
+    "美민주거부권유도로트럼프에맞불대선앞입법공세채비"
   ],
   "opinion_date": "2026-11-13",
   "seen_opinion_links": [
@@ -9067,5 +9067,18 @@
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DeEduS2dBb2c0bXhZOVNmN0dXakpLUjhsTE9rM0xNTjk1Mm1vRWRCUi1nOEZVOEZvVnRudmZnTkQtclRfUExTS1dDdFFvM1RzMkRBemdzTlJwbTdoWllhQVUzNlJVMVZwQ0E?oc=5",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PY1VYU3RSTVdVekJ5QWM2c2ZkMkMzejhqM3l1YnpPM1p3My1JYl9tcHhvX3R5cmlVbFVjOHEta0JjY3VSckdIclRGMzlZOXBnUC1DSFB1dDE?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "한국경제 경제": {
+      "failing_since": "2026-11-13T20:30+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-13T20:30+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-13T20:30+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-13T20:30+00:00"
+    }
+  }
 }
