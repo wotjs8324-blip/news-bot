@@ -1,15 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261113136400008",
-    "https://www.yna.co.kr/view/AKR20261113136600004",
-    "https://www.yna.co.kr/view/AKR20261113131900004",
-    "https://www.yna.co.kr/view/AKR20261113131300530",
-    "https://www.yna.co.kr/view/AKR20261113136300052",
-    "https://www.yna.co.kr/view/AKR20261113136000008",
-    "https://www.yna.co.kr/view/AKR20261113099700054",
-    "https://www.yna.co.kr/view/AKR20261113116000030",
-    "https://www.yna.co.kr/view/AKR20261113135000030",
-    "https://www.yna.co.kr/view/AKR20261113128300051",
     "https://www.yna.co.kr/view/AKR20261113133200063",
     "https://www.yna.co.kr/view/AKR20261113133300008",
     "https://www.yna.co.kr/view/AKR20261113040151008",
@@ -4999,7 +4989,17 @@
     "https://www.chosun.com/international/international_general/2026/11/15/FHQKPLBOWVH7HD67QCFBC7NOAU/",
     "https://www.chosun.com/jp/international-jp/2026/11/15/H7V4XSIURNDJTDGYUTBB666JZE/",
     "https://www.newsis.com/view/NISX20261115_0003868282",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xMWJxQ0ZUR19nLWctTW5YQmhDTlBkSDZ2OXhuSVVscS1lWGh5UWhNY1dDZk4wUnU5cjltWjhzMEZsUEY4MUJXal9rMGlNUUZ0eHVlQ0xB?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xMWJxQ0ZUR19nLWctTW5YQmhDTlBkSDZ2OXhuSVVscS1lWGh5UWhNY1dDZk4wUnU5cjltWjhzMEZsUEY4MUJXal9rMGlNUUZ0eHVlQ0xB?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RemNWYzFLLTJoLU80WTR4X0VLWDZLUHpLUmY0SUlkZ2RzbVVtMWVmb2tzdkttbk1FVjZiZ0FmZnpCWDlVS1hNVW4waHhUaUxYTEdXQVk4MldEc0U?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261115025840bDU",
+    "https://www.yna.co.kr/view/AKR20261115001400071",
+    "https://www.chosun.com/sports/world-baseball/2026/11/15/HA3WIMZRMU4DQYRRGEZTQZLFHE/",
+    "https://www.chosun.com/sports/basketball/2026/11/15/MM3WIMBWHE3TGYRZMU3DCNBTMI/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/15/LISKZQ774FCLBDCCOA7C6TTDVI/",
+    "https://www.chosun.com/jp/international-jp/2026/11/15/SICJOTVNH5DDTCZ5N3OPLB7VZA/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yT0R5S0ZtMENMY0NHdl9rMWJhSjF2ZFVWRnJiTkNnaXJoRTJEbmNXa1JZTkpBdnR2Z3hSMERBRGJUcTVhVm5HSEpudU0xU3hRQlpvajV3?oc=5",
+    "https://www.newsis.com/view/NISX20261113_0003867525",
+    "https://www.newsis.com/view/NISX20261115_0003868284"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "원달러환율1310원대근접명목실효환율2년만에최고",
     "양평나들목근처서승합차가화물차추돌2명숨져ytn",
     "조여도89주째오른집값가계대출완화당분간어려울듯",
     "코픽스급등에고정변동대출금리차축소고민깊어지는차주",
@@ -9031,7 +9030,8 @@
     "트럼프中수출규제완화전엔비디아주식대규모매입",
     "프랑스5주연속주말시위물가급등에생활비sos",
     "美이어러도19일미중러정상회담개최확인",
-    "러시아19일미중러정상회담개최확인"
+    "러시아19일미중러정상회담개최확인",
+    "크렘린도19일中서미중러정상회담개최확인"
   ],
   "opinion_date": "2026-11-14",
   "seen_opinion_links": [
