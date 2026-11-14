@@ -1,15 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/sports/baseball/2026/11/13/GZRTGYLDHEYTOZRYGJSTINTEMU/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/13/GUZWIYLGGYZGKNRSGQ4TQYTDMU/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/13/MIZWENBZGRQTKMZTHE2TMMJWGI/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/13/GA3TENRZGZRDCNJZGE2TCZLEMY/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/13/MYYTINDEGBQTQODCGYZTQYZTMM/",
-    "https://www.chosun.com/economy/tech_it/2026/11/13/MNRDQYRQMQ3TMNTBG5RDCZTDMQ/",
-    "https://www.chosun.com/economy/market_trend/2026/11/13/MU4TGY3DMVSDCMRQGAYDMY3EGM/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/13/HFRDOMZRGRSTINLGG5SDGYLEMI/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/13/GRRTAMRSMZRTGY3BMNRDMNZWME/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Na2Njd1N3YTZuV0NELVBia05IS2F0NWZ6eHNDWkdZNDhqZ2NVSjlEbnZ3QVpiMHgzbDBwUEZfdi1aTVBVdFI5bDFLYXFNMnJXZkx1dW5n?oc=5",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zRmtOWFhWUDYxdTV5eEU4dXpNelBqMXlYb1RqZjJJdk1yd2t2V3hUMHJuOFV0dGhUWUhidDR1T21oLXhGcHh6VHdJWjNPbjdhS0Q0WWl3?oc=5",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rbmRERUZhNnl1TUFYdHhTMkx1VjBfTWZqV0lRYUFlNV8ycnFqZWFUU2k1QUNCYTdrSmY5a3liQXQ5T2lpNnVLOTlCWFdOQmEyZTJCNzdn?oc=5",
     "https://www.donga.com/news/Inter/article/all/20261113/135021410/1",
@@ -4999,7 +4989,17 @@
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wU09FSFdPcFZJZEVXLXM1bXhBd215SjJqTWJWNFhIaDNuN3Faa3dFS29zLWJrTklTQWtBaWlPczVwZ1FiRUNsOTZtZkxrOTB3VnJqdWhteTBrX2Rod1E?oc=5",
     "https://www.yna.co.kr/view/AKR20261115000651085",
     "https://www.chosun.com/jp/sports-jp/2026/11/15/ZHEOUICMNVA2JP3W6ZM7OUN4VM/",
-    "https://www.newsis.com/view/NISX20261113_0003867428"
+    "https://www.newsis.com/view/NISX20261113_0003867428",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtN29oUFM4dlVkeW9iZWVpb1NGYk5yWGNZUFNoWXVLZHFxcFVOWDBYNVBGdU1rWUpBOHIzRmtQMkJDSGhQWFA3TXhkVDBIcXc5b2JuTzVXNHV2enN5cnJxTGU5TUlQUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fNm9UclZwSG85MWtDQVJmQnRuc1VHdWlMUk1YbmVjclVQR1NMWmJUN2o3SkJicWJubTRmUldOYm0zckVjNFU1eHJYNi1DNkNNZTh5d1lpX3dtcXNSTmZ2T0lDZmVRUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UVWtLSDZ0cVF5OC1FcFBsRmlOekMyRE9VeUxrZzF4d29ITEQxTUdpUXVZT2lQUU1pbGN6NlVzV3dnZFBMa0hDcTB4VnZENEtadmRma1BBZTg4NDNMMUVPYWhGVFJibkhvY1lHXzB2T0N2S3lTY1E?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uMVZiTThwOTN4ek5aYmR6LWZqcnlDUzNYQ2pMZXR2YlF3aG9oNWxSNHVLbDlqSGxVM3NBTEtjdjNtbGxtNkg5dl9yWWpjMUZVeTdYOVR2TVFwT3V1MWhsYWZ5SnBFSTZBU2pfVEd6d0dzcE1fanc?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qY05vNkpWeTc1djU0ZzlPeV9TNUV4SEY0T1lvQkJOU3JWNTlER2FWZzNHZ1FIN1ZoUjhGYlpvVUkwQWRMT1hTaXhfVmcyZFIyVmFubmNDMVNia0VsdU92b2FuUllSbEdUTWJxS1Y4aVBmSUkzWkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZekpmdmgyWFg2WncxNHZvX25LelhSdzRWSF9pNk13ZkdyX2VibmdDblZKVUh6RzVCbFlXX3RRSlM1TnA4SGNwN09EMDFDNXZpZlNYX3YxZTdRbm1zYXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HS0JGaEpqMmdTQkQ5WkFxVlNoUmk1TVR0c1Z4bEdmVkM1WUhXR3lNVmtIVFFEQkFidG4tNGJ2M2d4Z2NhZWJYVXJlMDRvdkMwUThhdEo0S09UcXB4QXc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261115001800072",
+    "https://www.newsis.com/view/NISX20261115_0003868285",
+    "https://www.yna.co.kr/view/AKR20261115002000091"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "조여도89주째오른집값가계대출완화당분간어려울듯",
     "코픽스급등에고정변동대출금리차축소고민깊어지는차주",
     "중금리대출확대에카드론금리석달만에13대로하락",
     "英국방2030년쯤전쟁발발1000일남아",
@@ -9031,7 +9030,8 @@
     "美이어러도19일미중러정상회담개최확인",
     "러시아19일미중러정상회담개최확인",
     "크렘린도19일中서미중러정상회담개최확인",
-    "미이어러도19일미중러정상회담개최확인"
+    "미이어러도19일미중러정상회담개최확인",
+    "콜롬비아서버스전복사고최소6명사망11명부상"
   ],
   "opinion_date": "2026-11-14",
   "seen_opinion_links": [
