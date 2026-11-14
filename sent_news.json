@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261113133200063",
-    "https://www.yna.co.kr/view/AKR20261113133300008",
-    "https://www.yna.co.kr/view/AKR20261113040151008",
-    "https://www.yna.co.kr/view/AKR20261113132700052",
-    "https://www.yna.co.kr/view/AKR20261113107351004",
-    "https://www.chosun.com/national/education/2026/11/13/IUUSBOTGZNEPTKZSY36EB22ERU/",
-    "https://www.chosun.com/economy/tech_it/2026/11/13/VZDIC4RXNFGSZMOLM37KC53KCM/",
-    "https://www.chosun.com/national/labor/2026/11/13/6PKRBTLHDJAMHEE5CZG32ODIKQ/",
-    "https://www.chosun.com/national/court_law/2026/11/13/ICMZ4QSGWFEM7HPDGTGKYNI6TM/",
-    "https://www.chosun.com/sports/world-football/2026/11/13/G43GGNJUHBQTGYZRHE3TINJZMY/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/13/GFSDEYLDMM3TCOJTGY4DCMRXGM/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/11/13/MI3DOMBRME4WKMDBMRSWIZJXMU/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/11/13/HAZTQOJXMRSDAMRRGVRGCZBXGI/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/11/13/HA2TOMBXG5RTAZBVMUZTIYTDHA/",
@@ -4999,7 +4988,18 @@
     "https://www.chosun.com/jp/international-jp/2026/11/15/SICJOTVNH5DDTCZ5N3OPLB7VZA/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yT0R5S0ZtMENMY0NHdl9rMWJhSjF2ZFVWRnJiTkNnaXJoRTJEbmNXa1JZTkpBdnR2Z3hSMERBRGJUcTVhVm5HSEpudU0xU3hRQlpvajV3?oc=5",
     "https://www.newsis.com/view/NISX20261113_0003867525",
-    "https://www.newsis.com/view/NISX20261115_0003868284"
+    "https://www.newsis.com/view/NISX20261115_0003868284",
+    "https://www.chosun.com/national/court_law/2026/11/15/CTIPZMCS5VDNTO476B4WM7BJRY/",
+    "https://www.chosun.com/economy/weeklybiz/2026/11/15/N656DOYEHVAY5GYJQJ7U6JJ5D4/",
+    "https://www.chosun.com/politics/politics_general/2026/11/15/B5JY27Q5C5BTTOHO5OC5LPIZEU/",
+    "https://www.chosun.com/culture-life/music_concert/2026/11/06/PHUA7LKAMZHV7MXSJL7YLECXHI/",
+    "https://www.chosun.com/national/national_general/2026/11/15/ZQKW2RLNXZBPRLSXLMH3RRAAJM/",
+    "https://www.chosun.com/culture-life/book/2026/11/15/BGVOBM7RARHNXMLESBJGU76Y7E/",
+    "https://www.chosun.com/national/people/2026/11/15/PG6HT34JEVEOFL3GNXWFWB2URE/",
+    "https://www.chosun.com/sports/world-football/2026/11/15/MQYDANRVMFSTGYRZMYZTCM3DGU/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846115&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846113&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846114&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "양평나들목근처서승합차가화물차추돌2명숨져ytn",
     "조여도89주째오른집값가계대출완화당분간어려울듯",
     "코픽스급등에고정변동대출금리차축소고민깊어지는차주",
     "중금리대출확대에카드론금리석달만에13대로하락",
@@ -9031,7 +9030,8 @@
     "프랑스5주연속주말시위물가급등에생활비sos",
     "美이어러도19일미중러정상회담개최확인",
     "러시아19일미중러정상회담개최확인",
-    "크렘린도19일中서미중러정상회담개최확인"
+    "크렘린도19일中서미중러정상회담개최확인",
+    "미이어러도19일미중러정상회담개최확인"
   ],
   "opinion_date": "2026-11-14",
   "seen_opinion_links": [
