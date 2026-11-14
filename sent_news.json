@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TbjRwQXZWZUZ1aTNnMUpObUNSVUVuT1NPS0FBelU5Vkh0THFKc1Y4ZTRLWnlLYkxVOUlNR1NDckhTMlBBZ1hvOVh6VEYwWXlFX1FLMFhhM0tBaE5DSFlDT29yM2hGeE5uVThkVWFxbw?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE53WjNCNkZBbXVkc3VIdUhGY0Z5SlpMaFdDTHdyN1pTOVVLaG4tSloxRTg4bDFlbWZzMURyelVSeUkxTzFSaElOdDVwREVXMG43YjJXZUI2UUFPMldoMVlOSmtySzZzb0NmSUNhMHpvTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KX0p0aHlncGtOejQ0V2duM3NnT1lrVjJiUUpjZWFxejVCODl6RzdTeWxlckotRXBWa3BneVpkS2tETDQ2eTZvMEVwZGowM2hVUFBLUjVHYWstNnhvaTVJajFpUkVfcV9XbDhvcU1rQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iVVJtbGZ0ZUxQNUhVNmhMdG02V0JtSGp4aVItcXd6d3RfMDhzTlhWRFlPbTRkSUVHcnFCWlNFZTdHMWJUMHR3WTFsQXNWUGQ2TS10YVFObkZLZGR3Y1E?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81RUJLV3djZklaZnp3UUJ2STVUYWI1WWh6Ymd6eU15T3FzeExSNS15S05lQkZPUElvSUhpYjdhalFWRnB0LTNER3Y2RHlUVWJDUUxkcmxGbWc5a0o0elE?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSSHk0alQ4OVZnam1yeWFWQmo0c09lNDluTHNWYVNvNFRDVllaWjhPaXVJbVZWSlRIWXhyblExb0dHdDQ1cHBIT3laNnJ3SXdfY2tGc1RMOE9hdzhJamfSAWNBVV95cUxQSkxNRG8wM25fMGphTE9zYWpMRFEwSFBFU2gxYzlaYk1POEg0VkNQaWR0R3hxTERUWnZDX0pfalc3bmVIc0cxMGJFUzRZVjRTQmNYNkFwcFpyVmNKQ1VWS21ELVU?oc=5",
     "https://www.yonhapnewstv.co.kr/news/AKR20261113161322Tpc",
     "https://www.yonhapnewstv.co.kr/news/MYH20261113161217pdJ",
     "https://www.yonhapnewstv.co.kr/news/AKR20261113161146GtQ",
@@ -4999,7 +4993,13 @@
     "https://www.newsis.com/view/NISX20261113_0003867376",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230706",
     "https://www.mk.co.kr/news/stock/12208088",
-    "https://www.mk.co.kr/news/stock/12208082"
+    "https://www.mk.co.kr/news/stock/12208082",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQUmdLWHltLWJUTHgtQzhMRjUtMFJWQldxaHFYeGVWWXozYVdFZkhvYTZDeDhtYWlYLW9vbFl3QzJXNTVWejNIREVkMDBSQVNrU1BSZWhxQnpkZjBrWXhwMmtMZmRsUQ?oc=5",
+    "https://www.yna.co.kr/view/AKR20261114049700005",
+    "https://www.chosun.com/international/international_general/2026/11/15/5G4HGEJOKZBMTP3MMGZ4PZXTKM/",
+    "https://www.newsis.com/view/NISX20261115_0003868280",
+    "https://www.mk.co.kr/news/business/12208090",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261115013402l4z"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "佛르펜반정부시위속대선출사표국민통합프랑스부흥",
     "원달러환율1310원대근접명목실효환율2년만에최고",
     "양평나들목근처서승합차가화물차추돌2명숨져ytn",
     "조여도89주째오른집값가계대출완화당분간어려울듯",
@@ -9031,7 +9030,8 @@
     "미재무메가스피드제재권한은상무부내부갈등노출kbs뉴스",
     "트럼프中수출규제완화전엔비디아주식대규모매입",
     "프랑스5주연속주말시위물가급등에생활비sos",
-    "美이어러도19일미중러정상회담개최확인"
+    "美이어러도19일미중러정상회담개최확인",
+    "러시아19일미중러정상회담개최확인"
   ],
   "opinion_date": "2026-11-14",
   "seen_opinion_links": [
