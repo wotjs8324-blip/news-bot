@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261113_0003867436",
-    "https://www.newsis.com/view/NISX20261113_0003867419",
-    "https://www.newsis.com/view/NISX20261113_0003866546",
-    "https://www.newsis.com/view/NISX20261113_0003867415",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230706",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230691",
-    "https://www.mk.co.kr/news/stock/12208088",
-    "https://www.mk.co.kr/news/stock/12208082",
-    "https://www.mk.co.kr/news/stock/12206705",
     "https://www.mk.co.kr/news/stock/12206704",
     "https://www.mk.co.kr/news/stock/12206702",
     "https://www.mk.co.kr/news/realestate/12206696",
@@ -4999,7 +4990,16 @@
     "https://www.chosun.com/jp/sports-jp/2026/11/15/74RLPLJ2HFDB3E4YEWJOANLXXE/",
     "https://www.newsis.com/view/NISX20261113_0003867374",
     "https://www.newsis.com/view/NISX20261115_0003868274",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261115004638e0w"
+    "https://www.yonhapnewstv.co.kr/news/AKR20261115004638e0w",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE55aHhVQXFWX1RFUW9acURyX1Bkdlo2X3NuVFRKV3ZIV2FWMUc2QUZNOXFERHhvdUdYN1h3dWN5Z0lMWm9GR0JXZkhrb1lSdkRJNUZUam9FZUVYOV92X052QkxVanVKV0phSnVfSXltYw?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XVU1BYXJCMlgyNzB2ZktLVVZ1bmFaaTlJeTB3R2E2cjNONEpGR3VDakNsQTFRNjRqRDhybGp0dE15d29ONS1YMzNGU2pNbGZ5SERhX0twU0NFb1JBNVVnLV9haUxKdnYxemZPc21taw?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR202611150100365nG",
+    "https://www.chosun.com/sports/baseball/2026/11/15/GNSDKMRXGY2TCYZQGYZDMYRQME/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/15/BNL6TPWGJVBDTBJSPXZQJRGNVA/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/15/E3NWJ45DFFGEZNTLJ7PNQNMYPI/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/15/MGPVB2P4IVDNDA3ABHPC7C635I/",
+    "https://www.newsis.com/view/NISX20261113_0003867441",
+    "https://www.yna.co.kr/view/AKR20261115000800109"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "상하위20집값격차290배로상승다주택등포함시더확대",
     "佛르펜반정부시위속대선출사표국민통합프랑스부흥",
     "원달러환율1310원대근접명목실효환율2년만에최고",
     "양평나들목근처서승합차가화물차추돌2명숨져ytn",
@@ -9031,7 +9030,8 @@
     "19일미중러정상회담트럼프김정은회담예정없어",
     "미재무메가스피드제재권한은상무부내부갈등노출kbs뉴스",
     "트럼프中수출규제완화전엔비디아주식대규모매입",
-    "프랑스5주연속주말시위물가급등에생활비sos"
+    "프랑스5주연속주말시위물가급등에생활비sos",
+    "美이어러도19일미중러정상회담개최확인"
   ],
   "opinion_date": "2026-11-14",
   "seen_opinion_links": [
