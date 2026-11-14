@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261113_0003867404",
-    "https://www.newsis.com/view/NISX20261113_0003867403",
-    "https://www.newsis.com/view/NISX20261113_0003867400",
-    "https://www.newsis.com/view/NISX20261113_0003867426",
-    "https://www.newsis.com/view/NISX20261113_0003867417",
-    "https://www.newsis.com/view/NISX20261113_0003867409",
-    "https://www.newsis.com/view/NISX20261113_0003867424",
-    "https://www.newsis.com/view/NISX20261113_0003867421",
     "https://www.newsis.com/view/NISX20261113_0003867418",
     "https://www.newsis.com/view/NISX20261113_0003867386",
     "https://www.newsis.com/view/NISX20261113_0003867372",
@@ -4999,7 +4991,15 @@
     "https://www.chosun.com/jp/international-jp/2026/11/14/WIGOAMKNYNDT7OEIPICWL6NR5Y/",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846096&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846097&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12208072"
+    "https://www.mk.co.kr/news/economy/12208072",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JV19KSVhOUjF4emVYVTROQ0NzRjBlaDdYSDMxdjJfaDlQckc2aWlJVFVDU0w0TFJQc1NqaklrZnJ4TmQyMjZ0N1lBM2dzVlV5U05mdV9oRWFzekU?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjY1R5WXJLTVA3STg0V2JiZ2I1akgyem4wYm1XbnF4ZDdmT0xUV3hNbTYtRW8xeDlxVjVnZE1oYUFrUDRaTVRQbjVNQzNBRl9WVFhrOG9SUktYWG96Ymc?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261114225624bTK",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/14/MM3DGMBRMVRTMMJUME4WIMLFGE/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/14/WP7KT63QLJHFFCR35YHNM5TBQ4/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/14/RIS7ETVBOBEABPXBAEHXE4GSMU/",
+    "https://www.mk.co.kr/news/stock/12209039",
+    "https://www.mk.co.kr/news/business/12209041"
   ],
   "initialized_feeds": [
     "조선일보",
