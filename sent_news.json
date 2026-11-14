@@ -1,15 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261113_0003867380",
-    "https://www.newsis.com/view/NISX20261113_0003867408",
-    "https://www.newsis.com/view/NISX20261113_0003867496",
-    "https://www.newsis.com/view/NISX20261113_0003867389",
-    "https://www.newsis.com/view/NISX20261113_0003867491",
-    "https://www.newsis.com/view/NISX20261113_0003867462",
-    "https://www.newsis.com/view/NISX20261112_0003865791",
-    "https://www.newsis.com/view/NISX20261113_0003867489",
-    "https://www.newsis.com/view/NISX20261113_0003867346",
-    "https://www.newsis.com/view/NISX20261113_0003867488",
     "https://www.newsis.com/view/NISX20261113_0003867423",
     "https://www.newsis.com/view/NISX20261113_0003867454",
     "https://www.newsis.com/view/NISX20261113_0003867490",
@@ -4999,7 +4989,17 @@
     "https://www.chosun.com/jp/culture-life-jp/2026/11/14/WHLWLWLBIVBONNNJPKGJ67HDPU/",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008844842&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261113_0003866909",
-    "https://www.newsis.com/view/NISX20261115_0003868272"
+    "https://www.newsis.com/view/NISX20261115_0003868272",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mVVZqZTV4VGVsY1BoRnctdkFWRl8xVWhLTVZYNzd5R25hNmUtUDUzQWp6Y056ei15NEs5SXVtTS1zZUtiTmFNeTJrRWhjZUQ2RklKbHVsN3A5dFA4Mkl3aEFieE8?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRWFFidkk4M1JBT0p2bUFUR1RPdnk3Z21neUZGbE14TklQVnBDcDlNN0FjeEo5a0RGS296TUhaWkhjbmhQaXo2Wk5FaWYxWklOTW1ROG1fWkkwbzY1dkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wTmRTYnFUVWU0UDZPQlZtMmRwaWJwU2RGOTYyUnNsWHNib2dhLVZ2d0NsNkZLdlp6RGJ5cm00WVl1dlAzUUREem1nQnNfZVpFMy1lQmd6VmR6M0E2dXc?oc=5",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/15/GQ2DMM3EGJTGENBSGYYDMYZZMM/",
+    "https://www.chosun.com/sports/baseball/2026/11/15/GIYGENRUGA2GEYJYGAYGIMTEME/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/14/NTMQATVUCZBXVBUZCXATUPM3WM/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/14/6FTGK6KMJRHYNB2IBMMQFFC3PU/",
+    "https://www.newsis.com/view/NISX20261113_0003867627",
+    "https://www.newsis.com/view/NISX20261113_0003867601",
+    "https://www.newsis.com/view/NISX20261114_0003868268"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9068,5 +9068,21 @@
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PY1VYU3RSTVdVekJ5QWM2c2ZkMkMzejhqM3l1YnpPM1p3My1JYl9tcHhvX3R5cmlVbFVjOHEta0JjY3VSckdIclRGMzlZOXBnUC1DSFB1dDE?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oelpPTnlaZnJZY29zR090dTk0bEh1QmcwaEdFZHhKNTh1dTdKdlh6anVFRDFLUzBVZ0lJaUY1cWI3enYxbDNPWE0tUWYxUV9LUFhEbjBaNA?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-14T15:30+00:00"
+    },
+    "한국경제 경제": {
+      "failing_since": "2026-11-14T15:30+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-14T15:30+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-14T15:30+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-14T15:30+00:00"
+    }
+  }
 }
