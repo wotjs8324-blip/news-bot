@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Inter/article/all/20261114/135024298/1",
-    "https://www.newsis.com/view/NISX20261114_0003868128",
-    "https://www.newsis.com/view/NISX20261114_0003868120",
-    "https://www.newsis.com/view/NISX20261114_0003868107",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jcEhIMWpPNnI4MkFXbi1XMVo0TzhiZzRabGtnWV8xbnRzbUxScGV3TGxTdEdhY3ozWmY4QTk4S3J5UUlaR25sdU1WakVJaDF4c1RUTXdyWF9vQlFqWFFCLW5xeUYxdw?oc=5",
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2SHE0VUQ4NGlNeThkdmFiSWJuSmlGTWRiVjIwYjg1Mm1rVU5YSC1zRXJWd2ZOUzFiZnZ6SW9CWVI5VkhqS1B1WGQ4NXhVbHdDZmJ0WHo4YlhvRGQtWFFHdnRpUG1JRWFnai1B?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BalA5SnpWVThSQVhWOF9nMjdNSExMb3dnOURfdTVvbjJTa1hDdHJ5SjBLSlBiMzFrSHctZmN3aXFndnBaN1JKMm42c0hJQ1MxdVlFLTFoVVJfZzBmYVHSAWNBVV95cUxObGRZSzU1Si1WMEFBcUE5VmtEMk9wc2I2UkZHUlNaQkZXQ1ZlZFBxVG1NMjEwZzlqdnRmakoxM29RN1ZnSFZsQ1dtNzBvX1d4alpCZkE5dXJzSkl6ZlkxZVRTNnc?oc=5",
     "https://www.yonhapnewstv.co.kr/news/MYH20261114152747itZ",
     "https://www.yonhapnewstv.co.kr/news/MYH20261114152209ae6",
     "https://www.yonhapnewstv.co.kr/news/MYH20261114152110GU8",
@@ -4999,7 +4992,14 @@
     "https://www.chosun.com/sports/world-football/2026/11/16/HE2TGOJRG5SDKNDEGRSDEZJZGU/",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846941&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846940&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261116_0003868836"
+    "https://www.newsis.com/view/NISX20261116_0003868836",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pbWl0MUZRUXVLaV9xVDlTWGo5SmZjWVNUeGFiM2FpdERhWHN6ek1FNkFnVG1pM3FiOF9pZGhIbVRvMl82SDZlUkRWMFdUc1U0NmIzMkMxY3g3Ri1Xb09SVDVJUXNydw?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE41WXpkXzk5c05RdEpTNWh3czFKejUwMjF6NUFIQk9Sa3hZRUg3QW5lWTBQeDY5emVTSlFrS2pxUkZVaXd1dkxqRF9aQVFoZDRydXIzQ1RWdWFmU2JVVHZCWUJac3BYcEd3RGk1Unc0OWRnTXl3STF1QzV30gF6QVVfeXFMUEdTdTFxaWJXMi1QYjNhamphTXJoUlp2M1laNGpfMGtMQWxCR3hhVEtReHcxaktFOG9GMDhCQml4T25EaG1wM2ZzV2VTeEU1eTFSNUZtenZCaEM4UGs4TEhndHBSV1o0Qkx6ZGFDSTNiX1lRSmJqeW5RblE?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846946&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846942&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261115_0003868823",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Gd1hFbjQtWXdJVGF5VDJESHo0RElnWVpUb05BNXJTVkhNaWFtLWpTc05pZFYtOEhWaV9rbV9iT3JkaXZZMnpQaDNzaXFTVmNpVTI3ZktqRTJDZ3NWS1dOWXhqTENGQQ?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846947&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "강남집값버티던59도꺾였다하락세확산조짐",
-    "이대통령룰라브라질대통령당선축하미래향해힘차게나아가길",
     "빌라오피스텔은하락장선환금성떨어져소형아파트먼저고려를",
     "李대통령룰라브라질대통령당선축하미래향해힘차게나아가길",
     "k뷰티호조에中企수출334억달러역대3분기최대",
@@ -9031,7 +9029,9 @@
     "러트닉가족회사와연관된반도체수출규제완화추진",
     "nyt러트닉가족회사와연관된반도체수출규제완화추진",
     "러트닉ai칩대중수출규제지연의혹이해충돌논란까지",
-    "러트닉가족회사와연관된반도체수출규제완화추진ytn"
+    "러트닉가족회사와연관된반도체수출규제완화추진ytn",
+    "탄핵당한파라과이대통령별장엔수상한비밀금고kbs뉴스",
+    "nytcnn트럼프협상공격없이경제제재로이란붕괴기다려"
   ],
   "opinion_date": "2026-11-15",
   "seen_opinion_links": [
@@ -9069,5 +9069,21 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oelpPTnlaZnJZY29zR090dTk0bEh1QmcwaEdFZHhKNTh1dTdKdlh6anVFRDFLUzBVZ0lJaUY1cWI3enYxbDNPWE0tUWYxUV9LUFhEbjBaNA?oc=5",
     "https://www.hankyung.com/article/2026111575031"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-15T19:15+00:00"
+    },
+    "한국경제 경제": {
+      "failing_since": "2026-11-15T19:15+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-15T19:15+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-15T19:15+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-15T19:15+00:00"
+    }
+  }
 }
