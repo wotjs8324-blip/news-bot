@@ -1,24 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/MQ2DOMBRGM3GCZLDGRRWEYJRHA/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/G5QWIODDMZSWMOJWGYYDCYZRGM/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/ME2DOZRZGNQWIYRRMQ3DEMDEGE/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/MNSWMNRTG4YDKNRVMUYTQNBRMY/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/GNRTKY3CHFSDCYZQMI3WGODCMQ/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/MNRDIZJVGNQWIZJXMUYTMMJSGU/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/MZTDGYLBGU2DGNZUGJTDOZTFGU/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/HFRGIMBXGU4TMMJWMJQWEYZYG4/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/GFRGGYRZGFSGMZJQGYYDSYLGGM/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/HFRGENTEGZQTAMJUHA2DENRRGQ/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/MM4GGNZUMQ2TEN3DMY4WMMJZG4/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/MVSGKMLFHEZWCNRUGUZTON3BHA/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/GIYDEMBXGQ2DGZBRG4YTGYJXMM/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/14/GAYGGZJRGYZDKNJTGIYTKNJSME/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/ME4GKZLBGE4DKMBSGY3TEYTBMM/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/GZQTEZDBMRQWKMJYMJSWIOLCHE/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/MZRTGZBTG44WGYLBGM3GEMZYMY/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/GQZGKZJUGJRDOYJYGA2TIMBRGI/",
-    "https://www.chosun.com/sports/sports_photo/2026/11/14/GYYWGMJXHEZDSNRWMJRWEYTCGU/",
     "https://www.chosun.com/sports/sports_photo/2026/11/14/HA2DCOJRGFRGCNZXG44TINJVG4/",
     "https://www.chosun.com/sports/sports_general/2026/11/14/G5RTMOJUMU3WKOBRMEYGGMDBMM/",
     "https://www.chosun.com/sports/sports_photo/2026/11/14/GBSTEMBQMQ4TCOLGGZSGIZJSGY/",
@@ -4999,7 +4980,26 @@
     "https://www.newsis.com/view/NISX20261115_0003868728",
     "https://www.newsis.com/view/NISX20261115_0003868716",
     "https://www.newsis.com/view/NISX20261113_0003867635",
-    "https://www.yna.co.kr/view/AKR20261115048800001"
+    "https://www.yna.co.kr/view/AKR20261115048800001",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261116052931fYd",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261116052836y8x",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261116052802FQo",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261116052524wV0",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261116052352PY9",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261116052025fwH",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261116051745bvL",
+    "https://www.chosun.com/economy/startup_story/2026/11/03/BOLRPHZXZZGWLJ6IJ3V5AEKXVQ/",
+    "https://www.chosun.com/economy/startup_story/2026/08/25/T4C3KRQTQBGFTOH6GESCUUISIU/",
+    "https://www.chosun.com/international/international_general/2026/11/16/P475OVK4UVH3ZP6QWR3Y7S54JE/",
+    "https://www.chosun.com/economy/startup_story/2026/11/13/DLWMXVYH5NFTPMWUQE47GPPJF4/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/16/62OISWW2WJCVLOHQOR5RQMA5NA/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/16/2763CD6J4JCDBGMN5B3ENX6GGQ/",
+    "https://www.newsis.com/view/NISX20261115_0003868578",
+    "https://www.newsis.com/view/NISX20261115_0003868581",
+    "https://www.newsis.com/view/NISX20261115_0003868697",
+    "https://www.newsis.com/view/NISX20261115_0003868683",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261116051625f09",
+    "https://www.donga.com/news/Politics/article/all/20261115/135027258/1"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "암치료법마다쪼개던보험특약금융당국개발기준강화",
-    "15억원넘으면대출금지sns괴담에금융당국경고",
     "조현29일g20외교장관회의참석차방미루비오와회담주목",
     "李대통령브라질대선룰라당선축하각별한친구이자동지",
     "kofr기반금리파생상품청산1년새10배로증가",
@@ -9031,7 +9029,9 @@
     "국힘부산서조작기소특검법규탄장외집회",
     "국힘靑찾아조작기소특검법반대현장최고위거부권행사해야",
     "이대통령아세안apec정상회의참석차오늘출국미중러정상회담속한중정상회담주목",
-    "국힘靑앞현장최고위조작기소특검법거부권행사압박"
+    "국힘靑앞현장최고위조작기소특검법거부권행사압박",
+    "예산정국본격대치한덕수조작기소특검공방격화",
+    "李정부임명공기업공공기관임원10명중1명민주당경기성남출신"
   ],
   "opinion_date": "2026-11-15",
   "seen_opinion_links": [
@@ -9069,39 +9069,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oelpPTnlaZnJZY29zR090dTk0bEh1QmcwaEdFZHhKNTh1dTdKdlh6anVFRDFLUzBVZ0lJaUY1cWI3enYxbDNPWE0tUWYxUV9LUFhEbjBaNA?oc=5",
     "https://www.hankyung.com/article/2026111575031"
   ],
-  "feed_health": {
-    "KBS": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    },
-    "MBC": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    },
-    "YTN": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    },
-    "채널A": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    },
-    "중앙일보": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    },
-    "중앙일보 경제": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    },
-    "동아일보": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    },
-    "한국경제 경제": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    },
-    "한국경제 증권": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    },
-    "한국경제 부동산": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    },
-    "한국경제 정치": {
-      "failing_since": "2026-11-15T20:15+00:00"
-    }
-  }
+  "feed_health": {}
 }
