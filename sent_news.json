@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.mk.co.kr/news/economy/12208863",
-    "https://www.mk.co.kr/news/society/12208862",
-    "https://www.newsis.com/view/NISX20261114_0003867999",
-    "https://www.newsis.com/view/NISX20261114_0003868102",
     "https://www.hankyung.com/article/2026111464627",
     "https://www.mk.co.kr/news/realestate/12208864",
     "https://www.newsis.com/view/NISX20261114_0003868109",
@@ -4999,7 +4995,11 @@
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83eUNOX3dDYmZnSzRHMHc5dG1KQ0NYUlRpWWZ5UmxsVTk4RWpIR0Q0S2Y2SjBiR1IyWUttcVBOSmhKMWVrY0RHdHd3dzJkZU0?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5VENUVzZwS3hwSm1VQkt1dlpTdW1NUnJQa01ZVHJMWjRVLXltQTdQbkE5cTl5aDJvQzBNLWNVRjlSMmw1eFlranhSOExiSUpJanE3X2JTVHNyU3pOcTM4SkhrT25kb3BWcmNoakJGcw?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqZUhXWl9TOFJyUGItMUVkdkpwaXZubTdnbEwwWGI3ZzB2dk5aejZPc1djd25xSlFtNnl0NElzdTVjQ2RRMTBzbUtaT3BNZ3dZbEZMZjN5NjFsZlZGQW03eTVIck1rNnN6a1VWd0xVWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1NWpLR2NuM0N6ZWpsT0t1QWsweThqVHI1aWIyX1FvaTQzeVpuUGR2MHFwNDlIUmltRlRDSERDVHBfWnYzdGF5RkVUcHl0LVN5Y1FxVmNR?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1NWpLR2NuM0N6ZWpsT0t1QWsweThqVHI1aWIyX1FvaTQzeVpuUGR2MHFwNDlIUmltRlRDSERDVHBfWnYzdGF5RkVUcHl0LVN5Y1FxVmNR?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IQlZDakNoNVV6S2oxQTF1cHhSOXFUWTcwRFh4RmtmZHp4SDdFa0EycWhBS01mNnpNOGdWbHRwWm5iRWhOX0N1cUp4dVJIM1U3RDRxY1pHTzhGSC0yTGQ3NzU0WVA1UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94dlF0S1BqMU0wckxLSzhRWGJSVTdLMmJrSWd1M29DSVMtLS1UbHdFOWJRV3h0djlESkJLNHlTRmp1UTI3OG55bHFENEVsNENLMk5FMzBlMFRCMWQzeWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTSU9nNHdNa1RLcHFSWmVwVGFYN0ROaEFyUGlaV2JiZGRRNERVMEFlOTRPbmpVTW0wbVREUy1GOWFweVhOemVnZlAwVHJCVHhaWWRWUzZ2QUlaZ2hSbnc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261116001200071"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9069,5 +9069,21 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oelpPTnlaZnJZY29zR090dTk0bEh1QmcwaEdFZHhKNTh1dTdKdlh6anVFRDFLUzBVZ0lJaUY1cWI3enYxbDNPWE0tUWYxUV9LUFhEbjBaNA?oc=5",
     "https://www.hankyung.com/article/2026111575031"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-15T17:15+00:00"
+    },
+    "한국경제 경제": {
+      "failing_since": "2026-11-15T17:15+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-15T17:15+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-15T17:15+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-15T17:15+00:00"
+    }
+  }
 }
