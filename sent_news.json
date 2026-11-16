@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261116_0003869225",
-    "https://www.newsis.com/view/NISX20261116_0003869268",
-    "https://www.newsis.com/view/NISX20261116_0003869273",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230706",
     "https://www.mk.co.kr/news/stock/12209689",
     "https://www.newsis.com/view/NISX20261116_0003869271",
@@ -4999,7 +4996,10 @@
     "https://www.chosun.com/jp/sports-jp/2026/11/17/I4EY6RTXB5HNPA2UUUQFBEGWBI/",
     "https://www.donga.com/news/Inter/article/all/20261117/135036220/1",
     "https://www.donga.com/news/Society/article/all/20261117/135036211/1",
-    "https://www.hankyung.com/article/202611170543i"
+    "https://www.hankyung.com/article/202611170543i",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Wa3BCb1FSdEdwbE1JQ25xRWtPaWM0OWkxQnhNZlVxMFlEMllvcmlJUmtCLS1WTWRjaUQxck1RdXd0UkRkYTdBaFk3Uk9iVnhpak85amg0ZFU1dS1IbWhTZDJPdGY4RGR0bHdN?oc=5",
+    "https://www.chosun.com/international/international_general/2026/11/17/GRRDOOBUGEZDMNZYMM3WKYRTGY/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/17/LIXJVGW22VBRRM6VO34LF3UAQM/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9082,6 +9082,9 @@
     },
     "뉴시스 정치": {
       "failing_since": "2026-11-16T17:00+00:00"
+    },
+    "동아일보": {
+      "failing_since": "2026-11-16T17:15+00:00"
     }
   }
 }
