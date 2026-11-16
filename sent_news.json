@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261116039451004",
-    "https://www.yna.co.kr/view/AKR20261116048900054",
-    "https://www.yna.co.kr/view/AKR20261116051500004",
-    "https://www.yna.co.kr/view/AKR20261116046300003",
-    "https://www.yna.co.kr/view/AKR20261116048200064",
-    "https://www.chosun.com/entertainments/enter_general/2026/11/16/GYZWCYJXMZRDQNDEMY4WMNRUGA/",
     "https://www.chosun.com/national/transport-environment/2026/11/14/S55LXFM7MRG2RF32AFD2RBCWPA/",
     "https://www.chosun.com/national/obituary-personnel/2026/11/14/4IROXBJMHRFHZAKWKRQU5ZUPOU/",
     "https://www.chosun.com/national/people/2026/11/14/UHF2H5ADOJE5RLV7TOYNO7C6UQ/",
@@ -4999,7 +4993,13 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848759&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848758&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848756&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261117_0003870621"
+    "https://www.newsis.com/view/NISX20261117_0003870621",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tZjY5Yl9nQ1BCbjR3UUY2Y1F6Z0RHRG9wTmRlbkNVMGZkUUlGVWdQR1BMY2FyYUhHbS1VbzgzZlBWd3NEcE1YbE5xYUR4bTVmT1JxQmhMN1Ayc19VaDhkS2JlM1FfX25pUWNDTmM3ZVpnSjRwbWVSNtIBeEFVX3lxTFBxS3BNWmZoLVQtSDRyQXFFalJ5Ri11YkhGSnRFMkxCanI2T2ExZHFEU1JxOTRvZkdkVzA0aXlxZV9rYkYxVnNydWZNRG1aM2Nndng5TlpsdlJ4VGFQRXlPX0RFdzB6VFJzYXlwNElaOHhKZHZaQzNmXw?oc=5",
+    "https://www.yna.co.kr/view/AKR20261117004800071",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848764&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848765&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848761&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261116_0003869008"
   ],
   "initialized_feeds": [
     "조선일보",
