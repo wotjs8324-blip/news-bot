@@ -1,44 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/national/national_general/2026/11/16/HY3GBHFPRZDKRDFFAMCSYOBXDY/",
-    "https://www.chosun.com/special/2026/11/10/XCM3J2WY4JF6LGNA4VTQBW6LXQ/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/16/MZQTCNTDHA2DGOJRG5TDCNLBMU/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/16/GZRDEMZWMM3DCMZTGU2DSNJSME/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/16/HE4WCYRQGJRWCNDDMJSGEYTFGU/",
-    "https://www.chosun.com/economy/industry-company/2026/11/16/G5SWIMRWGQ4GKNZRGQZTCYJYHA/",
-    "https://www.chosun.com/economy/industry-company/2026/11/16/MJSWMOJVMRSTGMJXG5STSNJYGA/",
-    "https://www.chosun.com/national/transport-environment/2026/11/16/5JODOPVOIZENJP6R2KA7CHAFQQ/",
-    "https://www.chosun.com/economy/tech_it/2026/11/16/GBTDAODFGQ4TSYRQGNQTCYZZMM/",
-    "https://www.chosun.com/entertainments/music/2026/11/16/GNQWMYJQGM4TQNRXMY3GCZJZGI/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/16/GQZDEZBWGVTGGZLGGQYTKZTDMM/",
-    "https://www.chosun.com/economy/realty/investment_trends/2026/11/16/MJQWKZBXGI3TEMLEMIYWCNRVHE/",
-    "https://www.donga.com/news/Society/article/all/20261116/135030583/1",
-    "https://www.donga.com/news/Economy/article/all/20261116/135030711/1",
-    "https://www.donga.com/news/Society/article/all/20261116/135030675/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847543&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847532&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846340&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846338&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846337&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12209081",
-    "https://www.mk.co.kr/news/business/12209771",
-    "https://www.mk.co.kr/news/society/12209766",
-    "https://www.mk.co.kr/news/society/12209757",
-    "https://www.newsis.com/view/NISX20261116_0003869404",
-    "https://www.newsis.com/view/NISX20261116_0003869471",
-    "https://www.newsis.com/view/NISX20261116_0003869440",
-    "https://www.newsis.com/view/NISX20261116_0003869358",
-    "https://www.newsis.com/view/NISX20261116_0003869498",
-    "https://www.newsis.com/view/NISX20261116_0003869507",
-    "https://www.newsis.com/view/NISX20261116_0003869487",
-    "https://www.newsis.com/view/NISX20261116_0003869497",
-    "https://www.newsis.com/view/NISX20261116_0003869267",
-    "https://www.newsis.com/view/NISX20261116_0003869465",
-    "https://www.newsis.com/view/NISX20261116_0003869318",
-    "https://www.newsis.com/view/NISX20261116_0003869488",
-    "https://www.newsis.com/view/NISX20261116_0003868967",
-    "https://www.newsis.com/view/NISX20261116_0003869447",
-    "https://www.newsis.com/view/NISX20261116_0003869485",
     "https://www.newsis.com/view/NISX20261116_0003869467",
     "https://www.newsis.com/view/NISX20261116_0003869486",
     "https://www.newsis.com/view/NISX20261116_0003869490",
@@ -4999,7 +4960,46 @@
     "https://www.hankyung.com/article/2026111696876",
     "https://www.hankyung.com/article/202611146307i",
     "https://www.mk.co.kr/news/stock/12209737",
-    "https://www.mk.co.kr/news/business/12209747"
+    "https://www.mk.co.kr/news/business/12209747",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tWTFhc29EcFFvaUI1bzhtbDRiQV9PSXc2eVY3T2hFcWVtQWRqOVN5VmlDTUVyY244bXBhYlE5SmQ0OXBxQ0Y1Q3dqcXlxaWhFMDVrVUNSMmxJanh6Z2VUSEJfMllVZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFByTS0zTVNiM2xWaExsUEhHYjhYejhqc2FFMlNsZElFa1JSenVESVVrSXdwYUxtbWNETk81NUNCOUlmS215eGVLZ1ZvQmU4YmxzdDJqYVJaQVM5eTRIRXFGVElQYUJqREVKM0HSAWpBVV95cUxNUldyeHpleGstRlc2VGhaS2Rsclp5QXhxOG1oRUJHVEJxVWtpSU9KN1VPOHZuODlyUm5aV2tLUHM3Uy1vbG5YT3M4T19OVUgtNDVVbV9hY0FMTzB1Q2tKQXRKalBhenpMRVhB?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rMXdHZ052ZmV2RlVoc0NCb3pTZXlCYmlWVkgxZzhmcjQ2ZzFaSU9SRnBINlhjcUtzUC1XcHdaVmc5dlVOTzhyR2diUEdGaFExd0xNRGVKVVdmVGlob3k4MHduZ0NTb2pxcEt3RE5naFpqcGs2UWFF?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JdVhUYTMxdjRhbGhza0F0em9TUU1QT3NIQnlxTTRyUE9iOUo0Ti0zVHM5U1V4eDRjYi04Yi1TX19fM2tJVGtVVmN1R0Y1bGhWbHdUcWt3RTdUbE1WSk1uRkxEQzN1Z1JzcmNubC0ydURmVlNZanpXU9IBeEFVX3lxTE05NHBjME9hakZGS21NNV9KU0lLYmFMWDhIT1AzZmpkR1dZOGhneHZWbEppdm1ubHliQXBWMjlmSTNwVkY3Vnl2dG16Um1lVklvRVV0dVg0Q24yOS13Qjl0Qm1OWkdod2c2eDhTZnZPalFGSHU5SGdsTA?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zcHIzcjV2cDBEOE0wd2hDVFlBdU5rU1pRcUpjSEhDZEtnYVp5ZC1BbmNwYlNwS2pKOUg5RUhsS2hFZVFZdWd6Uk5CNFZPRjlsVUpKQTBlc3pPT2xYUHRzYWg4dlI1bWwxdDl5TThFWExEeF9YNl9TadIBeEFVX3lxTE9lSUw4ZE90YTRLUXY3cExtMnluTmNJMG85b3BVdTBKQjI5dVluVWI3XzlZMmUwdm55Y0ltNUF0R3k4bTJYcW9vXzh4Um9fR19ES282S3ZrWHBtcFE1anlwQWVGaHRTUklSdW9HU242QzRQM0ZLdEpGMg?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWcXpBX2ZFeTR5ZERRMDFyRWRJdjM1SUY0S3ZDa1dfa0doT1gxOXJzbjhIbGkzQ2VVN1lVQmdJckc2YzRHSTBYV0k0NkJoM19IUkR3Z1VkV1o3WklKOFlqNXJHNzdJR1RtaGN1c1Nnd0E5Z1haVS00aw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jd045enJVZlNoYU43WTRqWkVDM2gyLUYxaDlfZHBsMDlmZHFBaEZjdzZNc3ZsREx6aHhxLU1WYV9SbGhkWFUyLXNxaGRwcFJNOEw3N2pMNERXZTlpUWc?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261117072641UaM",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261117072550T1W",
+    "https://www.yna.co.kr/view/AKR20261117014400504",
+    "https://www.yna.co.kr/view/AKR20261117015200007",
+    "https://www.yna.co.kr/view/AKR20261116135200065",
+    "https://www.yna.co.kr/view/AKR20261117014700004",
+    "https://www.yna.co.kr/view/AKR20261117012800009",
+    "https://www.yna.co.kr/view/AKR20261117012600091",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/17/GEZDQNZTGYYTEZLCGI2GKNRRGI/",
+    "https://www.chosun.com/international/international_general/2026/11/17/KD3DXEUD2VBM5BYPI44ROOU24A/",
+    "https://www.chosun.com/sports/basketball/2026/11/17/MEYTIM3FGVQWEODBMQ2DIMLEMU/",
+    "https://www.chosun.com/international/international_general/2026/11/17/MU2DQOJYMRRWIM3BMM4TSNLGGY/",
+    "https://www.chosun.com/jp/international-jp/2026/11/17/S2AACKMXHVETLF5LVTWJVIMKUQ/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05NUEyR0x2OVI1cE10YTZWbzFPeWhVeW9xSWZ3dmZQazRtZFphMldNZDc4emZ5bnJXNlpEYjRFRVRmSnBvcEVTODc4Y25hZ2N1dE12OXJn?oc=5",
+    "https://www.donga.com/news/Inter/article/all/20261117/135036327/1",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848930&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848772&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/society/12210785",
+    "https://www.newsis.com/view/NISX20261116_0003869866",
+    "https://www.newsis.com/view/NISX20261117_0003870650",
+    "https://www.newsis.com/view/NISX20261117_0003870657",
+    "https://www.newsis.com/view/NISX20261117_0003870662",
+    "https://www.newsis.com/view/NISX20261117_0003870646",
+    "https://www.newsis.com/view/NISX20261117_0003870661",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231226",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231225",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231224",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231205",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231204",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231198",
+    "https://www.yna.co.kr/view/AKR20261117008651072",
+    "https://www.newsis.com/view/NISX20261117_0003870651"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "환율하락에수익성비상국내전자부품업계3q실적직격탄대응전략은",
-    "nh농협은행최고연39금리특판예금추가판매",
     "앤트로픽훈풍에코스피3상승5600회복",
     "거래소산업분류개편에63개지수영향교체종목늘어날듯종합",
     "펑하더니유리파편와르르가스폭발로4명부상",
@@ -9031,7 +9029,9 @@
     "인도네시아암본남동쪽바다서규모66지진발생",
     "뉴욕증시ai주급락에나스닥25유가도공급과잉전망속3대",
     "美나스닥2대급락ai주매도세확산",
-    "뉴욕증시ai매도세에일제히하락엔비디아41ytn"
+    "뉴욕증시ai매도세에일제히하락엔비디아41ytn",
+    "ai매도세계속뉴욕증시일제히하락엔비디아41종합",
+    "엔비디아4대급락에美ai주와르르코스피하락출발전망"
   ],
   "opinion_date": "2026-11-16",
   "seen_opinion_links": [
@@ -9071,8 +9071,11 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RVUlnMG9MRnR4M182MjVIRl80Rlp0cWg1U0xQR3RQSEd4V1FjVnVubVFRaGQwa1Z4TUlrYlRXVGFVR2wtYWlxZ28zLXJCUkpWN21teFlmUQ?oc=5"
   ],
   "feed_health": {
-    "MBC": {
-      "failing_since": "2026-11-16T22:15+00:00"
+    "채널A": {
+      "failing_since": "2026-11-16T22:30+00:00"
+    },
+    "중앙일보": {
+      "failing_since": "2026-11-16T22:30+00:00"
     }
   }
 }
