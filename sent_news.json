@@ -1,18 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261116_0003869288",
-    "https://www.newsis.com/view/NISX20261116_0003869264",
-    "https://www.newsis.com/view/NISX20261116_0003869092",
-    "https://www.newsis.com/view/NISX20261116_0003869293",
-    "https://www.newsis.com/view/NISX20261116_0003869229",
-    "https://www.newsis.com/view/NISX20261116_0003869142",
-    "https://www.newsis.com/view/NISX20261116_0003869204",
-    "https://www.newsis.com/view/NISX20261116_0003869246",
-    "https://www.newsis.com/view/NISX20261116_0003869240",
-    "https://www.newsis.com/view/NISX20261116_0003869280",
-    "https://www.newsis.com/view/NISX20261116_0003869232",
-    "https://www.newsis.com/view/NISX20261116_0003869285",
-    "https://www.newsis.com/view/NISX20261116_0003869282",
     "https://www.newsis.com/view/NISX20261116_0003869277",
     "https://www.newsis.com/view/NISX20261116_0003869228",
     "https://www.newsis.com/view/NISX20261116_0003869260",
@@ -4999,7 +4986,20 @@
     "https://www.chosun.com/jp/politics-national-jp/2026/11/17/HTQMLNYPVBG6HJ634SGSXEUPDI/",
     "https://www.chosun.com/jp/politics-national-jp/2026/11/17/2OXNVNLKY5FRTLHKUWFZGPMTEQ/",
     "https://www.chosun.com/jp/politics-national-jp/2026/11/17/UUK6CDPJPVALNOTZRSWYJZ7FQE/",
-    "https://www.chosun.com/jp/politics-national-jp/2026/11/17/6B7XKJRLY5CRXJ5UP6RURIPZGE/"
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/17/6B7XKJRLY5CRXJ5UP6RURIPZGE/",
+    "https://www.yna.co.kr/view/AKR20261116176451109",
+    "https://www.chosun.com/sports/volleyball/2026/11/17/MNRTQNZVGQ2DSMTFMQYTAMBSGM/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/17/MQ4WMZDGMFSGKZRWGMZTKNLGG4/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/17/VLWNIVCQ7RHJLJHJQC5X7JA64U/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/17/PX6JM44FYJGFHGXQFOSI7EBD7Q/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/17/UM7SJ67A3NAT7I4573R4RXIZIE/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/17/HQQRU3ZWX5DP5KR3OXFCLUJCE4/",
+    "https://www.chosun.com/jp/economy-jp/2026/11/17/TKAFOGS55ZDOXHQ2EUKK53BD4A/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/17/I5KYUFNTWNDJDCEXMZH3X74JKA/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tbVgwbjAwLXlhRnJMRlpUX21XOVQxalVSY1dta0ZOSnoxaEVkYmlOckJlb3ZXZVFrNU92UmNPX0RkNHdWcW5DOVRYM3dpOHQ3MjV2emdB?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xMWJxQ0ZUR19nLWctTW5YQmhDTlBkSDZ2OXhuSVVscS1lWGh5UWhNY1dDZk4wUnU5cjltWjhzMEZsUEY4MUJXal9rMGlNUUZ0eHVlQ0xB?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NdEtZMjZpRWtNYllkVUhqY2xYSmRQYWtfTmlxRVRsUjdnTFRaRjA3NWRDd0JJcjZMbXplR1g0UjBLZVlxc2FpaXAtV3RocUhuaGlJcDJR?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PZGJmcjYtUFJjS1V6ZEZWVllDZl9DMkhld0pNdC1wQjgxd3Z2UEJ5OE9IbjVQdWs2UGtvem1HVEw1RXBsMW5rWHVtREx2b2EzczRsRW93?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9070,5 +9070,9 @@
     "https://www.hankyung.com/article/2026111575031",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RVUlnMG9MRnR4M182MjVIRl80Rlp0cWg1U0xQR3RQSEd4V1FjVnVubVFRaGQwa1Z4TUlrYlRXVGFVR2wtYWlxZ28zLXJCUkpWN21teFlmUQ?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-16T16:45+00:00"
+    }
+  }
 }
