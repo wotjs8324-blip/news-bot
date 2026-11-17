@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261117057900009",
-    "https://www.yna.co.kr/view/AKR20261117062300001",
-    "https://www.yna.co.kr/view/AKR20261117057000003",
-    "https://www.yna.co.kr/view/AKR20261117062400062",
-    "https://www.yna.co.kr/view/AKR20261117057200009",
-    "https://www.yna.co.kr/view/AKR20261117061600062",
-    "https://www.yna.co.kr/view/AKR20261117062200001",
-    "https://www.yna.co.kr/view/AKR20261117056900003",
-    "https://www.yna.co.kr/view/AKR20261117061000062",
-    "https://www.yna.co.kr/view/AKR20261117057600009",
-    "https://www.yna.co.kr/view/AKR20261117058800062",
-    "https://www.yna.co.kr/view/AKR20261117060300004",
     "https://www.yna.co.kr/view/AKR20261117056500063",
     "https://www.yna.co.kr/view/AKR20261117058400062",
     "https://www.yna.co.kr/view/AKR20261117060800007",
@@ -4999,7 +4987,19 @@
     "https://www.chosun.com/jp/international-jp/2026/11/18/GRQDRMH3JJHHJANSGSBV4MGCAI/",
     "https://www.chosun.com/jp/sports-jp/2026/11/18/ZXXA3SO7QJHATOI673HCHFCYPI/",
     "https://www.newsis.com/view/NISX20261118_0003872313",
-    "https://www.mk.co.kr/news/realestate/12209858"
+    "https://www.mk.co.kr/news/realestate/12209858",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Hc1dqUnBaTzlPRXdVSTczU1ktT2RUSUMtNUFmUVp6MHFGdnVxeHU2elJwZ3FlMXUwbVFnM1lKVGRYUVV2Qlp1eVFnX09BZVViR083aS1sLW1VT3Y3Q0Y3ZU96MkQ4UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yMTBBaXVoblB0cEVTaGZlWkoyVFRfSHlROE5JRk9fc3lhd1Z5bnRhS08xS19Ob1N0ZERpQUZENFAtV3VTRFN6d1Jpc1M3SUhZbWMtT1ZuNDM4d0x0cXhxM0JhZmNpQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrU2h1QW9yLXZOTG9lTWpHdWR1OE5sUkZYczF3dkx4TXVZQXhmWm84emdGMFlPUlVLTnBKRGMtbUl6U0M1TGprdWo3aGVfdUZVQmxlVjNxaGFyaV8tUFBCRVAzZ0dwQWs1WVhF?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VaVotS0FabkpoNXpIMDhKWTZfN2h0bzREOVRDM2ZIVHg1SVVqenhkczFyc0pfaVpwVlUzcVN1MGFRR2loYnV0Ql84em84b1NuQmJYQUlqYlB6NmgxeTNHeXFNUUpNdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtdml2ekxRbDFKQkdsLUljUzJhbWFUZEJ3WUhYV1BBYmdNUHh2b21FalZIS0VsME12UFJ1VVZvd1QtcG5KR1hjTktaMXRENTRQSkRtc2xJSElWcWVKOGfSAWNBVV95cUxPRWJZUTRQbm04YWZXUDJWOGd6N05VSXhsWGZqd2x3MlFNT29aTFZZQVNKdXhKTWZ6dkc1Wm5UZDktcVJjRE81aDNVZ1JKS0tYYkthWUdNQnpZMlNPSlA2a0RVQW8?oc=5",
+    "https://www.yna.co.kr/view/AKR20261118005800072",
+    "https://www.yna.co.kr/view/AKR20261118005200098",
+    "https://www.yna.co.kr/view/AKR20261117162800001",
+    "https://www.yna.co.kr/view/AKR20261118005100099",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1scmRlQWR2V1Nmcm5IbnJDeWV1Q3NIajdwT3U4dlgtME1SODVRdW1OOFRwR0Q0Ty1wZ1FBQ0xmTlk3WGZJV09zR1ZJck8yWFFJZDlFQ1p3?oc=5",
+    "https://www.newsis.com/view/NISX20261118_0003872314",
+    "https://www.newsis.com/view/NISX20261117_0003871388"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "靑금융권연쇄해킹대응긴급점검회의보안강화2차피해차단",
     "반도체급등에코스피6000선돌파",
     "반도체훈풍에삼전닉스급등코스피6천선회복",
     "강남집값해운대의5배시장특성맞는핀셋정책필요",
@@ -9031,7 +9030,8 @@
     "美반도체주급락에코스피5000선안팎등락엔비디아실적에쏠린눈중앙일보",
     "美11월주택시장지수14년만에최저고금리에수요부진",
     "미중러회담앞두고美日정상만난이재명대통령",
-    "이대통령아세안3정상회의참석오후한일정상회담kbs뉴스"
+    "이대통령아세안3정상회의참석오후한일정상회담kbs뉴스",
+    "이대통령apec개최지중국선전도착미중러회담속시진핑만남주목"
   ],
   "opinion_date": "2026-11-17",
   "seen_opinion_links": [
@@ -9071,9 +9071,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RVUlnMG9MRnR4M182MjVIRl80Rlp0cWg1U0xQR3RQSEd4V1FjVnVubVFRaGQwa1Z4TUlrYlRXVGFVR2wtYWlxZ28zLXJCUkpWN21teFlmUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZdlJkRE5YRldZU2l6dDFCM2JzV29vMlk4V0dHME1hVU9EQzRHdmZrVDF3UDR0STF6V0tTM0dJMmluUnBDejVtS2IwSGU4THRVNXB3anBxUQ?oc=5"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-11-17T17:15+00:00"
-    }
-  }
+  "feed_health": {}
 }
