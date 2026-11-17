@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261117_0003871077",
-    "https://www.newsis.com/view/NISX20261117_0003871100",
-    "https://www.newsis.com/view/NISX20261117_0003871094",
-    "https://www.newsis.com/view/NISX20261117_0003870925",
-    "https://www.newsis.com/view/NISX20261117_0003870756",
-    "https://www.newsis.com/view/NISX20261117_0003871028",
-    "https://www.newsis.com/view/NISX20261117_0003870949",
-    "https://www.newsis.com/view/NISX20261117_0003870978",
     "https://www.newsis.com/view/NISX20261117_0003871095",
     "https://www.newsis.com/view/NISX20261117_0003871026",
     "https://www.newsis.com/view/NISX20261117_0003871012",
@@ -4999,7 +4991,15 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850735&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850734&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849232&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261117_0003872282"
+    "https://www.newsis.com/view/NISX20261117_0003872282",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RMkFXYnZyd1V4dnhYZW00N2xNb2JLLU45RjJfcDZfSTctdU5YTUNKNGZuR1RVdU5mRzN4U0JEa0FLUkUydlphRE1SYWN6NWQwVXZwQWVmLTNsaWlqdnc?oc=5",
+    "https://www.chosun.com/medical/2026/11/18/OOU6SYLCDJCK5CZISLX3ON3OVA/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/18/L2E7KXN6YBGOJE3PBPGZIGLL2A/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwOHJ1S29ZTG13Vm9RWjcyMDJkUHozZHFjUmFXa0lYYTdLa09MaEE0WENVWTVEZ1B4dWZwNHd3dkh3UTRGUjlrZG5hTTB1SjAya1RYWUhB?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850743&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850741&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261117_0003872090",
+    "https://www.newsis.com/view/NISX20261118_0003872318"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "반도체급등에코스피6000선돌파",
     "반도체훈풍에삼전닉스급등코스피6천선회복",
     "강남집값해운대의5배시장특성맞는핀셋정책필요",
     "국민의힘강신철한미동맹가치부정당장경질해야ytn",
@@ -9031,7 +9030,8 @@
     "美11월주택시장지수14년만에최저고금리에수요부진",
     "미중러회담앞두고美日정상만난이재명대통령",
     "이대통령아세안3정상회의참석오후한일정상회담kbs뉴스",
-    "이대통령apec개최지중국선전도착미중러회담속시진핑만남주목"
+    "이대통령apec개최지중국선전도착미중러회담속시진핑만남주목",
+    "미중러3국정상회담강대국지도자한자리회동왜별의미없어"
   ],
   "opinion_date": "2026-11-17",
   "seen_opinion_links": [
