@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/economy/startup_story/2026/09/08/L53VALGETFHZVERP7FGMOLLP6Y/",
-    "https://www.chosun.com/economy/startup_story/2026/07/20/3IPN66QPIRDLDMYCONGB4URF7E/",
-    "https://www.chosun.com/economy/realty/apartment_sales/2026/11/17/GBRDGNDGGM2TOOJSGVSDGYRZGE/",
-    "https://www.chosun.com/economy/economy_general/2026/11/17/MYZTAMRXMY4GKOBTMU4TSOLDGA/",
     "https://www.chosun.com/economy/industry-company/2026/11/17/GMYWEYJTGE3TQY3EGNTGIMRYGI/",
     "https://www.chosun.com/sports/world-football/2026/11/17/MJSDINDCG44TSMBVMQZDAYRVHE/",
     "https://www.chosun.com/economy/science/2026/11/17/MVTGIOJUG42DSY3EHFRDIOBVME/",
@@ -4999,7 +4995,11 @@
     "https://www.yna.co.kr/view/AKR20261117168251079",
     "https://www.yna.co.kr/view/AKR20261118005900085",
     "https://www.chosun.com/sports/football/2026/11/18/MU4TSOLFMRRDMZTDGNRDKMRVMI/",
-    "https://www.chosun.com/sports/football/2026/11/18/GQ4DIY3DGJSWGNTCGJRTMMTCGI/"
+    "https://www.chosun.com/sports/football/2026/11/18/GQ4DIY3DGJSWGNTCGJRTMMTCGI/",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJZ3dBY0FaeGxjNDJoNWhZUGtXM1RnRG9ONHM4Z1Nxeng5eTEwWHV2eXhJNlM5OHhRZzhsRnB6RGVodk5pcWNVUVg5RW9CczEwLWc1MWlUR2ViSTNEY0s3azRoQnpSVGswQnZJa3lpZXYyWG5RN0JFUtIBeEFVX3lxTE9KUXhmX2htSzRVaDZGQWZyM2JscDZCVHJPS0tISmZHRzZmcmUtQ2xJbUp1UDJ5dFN4Skp3a1dtOUR0YjMzME1oTGtheEt2dHhnMkI5emxTNDFGMlIwaEk2Ums1Q2YzcW9ZUTVlZTY3OGE1WWx1d19GZA?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261118024612REY",
+    "https://www.newsis.com/view/NISX20261117_0003871463",
+    "https://www.newsis.com/view/NISX20261118_0003872315"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9071,5 +9071,21 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RVUlnMG9MRnR4M182MjVIRl80Rlp0cWg1U0xQR3RQSEd4V1FjVnVubVFRaGQwa1Z4TUlrYlRXVGFVR2wtYWlxZ28zLXJCUkpWN21teFlmUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZdlJkRE5YRldZU2l6dDFCM2JzV29vMlk4V0dHME1hVU9EQzRHdmZrVDF3UDR0STF6V0tTM0dJMmluUnBDejVtS2IwSGU4THRVNXB3anBxUQ?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "KBS": {
+      "failing_since": "2026-11-17T18:01+00:00"
+    },
+    "YTN": {
+      "failing_since": "2026-11-17T18:01+00:00"
+    },
+    "채널A": {
+      "failing_since": "2026-11-17T18:01+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-11-17T18:01+00:00"
+    },
+    "동아일보": {
+      "failing_since": "2026-11-17T18:01+00:00"
+    }
+  }
 }
