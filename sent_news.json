@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261118074300062",
-    "https://www.yna.co.kr/view/AKR20261118070800003",
-    "https://www.yna.co.kr/view/AKR20261118073700008",
-    "https://www.yna.co.kr/view/AKR20261118073000009",
-    "https://www.yna.co.kr/view/AKR20261118073400056",
-    "https://www.yna.co.kr/view/AKR20261118071900054",
-    "https://www.yna.co.kr/view/AKR20261118072100062",
-    "https://www.yna.co.kr/view/AKR20261118046200003",
     "https://www.yna.co.kr/view/AKR20261118072600001",
     "https://www.yna.co.kr/view/AKR20261118070700054",
     "https://www.yna.co.kr/view/AKR20261118072200063",
@@ -4999,7 +4991,15 @@
     "https://www.chosun.com/international/us/2026/11/19/RD6XCP37ONG7ZCF4P3A3TG7CFM/",
     "https://www.chosun.com/jp/sports-jp/2026/11/19/TQJ3274S2RBZ7KNMX7KVVJTEUA/",
     "https://www.newsis.com/view/NISX20261118_0003873846",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU"
+    "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fUEkwaGpUUXVMNlcxYWFXZVJ6ZVJDV3I0RWV6QVM4eHJmWVdNd1QzUXBWZlZvVl9ZeUdxUmVOQUlWNXdDTlByd2IxWk00c2hYWlgwWmZ2Y0RTVzA?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BWU1NMWo1VkV2SUVYbEtQWkxxanpnUTBYaVU4STYxM24xNFdMOFFxdFc3dVRjVGEyR3VQN1BrSHpNLUF1ZnBESnVFblhMOElNOEpDNk8xSnpDU1FVN2hZV21wSDN0Zw?oc=5",
+    "https://www.chosun.com/international/us/2026/11/19/3RY6WSBE2JH5BENQ2WMD2SNXEI/",
+    "https://www.chosun.com/sports/world-football/2026/11/19/MJRDAMJWMY4DQNRRGA3GGMLFMI/",
+    "https://www.mk.co.kr/news/stock/12212634",
+    "https://www.newsis.com/view/NISX20261118_0003873844",
+    "https://www.newsis.com/view/NISX20261119_0003874113",
+    "https://www.newsis.com/view/NISX20261119_0003874114"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "미9월pce물가전년대비36상승예상치소폭하회",
     "sk하이닉스3분기영업이익83조3년치완판kbs뉴스",
     "美3분기성장률34예상치웃돌아9월pce물가는36상승",
     "미3분기gdp34증가시장예상웃돌아",
@@ -9031,7 +9030,8 @@
     "일본구마모토현구마모토시남남서쪽바다규모57지진발생",
     "10월美주택착공건수99건축허가는74감소",
     "미중러정상회담일유럽은우크라지지의지의연합정상회의",
-    "미중러정상회담일유럽은의지의연합정상회의"
+    "미중러정상회담일유럽은의지의연합정상회의",
+    "트럼프푸틴19일apec후별도정상회담개최"
   ],
   "opinion_date": "2026-11-18",
   "seen_opinion_links": [
@@ -9072,15 +9072,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZdlJkRE5YRldZU2l6dDFCM2JzV29vMlk4V0dHME1hVU9EQzRHdmZrVDF3UDR0STF6V0tTM0dJMmluUnBDejVtS2IwSGU4THRVNXB3anBxUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SlVIR3QwbFdOSUVlYkRiWFM4MmdjV1pZZF9fbkY0eGJnUWt0SHRlcVBlU2dtNWo0ek9sa0Zjc0hqbHFNWVJKdm1OcTJEdG9JdFFwZmNORQ?oc=5"
   ],
-  "feed_health": {
-    "중앙일보": {
-      "failing_since": "2026-11-18T19:15+00:00"
-    },
-    "중앙일보 경제": {
-      "failing_since": "2026-11-18T19:15+00:00"
-    },
-    "동아일보": {
-      "failing_since": "2026-11-18T19:15+00:00"
-    }
-  }
+  "feed_health": {}
 }
