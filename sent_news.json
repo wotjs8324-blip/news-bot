@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261118_0003872794",
-    "https://www.newsis.com/view/NISX20261118_0003872714",
-    "https://www.newsis.com/view/NISX20261118_0003872528",
-    "https://www.newsis.com/view/NISX20261118_0003872784",
-    "https://www.newsis.com/view/NISX20261118_0003872808",
-    "https://www.newsis.com/view/NISX20261118_0003872685",
-    "https://www.newsis.com/view/NISX20261118_0003872583",
-    "https://www.newsis.com/view/NISX20261118_0003872775",
     "https://www.newsis.com/view/NISX20261118_0003872787",
     "https://www.newsis.com/view/NISX20261118_0003872532",
     "https://www.newsis.com/view/NISX20261118_0003872786",
@@ -4999,7 +4991,15 @@
     "https://www.mk.co.kr/news/economy/12212157",
     "https://www.mk.co.kr/news/economy/12212155",
     "https://www.newsis.com/view/NISX20261119_0003874103",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBTzg1aDloUk5ZSFVtNkRITHNuWHdPeHNzQmg3UG0tMjFRUWxnYkFHaU9DRWVCdEttM1FxSXI5U2d4WkZJVmlDOExUaXE2OTg1X29nTXRiTlRfcGtUZEljU2hyVm0yUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBTzg1aDloUk5ZSFVtNkRITHNuWHdPeHNzQmg3UG0tMjFRUWxnYkFHaU9DRWVCdEttM1FxSXI5U2d4WkZJVmlDOExUaXE2OTg1X29nTXRiTlRfcGtUZEljU2hyVm0yUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nTjZxU010Tl9xYjhjM0M3VjBYRzM5OUl6SnlJMTJOMTNoWGVpQUdVT2VYd3NuQ1hJclNrQjJiUmlkU3BYbXZKdWhKUmNla092S3c0X0lySXhDZzB1UnhWN3ptdE8zUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pbUs2TjdnMVltNFlzUkNtMU9Vc1ltOHFyelVPYU9ab05JbWEwWUhOZ01nbFhjSVlxblJNeXc4aEt3cEh5M2NOWG5yRXZFdUhGTDVpTlMwWl9yLTRNWGpFRkVQYXU2UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByNjU2WVZJdmNzd2t5S09yVlFfR0NrR0NWOGZYMXZnYXBHdlBkTHRCWnVFWGFUZUhZTTBTQ2MwS1c4djBfRWpObklYcGRsTE5MZjljWUZGaGlpbHZERUthTFk0Qk5pQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyM2luc1ZTbllRYzMyeHB5Z3JXakdtTjQ4U0R2MmlRWDhUQzBGVHJ5dHJOTkkxdjlCbHlXMUlxTUVaZ2wwVHNZM2RtamJFX0MzUGFtQ1hzejhRUF81UUh4aE4zMlBFZmVKNlZv?oc=5",
+    "https://www.yna.co.kr/view/AKR20261118128851009",
+    "https://www.chosun.com/sports/football/2026/11/19/GNSDIZJUGI4WEYRSGUZWKNJXHE/",
+    "https://www.mk.co.kr/news/economy/12212161",
+    "https://www.yna.co.kr/view/AKR20261119003700530"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "한독강화된전략적동반자관계수립경제안보협력확대",
     "서울아파트값상승세2주째둔화강남3구하락폭확대",
     "삼성전자3분기반도체영업익만106조4분기도실적성장",
     "연준은멈췄는데한은은11월추가인상무게",
@@ -9031,7 +9030,8 @@
     "엔비디아매출103뛰어이사회젠슨황복귀없다",
     "오늘첫3자정상회담시진핑트럼프공항영접",
     "美하원민주당차기하원의장후보로하킴제프리스지명",
-    "ai매도세계속뉴욕증시일제히하락엔비디아41kbs뉴스"
+    "ai매도세계속뉴욕증시일제히하락엔비디아41kbs뉴스",
+    "일본구마모토현구마모토시남남서쪽바다규모57지진발생"
   ],
   "opinion_date": "2026-11-18",
   "seen_opinion_links": [
