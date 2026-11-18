@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.yonhapnewstv.co.kr/news/AKR20261118103406i3a",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261118103009AXd",
-    "https://www.yna.co.kr/view/AKR20261118051651530",
-    "https://www.yna.co.kr/view/AKR20261118074800053",
-    "https://www.yna.co.kr/view/AKR20261118053551004",
-    "https://www.yna.co.kr/view/AKR20261118072000003",
-    "https://www.yna.co.kr/view/AKR20261118074000055",
-    "https://www.yna.co.kr/view/AKR20261118073100057",
     "https://www.yna.co.kr/view/AKR20261118074300062",
     "https://www.yna.co.kr/view/AKR20261118070800003",
     "https://www.yna.co.kr/view/AKR20261118073700008",
@@ -4999,7 +4991,15 @@
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mb2l5eG5pY0NrWkNreS1lcWd5SEhSaV9FZlg5WTdieTJaZndPc05HYWs4VDY5MzlXaVRmaFo1QUNsV3BVRGVvNWY4LVZxLUVtc2NuMS1iSzdFRVd1ZVF2b2wwQWluZw?oc=5",
     "https://www.newsis.com/view/NISX20261118_0003873207",
     "https://www.newsis.com/view/NISX20261118_0003872936",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5231126"
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5231126",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lWE8xVDdzOWUxVG41M2I3blg4Y09hblJ4dDRTZ0ZUTkEtcWYxcHZzQnF3YWpHaFl1dVh4VmM5SnBBUHBYRDNBMzQ0RzN0MXdNNXFqcXNCdlVQVkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jejBaR2t3akZVa0ZWbXpKOUFJWkUwS2ZUc0RUVUhHZXpDdVN0b2Z6NXlWTFRzVmtoVnpnUXNmeHVYdEdlYW1hUW5rQURIbTNSVDZSd2JkNUNVUnZiRkdrVDhzcGJYQQ?oc=5",
+    "https://www.yna.co.kr/view/AKR20261119004600087",
+    "https://www.yna.co.kr/view/AKR20261119002051071",
+    "https://www.chosun.com/international/us/2026/11/19/RD6XCP37ONG7ZCF4P3A3TG7CFM/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/19/TQJ3274S2RBZ7KNMX7KVVJTEUA/",
+    "https://www.newsis.com/view/NISX20261118_0003873846",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "연준은멈췄는데한은은11월추가인상무게",
     "미9월pce물가전년대비36상승예상치소폭하회",
     "sk하이닉스3분기영업이익83조3년치완판kbs뉴스",
     "美3분기성장률34예상치웃돌아9월pce물가는36상승",
@@ -9031,7 +9030,8 @@
     "ai매도세계속뉴욕증시일제히하락엔비디아41kbs뉴스",
     "일본구마모토현구마모토시남남서쪽바다규모57지진발생",
     "10월美주택착공건수99건축허가는74감소",
-    "미중러정상회담일유럽은우크라지지의지의연합정상회의"
+    "미중러정상회담일유럽은우크라지지의지의연합정상회의",
+    "미중러정상회담일유럽은의지의연합정상회의"
   ],
   "opinion_date": "2026-11-18",
   "seen_opinion_links": [
@@ -9072,5 +9072,15 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZdlJkRE5YRldZU2l6dDFCM2JzV29vMlk4V0dHME1hVU9EQzRHdmZrVDF3UDR0STF6V0tTM0dJMmluUnBDejVtS2IwSGU4THRVNXB3anBxUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SlVIR3QwbFdOSUVlYkRiWFM4MmdjV1pZZF9fbkY0eGJnUWt0SHRlcVBlU2dtNWo0ek9sa0Zjc0hqbHFNWVJKdm1OcTJEdG9JdFFwZmNORQ?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "중앙일보": {
+      "failing_since": "2026-11-18T19:15+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-11-18T19:15+00:00"
+    },
+    "동아일보": {
+      "failing_since": "2026-11-18T19:15+00:00"
+    }
+  }
 }
