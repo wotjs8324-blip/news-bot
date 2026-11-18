@@ -1,29 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zcnNOd3M0ZnNNaFhZSXZyb2pSVXJhZnpUdTFjOXpXd1JOeDJFZE5xY1VYTzI1cjRKS3RXNm5PdnM4aUdZcUh4clFqWGRLNGpBb1Nzbzhn?oc=5",
-    "https://www.newsis.com/view/NISX20261118_0003872747",
-    "https://www.hankyung.com/article/2026111836546",
-    "https://www.hankyung.com/article/2026111837076",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SVnFVSWg4STVHLTl0V21abnBrcjdSZXA2NXhBbXM5dWZia0VHV1VBMEhQekdWeWZOdGwyRmZodmNoQTVtNDRCdm1QZWhKcjU3SFhYanV6ME93aUNNN1RlVmw4bW81MUpLV2VKLXV5aw?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52NHo0LVV4TFBJajVCLV82c3ZOUnJkcHVNUllCV3VMNlNONXF5QkpTWDEzVXp6dXZKWmJvVnItdXFGdkYzRDVZM1Y0Y0h0TjlJYm84Y2QwdWpzdHRraUE?oc=5",
-    "https://www.hankyung.com/article/202611183644i",
-    "https://www.hankyung.com/article/2026111835916",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLQzRxM3BTU3lNN1lUTXpGM2Zqd196alJfb2RDUklvNi03cE91MUY0dmV3cGQwU21JU3pQSldVRU5wWnN5czhfMnFxR3JKWnVzWWNQLTI5WkRIZVFmMk1wVHFsYy1LRUQtMElwWVdPQzJLM0gtSzFjX9IBeEFVX3lxTE9GWGhPYTdnTjlWSVNsOVZ6dUJqaTRGcHVOaHE5M1VvaV9IZzdlbHhuX1Nvc1hnbW8yS29IY05kQWtaOG9qeXJyeHRfTXViTW5uQ1JWbTJ1dW9icmFCa2NVRl9XMkVEQ09YeldZNS1ROFZQMnE5bldIUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1My1KZVluMGxRb2VFQnVTdjVGci1hV1dvbTV1ZmN2VXhzSnJfTHhFMTE3aWVTUDhfU0hxd2NUTS1jaHhYcmN4UlJ6V2FjNkI2ZFZZNEF1aWlWR3J2VHVEdmhWYlJYTThsSlVlYXdGM2d1LTFy0gF0QVVfeXFMT0ZlSFBUbTE3SlRSMXFGcDJxOFpWVE5na3JsbVl5WDdDU20wWkMya1JKaHV5Tm5RX3c0MEhzZzZIVDRuTlNMWFpMMzBrZGFpb0w4S05OQlkyaWdyLVd0Vi1QeWt5X2VzdUpTbGRHVUU5aXp1YkM?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zakdhWVM2VTBIZDlOU3kxSUM5VTA3LXZoblVuc0VsV2tCNnQ3U0ZtYVdHZmphQ2oycExzTTV2N2VieHdVVXVHZGlmV3ZzVkJhdmVkRDdXLTJfUUZsNEtwbzY1UkpTaDBnVTVEV0Q1MVNKTzNF0gF0QVVfeXFMT2hHX0ZpNU9xSjJwQ19sWDA2R1RkczM3M1g0UlNxb1ZUX0J6X0VUWTZYTDltX01RYnl4SHpZTzlzNmluY3B5MmxyZ1NBSFJ0UzNnTzhiQW93YWYxbVprX3lFdDU5c0I3LVV5QUhpa2l5WUJEZmU?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xbm9jSHBHZlh3RWtiWEpyTVlEX2lIQlFTWU1FajczMzVJcVZjaVc4OVJtUE1EUDhRS3Zkb1ZBM1FIeTQ2MzdFQU12LU9ISlJ2UWplaU9CY1dhaFJ3bVR3?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DdS12c0s1c21PSEJ4cUxCbjJCcjhLNW9JTnM2RWVmT3ZseEEtYVVSOUNHTW1PMGQyU054U3Q4LWFvOVZOdG1iM1VCWFZGNXpMWG9mb1hNbWoxWHRNQ0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44RXJOeV9aekNKNHFTZUp2NEdpcVB0SVo3NHlDdFlOcXpYUkdvQTNUbDVhdkpUVTNsTkY2cUdCaEhZZXItSTk1ekctU1lsSGNla21lMnFlWm83Tjk4WHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00MksxOUt1eVFfeTA4N0dITlJDVWFhRVR4RDRDN1pSclE0Qm44SUNWYjdVVEZTcE1iTXFCWEl0Rzcxb2c5dElHWGhDR3UyZU1fRGdzWDhSY3lhYV9SYnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kei02OWVYRzMwQ2xMLXJiNjdOeGdLT1FoWEdWY0NFcVFVdlBpUUdsQ2Ixa19SazU2V2xINk1TczcwQW9RMVJyZGNjMVRlSE9MMW9TM0xzSzhJRkJfTmc?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00ZXdESDZRZmZycGpnS0ZXVXZpQ2VQUGlGSl9IWG1HQzd5b1Z4WkFUNkVOeFVRdHdEemdPcVd2NThRTlp6QlBGYjc4em8tQzZUQk5TemJEc0Z0NGdjR3c?oc=5",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261118102934QIp",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261118102931C80",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261118102759tW1",
-    "https://www.yonhapnewstv.co.kr/news/AKR202611181027233Ro",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261118102318R3X",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261118102206Qaf",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261118102104YbT",
     "https://www.yonhapnewstv.co.kr/news/AKR20261118102103Clp",
     "https://www.yonhapnewstv.co.kr/news/MYH20261118102025AG6",
     "https://www.yonhapnewstv.co.kr/news/AKR20261118101944mwP",
@@ -4999,7 +4975,31 @@
     "https://www.newsis.com/view/NISX20261118_0003872913",
     "https://www.newsis.com/view/NISX20261119_0003874101",
     "https://www.chosun.com/special/special_section/2026/11/19/5FD23APWFJAEVBCD4DBYB4YGNE/",
-    "https://www.chosun.com/economy/tech_it/2026/11/19/Q4AR24MG4REL7KPX4Q22B5CRMY/"
+    "https://www.chosun.com/economy/tech_it/2026/11/19/Q4AR24MG4REL7KPX4Q22B5CRMY/",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VQldsRlp1TVVyRGlETTEzTTJvSm84ZHRsSV9MbnJ6azFfR2tuUmd6LUxxc1NxUGs3RVRmZ2FweTZjYWZST0NwVEdSekZleV9XNHROMXhKbkx1czlORExrcW52TEY0dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oby1oVDRubGN0WHZwN29jTDVJU1Y1Z0NRZTNzc2plTWNHNXBxQzB0RVBJQklRRVc0R2VzY3FTQjNJT3oyN3ZoS3JvalRkMzhOS3dMdy1aSEdSOTVmalE5eldQY05Ldw?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3TjZxdjNfOWVHamFQQml1dVNTb0FBTV9aTGl6blA3M01FbVpBVXl4Sm5jN0VYejNKaV8tXzZPNnFlUERtWjEtV3dFalY0M1JaRnkwOFZTTFpPVHY2S0VpSnU3bEJHS2JodkVJ?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE01SDF6a3F0WEc3WTdhajRFaVdSSUNwbnhVWmpkSG5DczdrSDVDcjhMa014dzhNVFJSamQwYklkaWVWUkQ4UzVNZ2w0ZklPLUR0c0t0cFA4RkZ3NVBJTzNmcDBmcGswTlB6ZG5n?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PWFl4SFIta0dzZ2FVdklqYTZvVU5rU21DWDdGRDZmb1R2bzF6Q1V4NjNaT0x4QkpSc2dOeERPZWd5NFl2ZmRRRmwyVjhKY011UFgtZ1lzZGRndVIwTW9sd3d6cTFjNFI4anBlaEphUGZ0TXdHem1mcNIBeEFVX3lxTE5TRnUtaWdvRjlzRmZVNmVVYTBweEU2dm91WFFuY1M3NnVmelAyWUpqMHgyeTNteWxWeTNjMEFxUlJBODNvRGx6bE92cjl3V1hpdGJUVlgtM3JSalNMTVFVUU1KUFlaQWJ4V2N2R3FIRXpha3ZqX1o2QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81dVdtVV9WdkduMnV0LXRrS1NBczN4WkFCLWlmVGdGWWdPMzFSSlM2SUVWSU5lNU9NcWNkcXlfVWVidVA5WUpfd21mdHRKVEVzY2Z1a0VyTU4yeFJJZFY4TjNPWTM?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VRklXV3FOX04yYjloUzhzLXNodEFwWXhnX0syOU5pSzFxS0RRWE80RVctWWQ5emNRNm5McjdxU1FjdGRMWVlhMy00VHhsaW1VRTRYS3ZhZXV2aTlDUGJTeXRPZGE0TDEzWm5mWXY3NA?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261119011426IMd",
+    "https://www.yna.co.kr/view/AKR20261118100051009",
+    "https://www.yna.co.kr/view/AKR20261118122400017",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/18/ANQ4YP6MPRCCJHPOWOP7QY2XGA/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852738&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852737&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852741&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852740&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261118_0003873557",
+    "https://www.hankyung.com/article/2026111838756",
+    "https://www.hankyung.com/article/202611183790i",
+    "https://www.hankyung.com/article/202611183796i",
+    "https://www.hankyung.com/article/202611183761i",
+    "https://www.hankyung.com/article/202611183714i",
+    "https://www.mk.co.kr/news/stock/12212146",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852739&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5obDdVOFJ4V0ltbi0tc2ZVVkhHMUd3cGg1eDJaSjZYYWE4YlQ5Z2RkbmFzOE9LNGd3Q0JUSGpMOVpTckpSMEpvenEwYnd5Z2o0UmxLQ3FZdWpjSW50QUE?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "가스폭발현장달려가밸브잠근시민알고보니배우윤대열중앙일보",
     "투표지반출마친선관위특검투표지감정윗선개입규명주력",
     "명패빼요왜빼요김태규사임놓고여야충돌채널a",
     "한독강화된전략적동반자관계수립경제안보협력확대",
@@ -9031,7 +9030,8 @@
     "뉴욕증시앤트로픽공모가발표앞두고혼조출발엔비디아호실적에기술주강세",
     "中서트럼프만난멕시코대통령무역협상큰진전있어",
     "잠원동하이엔드아파트잔여5가구오늘까지임의공급청약",
-    "엔비디아매출103뛰어이사회젠슨황복귀없다"
+    "엔비디아매출103뛰어이사회젠슨황복귀없다",
+    "오늘첫3자정상회담시진핑트럼프공항영접"
   ],
   "opinion_date": "2026-11-18",
   "seen_opinion_links": [
@@ -9072,5 +9072,9 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZdlJkRE5YRldZU2l6dDFCM2JzV29vMlk4V0dHME1hVU9EQzRHdmZrVDF3UDR0STF6V0tTM0dJMmluUnBDejVtS2IwSGU4THRVNXB3anBxUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SlVIR3QwbFdOSUVlYkRiWFM4MmdjV1pZZF9fbkY0eGJnUWt0SHRlcVBlU2dtNWo0ek9sa0Zjc0hqbHFNWVJKdm1OcTJEdG9JdFFwZmNORQ?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-18T16:15+00:00"
+    }
+  }
 }
