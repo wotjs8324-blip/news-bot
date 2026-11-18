@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261118_0003872787",
-    "https://www.newsis.com/view/NISX20261118_0003872532",
-    "https://www.newsis.com/view/NISX20261118_0003872786",
-    "https://www.newsis.com/view/NISX20261118_0003872751",
-    "https://www.newsis.com/view/NISX20261118_0003872717",
     "https://www.newsis.com/view/NISX20261118_0003872797",
     "https://www.newsis.com/view/NISX20261118_0003872749",
     "https://www.newsis.com/view/NISX20261118_0003872699",
@@ -4999,7 +4994,12 @@
     "https://www.yna.co.kr/view/AKR20261118128851009",
     "https://www.chosun.com/sports/football/2026/11/19/GNSDIZJUGI4WEYRSGUZWKNJXHE/",
     "https://www.mk.co.kr/news/economy/12212161",
-    "https://www.yna.co.kr/view/AKR20261119003700530"
+    "https://www.yna.co.kr/view/AKR20261119003700530",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDSEdyOEVGYzBIMVpyaUlINlI2OTlwOFAwZEVYSGdVUXRFRXhUM3RyQXVVOWRuVVRScFlCaXhRYmlnTDk3M0U5SEU1SW1BaE5zRTNJR3NDS20zWHBGR2lYM2VDakNtTk03MHpHZEthRFR1Sm9jekdxRGxvbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iRTFmR1pIaFVObWU3Nk1NR0pqWU1fMDd0Uk01MVRMQ0VDTmlFa1FXSGVmVzRyeFplck5aSDU1ZVk4Q25Bd2JpbFM3MkY2cC1ZVmIxMUM1UVQ0cXlLYkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42NHlOQm1MLVVJaTZvYkk4SmtoU250U2F6UnRJMGZQMnZOMW1TLXF3cU9TTWxxZHdKYkxQeWhoLWhoWW14NTM2eUlBR0pHbkk0UmVIX0ZZUEFyck51cVE?oc=5",
+    "https://www.newsis.com/view/NISX20261118_0003872693",
+    "https://www.newsis.com/view/NISX20261119_0003874111"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "서울아파트값상승세2주째둔화강남3구하락폭확대",
     "삼성전자3분기반도체영업익만106조4분기도실적성장",
     "연준은멈췄는데한은은11월추가인상무게",
     "미9월pce물가전년대비36상승예상치소폭하회",
@@ -9031,7 +9030,8 @@
     "오늘첫3자정상회담시진핑트럼프공항영접",
     "美하원민주당차기하원의장후보로하킴제프리스지명",
     "ai매도세계속뉴욕증시일제히하락엔비디아41kbs뉴스",
-    "일본구마모토현구마모토시남남서쪽바다규모57지진발생"
+    "일본구마모토현구마모토시남남서쪽바다규모57지진발생",
+    "10월美주택착공건수99건축허가는74감소"
   ],
   "opinion_date": "2026-11-18",
   "seen_opinion_links": [
