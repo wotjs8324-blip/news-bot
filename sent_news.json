@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5231706",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231721",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231720",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231708",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231707",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231704",
     "https://www.hankyung.com/article/202611196629i",
@@ -4999,7 +4995,11 @@
     "https://www.chosun.com/economy/science/2026/11/20/FVWYEFFWXNGAVIXDLJ7KWX7HGU/",
     "https://www.newsis.com/view/NISX20261120_0003875942",
     "https://www.yna.co.kr/view/AKR20261120004100071",
-    "https://www.chosun.com/economy/weeklybiz/2026/11/20/FHLCUECSO5APDIP4JVUBMXMFBI/"
+    "https://www.chosun.com/economy/weeklybiz/2026/11/20/FHLCUECSO5APDIP4JVUBMXMFBI/",
+    "https://www.yna.co.kr/view/AKR20261120004400087",
+    "https://www.chosun.com/jp/economy-jp/2026/11/20/KTXNU2LGRZBDVBFMVTXBDUSNLI/",
+    "https://www.donga.com/news/Culture/article/all/20261120/135058127/1",
+    "https://www.newsis.com/view/NISX20261120_0003875944"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9073,5 +9073,24 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SlVIR3QwbFdOSUVlYkRiWFM4MmdjV1pZZF9fbkY0eGJnUWt0SHRlcVBlU2dtNWo0ek9sa0Zjc0hqbHFNWVJKdm1OcTJEdG9JdFFwZmNORQ?oc=5",
     "https://www.hankyung.com/article/2026111982891"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "KBS": {
+      "failing_since": "2026-11-19T18:30+00:00"
+    },
+    "MBC": {
+      "failing_since": "2026-11-19T18:30+00:00"
+    },
+    "YTN": {
+      "failing_since": "2026-11-19T18:30+00:00"
+    },
+    "채널A": {
+      "failing_since": "2026-11-19T18:30+00:00"
+    },
+    "중앙일보": {
+      "failing_since": "2026-11-19T18:30+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-11-19T18:30+00:00"
+    }
+  }
 }
