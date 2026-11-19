@@ -1,15 +1,5 @@
 {
   "seen_links": [
-    "https://www.hankyung.com/article/202611196445i",
-    "https://www.hankyung.com/article/202611196170g",
-    "https://www.mk.co.kr/news/stock/12213332",
-    "https://www.mk.co.kr/news/realestate/12213384",
-    "https://www.mk.co.kr/news/realestate/12213326",
-    "https://www.mk.co.kr/news/realestate/12213325",
-    "https://www.newsis.com/view/NISX20261119_0003874519",
-    "https://www.hankyung.com/article/202611196470i",
-    "https://www.mk.co.kr/news/stock/12213372",
-    "https://www.chosun.com/economy/stock-finance/2026/11/19/ME3TMZRYGNSTENZSMFTGEOJVME/",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BcUU1VnpMRVhGT3JNMV9hNnViVDNrU0pFMXhNQTQ3ZVBCMnB6XzlQTEFpQXhtSktkQ182dkJkZnlqS1hHdDJnRWt5NmU4d081RDVaYng0VkpkNVZfVmppUjJQcVo0STlFZEg4?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CSi12ODVhb1hmelRfUVJPcTVtaDVhQWNZbUJUVXJlMHkyWFF0Q0taWnR2dFo3cWJzZHdWWnl3VGI5VFV3X243cjVRVWpDcmhBYUtpV2JqM3BIUHE3N0d4WTY1czZNYzlHbFo4?oc=5",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TZS1Ob1Z4dHktRVFkZTZYRHczaWVpcDZuTnVUU1gwOFRXLTd2U2Frc2ZwbU4xWG56V3hsaWZJV2FQZ1ZERzhnMFlELVFJTDlFbGxxb2MxU2RiTE9hRjNyWEo5ZmF6V2otVmhEZE9WMXRuMVktcExxbWNB0gF6QVVfeXFMUGVvc2xQOTdsMXhBQUZxbHdFdGpySVhIcTZLemhZMmhwcUt4dVNZSTI0dTM3aXRVbjYzUUpkbDVOMHRYRkw2OFVYM2NJTVlZRUVXWHM0dnJTQ2lSc3BqQklVa2dMUnhhMkFrQ3pfakt3TUxaQkxPOGtwS0E?oc=5",
@@ -4999,7 +4989,17 @@
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5231706",
     "https://www.yonhapnewstv.co.kr/news/AKR20261120034949Bmy",
     "https://www.yna.co.kr/view/AKR20261120005300091",
-    "https://www.newsis.com/view/NISX20261119_0003874411"
+    "https://www.newsis.com/view/NISX20261119_0003874411",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBteTByUjZYODg2RGJFVHlHNzlpTFMzNVc5cnl2b2tOQkEzck5EOFh4LTduVm1oWWFPWTJMQ1A2UHpDR2lYdkx3UUZ1cXI0bDMtNUhDVzVFMEpRZndEQUNIVmRmUnFnTjhuTDFF?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bUpLbXRSZFdYd2tnb2ZTZ1pZSjRZZHNZcUZiM3NWVzcwUWU3NHZDMExIdGxiTlRWd1FhSE96b0Y4d09abU1tZnl6V2tmR0ljT1VtdFpBVHh2QW8?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261120040416ALr",
+    "https://www.yna.co.kr/view/AKR20261120005400071",
+    "https://www.yna.co.kr/view/AKR20261120006000527",
+    "https://www.yna.co.kr/view/AKR20261120005900527",
+    "https://www.yna.co.kr/view/AKR20261120005800085",
+    "https://www.newsis.com/view/NISX20261120_0003875945",
+    "https://www.newsis.com/view/NISX20261119_0003875715",
+    "https://www.yna.co.kr/view/AKR20261120004151071"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "고금리에가계도中企도빚폭탄경고음5대은행연체율10년來최고",
     "당국금융권에해킹보안개선계획마련촉구내주점검회의",
     "아파트주차금지구역에오토바이6개월방치벌금200만원",
     "조합인가취소에재건축전환까지서울아파트리모델링흔들",
@@ -9031,7 +9030,8 @@
     "초유의미중러정상회담트럼프가손에쥔것은mbc뉴스",
     "中왕이미중러정상회담에역사책에실릴상징적사건종합",
     "돌파구없는선언적만남배타적세력권강조",
-    "기계서상추뽑는다고日물가상승이어지자생필품뽑기방큰인기"
+    "기계서상추뽑는다고日물가상승이어지자생필품뽑기방큰인기",
+    "돌파구없는선언적만남배타적세력권강조종합"
   ],
   "opinion_date": "2026-11-19",
   "seen_opinion_links": [
