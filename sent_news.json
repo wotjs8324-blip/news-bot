@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261119_0003874535",
-    "https://www.newsis.com/view/NISX20261119_0003874530",
-    "https://www.newsis.com/view/NISX20261119_0003874513",
-    "https://www.newsis.com/view/NISX20261119_0003874524",
-    "https://www.newsis.com/view/NISX20261119_0003874387",
-    "https://www.newsis.com/view/NISX20261119_0003874339",
-    "https://www.newsis.com/view/NISX20261119_0003874282",
-    "https://www.newsis.com/view/NISX20261119_0003874359",
     "https://www.newsis.com/view/NISX20261119_0003874399",
     "https://www.newsis.com/view/NISX20261118_0003873814",
     "https://www.newsis.com/view/NISX20261119_0003874347",
@@ -4999,7 +4991,15 @@
     "https://www.donga.com/news/Economy/article/all/20261119/135056123/2",
     "https://www.donga.com/news/Economy/article/all/20261119/135056121/2",
     "https://www.donga.com/news/Economy/article/all/20261119/135056114/2",
-    "https://www.donga.com/news/Economy/article/all/20261119/135056112/2"
+    "https://www.donga.com/news/Economy/article/all/20261119/135056112/2",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE15T1pKdWJscGpiMTlGeU1qM1I3THFyOE9kVTlMa3FmdFBPRGRXdXNGYnZldld1d3FYamdkSzFhaDhObVpiWHVWZExibHNHeUZ6VnRwWlhGS1BCNHV3ZUdPTXVVVmxJMFc0RlhOWEtXUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CTmcwbkV6OFMxelY3Ums5VVRvSHhtc1NuZVUzbkFZU1BpUlg3SXhpNXdlRkh0blRFaWZZQjNRck5fVWZXaDNNS2hwZWRPVzJ6clk1dzBOODg5TnBERTJVNUV4cUpWdmtEUVNjWUNLZw?oc=5",
+    "https://www.yna.co.kr/view/AKR20261119185800091",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854757&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854756&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854755&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854754&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.yna.co.kr/view/AKR20261120000600071"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "민주당선관위여성위원장후보문정복에경고선거운동규정위반",
     "가평농막화재로2명사망1명부상가스누출추정",
     "서울아파트값90주째서울없는주택공급ytn",
     "폴란드전정권임명한헌재소장직무정지야권쿠데타종합",
@@ -9031,7 +9030,8 @@
     "재개발신축빌라투자사용승인일확인해야",
     "한국수출1조달러돌파獨美中이어네번째",
     "원달러환율10하락하면가구생활비年16만원절감",
-    "mmf잔액291조역대최대증시불확실성에눈치보기"
+    "mmf잔액291조역대최대증시불확실성에눈치보기",
+    "북미정상회담한껏띄우더니트럼프이번에도빈손귀국"
   ],
   "opinion_date": "2026-11-19",
   "seen_opinion_links": [
