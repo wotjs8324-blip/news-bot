@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zMlpkZ1JWOWxPeVllb0pXM2VZWmdiTnhUdFhxejRtWVJmN2NNWEU4YlAwOWxmT2M4MEE3MmlSM1hhYVpVbGM2X3duT0VCWkJYMU9nRWJR?oc=5",
-    "https://www.donga.com/news/Inter/article/all/20261119/135052761/1",
-    "https://www.donga.com/news/Inter/article/all/20261119/135052757/1",
-    "https://www.donga.com/news/Society/article/all/20261119/135052728/1",
-    "https://www.donga.com/news/It/article/all/20261119/135052689/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853239&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853348&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853324&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853251&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853248&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12212369",
     "https://www.mk.co.kr/news/society/12213390",
     "https://www.mk.co.kr/news/society/12213333",
     "https://www.mk.co.kr/news/society/12213331",
@@ -4999,7 +4988,18 @@
     "https://www.newsis.com/view/NISX20261119_0003874603",
     "https://www.newsis.com/view/NISX20261120_0003875939",
     "https://www.newsis.com/view/NISX20261120_0003875931",
-    "https://www.newsis.com/view/NISX20261120_0003875932"
+    "https://www.newsis.com/view/NISX20261120_0003875932",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VckVhcDNDWUVjYzBDOUNJd1RrXzd2dFh2NlJ0TVE1M0VOTEhYTnlEQzhDTGRWWkpEeEVHeVJTSFVyT3pqSm5ucVBkX0s3Qk9DcnVWUHE2aVZzT0owc3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iZ0xxNHNJbEFKSnBFUnZKeThCRkk3UDZhSXVyLUVtd0Y1YloweHZVRHlJSWlPWGxxT29GSml0T1BqWHVhMFVrUnZpX3gtSHJBeUt1SE8xT3VHWUxuWWc?oc=5",
+    "https://www.yna.co.kr/view/AKR20261119155051079",
+    "https://www.yna.co.kr/view/AKR20261120003100091",
+    "https://www.yna.co.kr/view/AKR20261120003200527",
+    "https://www.chosun.com/economy/tech_it/2026/11/20/XMTKPC4UCJBBNAHFE2JPZL3HFE/",
+    "https://www.chosun.com/economy/int_economy/2026/11/20/7RYKN7SGTJHJHKRYQQIGXVBLLU/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/20/76T5I65ETNAYTPLXXGOHPLDDRU/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/20/3BYW7BK33NHXHMLDZJ2RRQW6HY/",
+    "https://www.yna.co.kr/view/AKR20261120003000082",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zUVhlb3hmVkYxX3dBM0hITlNxblhtWUtNY1BDZDZ5UXhNVHJpdmVINlZ4Tl9ZQkhQdFpya2xOX2FQdTJXSnFyd2RQbXVEMm5WS2h2RXMzMjRIQU5ub213eGpIcXlpRjNLbUZLT2xoUTBfWll0eFNxRQ?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "금리동결찬성한美댈러스연은총재최소두차례더올려야",
-    "가평단독주택화재로50대남녀2명숨져1명화상",
     "폴란드전정권임명한헌재소장직무정지野쿠데타",
     "7천명대피악몽막아라대형화재합동훈련ytn",
     "금융위501주국회합의안존중전량매수등은추후논의",
@@ -9031,7 +9029,9 @@
     "앤스로픽기대에뛰던뉴욕증시유가금리오르자다우sp500하락전환",
     "푸틴평화선언한날키이우종일폭발음1명사망4명부상",
     "수출1조달러돌파獨美中이어4번째",
-    "미중러첫정상회담서핵전쟁승자없다군축합의는없어"
+    "미중러첫정상회담서핵전쟁승자없다군축합의는없어",
+    "우리는푸틴친구아냐발끈한유럽",
+    "초유의미중러정상회담트럼프가손에쥔것은mbc뉴스"
   ],
   "opinion_date": "2026-11-19",
   "seen_opinion_links": [
