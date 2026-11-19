@@ -1,8 +1,5 @@
 {
   "seen_links": [
-    "https://www.hankyung.com/article/202611196555i",
-    "https://www.hankyung.com/article/2026111964257",
-    "https://www.hankyung.com/article/202611185200i",
     "https://www.hankyung.com/article/202611196445i",
     "https://www.hankyung.com/article/202611196170g",
     "https://www.mk.co.kr/news/stock/12213332",
@@ -4999,7 +4996,10 @@
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OTDM0MHZrZ0lkU20yTzcwWl9vdXpCZkNRX25HMWdpYXhXOUN1dWg3UTNRaDdqZDF1OWk2VVN3aEdVNDN1NGMxc0c5TFFBTG9qWjNYRGY4cXZJdkw3YTRlYWNrUEZkb1dBQU5RVlpkMGloRnVwR3VBQw?oc=5",
     "https://www.chosun.com/jp/politics-national-jp/2026/11/20/MHE3FIZ7JJFUBH5SJYZRMLID6A/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OWTZOZXhxdzdNMzhicF91eDdSU0hRaFMwY0cyWlFrS1ZNLVZPT2g2RUVXaW9WSmFyUV9oQWNDcDZvSGNrLUNRX19aM3BmZW9mcnlQRzVB?oc=5",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5231706"
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5231706",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261120034949Bmy",
+    "https://www.yna.co.kr/view/AKR20261120005300091",
+    "https://www.newsis.com/view/NISX20261119_0003874411"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9073,9 +9073,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SlVIR3QwbFdOSUVlYkRiWFM4MmdjV1pZZF9fbkY0eGJnUWt0SHRlcVBlU2dtNWo0ek9sa0Zjc0hqbHFNWVJKdm1OcTJEdG9JdFFwZmNORQ?oc=5",
     "https://www.hankyung.com/article/2026111982891"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-11-19T18:45+00:00"
-    }
-  }
+  "feed_health": {}
 }
