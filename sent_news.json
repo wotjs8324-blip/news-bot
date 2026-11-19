@@ -1,18 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261119_0003874399",
-    "https://www.newsis.com/view/NISX20261118_0003873814",
-    "https://www.newsis.com/view/NISX20261119_0003874347",
-    "https://www.newsis.com/view/NISX20261119_0003874529",
-    "https://www.newsis.com/view/NISX20261119_0003874517",
-    "https://www.newsis.com/view/NISX20261119_0003874506",
-    "https://www.newsis.com/view/NISX20261119_0003874518",
-    "https://www.newsis.com/view/NISX20261119_0003874558",
-    "https://www.hankyung.com/article/2026111965856",
-    "https://www.hankyung.com/article/202611196544i",
-    "https://www.hankyung.com/article/202611185250i",
-    "https://www.hankyung.com/article/202611185231i",
-    "https://www.hankyung.com/article/202611196398i",
     "https://www.hankyung.com/article/202611196277i",
     "https://www.hankyung.com/article/2026111964396",
     "https://www.hankyung.com/article/202611196641i",
@@ -4999,7 +4986,20 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854756&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854755&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854754&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.yna.co.kr/view/AKR20261120000600071"
+    "https://www.yna.co.kr/view/AKR20261120000600071",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OTlBVVXR3TUJKVElfaENwU2t6eHpSRlFVUTN2REJ0M290dkZ1Y0lpWk5WNHF4VkdyQU1ZZF9zTHFwTl8xSTUyQWNZZEdZRTdDTWltMHU0T183Qkh0eE41UHdDdXh6VFUtMTFTeDRZX3VjalZsNFlaUdIBeEFVX3lxTE1lQkJaMmEzMUx2Z284cVMxaWEzVVdZSEhxX2R6UGMyc3FYMDd6cDNQdVo2XzlSNzhvVjBvcE5abjB6TV9MQnk3WWtNcHcwei1uZzAtcFFSOGp6ekZHazlCMTBmSzZtVE9ncUxYM1JkU0MxSnp0dlo1Tg?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261120011445VYp",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261120010813usD",
+    "https://www.yna.co.kr/view/AKR20261120001500098",
+    "https://www.yna.co.kr/view/AKR20261120001400072",
+    "https://www.yna.co.kr/view/AKR20261119171400075",
+    "https://www.yna.co.kr/view/AKR20261119178951098",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854759&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854758&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854783&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261119_0003875071",
+    "https://www.yna.co.kr/view/AKR20261120001100089",
+    "https://www.yna.co.kr/view/AKR20261120000200109"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "가평농막화재로2명사망1명부상가스누출추정",
-    "서울아파트값90주째서울없는주택공급ytn",
     "폴란드전정권임명한헌재소장직무정지야권쿠데타종합",
     "국민의힘장경태의원직사퇴해야민주당제명동참하라mbc뉴스",
     "인텔주가29폭락ai거품공포확산에미증시kbs뉴스",
@@ -9031,7 +9029,9 @@
     "한국수출1조달러돌파獨美中이어네번째",
     "원달러환율10하락하면가구생활비年16만원절감",
     "mmf잔액291조역대최대증시불확실성에눈치보기",
-    "북미정상회담한껏띄우더니트럼프이번에도빈손귀국"
+    "북미정상회담한껏띄우더니트럼프이번에도빈손귀국",
+    "中왕이미중러정상회담에역사책에실릴상징적사건",
+    "트럼프에게내친구로불린푸틴종전협상영향은"
   ],
   "opinion_date": "2026-11-19",
   "seen_opinion_links": [
@@ -9073,5 +9073,21 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85SlVIR3QwbFdOSUVlYkRiWFM4MmdjV1pZZF9fbkY0eGJnUWt0SHRlcVBlU2dtNWo0ek9sa0Zjc0hqbHFNWVJKdm1OcTJEdG9JdFFwZmNORQ?oc=5",
     "https://www.hankyung.com/article/2026111982891"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "MBN 경제": {
+      "failing_since": "2026-11-19T16:15+00:00"
+    },
+    "한국경제 경제": {
+      "failing_since": "2026-11-19T16:15+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-19T16:15+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-19T16:15+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-19T16:15+00:00"
+    }
+  }
 }
