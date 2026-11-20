@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/economy/tech_it/2026/11/20/MJUDZFRMGZHZJNROQGCEGDWQ64/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/11/20/MZRWEYJUHE3WGYJRMNTDAOLDME/",
     "https://www.chosun.com/entertainments/enter_general/2026/11/20/GVSDAZJQMI4TSNJWMM4TCYRRGY/",
     "https://www.chosun.com/economy/stock-finance/2026/11/20/MI3DMNRRGFSDQOBWGQ3DKNBZMM/",
@@ -4999,7 +4998,8 @@
     "https://www.mk.co.kr/news/realestate/12214343",
     "https://www.mk.co.kr/news/business/12214348",
     "https://www.mk.co.kr/news/stock/12215112",
-    "https://www.yna.co.kr/view/AKR20261121008700072"
+    "https://www.yna.co.kr/view/AKR20261121008700072",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85bE5nWDU1SzhGZVE2ZEdDUHZ0akdsd3gxdFpLRkx4SHlhQzMyeWNDR3ZsSF9HRkE3MnFrZk9fZjY1WDd6am5hTnd4YzAxbkR1NlRGUmtnZ21ieXNmbnfSAWNBVV95cUxOTTg0Vl8ya01tS2FwN0htMUVKUlB4V1FnenpJeWhWUWxHLUMzbUNzV01PaW1OVFJsQmY5M0pfUnNfdmNhT3BhdmlrdEFmZ1BkR3UyNVctM0ZwWU91Rnk3cGJjQTQ?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9074,5 +9074,12 @@
     "https://www.hankyung.com/article/2026111982891",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IMV8ycjFzek1UbkNOc1VxbXNtUjBDWjhHdHY4QjhILVZCTGNEb1RJc0x5QnhMUXBXWGtMSGRlSFRhQm9femd2NUVkNEhwdzJ3NUllZHdmMA?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "YTN": {
+      "failing_since": "2026-11-20T21:31+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-11-20T21:31+00:00"
+    }
+  }
 }
