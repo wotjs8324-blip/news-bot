@@ -1,11 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261120_0003876257",
-    "https://www.newsis.com/view/NISX20261120_0003876274",
-    "https://www.newsis.com/view/NISX20261120_0003876272",
-    "https://www.newsis.com/view/NISX20261120_0003876246",
-    "https://www.newsis.com/view/NISX20261120_0003876245",
-    "https://www.newsis.com/view/NISX20261120_0003876244",
     "https://www.newsis.com/view/NISX20261120_0003876250",
     "https://www.newsis.com/view/NISX20261120_0003876006",
     "https://www.newsis.com/view/NISX20261120_0003876268",
@@ -4999,7 +4993,13 @@
     "https://www.chosun.com/jp/politics-national-jp/2026/11/21/N3O2OOUKQZGZVL3SURDAC4G2FY/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RT3JWQ3N5WjN2TWJtY21sdVhkTGZPSk1nTlZHV2VRQUxhYUx5d0RNSnRNMXAyMHNVUXpyZ0RhcHZVMzF3RUJicW1uazRJal9tMDNYQmFn?oc=5",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855227&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261121_0003877503"
+    "https://www.newsis.com/view/NISX20261121_0003877503",
+    "https://www.yna.co.kr/view/AKR20261121004800082",
+    "https://www.chosun.com/sports/baseball/2026/11/21/MQ4WGYRWMY2TEYRYMFTGEYJYGM/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/21/GY2WEOJTGAZWCYZTHA4TQMRVG4/",
+    "https://www.chosun.com/jp/international-jp/2026/11/21/SOE4UXZCIZC2ZAKG6TUA6PPLMM/",
+    "https://www.newsis.com/view/NISX20261120_0003876217",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261121025042MSJ"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "서울집값90주연속상승경기인천거래량껑충",
     "코스피2대하락출발삼전닉스4안팎약세",
     "코스피2넘게내리며출발코스닥도하락",
     "코스피코스닥2대하락출발",
@@ -9031,7 +9030,8 @@
     "겹겹이쌓인보유세인상압박에공시가현실화율동결",
     "브렉시트로헤어진eu영국정상회담서관계재설정시동종합",
     "美무역대표무역법301조조사연말까지마무리",
-    "iea韓에너지수입의존80일본과더불어세계최고수준"
+    "iea韓에너지수입의존80일본과더불어세계최고수준",
+    "美베선트미중ai군사결정에인간개입합의엔비디아수출허용유지"
   ],
   "opinion_date": "2026-11-20",
   "seen_opinion_links": [
@@ -9074,5 +9074,15 @@
     "https://www.hankyung.com/article/2026111982891",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IMV8ycjFzek1UbkNOc1VxbXNtUjBDWjhHdHY4QjhILVZCTGNEb1RJc0x5QnhMUXBXWGtMSGRlSFRhQm9femd2NUVkNEhwdzJ3NUllZHdmMA?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "MBC": {
+      "failing_since": "2026-11-20T18:00+00:00"
+    },
+    "채널A": {
+      "failing_since": "2026-11-20T18:00+00:00"
+    },
+    "중앙일보": {
+      "failing_since": "2026-11-20T18:00+00:00"
+    }
+  }
 }
