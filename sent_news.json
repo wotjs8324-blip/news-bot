@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261120047000030",
-    "https://www.yna.co.kr/view/AKR20261120048500061",
-    "https://www.chosun.com/entertainments/enter_general/2026/11/20/MZQWKNJWHAZTQZTFHFTGMYTGHA/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/20/GYYGCOJVG4YTIZDDHFSTIMRUMY/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/20/HFSDIZTDMY2GMNJWMQZGINZSHA/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/20/GJSDMMZYGMYTOYZUMEZWGNZYMU/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/20/MFSDMOBZGAYGEOLEGAZTEMBTMI/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/20/GZTGCZJUMJQTCYTFHFSGGODCMQ/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/20/MJSGMMZZMJRDCNDEGY2GMMLCME/",
     "https://www.chosun.com/sports/world-football/2026/11/20/GEYDIMRUMQYTSYRZGZTDGMDDGA/",
     "https://www.chosun.com/entertainments/broadcast/2026/11/20/GFTDQOBVMY4DKMDGMU4GEZLGMM/",
     "https://www.chosun.com/economy/realty/realestate_news/2026/11/20/HE2TQNBSGM4GCNRTHE2TMZJQGQ/",
@@ -4999,7 +4990,16 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856562&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856561&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856559&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261121_0003877508"
+    "https://www.newsis.com/view/NISX20261121_0003877508",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RS0NzSUgyZVZBZVRQUDcycUJYNldMUDJDREtuaTlaY2RWTHFVNkdYWi1HUHhyclo4MzVBbVJWRXlvMldUWm9CUWdEaWEzUWJ3VjEwcXNRREJCLVU?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRm5McGloMEx0Qzl1Slc5RzhyMjdKeU1LVm16RkVLTS1RYUw4X2RFZVQ3dVo1dy1qTmgwZVNzbXEwbW5JQU5xQXFoNVhDTTR1UnNfQTFvSWhDS1dFWnc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95NFNfUnRLT0lpSnp2Ymc4R2FmMEViQzB4UV9BVm1ZRUlwVlRUYllmSHNVdzB6aDE4ak9UZlF5RDFoSjhnbHFzSTgtakVnWHg4UDBtZVU0QkVkWXZiSUE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jRldCTThSSGVicHhJVEFIZWJscnFMRWdRTmlmQW9fRmZ1SVdpdFBUWXUzOTVnbXU0MU04blBxdVN3UTZBN0lSQmlsQ244S0pjZjgyQy1jVDhsOG9sVlE?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261121043234fD9",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261121043146svZ",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261121043124DAg",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261121043456dSA",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yRm15NDI4UzRYb1F2Q04zWFM0ZUtzSHVwcDlkTmRrUUplUWZvT3V0X2VaTXRiVmRINFJHcS1UcGRkQ1RkMjZ0TkxZLUVFM21zRjVXZlZ0RmRjRnY2Q3c?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,8 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "코스피2대하락출발삼전닉스4안팎약세",
-    "코스피2넘게내리며출발코스닥도하락",
     "코스피코스닥2대하락출발",
     "가공식품외식비상승에10월물가28반년째3안팎",
     "정부체감물가여전히높아역대최대규모김장대책ytn",
@@ -9031,7 +9029,9 @@
     "브렉시트로헤어진eu영국정상회담서관계재설정시동종합",
     "美무역대표무역법301조조사연말까지마무리",
     "iea韓에너지수입의존80일본과더불어세계최고수준",
-    "美베선트미중ai군사결정에인간개입합의엔비디아수출허용유지"
+    "美베선트미중ai군사결정에인간개입합의엔비디아수출허용유지",
+    "美연준이사금리추가인상필요성강조트럼프는금리너무높아",
+    "수능실언논란교육부장관사퇴하라면해야죠ytn"
   ],
   "opinion_date": "2026-11-20",
   "seen_opinion_links": [
