@@ -1,23 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261120_0003876250",
-    "https://www.newsis.com/view/NISX20261120_0003876006",
-    "https://www.newsis.com/view/NISX20261120_0003876268",
-    "https://www.newsis.com/view/NISX20261120_0003876267",
-    "https://www.newsis.com/view/NISX20261120_0003876235",
-    "https://www.newsis.com/view/NISX20261120_0003876230",
-    "https://www.newsis.com/view/NISX20261120_0003876247",
-    "https://www.newsis.com/view/NISX20261120_0003876062",
-    "https://www.newsis.com/view/NISX20261120_0003876237",
-    "https://www.newsis.com/view/NISX20261120_0003876248",
-    "https://www.newsis.com/view/NISX20261120_0003876207",
-    "https://www.newsis.com/view/NISX20261120_0003876234",
-    "https://www.newsis.com/view/NISX20261120_0003876178",
-    "https://www.newsis.com/view/NISX20261120_0003876252",
-    "https://www.newsis.com/view/NISX20261120_0003876126",
-    "https://www.newsis.com/view/NISX20261120_0003876193",
-    "https://www.hankyung.com/article/202611209134g",
-    "https://www.hankyung.com/article/202611209146g",
     "https://www.hankyung.com/article/2026112092446",
     "https://www.hankyung.com/article/2026112091886",
     "https://www.hankyung.com/article/2026112091086",
@@ -4999,7 +4981,25 @@
     "https://www.chosun.com/entertainments/broadcast/2026/11/21/GY2WEOJTGAZWCYZTHA4TQMRVG4/",
     "https://www.chosun.com/jp/international-jp/2026/11/21/SOE4UXZCIZC2ZAKG6TUA6PPLMM/",
     "https://www.newsis.com/view/NISX20261120_0003876217",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261121025042MSJ"
+    "https://www.yonhapnewstv.co.kr/news/AKR20261121025042MSJ",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40TUUyaXlGdkhXdVppcU0zRDdwSE45MGJENXZ3VlFWWmNkSkVMUWpCSFVoZlhsd1EzWHRMTHI4bkdqZG13R3lvM0c2SzdqOThsTHg0ZXRBdUtHcUkycFVKLWZYMXZUUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NdjhjejFBOUNTUXRiNjRlNUVsSVFneHJfbzlRN3N4WThsWmxnSElGbS1kNl83QkZ6MUVvMUJvMC1JSzNSeHhqcjNkRHZnNmQ0cHlkUW9wamI1NTA?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WdWJpcWI4aWI4dVJ1cUJDZUZ3QzZTNnRSZVFmRF9ucW9CRWlLLVJUR0tRbTdQbEJyNHVUNVZwdjhtYVZEcXZsYS1vZ203a3dkdDlGTmhkRkp2VWJrWk9aNTdSaThlZw?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5faWdLekpQOVc4YktFZV9DbVozUExuUFlJT2NscXdqaG9WcjVKeEJ3SUh4NXRadWZrX0owaG05a2xqaVljR1JpTk95bmQzRkV3d0ZTMHZCN2lyNDU2YkIza3J5UTIzVGNnTTBv?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SWC13ODFCcTEtZzZHVnByejZLSTEtc2hvNDdwY1IzZWNxUDhTNVZ3REQwSTh5U2JzTVNMUHhfWGV4THJHRlJSbkVUd2Z2VkVEckRpbFJUcFBqQVAzRHhyMGM5aWtoQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BbVBCR0xUMEtrRkdLQzc3RnlqTk91Tm9wWGhrNExmdm9iVlFCY0NaUFREdzZRMEF2YUdyVTR2eDdsN0VlRHR0SG9xeUdHZmc5YWxDekV5N0dtaTRLcXhMcERFX0FvZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HbzU2Zl9xeFozTlhOYWRSeEhDMlgzSElBSDEyQTdqVDNNZ2ZjNE1MRVg3bUI0dDdrZGp4QksxXzhVZ2psSUdDTzgtYVVMVFQ1MWpNS0lNUHNIZlU?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE01MGdJaG56Z3MwSnpfVXBZWFA2U2NxM0xOWWg4QnRXTm1VY2tWV1k5SkhtWElnYzVyV3ZtSlYzWG1EcXVZSjNlQWRReGY2SGRpWmpYbFcyY05laE9UMUpyV3VJek9BRDNhTlF3enZrLXQ5dDBJYmN6NdIBeEFVX3lxTE0xUkdLZTdYMTN6aUh6MmRSd2JoazAzal92aUNXSm5HV2M0MHJQMFRPV1V2NlEyTnhVMXNHNUIxa1ZCczI3SEt1dGk5NkR3blp2VTNFTEl0Q3NpRHdPcXFJR2lEbHpzNmI1Y0YxRnNiQmJJS0Q4X3g5Yg?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZRXI2NzhmT21uN2EwYks0bDl3NFktVlpvWUlmZUUzNnRWNklqSkgyUzQ5VXhpOWlILUMxN1JEZ1hPNkJDdjZMQXN5bGp5MTIzMzhUVkc1V1Rvc3VLWlE?oc=5",
+    "https://www.chosun.com/international/2026/11/21/VH66Q4B3HZBRLLR3HCKB3JADWI/",
+    "https://www.chosun.com/culture-life/culture_general/2026/11/21/I4C5LP335JCUDLQCE3TPEK2U2I/",
+    "https://www.chosun.com/economy/weeklybiz/2026/11/21/E6ALXTVRWRGODKPHHSVIY4SVOI/",
+    "https://www.chosun.com/culture-life/art-gallery/2026/11/21/RKMKGOGBDZFHZAJ6V7D3CJUNUA/",
+    "https://www.chosun.com/culture-life/food-taste/2026/11/21/VS23LPCR7FG7NCDI5ED7NDRJIQ/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/21/Z57L74E4H5EOPP4PAZVBLEKCR4/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/21/XM4KZUO4VFEFTOGBCF2AISEHCM/",
+    "https://www.newsis.com/view/NISX20261121_0003877504",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MbFd0WkdwMVFsdnByVHo2enViM3RWLURzeG9IbEY1WjVpTDBqNS1ZUkJ2bGFELUhpUHEyRXhOV3J2S1c0WFMwWTREYXhPV01WT1lGb2pMemhVeEFOZEZ0YUhDVGpxQQ?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9074,15 +9074,5 @@
     "https://www.hankyung.com/article/2026111982891",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IMV8ycjFzek1UbkNOc1VxbXNtUjBDWjhHdHY4QjhILVZCTGNEb1RJc0x5QnhMUXBXWGtMSGRlSFRhQm9femd2NUVkNEhwdzJ3NUllZHdmMA?oc=5"
   ],
-  "feed_health": {
-    "MBC": {
-      "failing_since": "2026-11-20T18:00+00:00"
-    },
-    "채널A": {
-      "failing_since": "2026-11-20T18:00+00:00"
-    },
-    "중앙일보": {
-      "failing_since": "2026-11-20T18:00+00:00"
-    }
-  }
+  "feed_health": {}
 }
