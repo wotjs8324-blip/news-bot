@@ -1,6 +1,5 @@
 {
   "seen_links": [
-    "https://www.yonhapnewstv.co.kr/news/MYH20261120095328Pw1",
     "https://www.yonhapnewstv.co.kr/news/MYH202611200951222Xs",
     "https://www.yonhapnewstv.co.kr/news/AKR20261120095124FTm",
     "https://www.yonhapnewstv.co.kr/news/AKR20261120094843nXi",
@@ -4999,7 +4998,8 @@
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40TzBzcmRoT2luckJuaGtYX2p3cFpfMENRVkhNYWNoT2VzTGtMUlRfcFpwUE5NN3dsYUhPUVRfdVhpVkwyM3hvNVFGRXhaRV91LXBLZW5vUzk5NXNseHgzbUh3ZnN6UQ?oc=5",
     "https://www.mk.co.kr/news/stock/12214334",
     "https://www.mk.co.kr/news/stock/12214332",
-    "https://www.mk.co.kr/news/stock/12214337"
+    "https://www.mk.co.kr/news/stock/12214337",
+    "https://www.newsis.com/view/NISX20261120_0003876118"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9074,5 +9074,18 @@
     "https://www.hankyung.com/article/2026111982891",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IMV8ycjFzek1UbkNOc1VxbXNtUjBDWjhHdHY4QjhILVZCTGNEb1RJc0x5QnhMUXBXWGtMSGRlSFRhQm9femd2NUVkNEhwdzJ3NUllZHdmMA?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "한국경제 경제": {
+      "failing_since": "2026-11-20T19:00+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-20T19:00+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-20T19:00+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-20T19:00+00:00"
+    }
+  }
 }
