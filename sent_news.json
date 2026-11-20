@@ -1,24 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261119_0003875506",
-    "https://www.newsis.com/view/NISX20261119_0003875371",
-    "https://www.newsis.com/view/NISX20261119_0003875503",
-    "https://www.newsis.com/view/NISX20261119_0003875486",
-    "https://www.newsis.com/view/NISX20261119_0003875493",
-    "https://www.newsis.com/view/NISX20261119_0003875489",
-    "https://www.newsis.com/view/NISX20261119_0003875501",
-    "https://www.newsis.com/view/NISX20261119_0003875370",
-    "https://www.newsis.com/view/NISX20261119_0003874285",
-    "https://www.newsis.com/view/NISX20261119_0003875450",
-    "https://www.newsis.com/view/NISX20261119_0003875428",
-    "https://www.newsis.com/view/NISX20261119_0003874261",
-    "https://www.newsis.com/view/NISX20261119_0003875431",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231795",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231794",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231771",
-    "https://www.hankyung.com/article/202611197998H",
-    "https://www.hankyung.com/article/202611197993H",
-    "https://www.hankyung.com/article/202611197984H",
     "https://www.hankyung.com/article/202611197795g",
     "https://www.hankyung.com/article/202611197973H",
     "https://www.hankyung.com/article/202611197955g",
@@ -4999,7 +4980,26 @@
     "https://www.newsis.com/view/NISX20261120_0003876684",
     "https://www.newsis.com/view/NISX20261120_0003876650",
     "https://www.mk.co.kr/news/realestate/12214498",
-    "https://www.mk.co.kr/news/business/12214496"
+    "https://www.mk.co.kr/news/business/12214496",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tMUpteGFxVnQwMG9OeHNXREFWWG03bW9fdURaVEdxXzIycnZPRlF0SHRHSkZQbHFOUmRaSm9tTWFDQlNfeWZPREloVEVEZlZTNEVjckhDMTFGblBsNWc?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261120132817hDE",
+    "https://www.yonhapnewstv.co.kr/news/AKR2026112013261753L",
+    "https://www.chosun.com/entertainments/entertain_photo/2026/11/20/MFTGGYRRGJRGEOLCHEZDGNRQHE/",
+    "https://www.chosun.com/entertainments/entertain_photo/2026/11/20/HBRTEZRXGYYTOMRXMU3TOZRQMU/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/20/CY2VYTTOYFASHL72Y7K767MDBM/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855692&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/economy/12213716",
+    "https://www.newsis.com/view/NISX20261120_0003876687",
+    "https://www.newsis.com/view/NISX20261120_0003876448",
+    "https://www.newsis.com/view/NISX20261120_0003876029",
+    "https://www.newsis.com/view/NISX20261120_0003876702",
+    "https://www.newsis.com/view/NISX20261120_0003876704",
+    "https://www.newsis.com/view/NISX20261120_0003876697",
+    "https://www.newsis.com/view/NISX20261120_0003876652",
+    "https://www.newsis.com/view/NISX20261120_0003876701",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231982",
+    "https://www.mk.co.kr/news/stock/12214501",
+    "https://www.newsis.com/view/NISX20261120_0003876665"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "영동고속도로동군포요금소앞화물차추돌2명중상ytn",
     "서울아파트값90주연속폭등에野李부동산폭정멈춰라",
     "신계용과천시장법무부경마공원이전및주택공급철회",
     "영광코스닥상장첫날장초반70대급등",
@@ -9031,7 +9030,8 @@
     "계엄전국무회의건의무죄선포시점부터판단mbc뉴스",
     "3분기주담대다시증가세30대비중역대최대ytn",
     "123계엄내란확정했는데도대법원장탄핵조갑제홍준표민주당에경고",
-    "국힘홍대서조작기소특검법규탄행진李재판재개해야종합"
+    "국힘홍대서조작기소특검법규탄행진李재판재개해야종합",
+    "농협은행2차esg추진위원회개최기후포용금융강화"
   ],
   "opinion_date": "2026-11-19",
   "seen_opinion_links": [
