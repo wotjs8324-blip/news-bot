@@ -1,15 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261120_0003877123",
-    "https://www.newsis.com/view/NISX20261120_0003877116",
-    "https://www.newsis.com/view/NISX20261120_0003877138",
-    "https://www.newsis.com/view/NISX20261120_0003877119",
-    "https://www.newsis.com/view/NISX20261120_0003876597",
-    "https://www.newsis.com/view/NISX20261120_0003877072",
-    "https://www.newsis.com/view/NISX20261120_0003877122",
-    "https://www.newsis.com/view/NISX20261120_0003876869",
-    "https://www.newsis.com/view/NISX20261120_0003877078",
-    "https://www.newsis.com/view/NISX20261120_0003877093",
     "https://www.newsis.com/view/NISX20261120_0003876985",
     "https://www.newsis.com/view/NISX20261120_0003877046",
     "https://www.newsis.com/view/NISX20261120_0003877128",
@@ -4999,7 +4989,17 @@
     "https://www.chosun.com/sports/baseball/2026/11/22/GY2DCZBXG5SDQOBRGQYWMNJSHE/",
     "https://www.chosun.com/jp/sports-jp/2026/11/22/UZUUSYC4OBBM7LASVVMJX7ZBSE/",
     "https://www.chosun.com/jp/culture-life-jp/2026/11/22/RXPEYC4U5NGZXJU67L43FY7Z7A/",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232207"
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232207",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yU0dOTG9MVEl0UVc0SXU5c083YURiY09WNXdWR0xjdTVQVzNwMTVRV3Z3OVQwb1ZLbk9xak5uZU0xdnlKM3BkTHRqNjZhSjBPNWtVXzU0MVUxamFGQ0tTOFhycEhlOElVNFljS09tRDZFclVUSnc?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zRmtBSWw4M0pRTnJlSmVCdTIzYzE2X0ZqLW0tVkNCS3RJRUFMdVg4a1pGQVVLVWlKVDhDd3p2X0xFWUlUeEZubW8xNHdlRFdHRmhPMnlFUklrY2RBTmk1TlRVdVZoMS10Y0dNTGt6bC16d0I1ZGc?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CbVBEVXBtbk5UYVQtVTlsTkktRGVkVmt6aHp6X1NQb2dkaHAyeDBqMXd4V1hzRnQ4ZllsU1hpaFdHUVlydHJLQkhjSjVCYnRoRURKYjdYNWJmOU80YzVXRVR1S0MwMEVqcjlJTG9UVzRsM0tKTHc?oc=5",
+    "https://www.chosun.com/national/weekend/2026/11/21/JOUDFEIFJZHHTJ72GB7YHSH3FY/",
+    "https://www.chosun.com/sports/world-football/2026/11/22/MM4TKNZXMQ4GKZJVGFRWMOJUMY/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/22/HUQQ64NS2RGUZDNTHU7RFYPRT4/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/22/C5RFFP4F7FHFDCQULFAT2LFYNE/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/22/5P2G3X3WERC5HCMNOFWPXCJAS4/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856131&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261122_0003877861"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "오세훈집값90주째오르는데폭락걱정대통령혼자딴세상사나",
     "국고채금리일제히하락3년물연3736",
     "포스코이앤씨더샵일산센트로장기일반민간임대주택공급",
     "오세훈대통령혼자딴세상집값폭락걱정할때인가",
@@ -9031,7 +9030,8 @@
     "인도네시아딜리동북동쪽바다서규모68지진발생kbs뉴스",
     "민주당조희대탄핵추진단오늘기자간담회개최ytn",
     "인천신한은행상승세무섭다청주kb8469잡고공동선두등극종합",
-    "삼전닉스와르르코스피코스닥5대급락에개미들비명"
+    "삼전닉스와르르코스피코스닥5대급락에개미들비명",
+    "中칭하이성서규모56지진공항대피강한진동느껴"
   ],
   "opinion_date": "2026-11-21",
   "seen_opinion_links": [
