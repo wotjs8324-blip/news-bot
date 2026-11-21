@@ -1,19 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856138&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856111&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856131&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856121&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261120_0003876123",
-    "https://www.newsis.com/view/NISX20261120_0003877125",
-    "https://www.newsis.com/view/NISX20261120_0003876963",
-    "https://www.newsis.com/view/NISX20261120_0003877074",
-    "https://www.newsis.com/view/NISX20261120_0003877143",
-    "https://www.newsis.com/view/NISX20261120_0003877144",
-    "https://www.newsis.com/view/NISX20261120_0003877032",
-    "https://www.newsis.com/view/NISX20261120_0003877133",
-    "https://www.newsis.com/view/NISX20261120_0003877137",
-    "https://www.newsis.com/view/NISX20261120_0003877090",
     "https://www.newsis.com/view/NISX20261120_0003877123",
     "https://www.newsis.com/view/NISX20261120_0003877116",
     "https://www.newsis.com/view/NISX20261120_0003877138",
@@ -4999,7 +4985,21 @@
     "https://www.chosun.com/sports/volleyball/2026/11/22/GZSDEYJYGQ4WIMBUME4GGOBYMM/",
     "https://www.chosun.com/entertainments/broadcast/2026/11/22/GJSWKOLBGE4WINBRMM4TKOBZHE/",
     "https://www.chosun.com/entertainments/broadcast/2026/11/22/MU4DMYRUMIZGCN3BHEZDMOJSMY/",
-    "https://www.newsis.com/view/NISX20261120_0003876918"
+    "https://www.newsis.com/view/NISX20261120_0003876918",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWeWhMQUs5ZDdzWGluY1lTOURaY1hlekpnM3FieHNsWVJwVlQ3bjl3RjJpY2gyQnRsLUV0ekJGaGl4YzdqLXlaLUZMcXc0Y2hDSnh2RUZWRzhQdTlqdHp5VWlVQk9vUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OWnZzQjk2SEY5VFRVVm1Qa2VtUDEteEVlSElqS04xVlF2Y25PYi0tbG5Ud2lYU1pxWEtLaXZkNVNhUjIybTYweTd0ZFB1Q09PRlAxNXdWT3BpNkNBeER6WW5lTTY1dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1V0tQazd0WlNOTFVEQVE1YlVmVVlVM1NHVzREdE5OZVJIV1IxbGJhV2NjTjliTEFqcm5xSmRIbVFtc3FlSk93STk3REhiLTgzUjNXMklya2M3RlBjVmdHa2hKUk91UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SVZiZGJIR1ptaHlqRUJZWVZkUk1BbTBBYzRmT0E1RDBJNzU3aFBjWEdNYjJ3V1VIUHF4dmdSVmc1Y1UyWFNPbWFNNzNXSl9HZGg2SEJIVzdTVnc?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qLXpxMWtvVU95a1J6U0pVMnVqb284YW91cXJnQWh6ektnY3A3SnEtcUZMQVNRajZmZ0h5bUZzeFRHODZCWXZEcmVyNnkxRW5mdUd0Um9McHotTXZPWFdVNVhpT0hYV0Z2M1UzQVBZNzFuV2QtNk5oWNIBeEFVX3lxTE5VRVZCV29DbW9leF9QT1dYQkNmNVEtcGpWaXdPM3h0NTJqaWNvUXhZcjlKaGs3NzNJZ09naDJPMWJpMWRJY3F5ckR0eHZQUk1iN3FPc0Vvd3J6blJQbTlnWkxMa2lmUC1TeUNERDlPeEtzZlRCbV9XYw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOODF5b0RtaHVNNjdBUFRkZ3hsVV95Z1VfSkJ4X0gzQ1JOZDJIS3lzLXRyd3JhZzFPMWRCbk11bFFKWTdESmNHU1pNblJXd3dSMHBqajFoUjRjMWotc2c?oc=5",
+    "https://www.chosun.com/sports/world-baseball/2026/11/22/GA4DKZLFGE2GEOBQMRSGMNRUGU/",
+    "https://www.chosun.com/sports/world-football/2026/11/22/GEYTCZTFGRRTGM3BGZRDSYJVGI/",
+    "https://www.chosun.com/sports/baseball/2026/11/22/MVSGINRRGE3WGMBVGM3WENBZMU/",
+    "https://www.chosun.com/sports/volleyball/2026/11/22/MQZGMMZTMEYDCY3CGFTDKMBSGI/",
+    "https://www.chosun.com/sports/baseball/2026/11/22/GY2DCZBXG5SDQOBRGQYWMNJSHE/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/22/UZUUSYC4OBBM7LASVVMJX7ZBSE/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/22/RXPEYC4U5NGZXJU67L43FY7Z7A/",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232207"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9075,18 +9075,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IMV8ycjFzek1UbkNOc1VxbXNtUjBDWjhHdHY4QjhILVZCTGNEb1RJc0x5QnhMUXBXWGtMSGRlSFRhQm9femd2NUVkNEhwdzJ3NUllZHdmMA?oc=5",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5QlBYN2NEWlFJYjBCbGw5TXpNN2RYclRiZTIyODFabUtrcDhlaVZhRUFUX0VJaXJwZVNjVjBTMXhmVVNyWkpkR2M2eWZETFRMLVUzd2p3aw?oc=5"
   ],
-  "feed_health": {
-    "한국경제 경제": {
-      "failing_since": "2026-11-21T16:15+00:00"
-    },
-    "한국경제 증권": {
-      "failing_since": "2026-11-21T16:15+00:00"
-    },
-    "한국경제 부동산": {
-      "failing_since": "2026-11-21T16:15+00:00"
-    },
-    "한국경제 정치": {
-      "failing_since": "2026-11-21T16:15+00:00"
-    }
-  }
+  "feed_health": {}
 }
