@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261121_0003877605",
-    "https://www.newsis.com/view/NISX20261121_0003877603",
-    "https://www.newsis.com/view/NISX20261121_0003877550",
-    "https://www.newsis.com/view/NISX20261121_0003877601",
-    "https://www.hankyung.com/article/202611209535i",
-    "https://www.hankyung.com/article/2026112112267",
-    "https://www.newsis.com/view/NISX20261121_0003877591",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE96S2xzRkdIdWFmcVRXMmt5Z19CdFBjT3hFVjlzQ29xV0FrMXhwckhIR0NTVlF4VzRFbUNHeDBTXy1RdTF6S21OLWZ1X3RqYkstMnY4WVVoXzZ4STVJX0hTWTN5S3BYVEF0NXc2UkF6SU1PSFFhcFV5MdIBeEFVX3lxTE9WVGxEZUZ0elhNVWdiSzFkQktGTWlWbHJTeUxtTnhCWGNZMU45emlXODFUYWlLamJYcWJuT0VjdXFBc05BUDVsSGJORUVpNzV2MUh6Vms1NXZoRkNlNUZYWmQxMWtkaFo0eFJENU5wRnpPUzJaVDM0WQ?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNDNRZG42UTNzMDY4YUZuUGFDS01DbFFlbTJoSXFkaWtYRkRLUmViVFRXajV3VUF4Z213ek5uSFRJRk40bkJCTXFoeFZqMHVsVlQyRzF6NE5xYzdad2c?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VR0M2eDNGWjhRUV9LbzNxMk9rQzlsUGlmb1NzT08xOTVmNTgxZ1AwSmxYS1BMYTZPaTEzcFdTTndXbThWVndBb0wwY2NEMGRaeFU5QnlMRE9xd1hMbEE?oc=5",
@@ -4999,7 +4992,14 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857982&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857980&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261122_0003878372",
-    "https://www.hankyung.com/article/2026112226427"
+    "https://www.hankyung.com/article/2026112226427",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEd2FlSFotTDdCcm95U1V2MzdLVWVmblpfOTdMMUtYYjFTRmpyQmtLVzhUckZIXzV4N1ZOX1FEeDNicGhudkhfMjBLMnJsSnVfaGpFS1hwUUhxVThLYlhkMnpZN3E2UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yS2NJVEdFLUJHekstdlhjUjE2enZzSXpwUlg3dkxtUVFkSzFRM2hGaGhzZUpzcTVrNWRac0tWcU1MUmQxb2hscW9vVkpsb1BMenV5eHF3S0pJaFFnWW8yejdmd1VHaFJaSzNUalpUYw?oc=5",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/22/MIZTQODGMY2TIOBYGEYGCNBXGE/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/22/RU7EFUFAH5HXLHCPGTFETOUR7A/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GdmlDeVM4Zzl1YW9DMGNLdEQzRGFaRmZoWmlRWG5QVGpoS0M4WHp2d2ljRTdhZzZmR2pubTJ0NzliOUdIQnZKOE5FOS1rQlFaOUlBcHNR?oc=5",
+    "https://www.newsis.com/view/NISX20261118_0003872498",
+    "https://www.mk.co.kr/news/society/12215757"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "野조작기소특검법에李대통령죄지우기구제불능정권",
     "한병도국힘조작기소특검에공소취소억지법안전체왜곡",
     "카카오게임즈3분기도적자오딘q로본격반등모색종합2보",
     "역대최대매출네이버와수익성개선카카오상반된전략이3분기실적가른다",
@@ -9031,7 +9030,8 @@
     "또검은월요일오나미국증시폭락에초긴장",
     "공정성훼손책임물어장관경질평가신뢰어떻게세우나mbc뉴스",
     "18년만에증시안정펀드준비공매도규제제외",
-    "손정의한때sk하이닉스1조달러인수검토채널a"
+    "손정의한때sk하이닉스1조달러인수검토채널a",
+    "김민전국회해제요구받아들인계엄내란아냐대법원장탄핵은헌법질서부인"
   ],
   "opinion_date": "2026-11-22",
   "seen_opinion_links": [
