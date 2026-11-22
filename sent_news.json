@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856851&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856844&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/society/12215209",
-    "https://www.newsis.com/view/NISX20261121_0003877587",
-    "https://www.newsis.com/view/NISX20261121_0003877589",
-    "https://www.newsis.com/view/NISX20261121_0003877633",
-    "https://www.newsis.com/view/NISX20261121_0003877638",
     "https://www.newsis.com/view/NISX20261120_0003877404",
     "https://www.newsis.com/view/NISX20261121_0003877636",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232126",
@@ -4999,7 +4992,14 @@
     "https://www.chosun.com/jp/opinion-jp/2026/11/22/L6N6SOVTSFAMLDGHAZ3GQRB56I/",
     "https://www.chosun.com/jp/culture-life-jp/2026/11/22/TJPSAC6RJRDNHMODT2J64MKTXI/",
     "https://www.chosun.com/jp/culture-life-jp/2026/11/22/MAZSQGEWGFF2DITCWB5XUH3BPY/",
-    "https://www.newsis.com/view/NISX20261123_0003878381"
+    "https://www.newsis.com/view/NISX20261123_0003878381",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RVDRoQUJBOTU3RlpBLXhRQWx4QlJtMGdBU2dINXlfQzVYLUNyeERHZEg2cl9TcGE4OGlHbURGRlJ0emlyUWN4Mmc0eGstX0hwc2sxdUJFaFdKSDg?oc=5",
+    "https://www.chosun.com/special/special_section/2026/11/23/LMNCPQE2NVEVTKBJPV6VTKJJRY/",
+    "https://www.chosun.com/opinion/editorial/2026/11/23/RPJKWQ7QONHX3GO7G7PZCTQM5E/",
+    "https://www.chosun.com/opinion/palmyeonbong/2026/11/23/ZIII6V3A2NDDXLACQLZCYABUPY/",
+    "https://www.chosun.com/sports/baseball/2026/11/23/GE2TONLDMYZWGMBVMM2GMNJRHE/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/22/J3A3EDZSRBGF5K3XITKEH2WWXE/",
+    "https://www.hankyung.com/article/2026111978066"
   ],
   "initialized_feeds": [
     "조선일보",
