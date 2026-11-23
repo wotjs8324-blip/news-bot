@@ -1,18 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261123023000004",
-    "https://www.yna.co.kr/view/AKR20261123021600065",
-    "https://www.chosun.com/economy/economy_general/2026/11/23/4AISR5ZVHNHPNJQOY5IWU5L5V4/",
-    "https://www.chosun.com/economy/market_trend/2026/11/23/GA2DMYRUMUYDCY3CHBRWIYRVG4/",
-    "https://www.chosun.com/economy/market_trend/2026/11/23/GVQTEYLBMIZDIODBGJQTQMZRMU/",
-    "https://www.chosun.com/sports/world-football/2026/11/23/IDDBGTQUWNBDNPUBJYD6CJXSQY/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/23/MY2GCNBWGBRDIZBZG43TOOJRMI/",
-    "https://www.chosun.com/sports/world-baseball/2026/11/23/BESCBPSK7FHFVA7TMW26CJNTBY/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/23/GJSTOMBWHA4TKYJWGMZDKYZSGQ/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/23/HE4GMM3DHA4GEZJQMI4TEMLGGY/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/23/MRSTQYZSGM3DAMTCGRTGKM3BGE/",
-    "https://www.chosun.com/entertainments/movie/2026/11/23/MNQTQZBXGU3DCYJSGYYTAZTCGU/",
-    "https://www.chosun.com/economy/real_estate/2026/11/23/HE2TMZRQGI3GIOJRGUYTKNBUMQ/",
     "https://www.chosun.com/sports/world-football/2026/11/23/G44TINZWMU4WMY3GHEYGMOJUMY/",
     "https://www.chosun.com/economy/stock-finance/2026/11/23/HAYTOZRWMMYTOYZUMYYGMNJUHE/",
     "https://www.chosun.com/economy/stock-finance/2026/11/23/G43DONLCMVSTSZBRMQ3GCY3BME/",
@@ -4999,7 +4986,20 @@
     "https://www.newsis.com/view/NISX20261123_0003880034",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232326",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232325",
-    "https://www.mk.co.kr/news/stock/12216558"
+    "https://www.mk.co.kr/news/stock/12216558",
+    "https://www.yonhapnewstv.co.kr/news/MYH202611232137569gQ",
+    "https://www.yonhapnewstv.co.kr/news/MYH202611232137077zW",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261123214839AqP",
+    "https://www.yna.co.kr/view/AKR20261123171600079",
+    "https://www.yna.co.kr/view/AKR20261123171400054",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/23/MRRTANDEGQ4TMOJRMY3TEMJWMY/",
+    "https://www.donga.com/news/Politics/article/all/20261123/135074187/1",
+    "https://www.donga.com/news/Inter/article/all/20261123/135077545/1",
+    "https://www.donga.com/news/Inter/article/all/20261123/135077533/2",
+    "https://www.newsis.com/view/NISX20261123_0003880050",
+    "https://www.newsis.com/view/NISX20261123_0003880039",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232535",
+    "https://www.mk.co.kr/news/stock/12216561"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9096,8 +9096,17 @@
     "중앙일보 경제": {
       "failing_since": "2026-11-23T12:45+00:00"
     },
-    "동아일보": {
-      "failing_since": "2026-11-23T12:45+00:00"
+    "한국경제 경제": {
+      "failing_since": "2026-11-23T13:00+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-23T13:00+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-23T13:00+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-23T13:00+00:00"
     }
   }
 }
