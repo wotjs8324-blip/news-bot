@@ -1,23 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261123044100530",
-    "https://www.yna.co.kr/view/AKR20261123046500008",
-    "https://www.yna.co.kr/view/AKR20261123046400001",
-    "https://www.yna.co.kr/view/AKR20261123049600054",
-    "https://www.yna.co.kr/view/AKR20261123049900056",
-    "https://www.yna.co.kr/view/AKR20261123032800030",
-    "https://www.chosun.com/national/court_law/2026/11/23/FBTBSPCOPRAOHJBPWLETX5I2XY/",
-    "https://www.chosun.com/sports/baseball/2026/11/23/GYZTKZTDMU2WIYRXMI4GKNZSMQ/",
-    "https://www.chosun.com/entertainments/2026/11/23/GGP6AEYE7VA5RLUWDYTUY34TNU/",
-    "https://www.chosun.com/economy/startup_story/2025/12/08/EDPKDHFIPRBVNB7SQZMNUU4CRU/",
-    "https://www.chosun.com/jp/sports-jp/2026/11/23/72UEO6SNONBXVKQOI226RV7AFE/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/23/MJSTKMZQMYYDSZBUMNRTEYRVGU/",
-    "https://www.chosun.com/economy/economy_general/2026/11/23/HE3DQM3EGQZWMZLBMI2GGMRTGA/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/13/GBRDAMRZMVSWCZBWGIZTAYLCMY/",
-    "https://www.chosun.com/economy/tech_it/2026/11/23/G4ZTSNRRGJQTEMZTMU3GCNJSGM/",
-    "https://www.chosun.com/economy/economy_general/2026/11/23/GVTGINZRGMZTQM3FMZRTAZRVMY/",
-    "https://www.donga.com/news/Sports/article/all/20261123/135071797/1",
-    "https://www.donga.com/news/Society/article/all/20261123/135071752/1",
     "https://www.donga.com/news/Economy/article/all/20261123/135071717/1",
     "https://www.donga.com/news/Politics/article/all/20261123/135071706/1",
     "https://www.donga.com/news/Society/article/all/20261123/135071711/1",
@@ -4999,7 +4981,25 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859876&plink=RSSLINK&cooper=RSSREADER",
     "https://www.newsis.com/view/NISX20261123_0003878684",
     "https://www.newsis.com/view/NISX20261124_0003880088",
-    "https://www.newsis.com/view/NISX20261124_0003880087"
+    "https://www.newsis.com/view/NISX20261124_0003880087",
+    "https://www.yna.co.kr/view/AKR20261124004400085",
+    "https://www.yna.co.kr/view/AKR20261124004200099",
+    "https://www.yna.co.kr/view/AKR20261124004100098",
+    "https://www.chosun.com/economy/stock-finance/2026/11/24/UP4PM2ZOGVD3TEEEEUSDETA5VA/",
+    "https://www.chosun.com/international/international_general/2026/11/24/ECGHMJ3Y3FHJVM3ZJIJCJ26VIM/",
+    "https://www.chosun.com/politics/politics_general/2026/11/24/ZIOQQWMHVBGURPLR6EHVLZCTAA/",
+    "https://www.chosun.com/international/japan/2026/11/24/DIOOCPFTRBFPVJQGQYNZC6D47E/",
+    "https://www.chosun.com/medical/2026/11/24/UJWIBSSG5FBW3E62SIES2RTLEU/",
+    "https://www.chosun.com/economy/weeklybiz/2026/11/24/U3BCLSA5IZBAZBQ26XND46PC64/",
+    "https://www.chosun.com/international/china/2026/11/24/CHEEEFIMWFA6JGUDQVRBZGDB6U/",
+    "https://www.chosun.com/national/education/2026/11/24/GLBEH6JYGJGMJIMQVXVQ2HCOSM/",
+    "https://www.chosun.com/culture-life/book/2026/11/24/TGT245QAFFGWRKOSQKOEQBTOD4/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859884&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859883&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859880&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859879&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.hankyung.com/article/202611245416i",
+    "https://www.chosun.com/international/us/2026/11/24/J7JZ2QWLZJCMPMVMRVZBXGCOUQ/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "최악산불인니서군헬기진화중추락2명사망1명실종",
     "정점식與조작기소특검법강행에여의도에서막히면거리로나갈것",
     "한병도조작기소특검법본회의상정할것사법정의바로세워야",
     "장동혁與조작기소특검법밀어붙이면국민이책임물을것",
@@ -9031,7 +9030,8 @@
     "부산사하구당리동단독주택화재3명사망",
     "트럼프행정부한국eu호주디지털규제무역법301조조사검토",
     "선관위특검첫영장청구8명중7명기각개표상황표위조혐의직원1명구속",
-    "63지방선거관리부실선관위직원8명중1명만구속"
+    "63지방선거관리부실선관위직원8명중1명만구속",
+    "美무역대표부한국겨냥한301조조사검토추가관세우려"
   ],
   "opinion_date": "2026-11-23",
   "seen_opinion_links": [
