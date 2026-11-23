@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://www.yonhapnewstv.co.kr/news/AKR20261123100234rHI",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261123100145V03",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261123095610GgH",
-    "https://www.yonhapnewstv.co.kr/news/AKR20261123091806W6u",
-    "https://www.yna.co.kr/view/AKR20261123048800030",
-    "https://www.yna.co.kr/view/AKR20261123053800064",
-    "https://www.yna.co.kr/view/AKR20261123053700003",
-    "https://www.yna.co.kr/view/AKR20261123049700005",
-    "https://www.yna.co.kr/view/AKR20261123042900009",
-    "https://www.yna.co.kr/view/AKR20261123052600527",
-    "https://www.yna.co.kr/view/AKR20261123049500017",
-    "https://www.yna.co.kr/view/AKR20261123045500030",
     "https://www.yna.co.kr/view/AKR20261123050700062",
     "https://www.yna.co.kr/view/AKR20261123051700007",
     "https://www.yna.co.kr/view/AKR20261123038100030",
@@ -4999,7 +4987,19 @@
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232357",
     "https://www.mk.co.kr/news/stock/12215562",
     "https://www.mk.co.kr/news/stock/12215857",
-    "https://www.chosun.com/national/court_law/2026/11/24/QP5DPSTLHZDN3OJUE52W6EDX7Q/"
+    "https://www.chosun.com/national/court_law/2026/11/24/QP5DPSTLHZDN3OJUE52W6EDX7Q/",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMWpETXJuYWtYSFJDSUxxWnF5Vl9QTkl1cHZnbFNaUGQycVVON3ItY0NDMWFNLXNwdVROQmlqNUZrOTh4aHRlQnFOd01uZVNOcWUtcEJSZjg0LXpLSmRfeFpCRGt2VUJwd1Rz?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJZ3dBY0FaeGxjNDJoNWhZUGtXM1RnRG9ONHM4Z1Nxeng5eTEwWHV2eXhJNlM5OHhRZzhsRnB6RGVodk5pcWNVUVg5RW9CczEwLWc1MWlUR2ViSTNEY0s3azRoQnpSVGswQnZJa3lpZXYyWG5RN0JFUtIBeEFVX3lxTE9KUXhmX2htSzRVaDZGQWZyM2JscDZCVHJPS0tISmZHRzZmcmUtQ2xJbUp1UDJ5dFN4Skp3a1dtOUR0YjMzME1oTGtheEt2dHhnMkI5emxTNDFGMlIwaEk2Ums1Q2YzcW9ZUTVlZTY3OGE1WWx1d19GZA?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VcFRCbjBpUzRmMnQ1MmpYXzRfc0F1bVIzMEhsYTAyQWM4eWxOTHh3cThELTNyd3lqejEyV0xISnJ0Mmp5eHJReHdQTFdYd1dJT1NNcFlNZU9KU1I0Mm5lUTNIQ1dBbWYzQ3o3SGViY09sbDVKbjk1TXZB0gF6QVVfeXFMTVpjelpQUm44dG5lNG5QQ1dvdWVWd1Btdk9pM0tsZjRJTDJvR2VZZ3RqbUJpQmN1bTNGbkx5dDFuSXhTczQzdnQ1a2JXVWtIaWl0YW0yd0F5Sjd6aUxOVTBvT2g1bjNwOWlWV3NuR1YzN2FxdFJyd2JHcFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vU2R1OTdoN3ZBUnpNYzhlNkpFSHRDQkRoclZ6X1Jkd0J5WlNCd3VVTmU3Y09Gb2NrQXNyaU5LMWN2Y1dHZEJBUERtdHJVWDNDU3dYQXBQdGVWNjVRUXfSAWNBVV95cUxQeDJ1Znl2VWhDTG4yVERZR3FOazdZMEhLODdJVG1fNjltQVBhQzQtcnlteVByUnlncFMxRUVEVHVKYkppUVlQSWpmdjUwLS1US20tbWQ3MExxQVY4V3lGWjQ5cHM?oc=5",
+    "https://www.yna.co.kr/view/AKR20261124003200085",
+    "https://www.yna.co.kr/view/AKR20261124002700071",
+    "https://www.yna.co.kr/view/AKR20261124002551004",
+    "https://www.yna.co.kr/view/AKR20261123169751082",
+    "https://www.yna.co.kr/view/AKR20261124002900079",
+    "https://www.chosun.com/jp/international-jp/2026/11/24/U2UFMPKDTNCO5JPDQLBEF2XTNQ/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/24/DBQA2IYBHVBSVJRB4EMHUFMKMQ/",
+    "https://www.donga.com/news/Society/article/all/20261124/135077901/1"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9077,9 +9077,5 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CWVhlWkpmc1Y5b05YcS1obEt5dXBBRFNINXYtMldjREhjZkR4M1pvcUVEYU5OcFdMTVBDclRzUEdYTGNhWFhlZFNXRkNzZ3hNYlM1TEhCaw?oc=5",
     "https://www.hankyung.com/article/2026112224141"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-11-23T17:15+00:00"
-    }
-  }
+  "feed_health": {}
 }
