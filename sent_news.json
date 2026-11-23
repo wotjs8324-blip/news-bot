@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Economy/article/all/20261123/135071717/1",
-    "https://www.donga.com/news/Politics/article/all/20261123/135071706/1",
-    "https://www.donga.com/news/Society/article/all/20261123/135071711/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858510&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858505&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858481&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858479&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858349&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4994,12 @@
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859880&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859879&plink=RSSLINK&cooper=RSSREADER",
     "https://www.hankyung.com/article/202611245416i",
-    "https://www.chosun.com/international/us/2026/11/24/J7JZ2QWLZJCMPMVMRVZBXGCOUQ/"
+    "https://www.chosun.com/international/us/2026/11/24/J7JZ2QWLZJCMPMVMRVZBXGCOUQ/",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00RnVfbms4bGw4dDF6aVlyM3QySnk5R1pXLXE1M05pcGpoNWNYSmdzQlJIQUJMOUtKZGhzam5HdWVLNlVsY3Bvd0MwOVNiRndJRncwd2ZYZTRZSnFZRWc?oc=5",
+    "https://www.chosun.com/jp/international-jp/2026/11/24/5YEYTB365VG73FDIIPZBNXEDNU/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859892&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859890&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261124_0003880092"
   ],
   "initialized_feeds": [
     "조선일보",
