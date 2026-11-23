@@ -1,9 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858481&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858479&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858349&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858119&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858114&plink=RSSLINK&cooper=RSSREADER",
     "https://www.mk.co.kr/news/economy/12215871",
     "https://www.newsis.com/view/NISX20261123_0003878818",
@@ -4999,7 +4995,11 @@
     "https://www.chosun.com/jp/international-jp/2026/11/24/5YEYTB365VG73FDIIPZBNXEDNU/",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859892&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859890&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.newsis.com/view/NISX20261124_0003880092"
+    "https://www.newsis.com/view/NISX20261124_0003880092",
+    "https://www.yna.co.kr/view/AKR20261124004500075",
+    "https://www.chosun.com/sports/sports_general/2026/11/24/G5RTENLBHFSWIMJRHEYWEMDFME/",
+    "https://www.chosun.com/jp/international-jp/2026/11/24/RWSI6OEQSZDLDM6Z2DIK4VUKNE/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858510&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
