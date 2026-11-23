@@ -1,19 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261123025500030",
-    "https://www.yna.co.kr/view/AKR20261123025700504",
-    "https://www.yna.co.kr/view/AKR20261123024700009",
-    "https://www.yna.co.kr/view/AKR20261123022600030",
-    "https://www.yna.co.kr/view/AKR20261123025400008",
-    "https://www.yna.co.kr/view/AKR20261123020600504",
-    "https://www.yna.co.kr/view/AKR20261123023800030",
-    "https://www.yna.co.kr/view/AKR20261123024600008",
-    "https://www.chosun.com/economy/int_economy/2026/11/23/5GC2BBAFINGLHEBE47YMYF3TXM/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/23/GE2TCMBZMFQTGM3GME2TGMRSHE/",
-    "https://www.chosun.com/economy/market_trend/2026/11/23/MU2TEZDCGE4DGMLBMNSTMMZYGU/",
-    "https://www.chosun.com/economy/economy_general/2026/11/23/GFRGEMLFGZRTEYRSGAZWENLFGY/",
-    "https://www.chosun.com/economy/real_estate/2026/11/23/GIYDGY3EMVQTON3CMY3WGODBME/",
-    "https://www.chosun.com/sports/baseball/2026/11/23/GAYGIY3DGE4WGZJRGE2DQYZVMY/",
     "https://www.chosun.com/jp/international-jp/2026/11/23/DSINBVIZHNEALGTK4JVEOITATU/",
     "https://www.chosun.com/jp/economy-jp/2026/11/23/MGO4SMG5QNDFLBR74F2HVTK5C4/",
     "https://www.donga.com/news/Economy/article/all/20261122/135068657/2",
@@ -4999,7 +4985,21 @@
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EazcxdndCQm54dVRXMHg0alI3VHRRcTFTdlBuNFNBQThJdWI5T09aU0o5NDQ1QnJselFZc2NheEtRNkVlV2xNYUFjaFRfdWotZjR2Wk9B?oc=5",
     "https://www.mk.co.kr/news/society/12216579",
     "https://www.newsis.com/view/NISX20261123_0003880052",
-    "https://www.newsis.com/view/NISX20261123_0003880040"
+    "https://www.newsis.com/view/NISX20261123_0003880040",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261123215338C1Y",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/23/MNSTOMZSGI2WEYRYMQ3GEZLDGA/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/23/HAYGIMBTMEYDQOJQMY3DMOBVG4/",
+    "https://www.chosun.com/sports/2026/11/23/MV5LBA3YHFC3RNRB5R7O5QGP5E/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/23/VC5YY4AC2JEZFNOGQK2D6J3SJ4/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/23/2USA3ZQRCVHGHDSUNL5EZ4YWRA/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/23/WZ77SXD6JJDCTDAF6C2SJUFY34/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/23/POU2ZQ6LEZHXZLJ3MDMVALT4MI/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859768&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859766&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.mk.co.kr/news/economy/12215806",
+    "https://www.newsis.com/view/NISX20261123_0003880047",
+    "https://www.mk.co.kr/news/realestate/12215804",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261123222214vQG"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "美블루웨이브에데이터센터규제우려증권가ai산업기업별희비전망",
     "국회의원활동홍보혐의김형찬전부산강서구청장기소",
     "與조작기소특검강행에野혈세로李방탄로펌정권취소특검될것",
     "카카오3분기실적자사주소각계획발표에강세",
@@ -9031,7 +9030,8 @@
     "ai공포에급락코스피4700선턱걸이",
     "투표율위변조혐의선관위직원8명구속기로특검추가압수수색kbs뉴스",
     "美민주당한국등이미국과체결한투자합의조사할것",
-    "조희대탄핵안가결시즉시직무정지ytn"
+    "조희대탄핵안가결시즉시직무정지ytn",
+    "증시급락에증안펀드카드시기규모검토"
   ],
   "opinion_date": "2026-11-23",
   "seen_opinion_links": [
@@ -9077,5 +9077,27 @@
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CWVhlWkpmc1Y5b05YcS1obEt5dXBBRFNINXYtMldjREhjZkR4M1pvcUVEYU5OcFdMTVBDclRzUEdYTGNhWFhlZFNXRkNzZ3hNYlM1TEhCaw?oc=5",
     "https://www.hankyung.com/article/2026112224141"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "KBS": {
+      "failing_since": "2026-11-23T13:30+00:00"
+    },
+    "MBC": {
+      "failing_since": "2026-11-23T13:30+00:00"
+    },
+    "YTN": {
+      "failing_since": "2026-11-23T13:30+00:00"
+    },
+    "채널A": {
+      "failing_since": "2026-11-23T13:30+00:00"
+    },
+    "중앙일보": {
+      "failing_since": "2026-11-23T13:30+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-11-23T13:30+00:00"
+    },
+    "동아일보": {
+      "failing_since": "2026-11-23T13:30+00:00"
+    }
+  }
 }
