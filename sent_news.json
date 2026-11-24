@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261124091900002",
-    "https://www.yna.co.kr/view/AKR20261124081400017",
-    "https://www.yna.co.kr/view/AKR20261124076451530",
-    "https://www.yna.co.kr/view/AKR20261123167451004",
-    "https://www.yna.co.kr/view/AKR20261124091500053",
-    "https://www.yna.co.kr/view/AKR20261124091300055",
-    "https://www.yna.co.kr/view/AKR20261124089500063",
-    "https://www.yna.co.kr/view/AKR20261124090200009",
     "https://www.yna.co.kr/view/AKR20261124088100052",
     "https://www.yna.co.kr/view/AKR20261124088400063",
     "https://www.yna.co.kr/view/AKR20261124085600008",
@@ -4999,7 +4991,15 @@
     "https://www.mk.co.kr/news/stock/12216965",
     "https://www.mk.co.kr/news/stock/12216964",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MSTBIQUNQYnBFRVdIcS1zQXpiVmpUTkIxMV9rWXRvcjREa3RXMmdMMEpKMlp5ZGI5Wk8wSDdLd182dEVmaUFnc1ZTcC05OERZVlBlYnNNaURrU01BSnF3MFZqXzM1NnVFUlJ3?oc=5",
-    "https://www.newsis.com/view/NISX20261125_0003881884"
+    "https://www.newsis.com/view/NISX20261125_0003881884",
+    "https://www.newsis.com/view/NISX20261125_0003881907",
+    "https://www.mk.co.kr/news/realestate/12216123",
+    "https://www.mk.co.kr/news/realestate/12216117",
+    "https://www.mk.co.kr/news/business/12216093",
+    "https://www.mk.co.kr/news/business/12216968",
+    "https://www.hankyung.com/article/202611246324H",
+    "https://www.hankyung.com/article/2026112464937",
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232411"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9078,5 +9078,9 @@
     "https://www.hankyung.com/article/2026112224141",
     "https://www.hankyung.com/article/2026112477501"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-24T22:45+00:00"
+    }
+  }
 }
