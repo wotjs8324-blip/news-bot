@@ -1,32 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261124035900008",
-    "https://www.yna.co.kr/view/AKR20261124036000008",
-    "https://www.yna.co.kr/view/AKR20261124028100030",
-    "https://www.yna.co.kr/view/AKR20261123167200057",
-    "https://www.yna.co.kr/view/AKR20261123167100057",
-    "https://www.yna.co.kr/view/AKR20261123149400530",
-    "https://www.yna.co.kr/view/AKR20261123151800371",
-    "https://www.yna.co.kr/view/AKR20261124019100005",
-    "https://www.yna.co.kr/view/AKR20261124010400004",
-    "https://www.yna.co.kr/view/AKR20261124026200005",
-    "https://www.yna.co.kr/view/AKR20261124034100003",
-    "https://www.yna.co.kr/view/AKR20261124034300017",
-    "https://www.yna.co.kr/view/AKR20261124032200030",
-    "https://www.yna.co.kr/view/AKR20261124030800009",
-    "https://www.yna.co.kr/view/AKR20261124033900005",
-    "https://www.yna.co.kr/view/AKR20261124033100063",
-    "https://www.chosun.com/economy/stock-finance/2026/11/24/UPUU272LGVCZ3GUQGNV6CYZUHY/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/24/GAZDKYTGMMYTCMDDHBQWINLGGM/",
-    "https://www.chosun.com/economy/real_estate/2026/11/24/HEZWKZTBME3TGOBSGFRTOMRWMY/",
-    "https://www.chosun.com/economy/market_trend/2026/11/24/G4YDEZJWMI4TAY3EHA3WIMBTGE/",
-    "https://www.chosun.com/economy/tech_it/2026/11/24/MQ2GMNZQMZQTSMLDHE4WMNRYMU/",
-    "https://www.chosun.com/economy/industry-company/2026/11/24/GNSDSZBZME2TOZLBGQ2TOZJWMQ/",
-    "https://www.chosun.com/medical/healthchosun/2026/11/24/MU3DSZJZHEZTAZDDG4YWIOJUHA/",
-    "https://www.chosun.com/sports/world-baseball/2026/11/24/GQ3GKOBVGJTGEMDFHE4WKMRSME/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CTkZnRi05bHBrUGxzeG55bUZHWUpIWGRhRWhvMVJoYUhNMzRWbFdrUTY2WkRUSEhtYzIyTmczSTdxUWJ0WmNBdzAxcHZFMGZxZXE4RlVR?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xdUJjU0V1LUtBMDlmeG9WOTJHTnpFN2UwOWIyWFNFa0hPN3htdDV6ZnJrYzNUcTBkalFwYzZKU2s2U2xvRXhsLTVvdGZkSW43OUMxSzB3?oc=5",
-    "https://www.donga.com/news/Inter/article/all/20261124/135078444/1",
     "https://www.donga.com/news/Politics/article/all/20261124/135078439/1",
     "https://www.donga.com/news/Economy/article/all/20261123/135075221/1",
     "https://www.donga.com/news/Economy/article/all/20261123/135074810/1",
@@ -4999,7 +4972,34 @@
     "https://www.newsis.com/view/NISX20261124_0003881779",
     "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232583",
     "https://www.mk.co.kr/news/business/12216751",
-    "https://www.yna.co.kr/view/AKR20261124180500079"
+    "https://www.yna.co.kr/view/AKR20261124180500079",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95S1NyQ0w0TVd4c2xoZmJSelhuWktVMzliWEt4dXZteFU4X0NkeGpHX19USEc5YjJoQi1UWk9WSWVlZWM5YUtDMS1VbHdFVExlUGZBWVAtQmdkWXZEOERnSzFlM1gyUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsVVZoY2k4REVIaXNjUE5MX3M5WU9nNDl5R2dDYWY1d1B5SHUwYmlJbHJLenkwUThhd01FWXVwMS1CUzhSWXlLcWxjNUJWNHgwRl94SDNhdWNnb05haDc3MkFDZ3BfUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pcDlpTlFMQ1E4b0h1dVNiREFiU1pWOGRTQkNob2dCTEc1a2NheTZNZldEdmpmVDNiRnRfTjlSYVhfREtld2xaUGxrNHJjVjZvTmlTWkFPMkJtdVlfcHNidFpvbmc3QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aN3laMzk0cHhJX1N6bm9DY1JTRHgtZ3ZVOHlKOGVtV3Z5V2xLeHVfQVBxNUhCOVlNRll6RHU2bWl0bUxwSGRtVTllaV9kaEZ5SGFwY2c3ckx4ZUxDckVkMEVhMnBCZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SM1VuRWlQb09IeDVDalhNaXB3OVNDTkFFcWNXNnJjd3Z6SXR0UFh1OU1Nejc3Y3ljbDNIYUpvb29vNVZZSTdZUGpYNlc5dS11Zmkzdjh3RmJfcnFFOEHSAWNBVV95cUxNbjdhWHZxOGFndVRkMTI4SWltckxSNFlrT3czaGJEQ1RQRzlaQ0IyVjVDNHBSZmpFSTdyX1RpNnVnREhROFNpWEkzRDBLb2dnWkRIX2ZWMlBtbS1iQzRqLWpQSVk?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/MYH2026112421435846n",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261124214926pSz",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261124214851f2E",
+    "https://www.yonhapnewstv.co.kr/news/MYH20261124214805RAb",
+    "https://www.yna.co.kr/view/AKR20261122037351007",
+    "https://www.yna.co.kr/view/AKR20261124180900089",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/24/G4YWMMTFMVSDQYTEMRRWMMJWGE/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/24/GYYDAZTBMNSDIOBVHA3TGOBRMU/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/24/MMYWCNTEMRQWKNTGMUYDENZZGM/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/24/MFSTKNTBGBSDGNJZGI4TOZRXMM/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/24/GAYTMOLCGVQTKNDGMQYWKMTGGA/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/24/6ICDDFVDOBASNAQPOF56G575FE/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/24/UJ3UIEBTVVEV3KNCEQXKLJJCJU/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/24/NPXX5KCGZZGQ5NMGVC25LCE564/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/24/PVERB7CFENGABKLJ2VBO5LHDC4/",
+    "https://www.chosun.com/jp/economy-jp/2026/11/24/Y7NWUYWUONF7LMHJYZPTX3U63E/",
+    "https://www.mk.co.kr/news/economy/12217527",
+    "https://www.mk.co.kr/news/society/12217525",
+    "https://www.newsis.com/view/NISX20261124_0003881790",
+    "https://www.newsis.com/view/NISX20261124_0003881803",
+    "https://www.newsis.com/view/NISX20261124_0003881782",
+    "https://www.newsis.com/view/NISX20261124_0003881800"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9078,5 +9078,9 @@
     "https://www.hankyung.com/article/2026112224141",
     "https://www.hankyung.com/article/2026112477501"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-24T13:00+00:00"
+    }
+  }
 }
