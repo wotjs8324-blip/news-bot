@@ -1,23 +1,5 @@
 {
   "seen_links": [
-    "https://www.newsis.com/view/NISX20261124_0003880553",
-    "https://www.newsis.com/view/NISX20261124_0003880554",
-    "https://www.newsis.com/view/NISX20261124_0003880293",
-    "https://www.newsis.com/view/NISX20261124_0003880558",
-    "https://www.newsis.com/view/NISX20261124_0003880533",
-    "https://www.newsis.com/view/NISX20261124_0003880524",
-    "https://www.newsis.com/view/NISX20261124_0003880503",
-    "https://www.newsis.com/view/NISX20261124_0003880550",
-    "https://www.newsis.com/view/NISX20261124_0003880195",
-    "https://www.newsis.com/view/NISX20261124_0003880543",
-    "https://www.newsis.com/view/NISX20261124_0003880343",
-    "https://www.newsis.com/view/NISX20261124_0003880560",
-    "https://www.newsis.com/view/NISX20261124_0003880491",
-    "https://www.newsis.com/view/NISX20261124_0003880540",
-    "https://www.newsis.com/view/NISX20261124_0003880546",
-    "https://www.newsis.com/view/NISX20261124_0003880512",
-    "https://www.newsis.com/view/NISX20261124_0003880537",
-    "https://www.newsis.com/view/NISX20261124_0003880229",
     "https://www.newsis.com/view/NISX20261124_0003880374",
     "https://www.newsis.com/view/NISX20261124_0003880413",
     "https://www.newsis.com/view/NISX20261124_0003880508",
@@ -4999,7 +4981,25 @@
     "https://www.chosun.com/jp/politics-national-jp/2026/11/25/WGIHCQBILFHI3AT7E4TEHF5AMI/",
     "https://www.chosun.com/jp/politics-national-jp/2026/11/25/T6BDEQTFZZEN5CQ3SH4A7JY4I4/",
     "https://www.chosun.com/jp/politics-national-jp/2026/11/25/F4KMLTIWIRCFVN26FNDTVOEKUQ/",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861848&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861848&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VTmZ4cXlMRHhnQWUyTDlZTUZzREt3dzFuS1VKMWlVRTR6OVpqMDlBdHlKT09lY0luTjZyMzR2eEQ1ai0yVjA0RjFhV2VhYkxzNXp5dHYzR2tPbmVLQXc?oc=5",
+    "https://www.chosun.com/entertainments/entertain_photo/2026/11/25/GU2GIYZXME2GMZLBGM2GGNDCGU/",
+    "https://www.chosun.com/entertainments/entertain_photo/2026/11/25/G43DQNBVGY3GENRZGNSTQOBVHE/",
+    "https://www.chosun.com/entertainments/entertain_photo/2026/11/25/MEYDAYZVMNQTONBUMQ4TSNBRMY/",
+    "https://www.chosun.com/entertainments/entertain_photo/2026/11/25/ME3TAMTGGBTDMYTDMQ2WCYJRHE/",
+    "https://www.chosun.com/entertainments/entertain_photo/2026/11/25/GE4DKZTEGMZTOZRSHBTDCNDDGE/",
+    "https://www.chosun.com/international/international_general/2026/11/25/ME3GCNTBHFRWENRQMM2TSZTGMI/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/25/2DDZBGDLUNGJ7IDMH6MQ3KAEWI/",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/25/FSQ42URRG5CZNJO7XUPHUGMEGM/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wU2llR1FLNVlITVVOVnRMY09XYWc3LXRzV1h5d3NkQV9Gb0JUci1aTFBlem9RT0Y2RG9VS2JHaEJ3Y0x3ZzZmcFBVc0ZiOEVWczNNd2t3?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lQ2hSZ1Znak40WlNWZ1Z3M2dZaEpJWElIVkhJMElUUzVtLU9ZUDBPaXc0SmJhRDZidzV3N2xyVGVtNHpjdU14Znc1Rkdmb1kwSWM0Zk93?oc=5",
+    "https://www.donga.com/news/Entertainment/article/all/20261125/135084906/1",
+    "https://www.donga.com/news/Entertainment/article/all/20261125/135084903/1",
+    "https://www.donga.com/news/Entertainment/article/all/20261125/135084900/1",
+    "https://www.donga.com/news/Entertainment/article/all/20261125/135084892/1",
+    "https://www.donga.com/news/Entertainment/article/all/20261125/135084888/1",
+    "https://www.newsis.com/view/NISX20261125_0003881845",
+    "https://www.hankyung.com/article/202611258064i"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9078,39 +9078,5 @@
     "https://www.hankyung.com/article/2026112224141",
     "https://www.hankyung.com/article/2026112477501"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-11-24T16:15+00:00"
-    },
-    "KBS": {
-      "failing_since": "2026-11-24T16:30+00:00"
-    },
-    "MBC": {
-      "failing_since": "2026-11-24T16:30+00:00"
-    },
-    "YTN": {
-      "failing_since": "2026-11-24T16:30+00:00"
-    },
-    "채널A": {
-      "failing_since": "2026-11-24T16:30+00:00"
-    },
-    "중앙일보": {
-      "failing_since": "2026-11-24T16:30+00:00"
-    },
-    "중앙일보 경제": {
-      "failing_since": "2026-11-24T16:30+00:00"
-    },
-    "한국경제 경제": {
-      "failing_since": "2026-11-24T16:30+00:00"
-    },
-    "한국경제 증권": {
-      "failing_since": "2026-11-24T16:30+00:00"
-    },
-    "한국경제 부동산": {
-      "failing_since": "2026-11-24T16:30+00:00"
-    },
-    "한국경제 정치": {
-      "failing_since": "2026-11-24T16:30+00:00"
-    }
-  }
+  "feed_health": {}
 }
