@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261125065500030",
-    "https://www.yna.co.kr/view/AKR20261125065900530",
-    "https://www.yna.co.kr/view/AKR20261125076100009",
-    "https://www.yna.co.kr/view/AKR20261125077600055",
-    "https://www.yna.co.kr/view/AKR20261125076600057",
     "https://www.yna.co.kr/view/AKR20261125068100005",
     "https://www.yna.co.kr/view/AKR20261125071300530",
     "https://www.chosun.com/sports/baseball/2026/11/25/HE3TGOLCMZRTINTEGFTGENJYMU/",
@@ -4999,7 +4994,12 @@
     "https://www.chosun.com/national/court_law/2026/11/26/CFQWK6XQQVCSFD5HHC5XVZG36Y/",
     "https://www.donga.com/news/Inter/article/all/20261126/135092793/1",
     "https://www.newsis.com/view/NISX20261125_0003882107",
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKRHhVekZZUmxUT1FPRXBQclhqSERXWEJZY19PdmgtcEhvQUpZODJfS3J3a09tUzNwWnQ5MjJISHROWFpvOUdhTll2d3Z0WTBPeGR6ajduUXVnZTBKV0l0MGpBQWFsdw?oc=5"
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKRHhVekZZUmxUT1FPRXBQclhqSERXWEJZY19PdmgtcEhvQUpZODJfS3J3a09tUzNwWnQ5MjJISHROWFpvOUdhTll2d3Z0WTBPeGR6ajduUXVnZTBKV0l0MGpBQWFsdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wb1FyM3ZlUS1oUFUtU3VyMldzc0p1Yms2ZUFMOVNLM19aeXo5YkY4YXhZV2JsVkE0ZU10NWNsT0ZfYjI1REtBcWFEYlhmS0FjbW92Y2hDTER5MGs?oc=5",
+    "https://www.yna.co.kr/view/AKR20261126004200082",
+    "https://www.chosun.com/jp/economy-jp/2026/11/26/HU3WLH7VGREQPERTMV2M76AL6Y/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863838&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261126_0003883593"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9079,5 +9079,21 @@
     "https://www.hankyung.com/article/2026112477501",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DS1hyQVBPbjlRS2V2S3E2ZWlxNXZ0Wktkam1MRnFURHQ5eGNid1hQTURVSnFwNDRjUlEweElXOVhXZkxVaFV6RUFmQjlFZUpYUER1TjdBaVJQTEU?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-25T18:30+00:00"
+    },
+    "한국경제 경제": {
+      "failing_since": "2026-11-25T18:30+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-25T18:30+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-25T18:30+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-25T18:30+00:00"
+    }
+  }
 }
