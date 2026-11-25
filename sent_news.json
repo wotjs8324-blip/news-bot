@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261125078600003",
-    "https://www.yna.co.kr/view/AKR20261125074000061",
-    "https://www.yna.co.kr/view/AKR20261125077200053",
-    "https://www.yna.co.kr/view/AKR20261125072000054",
-    "https://www.yna.co.kr/view/AKR20261125077500064",
-    "https://www.yna.co.kr/view/AKR20261125075900530",
-    "https://www.yna.co.kr/view/AKR20261125078000056",
-    "https://www.yna.co.kr/view/AKR20261125058200055",
     "https://www.yna.co.kr/view/AKR20261125026000005",
     "https://www.yna.co.kr/view/AKR20261125039200003",
     "https://www.yna.co.kr/view/AKR20261125040700063",
@@ -4999,7 +4991,15 @@
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GR0htOFRJemZaWGlnTkxxbzR1RzlXbXk0TWQ3bXVBaFh5TXQtZnRvUzJLRkYxYjMtbFV0MlNEbXR1SGZMcVNHbGFnQmJieklPdmo0UzZBcWtNOGZXVFHSAWNBVV95cUxNVFpvd0RCMldFYkp0aDZ4N21zY05SLVRfcDYwbXllbFJrVnlMeG03ZmdWSUxxaG0zaDItY3l6SWk3NkIwT29qby1xYlNLUGVWRDBVemk0R1RIeHhTbnVtYWVJd1k?oc=5",
     "https://www.yna.co.kr/view/AKR20261126003300072",
     "https://www.chosun.com/sports/baseball/2026/11/26/HFRTSYRVGFTDKYZWMY4GMMBTGI/",
-    "https://www.chosun.com/jp/sports-jp/2026/11/26/XUYQZ3MUAFGU7GDH4UJC2SVDKA/"
+    "https://www.chosun.com/jp/sports-jp/2026/11/26/XUYQZ3MUAFGU7GDH4UJC2SVDKA/",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGVkxJYjJTRTY4ODgxQ3NvVHNralhNZ3E3ZXFTSzdnZTZXM0hQQTZjUTRrX291Y2JBeVIzQnVLU1Zuc2pRVkdLQmFxNWlSbEVaWVJzb0swLS1KdVl5bElRcEk1X1hhZw?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oVXdjWnNQVXh6SDQ0eWU1ejZ6NGtscFEtNlZzQzdZMU5uVUgtcGFkeEtBVTc4ZW15NEhkTDllakUzVXRBMUdRWnNIcXBHMFkwZGhvQkVJVWt5MlhvUWMxS0NJMDRHZFRSRlNxX1Q2ODloVk9UQlhmTw?oc=5",
+    "https://www.yna.co.kr/view/AKR20261126003900085",
+    "https://www.chosun.com/economy/economy_general/2026/11/26/MEZTKODGGEYTEMZTMVSGKZJRME/",
+    "https://www.chosun.com/jp/international-jp/2026/11/26/GEAWLMHSTBG3LCFPF77HYXNPO4/",
+    "https://www.chosun.com/jp/economy-jp/2026/11/26/SWRKGRCQVBAWDHR5ANNBBOWKBU/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SLUZMYlg4b1p3U3h6RTlHcl9KcjlqTmpSSjhtZzZNcmFpckM2Qm81d0JGM1pneU1uS3ZlRUlJNlE1a2NkemRUMW03UW5hSWtzbzhnd1RB?oc=5",
+    "https://www.hankyung.com/article/2026112506871"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "검은금요일코스피6넘게급락해5000선턱걸이마감",
     "폭락장에원달러환율도급등145원오른13566원마감",
     "이대통령신임법무장관에민변출신이용철방사청장지명",
     "이대통령법무장관후보이용철지명국세청장안덕수정무수석최인호",
@@ -9031,7 +9030,8 @@
     "역대급대미흑자관세부메랑피했다15사수에일단안도",
     "美10월pce물가38상승12월금리인상전망에힘실려",
     "ustr한국과협의불만족스러울경우25로관세인상ytn",
-    "美무역대표젠슨황복귀에트럼프경제안보균형맞춰"
+    "美무역대표젠슨황복귀에트럼프경제안보균형맞춰",
+    "美10월pce3812월금리인상힘실려"
   ],
   "opinion_date": "2026-11-25",
   "seen_opinion_links": [
