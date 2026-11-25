@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/economy/stock-finance/2026/11/25/GA4TQYTEHAYDGNBUMRQWMYTDGI/",
-    "https://www.chosun.com/international/international_general/2026/11/25/HA3DCZDFGI4DSZLBGZTDOZRWGA/",
-    "https://www.chosun.com/sports/world-baseball/2026/11/25/MRTDKYZWMI2TOMBQGI4TMM3DHA/",
-    "https://www.chosun.com/economy/industry-company/2026/11/25/GI2WMZBUGVSTIZBSGQ2GMMJYMU/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/25/G4YTGNRXGQ3TAYZTGQYTONRUMU/",
-    "https://www.chosun.com/economy/economy_general/2026/11/25/NPSBU4UUF5F47DKONEZELVP4WU/",
-    "https://www.chosun.com/economy/economy_general/2026/11/25/GVSWGYRVGAYWIY3DGIYDEOLDG4/",
-    "https://www.chosun.com/economy/economy_general/2026/11/25/JOD4RNOB7JD6TMI2JKW46RXSO4/",
-    "https://www.chosun.com/economy/economy_general/2026/11/25/MJRTQOLEGMZTEODCGMZDMYZRMY/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uOG16RHJZeFpiQnB6M3p5dmZlY1ZlcDRuTWpBQm5WSGlGeExVTXF2SWpMWWdXbndRM2piZVZLNnpmZkVkZTRtM0YxRlk3RDZIVmJWSFdn?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GdmlDeVM4Zzl1YW9DMGNLdEQzRGFaRmZoWmlRWG5QVGpoS0M4WHp2d2ljRTdhZzZmR2pubTJ0NzliOUdIQnZKOE5FOS1rQlFaOUlBcHNR?oc=5",
     "https://www.donga.com/news/Society/article/all/20261125/135086824/2",
     "https://www.donga.com/news/Society/article/all/20261125/135086755/1",
     "https://www.donga.com/news/Politics/article/all/20261125/135086647/2",
@@ -4999,7 +4988,18 @@
     "https://www.chosun.com/sports/sports_general/2026/11/26/GNSTENZRGI4GKMTEHBRTAMZXHA/",
     "https://www.chosun.com/jp/politics-national-jp/2026/11/26/IQYS3PW5LVB7HOR2MJ7VNZSRQE/",
     "https://www.donga.com/news/Inter/article/all/20261126/135092806/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863840&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863840&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyVk5LdHlSTTNodHJVMVZXMXJtRV9zOVdEZUtMSE9mX0hHdTVXQUoxR3d2a19fb1dFaXM4WEhZd0k0WlRybUx0VlNDMjBMZTJTSHFmeTRvVGJjanpkU0lCRFhTb1Bodw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aU25ia0xrMXdhZS1SUEdkS09Jc004MHB1N3hTNmhWRTNlcEZ0VkFJTDlZNEJsNmNrUUhBbDRwRzZydUh2TzJzMXJLNmxoNHJJVm9GeEpOUnA2bWdEdlMwZllqSzVZdw?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qdHV0eDBnU1JtbktvNWNjUGIweGFRS2V0aTBuUjh0OU50YVllcnN1bjlpRjJlSFRoa2VEWXU1T0FzVjF5Qlg1Qml6NEhLcC1pb1c0T28yaWtFMDhuekwtenFMRHgzZVRrdHVFNlZwTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fTTZPSV96OTJNTnVyNXlNeWJhT1FqeDZwTWJkOGxWNHVkMjN3ZFVfS05pVlM4WnBrWGpzN2hnQ3hyU0RKS0xibWZNU1ZSdmdsUVMzdVN0bDBYS2c1azZQenZIbU9tWnp2cmJrVlotOA?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lNDNtM0ZkdFpzb1JMU1lka29oWXRuOGltbXlnNS1TOG12cE40SEtXaThiOHdndmkyb3MyVWNZanVpcFFhX05tUmxFQzdsQjJyTW1GdEV1QjJGWXhhcEFzZXljNnZSR3pmT3FfdWNqYw?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Da2ZDRGpOZ2xVSWVJaEZIeE9RY1lpbHMyRGMyNWZfdllFZGpoVnpHd21uamgwSnlmeUVweWd0b0RTQ2lCVE9jY0tCaG9EUmpSaXRLeGRhbm9OSGtTa1E?oc=5",
+    "https://www.yna.co.kr/view/AKR20261126004600091",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RcnFRdmNFMzVzMk9UbWxIZFoybVFLYkItMFU0MFY5ZEtUZF9qSGVDR19faWxXeXZkNWE1WF9ocEhQMzdndW5zYUw0U2gzWGZFdHRyZkpR?oc=5",
+    "https://www.newsis.com/view/NISX20261124_0003881519",
+    "https://www.newsis.com/view/NISX20261125_0003882257",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LdE5raXNFMFBhdjROVnZYNVVadFRhQXRMdWtaMWV0Z2V4MUtGQVh6YkFvYlAzTGlTVVJyWURKRUNiZ0lteG9oUUJMN2FUVE5rTUJ4QzNTQXFtNWxObXc?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "이대통령신임법무장관에민변출신이용철방사청장지명",
     "이대통령법무장관후보이용철지명국세청장안덕수정무수석최인호",
     "신임법무장관에이용철방사청장지명靑정무수석최인호",
     "이대통령靑정무수석에원조친노최인호hgu사장임명",
@@ -9031,7 +9030,8 @@
     "ustr한국과협의불만족스러울경우25로관세인상ytn",
     "美무역대표젠슨황복귀에트럼프경제안보균형맞춰",
     "美10월pce3812월금리인상힘실려",
-    "미이르면오늘과잉생산관세발표한국15유지촉각kbs뉴스"
+    "미이르면오늘과잉생산관세발표한국15유지촉각kbs뉴스",
+    "ustr한국과의협의불만족시25로관세인상ytn"
   ],
   "opinion_date": "2026-11-25",
   "seen_opinion_links": [
@@ -9079,5 +9079,30 @@
     "https://www.hankyung.com/article/2026112477501",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DS1hyQVBPbjlRS2V2S3E2ZWlxNXZ0Wktkam1MRnFURHQ5eGNid1hQTURVSnFwNDRjUlEweElXOVhXZkxVaFV6RUFmQjlFZUpYUER1TjdBaVJQTEU?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "MBC": {
+      "failing_since": "2026-11-25T19:00+00:00"
+    },
+    "채널A": {
+      "failing_since": "2026-11-25T19:00+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-11-25T19:00+00:00"
+    },
+    "동아일보": {
+      "failing_since": "2026-11-25T19:00+00:00"
+    },
+    "한국경제 경제": {
+      "failing_since": "2026-11-25T19:00+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-25T19:00+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-25T19:00+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-25T19:00+00:00"
+    }
+  }
 }
