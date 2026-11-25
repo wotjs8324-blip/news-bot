@@ -1,16 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261125026000005",
-    "https://www.yna.co.kr/view/AKR20261125039200003",
-    "https://www.yna.co.kr/view/AKR20261125040700063",
-    "https://www.yna.co.kr/view/AKR20261125044000003",
-    "https://www.yna.co.kr/view/AKR20261125047100063",
-    "https://www.yna.co.kr/view/AKR20261125054200003",
-    "https://www.yna.co.kr/view/AKR20261125055900055",
-    "https://www.yna.co.kr/view/AKR20261125058500003",
-    "https://www.yna.co.kr/view/AKR20261125065800003",
-    "https://www.yna.co.kr/view/AKR20261125042300030",
-    "https://www.yna.co.kr/view/AKR20261125073800003",
     "https://www.yna.co.kr/view/AKR20261125065500030",
     "https://www.yna.co.kr/view/AKR20261125065900530",
     "https://www.yna.co.kr/view/AKR20261125076100009",
@@ -4999,7 +4988,18 @@
     "https://www.chosun.com/jp/international-jp/2026/11/26/GEAWLMHSTBG3LCFPF77HYXNPO4/",
     "https://www.chosun.com/jp/economy-jp/2026/11/26/SWRKGRCQVBAWDHR5ANNBBOWKBU/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SLUZMYlg4b1p3U3h6RTlHcl9KcjlqTmpSSjhtZzZNcmFpckM2Qm81d0JGM1pneU1uS3ZlRUlJNlE1a2NkemRUMW03UW5hSWtzbzhnd1RB?oc=5",
-    "https://www.hankyung.com/article/2026112506871"
+    "https://www.hankyung.com/article/2026112506871",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zMzl5Smxna3NJaGZLRFdCU0RUWFVQRUxHdG9ZWUJXTlZpaGUyVTBHU3NwaUVVejEzRjZ1TUQyRllUNGpqSXdqRjIyZ1g4X1V0em45emsweUxiUlE?oc=5",
+    "https://www.chosun.com/international/international_general/2026/11/26/POZDU34JSBAS7I7DZ4F6X463UU/",
+    "https://www.chosun.com/economy/weeklybiz/2026/11/26/3HUNOP2EYJFRBDGTKNYAYXS6ZM/",
+    "https://www.chosun.com/national/2026/11/26/U3WJ5K6KGREOTBBR6IS26SGEDE/",
+    "https://www.chosun.com/culture-life/food-taste/2026/11/26/QIXFWOJUTRFXRPD577TVMYXRNU/",
+    "https://www.chosun.com/premium/2026/11/26/XLQJBTCTS5AYZDI2HSW4G6HVRA/",
+    "https://www.chosun.com/international/china/2026/11/26/YGHHRY6F7JA5FNJ4CZCUXRB7J4/",
+    "https://www.chosun.com/national/court_law/2026/11/26/CFQWK6XQQVCSFD5HHC5XVZG36Y/",
+    "https://www.donga.com/news/Inter/article/all/20261126/135092793/1",
+    "https://www.newsis.com/view/NISX20261125_0003882107",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKRHhVekZZUmxUT1FPRXBQclhqSERXWEJZY19PdmgtcEhvQUpZODJfS3J3a09tUzNwWnQ5MjJISHROWFpvOUdhTll2d3Z0WTBPeGR6ajduUXVnZTBKV0l0MGpBQWFsdw?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "폭락장에원달러환율도급등145원오른13566원마감",
     "이대통령신임법무장관에민변출신이용철방사청장지명",
     "이대통령법무장관후보이용철지명국세청장안덕수정무수석최인호",
     "신임법무장관에이용철방사청장지명靑정무수석최인호",
@@ -9031,7 +9030,8 @@
     "美10월pce물가38상승12월금리인상전망에힘실려",
     "ustr한국과협의불만족스러울경우25로관세인상ytn",
     "美무역대표젠슨황복귀에트럼프경제안보균형맞춰",
-    "美10월pce3812월금리인상힘실려"
+    "美10월pce3812월금리인상힘실려",
+    "미이르면오늘과잉생산관세발표한국15유지촉각kbs뉴스"
   ],
   "opinion_date": "2026-11-25",
   "seen_opinion_links": [
