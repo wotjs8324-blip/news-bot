@@ -1,12 +1,5 @@
 {
   "seen_links": [
-    "https://www.yonhapnewstv.co.kr/news/MYH20261125135326YKP",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261125135300ujC",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261125135213AmX",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261125135041uhb",
-    "https://www.yonhapnewstv.co.kr/news/MYH20261125135001asD",
-    "https://www.yonhapnewstv.co.kr/news/AKR2026112513492741P",
-    "https://www.yna.co.kr/view/AKR20261125104500004",
     "https://www.yna.co.kr/view/AKR20261125102300051",
     "https://www.yna.co.kr/view/AKR20261125101900001",
     "https://www.yna.co.kr/view/AKR20261125106300004",
@@ -4999,7 +4992,14 @@
     "https://www.mk.co.kr/news/business/12218919",
     "https://www.mk.co.kr/news/business/12218913",
     "https://www.hankyung.com/article/2026112608907",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82RkNYWVUyWFd0cUk1Vk5VT2Z0RXFjd1JiQ0FwbldQWTdTMlduSzVBOUZnYlNnY092S29rNXJNZDY5Yms2OVN5cU5YUENuWUF2SFNaZzc0dnVvek1sMFE?oc=5"
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82RkNYWVUyWFd0cUk1Vk5VT2Z0RXFjd1JiQ0FwbldQWTdTMlduSzVBOUZnYlNnY092S29rNXJNZDY5Yms2OVN5cU5YUENuWUF2SFNaZzc0dnVvek1sMFE?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VMmFmTGd6b21HVlFadWVTXy1ZYkk5SmVzcWhybjZ1U2J6Q0pRNUFMVTBWOFJjQ3BqamEtYk1qanVLcU1HakhYTFFTcUxDQWc1TlNjRUtBbFJiQjhMRGs2bEthQkdUOTBCLTI1b09PMA?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBaVU0LTlUUEZXZEswdUxJeU5HZ0tzTkROazhRODQ1bUlJM1VQUkxHLVMxcU1nQ0ZsWUJsWkxLTlVyZDdhOUp3MUpqYUZBQWYtYVJRQXRsU3RTaHF4R0FiT0tCSFh6TTJtTG01MVhkMA?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OMFVqS0h6RkpBX1pMZklheGxhRG9RdzkwamlYRTVoTloxdTRoU2cxVUdPakktSXV0MGlha2daNURvSF9tU3hDSHBnRTNOTk9QNU9faDFnelRFdWUwbkE?oc=5",
+    "https://www.mk.co.kr/news/economy/12218000",
+    "https://www.mk.co.kr/news/realestate/12218004",
+    "https://www.mk.co.kr/news/realestate/12218002",
+    "https://www.mk.co.kr/news/business/12218006"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9079,5 +9079,12 @@
     "https://www.hankyung.com/article/2026112477501",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DS1hyQVBPbjlRS2V2S3E2ZWlxNXZ0Wktkam1MRnFURHQ5eGNid1hQTURVSnFwNDRjUlEweElXOVhXZkxVaFV6RUFmQjlFZUpYUER1TjdBaVJQTEU?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "채널A": {
+      "failing_since": "2026-11-25T23:46+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-11-25T23:46+00:00"
+    }
+  }
 }
