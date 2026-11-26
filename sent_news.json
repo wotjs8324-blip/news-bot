@@ -1,18 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/economy/tech_it/2026/11/26/RWIFWDM7AJBBROBC74LTY2KBIA/",
-    "https://www.chosun.com/economy/science/2026/11/26/ENDVFHSKFZHAROJJ6BUSZ7UTHE/",
-    "https://www.chosun.com/national/court_law/2026/11/26/3EPL3HNYINAL7O42Z3GG2VXAIA/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/26/GMYDIMJUGZTGIM3CG5QWMZJTHA/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/26/GU3DGODFGEYGGY3BGE4DQYLEMQ/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/26/GNQTIMTEGBSDSZJYGM2WGNDEGM/",
-    "https://www.chosun.com/economy/economy_general/2026/11/24/ADQEFLZ2RRATZPH3JMY5B4OGCE/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/26/GM4TINBTHA3TSZDFMQ3TAZLGGY/",
-    "https://www.chosun.com/economy/economy_general/2026/11/26/MJRDQODEMI2TOYLBMQ4GCYZWGM/",
-    "https://www.chosun.com/economy/science/2026/11/26/SOK7365TQJBCBPBGMINHOMP3II/",
-    "https://www.chosun.com/economy/tech_it/2026/11/26/GFRTKZDBHBTDOMRXGVRWCYZUHA/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/MY4DGZJQMYYWGMBTMIZDQMLBGI/",
-    "https://www.chosun.com/economy/real_estate/2026/11/26/GI3TMYZRGU2GMNBUGBSWINBUGY/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/HA3WMMZWHBSGKZJQGE2WIMJZHE/",
     "https://www.chosun.com/sports/baseball/2026/11/26/MRQWKNZZMI4DAYRRGBRTIMRZMQ/",
     "https://www.chosun.com/economy/tech_it/2026/11/26/MU3TMZJVMQ2DCYLDGI2GKYTGHE/",
@@ -4999,7 +4986,20 @@
     "https://www.yna.co.kr/view/AKR20261127001900071",
     "https://www.yna.co.kr/view/AKR20261127002600085",
     "https://www.donga.com/news/Inter/article/all/20261127/135100600/1",
-    "https://www.newsis.com/view/NISX20261126_0003883770"
+    "https://www.newsis.com/view/NISX20261126_0003883770",
+    "https://www.chosun.com/national/education/2026/11/27/GET5LAW6XJHCHNJLCBCOQSAURI/",
+    "https://www.chosun.com/international/2026/11/27/4JZCDJYCBFB7BJL5W2DINN6ZAU/",
+    "https://www.chosun.com/culture-life/health/2026/11/27/X3UMKKCJ7JFTZIQYFCQ3SHNH6A/",
+    "https://www.chosun.com/economy/weeklybiz/2026/11/27/FHLBTPEP2NFO3MOWOFUKJ7R44U/",
+    "https://www.chosun.com/economy/weeklybiz/2026/11/27/FXVOFKEMOBF6DLHP663OVJEMWU/",
+    "https://www.chosun.com/economy/weeklybiz/2026/11/27/O3FX75TB4RDVXOJOGYZ54E4NAQ/",
+    "https://www.chosun.com/economy/science/2026/11/27/I4XDQSPXDZH4TB6VNKAAYKODOU/",
+    "https://www.chosun.com/national/2026/11/27/A5BHH64YJFAD3H7ZIBRITVQDVA/",
+    "https://www.chosun.com/politics/north_korea/2026/11/27/KZG37DGS5ZCVVNBFMLVC5CWQDE/",
+    "https://www.chosun.com/economy/tech_it/2026/11/27/BWYOBQG6MVGYJOZY2KOJH3MOPA/",
+    "https://www.chosun.com/international/2026/11/27/EH36EQFRNBD5ZHYXFVQMSKUGS4/",
+    "https://www.newsis.com/view/NISX20261127_0003885398",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QSmk0cldja2oxMXc0czBqUDdPSC16LWxmQnpld3dQUjZ4c0x2bHVNdG5QczY2ME95a3F3X0QwZ0hQdzJ4ZndWSFg2NzgwdFV3dWlLRFFScTJnWmM?oc=5"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "진성준전작권전환한미기존합의확인",
     "조작기소특검위헌찬반쟁점은대통령이본인사건특검임명",
     "與서영교조작기소특검법안대통령이해충돌주장은헛소리",
     "경기집값상승률8주째서울추월비규제지역도들썩",
@@ -9031,7 +9030,8 @@
     "조작기소특검후보민주당이임성추천",
     "美새관세시행땐평균관세율139상호관세무효화전으로",
     "이대통령지지율43대법원장탄핵추진반대44ytn",
-    "한은기준금리인상성장률전망대폭상향물가안정중점mbc뉴스"
+    "한은기준금리인상성장률전망대폭상향물가안정중점mbc뉴스",
+    "담보금30억원미납한중국어선선장등2명구속kbs뉴스"
   ],
   "opinion_date": "2026-11-26",
   "seen_opinion_links": [
