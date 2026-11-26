@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/MJRTAYZWMMZWENZQGIYTKMLGGI/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GEZDAYJQMQ4DSYLFMJRDCZBWMI/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GIZTGNZRMI3DENJXGFSDGNLBMM/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GQYWCNZQHA4TCMZZMI3GMNDEMI/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GQYTSZLDGVRGCYZQGY3DCZTCHA/",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XVUlLb2VhMHlDc3JyNTlnTzBGejllNkMyNkdVTWxLWXFBb3dsZU9IOHZNc09VcTlINFhIT3Vkb0dzdHdaR0RacDU0djNNN0RWakVRQUZn?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qSkM5NXR0ZDhNWlE3SkNvSGxoSnRZQ0VYTkdaOFBGUUU4ZXFDNGQyWDhDMTR5c2NKOXdEX05SM3R3cDZLS1dSVVZoeFo0ZkFmZzFKTXpn?oc=5",
-    "https://www.donga.com/news/Society/article/all/20261126/135094497/1",
     "https://www.donga.com/news/Sports/article/all/20261126/135094491/1",
     "https://www.donga.com/news/Society/article/all/20261126/135094488/1",
     "https://www.donga.com/news/Inter/article/all/20261126/135094402/1",
@@ -4999,7 +4991,15 @@
     "https://www.newsis.com/view/NISX20261127_0003885399",
     "https://www.yna.co.kr/view/AKR20261127002900087",
     "https://www.yna.co.kr/view/AKR20261126195751099",
-    "https://www.chosun.com/jp/politics-national-jp/2026/11/27/7BMEJ26OPJD7XH7IN4TBLAFYBM/"
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/27/7BMEJ26OPJD7XH7IN4TBLAFYBM/",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95TkREYzh3TFFaLXdUYldtWDRwQjhzVE90SFI4d0Vwem8weHVDenotUjNZbmtFWHZrb0NaVHZlNGZKNzFHNWRValU2aEppY3NFMFljcGtUT0ROMlRWQ1ptVmM4UDJCdw?oc=5",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261127035624bMq",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261127035201SzQ",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261127034631gnf",
+    "https://www.chosun.com/sports/world-football/2026/11/27/GBRDSYTDMY2DANTGMIYWEN3GME/",
+    "https://www.newsis.com/view/NISX20261126_0003884802",
+    "https://www.newsis.com/view/NISX20261126_0003883774",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865878&plink=RSSLINK&cooper=RSSREADER"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "與서영교조작기소특검법안대통령이해충돌주장은헛소리",
     "경기집값상승률8주째서울추월비규제지역도들썩",
     "반도체벨트경기도아파트값상승률8주째서울제쳐",
     "국힘조작기소특검법은李탈옥법조국도위헌성지적한블랙코미디종합",
@@ -9031,7 +9030,8 @@
     "이대통령지지율43대법원장탄핵추진반대44ytn",
     "한은기준금리인상성장률전망대폭상향물가안정중점mbc뉴스",
     "담보금30억원미납한중국어선선장등2명구속kbs뉴스",
-    "온두라스엘니뇨유가등3중고중미물가상승률1위"
+    "온두라스엘니뇨유가등3중고중미물가상승률1위",
+    "미국의새관세시행땐평균관세율139"
   ],
   "opinion_date": "2026-11-26",
   "seen_opinion_links": [
@@ -9080,21 +9080,5 @@
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DS1hyQVBPbjlRS2V2S3E2ZWlxNXZ0Wktkam1MRnFURHQ5eGNid1hQTURVSnFwNDRjUlEweElXOVhXZkxVaFV6RUFmQjlFZUpYUER1TjdBaVJQTEU?oc=5",
     "https://www.hankyung.com/article/2026112632201"
   ],
-  "feed_health": {
-    "동아일보": {
-      "failing_since": "2026-11-26T18:45+00:00"
-    },
-    "한국경제 경제": {
-      "failing_since": "2026-11-26T18:45+00:00"
-    },
-    "한국경제 증권": {
-      "failing_since": "2026-11-26T18:45+00:00"
-    },
-    "한국경제 부동산": {
-      "failing_since": "2026-11-26T18:45+00:00"
-    },
-    "한국경제 정치": {
-      "failing_since": "2026-11-26T18:45+00:00"
-    }
-  }
+  "feed_health": {}
 }
