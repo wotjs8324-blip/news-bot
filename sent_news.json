@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261126070300001",
-    "https://www.yna.co.kr/view/AKR20261126072700062",
     "https://www.yna.co.kr/view/AKR20261126074200053",
     "https://www.yna.co.kr/view/AKR20261126069600005",
     "https://www.yna.co.kr/view/AKR20261126052000003",
@@ -4999,7 +4997,9 @@
     "https://www.yonhapnewstv.co.kr/news/AKR202611270225020YB",
     "https://www.chosun.com/jp/international-jp/2026/11/27/VF5C4YVGCZCVLCITY7FTN7TN3I/",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pa3RPM0FuaVdSLUJPMDlscERDcFpseGI5M29xelJXbWNleDlNWkNBbTFaYlJ5VUtGWHNSRjdOZ09kM2JhXzFGeXFGNjJnSnlBVVQ1a2dLeFRPVEJFQ2c?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sa0FmYTlGNGtYdVppaVdXTG16cC1SaEdudnoxVnVFaDB5Q0NTeGg1bWlDa3R1eXFUc29VMUpvOXJTWWx2ZEgtZy1zeE4xQmVXQlI1RXo4UUJCWm9ucWZrTFdzWEV5Y1NnWWVkN2JBUEo3QjQ3ZVlDMNIBeEFVX3lxTE1TU0J3WGdZbFpIdWxTYVVFeFdieFJoUm03QThGZkRJMHA1YllpdTFEMU9sLWZ2YndSeEF5TE81eEVKZmd0QkRtaldwVURFV1o5VXhQQWxFakg1cmc3d1lXOVB4VWt5M2JhdWw2THdiNC1xX3Y4enZYYQ?oc=5"
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sa0FmYTlGNGtYdVppaVdXTG16cC1SaEdudnoxVnVFaDB5Q0NTeGg1bWlDa3R1eXFUc29VMUpvOXJTWWx2ZEgtZy1zeE4xQmVXQlI1RXo4UUJCWm9ucWZrTFdzWEV5Y1NnWWVkN2JBUEo3QjQ3ZVlDMNIBeEFVX3lxTE1TU0J3WGdZbFpIdWxTYVVFeFdieFJoUm03QThGZkRJMHA1YllpdTFEMU9sLWZ2YndSeEF5TE81eEVKZmd0QkRtaldwVURFV1o5VXhQQWxFakg1cmc3d1lXOVB4VWt5M2JhdWw2THdiNC1xX3Y4enZYYQ?oc=5",
+    "https://www.chosun.com/jp/sports-jp/2026/11/27/2BB34DISMVGVZAUHGKFNYT5LBU/",
+    "https://www.newsis.com/view/NISX20261127_0003885395"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9080,5 +9080,9 @@
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DS1hyQVBPbjlRS2V2S3E2ZWlxNXZ0Wktkam1MRnFURHQ5eGNid1hQTURVSnFwNDRjUlEweElXOVhXZkxVaFV6RUFmQjlFZUpYUER1TjdBaVJQTEU?oc=5",
     "https://www.hankyung.com/article/2026112632201"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-26T17:45+00:00"
+    }
+  }
 }
