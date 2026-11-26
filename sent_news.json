@@ -1,7 +1,5 @@
 {
   "seen_links": [
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GA4TOMTBMJRGCNLFGQYWGODDMY/",
-    "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/MFRTIZDBMNSDQYZZGI3TAMRQGE/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/MJRTAYZWMMZWENZQGIYTKMLGGI/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GEZDAYJQMQ4DSYLFMJRDCZBWMI/",
     "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GIZTGNZRMI3DENJXGFSDGNLBMM/",
@@ -4999,7 +4997,9 @@
     "https://www.yna.co.kr/view/AKR20261127003000079",
     "https://www.yna.co.kr/view/AKR20261127002700091",
     "https://www.newsis.com/view/NISX20261127_0003885399",
-    "https://www.yna.co.kr/view/AKR20261127002900087"
+    "https://www.yna.co.kr/view/AKR20261127002900087",
+    "https://www.yna.co.kr/view/AKR20261126195751099",
+    "https://www.chosun.com/jp/politics-national-jp/2026/11/27/7BMEJ26OPJD7XH7IN4TBLAFYBM/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9080,5 +9080,21 @@
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DS1hyQVBPbjlRS2V2S3E2ZWlxNXZ0Wktkam1MRnFURHQ5eGNid1hQTURVSnFwNDRjUlEweElXOVhXZkxVaFV6RUFmQjlFZUpYUER1TjdBaVJQTEU?oc=5",
     "https://www.hankyung.com/article/2026112632201"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "동아일보": {
+      "failing_since": "2026-11-26T18:45+00:00"
+    },
+    "한국경제 경제": {
+      "failing_since": "2026-11-26T18:45+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-26T18:45+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-26T18:45+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-26T18:45+00:00"
+    }
+  }
 }
