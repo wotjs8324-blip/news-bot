@@ -1,14 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Sports/article/all/20261126/135094491/1",
-    "https://www.donga.com/news/Society/article/all/20261126/135094488/1",
-    "https://www.donga.com/news/Inter/article/all/20261126/135094402/1",
-    "https://www.donga.com/news/Politics/article/all/20261126/135094386/1",
-    "https://www.donga.com/news/Society/article/all/20261126/135094395/1",
-    "https://www.donga.com/news/Society/article/all/20261126/135094333/1",
-    "https://www.donga.com/news/Sports/article/all/20261126/135093855/1",
-    "https://www.donga.com/news/Economy/article/all/20261126/135094376/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864523&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864511&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864470&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864477&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4990,16 @@
     "https://www.chosun.com/sports/world-football/2026/11/27/GBRDSYTDMY2DANTGMIYWEN3GME/",
     "https://www.newsis.com/view/NISX20261126_0003884802",
     "https://www.newsis.com/view/NISX20261126_0003883774",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865878&plink=RSSLINK&cooper=RSSREADER"
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865878&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tOGtOck5DbGpqbjZ1cHNLTlBNb2VLSUdrT3EyWWVSRjZ6ck1NSWcxN2NQQk9nd25EMGpKNkxCQldKNEFrTkNRemlNbjRydjl2UGlGNU1WRmVBT1MwWHBWd3A2M2VZTlhSbi1uRlRPY1NCeG5vT2NuTNIBeEFVX3lxTFBUU0FwaklZNzV2SE1rYno3LW1rUmRPMThFM1lIeGZqWGpIcXZ1RWxkMnZJM1JxbFNDMU52X3prdS00bk1BVDVHTDVtYUtSMjZGWWh3cWFXMU5oenpvc0hicDN5S0xGSDR3Q2ZGR19VOVA1LTNKbUVBZA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVZXJRaUVjQ0RsS1ZtSjRrWVIzQldtZXdubVdHVldQSV9sOWFtSnhrN21tTXU5elNGUDdnalFPd0RoM3ZoSUdXS2tFdDh6X0ZSUkN0RHNhWU1ObWJlT0tNZWphOA?oc=5",
+    "https://www.yna.co.kr/view/AKR20261127003200072",
+    "https://www.yna.co.kr/view/AKR20261126145900017",
+    "https://www.yna.co.kr/view/AKR20261126181400017",
+    "https://www.chosun.com/economy/science/2026/11/27/MI4TENLDMNQTOMRYMEZDEY3BGM/",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865883&plink=RSSLINK&cooper=RSSREADER",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865880&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261126_0003885369"
   ],
   "initialized_feeds": [
     "조선일보",
