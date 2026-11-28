@@ -1,15 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866904&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866842&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866819&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866925&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866818&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866944&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865296&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12219710",
-    "https://www.mk.co.kr/news/economy/12219709",
-    "https://www.mk.co.kr/news/economy/12219706",
     "https://www.mk.co.kr/news/economy/12219702",
     "https://www.mk.co.kr/news/economy/12219695",
     "https://www.mk.co.kr/news/economy/12219671",
@@ -4999,7 +4989,17 @@
     "https://www.yonhapnewstv.co.kr/news/AKR20261129025828uga",
     "https://www.chosun.com/jp/sports-jp/2026/11/29/LHSTQ5SCQJAWHIVQNL5SXQ3ACA/",
     "https://www.newsis.com/view/NISX20261127_0003886009",
-    "https://www.newsis.com/view/NISX20261129_0003887324"
+    "https://www.newsis.com/view/NISX20261129_0003887324",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOdko4VHNqVkNUSDFOeWRIajZrVl8wQjhlOUxtbnV1dlRUemc1V0huaUEzZDlId2lqaHhOMzE2QTJKX3U4WDFSczBucmJ2U0xUUnVpdHhZa2d4RG8?oc=5",
+    "https://www.yna.co.kr/view/AKR20261128053651098",
+    "https://www.chosun.com/national/2026/11/29/DKFXYFCESJG5RMTNVGODBBUEJ4/",
+    "https://www.chosun.com/economy/weeklybiz/2026/11/29/NVZH244P4ZHEHENW3CKNFWWBCU/",
+    "https://www.chosun.com/politics/2026/11/29/IKGNWSAS6JHZNAGEK5BAGZ5GOY/",
+    "https://www.chosun.com/culture-life/music_concert/2026/11/29/RFCQFL5BB5DZZAWZ5J62WBLWBM/",
+    "https://www.chosun.com/culture-life/book/2026/11/29/QTGYRL7VBJHP5ENSBJT6LHIHNE/",
+    "https://www.chosun.com/national/people/2026/11/29/YFGHR5PNYNHQLANUIK5G3J5FRQ/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/29/EAR2AYWFMFAJLADKGO6JADCPVY/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/29/NV5BPRJLJFBEPBQ7EFNFC74ZBY/"
   ],
   "initialized_feeds": [
     "조선일보",
