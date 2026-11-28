@@ -1,17 +1,5 @@
 {
   "seen_links": [
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866885&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866882&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866202&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866850&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866843&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865426&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865486&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860658&plink=RSSLINK&cooper=RSSREADER",
-    "https://www.mk.co.kr/news/economy/12220179",
-    "https://www.mk.co.kr/news/stock/12219562",
-    "https://www.mk.co.kr/news/it/12220175",
-    "https://www.newsis.com/view/NISX20261127_0003886380",
     "https://www.newsis.com/view/NISX20261127_0003886437",
     "https://www.newsis.com/view/NISX20261127_0003886441",
     "https://www.newsis.com/view/NISX20261127_0003886301",
@@ -4999,7 +4987,19 @@
     "https://www.chosun.com/sports/world-football/2026/11/28/GVRDKZLDME3TANRVMU4TKMJSGE/",
     "https://www.chosun.com/entertainments/broadcast/2026/11/28/GQZTINJTGI4DIOLGMEYWGNJTGM/",
     "https://www.hankyung.com/article/2026112862667",
-    "https://www.yna.co.kr/view/AKR20261128053300530"
+    "https://www.yna.co.kr/view/AKR20261128053300530",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FS1dWYkloYWgxdnh0SDhXOGxHRXFHUkYycWdneFRCbVlBQkhoOWN6WDN6TUUxem94VHBNWlJhalVNUlNsSmpVRS1raU9ZZGhkXy0tQkMyR2hlc3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FV0Mzbno1YlY4WWJmTVVnb1ZnN2dLeW9sVVVHWThIeUpuZlV5eEZEaGZ6RkJ1aVhLSXAybW52dm10blJkR2R4ZVN3SGxMZ090dk4tdWlxYlpwZHNWNVE?oc=5",
+    "https://www.yna.co.kr/view/AKR20261128053500007",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/28/MJRGCMRUGY4TQOLEMJTDMMZTGU/",
+    "https://www.chosun.com/sports/world-football/2026/11/28/GIYDENJXMM3GMNZTG4ZDKOBUGI/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/28/GNQTMNZYGFRTAYLDGFRDEMJTG4/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/28/BX2YYE3CZBHP5CKCAMWZGYO3FA/",
+    "https://www.chosun.com/jp/culture-life-jp/2026/11/28/AF7MWDO4YVB45MZ5S3UTODHVTE/",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05NG91NjEtSWdGWWl3WjBMRmxTcjc2cHktVW5jYUxmWk1vbTFFcHpkOEJIQlA1dktCcWViVjd0VlQzUFNjWFdrUUdWR0phRG1qay15WnZ3?oc=5",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008868115&plink=RSSLINK&cooper=RSSREADER",
+    "https://www.newsis.com/view/NISX20261125_0003882037",
+    "https://www.newsis.com/view/NISX20261128_0003887304"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "토요일에는경복궁앞오늘은청와대앞에모인국힘조작기소특검법반대전국1인시위도",
     "中대미24추가관세희토류통제강화유예2개월연장종합",
     "원달러환율달러강세에도1340원대로4거래일만에하락",
     "이집트정부열차추돌탈선7명사망125명이상부상채널a",
@@ -9031,7 +9030,8 @@
     "북중정상회담임박했나곳곳서포착된정황들풀영상",
     "북중정상회담다음달초유력중국분위기는",
     "북중정상회담임박의외로가까운시기",
-    "러시아극동캄차카반도서규모67지진"
+    "러시아극동캄차카반도서규모67지진",
+    "아프간동부학교인근폭발로10명사망110명부상"
   ],
   "opinion_date": "2026-11-28",
   "seen_opinion_links": [
