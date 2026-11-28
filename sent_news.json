@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.donga.com/news/Culture/article/all/20261127/135103127/1",
-    "https://www.donga.com/news/Economy/article/all/20261127/135102900/1",
-    "https://www.donga.com/news/Economy/article/all/20261127/135103086/1",
-    "https://www.donga.com/news/Economy/article/all/20261127/135102370/1",
-    "https://www.donga.com/news/Society/article/all/20261127/135103379/2",
-    "https://www.donga.com/news/It/article/all/20261127/135103331/1",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866884&plink=RSSLINK&cooper=RSSREADER",
-    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866883&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866885&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866882&plink=RSSLINK&cooper=RSSREADER",
     "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866202&plink=RSSLINK&cooper=RSSREADER",
@@ -4999,7 +4991,15 @@
     "https://www.chosun.com/entertainments/broadcast/2026/11/28/MFTGGOJQMQYTEYZTGA2TQNDEMQ/",
     "https://www.chosun.com/entertainments/broadcast/2026/11/28/GVRGMOBWMZSWIYLGMU4DEYLFMI/",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01SkhpWnIyYklGMzI2eGhHczN1MFVzemxlY1drRUJlMnlNQk9fUHdjMTdBemF3ZTlIUlB0UndUbXVqM2dsMlNWTXVjYjIyaFROdXhpREVR?oc=5",
-    "https://www.newsis.com/view/NISX20261128_0003887140"
+    "https://www.newsis.com/view/NISX20261128_0003887140",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKV0ItOEs0RVF0YXgwc0RtMEtNNlZaTzBFSXFPaDU5NU9OQVhwaWd0NjM5WXFoUmFjOXpxRnYzZnMtWDRpMlh5R1V6YWVGclhWWDc0U0thakszaGpLZDNGTWZGaUhWUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13Z09nRzNOWmtCRHdZcFp4NjVjUDJFLVI4eVBQRDdKd2YyNzRhRks5Wm5vZkVMNUhnNlVIZ3c0WW02bFk5ckZtVEQyd3lMVTBvU1oxM09XejNPT2hnMVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjcV80d001eFAtaDJwZVlNZmRqRFR6WG5GWUVnN09jY0pPeXlITzE3WjhNa0F3TU16eV9UWnU3M1d0aEVEQzVJY29JWDE5TDZFcGlscEZHVmxBT0ZpSEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FbVFVTXZkRktZODFqWXRxUG1uTWlubjBBN0FrMFNEd3hNSjhadkhITUZCendfYXdnWWQ4aExqZkt4ZW1NOGh6V1ZOS0FrYTZCXzAtaWZRVS1oWTBhaVE?oc=5",
+    "https://www.chosun.com/sports/world-football/2026/11/28/GVRDKZLDME3TANRVMU4TKMJSGE/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/28/GQZTINJTGI4DIOLGMEYWGNJTGM/",
+    "https://www.hankyung.com/article/2026112862667",
+    "https://www.yna.co.kr/view/AKR20261128053300530"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "10일아파트청약큰장선다일반분양3823가구공급",
     "토요일에는경복궁앞오늘은청와대앞에모인국힘조작기소특검법반대전국1인시위도",
     "中대미24추가관세희토류통제강화유예2개월연장종합",
     "원달러환율달러강세에도1340원대로4거래일만에하락",
@@ -9031,7 +9030,8 @@
     "폭락장에촛불든투자자들증시정상화대책마련해야",
     "북중정상회담임박했나곳곳서포착된정황들풀영상",
     "북중정상회담다음달초유력중국분위기는",
-    "북중정상회담임박의외로가까운시기"
+    "북중정상회담임박의외로가까운시기",
+    "러시아극동캄차카반도서규모67지진"
   ],
   "opinion_date": "2026-11-28",
   "seen_opinion_links": [
