@@ -1,24 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261127110500054",
-    "https://www.yna.co.kr/view/AKR20261127110200009",
-    "https://www.yna.co.kr/view/AKR20261127105000002",
-    "https://www.yna.co.kr/view/AKR20261127108500008",
-    "https://www.yna.co.kr/view/AKR20261127110100055",
-    "https://www.yna.co.kr/view/AKR20261127108400055",
-    "https://www.yna.co.kr/view/AKR20261127069252001",
-    "https://www.yna.co.kr/view/AKR20261127112000063",
-    "https://www.yna.co.kr/view/AKR20261127105500017",
-    "https://www.chosun.com/national/court_law/2026/11/27/H62VK2BL7FFS7K6L63QDQRNAEE/",
-    "https://www.chosun.com/sports/world-football/2026/11/27/XTCW45TLPJEN3GKH2I3E7ZKKZI/",
-    "https://www.chosun.com/economy/real_estate/2026/11/27/G5RDQNDEMZSTCYRTMMZTKOBUGE/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/27/MU3DAYTFMUZDSNTDGFQTOYLCGU/",
-    "https://www.chosun.com/economy/stock-finance/2026/11/27/HA4WIMLFGBTGEM3CMU3TENRWMU/",
-    "https://www.chosun.com/economy/tech_it/2026/11/27/MEZGCNZZGBRTSM3DGBSGMYTFGE/",
-    "https://www.chosun.com/entertainments/movie/2026/11/27/GNSTSOJWGIYDMZLFGQ2WMZLDMI/",
-    "https://www.chosun.com/economy/tech_it/2026/11/27/GQYDSMTBGJTGKZJRGM3TSNZVHE/",
-    "https://www.chosun.com/entertainments/broadcast/2026/11/27/GEYGMZLDMNSTIMBQHFQTOY3FGI/",
-    "https://www.donga.com/news/Economy/article/all/20261127/135103507/1",
     "https://www.donga.com/news/Society/article/all/20261127/135103473/2",
     "https://www.donga.com/news/Society/article/all/20261127/135102026/2",
     "https://www.donga.com/news/Culture/article/all/20261127/135102376/2",
@@ -4999,7 +4980,26 @@
     "https://www.mk.co.kr/news/business/12220172",
     "https://www.hankyung.com/article/202611274861i",
     "https://www.hankyung.com/article/202611274797i",
-    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5233103"
+    "https://www.mbn.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5233103",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvbzhTeEVyWWFGaElJRk90bnVnQVJzcFgtNlg3dTdiLW1hVG5QdjVhcEliOXNtN3dhejRucWtxNHNNM0ZwNVJkbV90RXRRanNKSThCdlZLb3FFN2VkQ0HSAWNBVV95cUxQMlBadC1sOVpKdFF5M1dHdkgwMWVfcG8yTzdkOHoxWTlrOG5XeGR3LVYtVVBWckJLRzNjbmhGSlV5RENMbHdqR1gtQzl6b3FMZDEzRkxHbHhWeFYtdmJFbzZfTFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5oQy1ubXpQa2hIY3p3djFZc0ZkcTBsVGNiWEE4aVUwa1ZjUWR3cXVUenhGRHNNUklUckE?oc=5",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxVk9mamtTZjZfcGtPRUJzVzd4SUxRUV9NTzlTakE0Vl9KWDY1dUNBT094LW9aeWNEcmVmRkFUWF9ZT3JHTXBnZ1d6eHdQeXM?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaNG93VGk4N0VXR1lXX3FsX3c5a3RQVUloT2tzLVFuRVgtTWlJN24tUXNZcVlFTkkwYm5qWW50U2lTOVdKc003b3VldHBlYzBhSVNINy10ZnhBalMxMFHSAWNBVV95cUxPbk5HbnN4TGVNN1VIU3FuZ3pzMHhaaFdxelJqYzI2dVUwbjNUWHlSeUhBMjZ6NjBhekxLM1prTFp1b25wekE3aU9JYmpjd0pFaHpDdzBKX0NkY25ucHRObWFEUnM?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96NVZHTG9GeDVWcTA4eDdtejVmbWFCMTJmZW9ZME9jbE42VUFNN0k2OWZrd2hlZXlJMlB0YWFvbUZ5TzdMOXdSVXdYVWRMRVgzel9QcmpaVlc0VWJWU3fSAWNBVV95cUxPemNxSTIzMjNGSjdBTDhMOW9WS1VNSktNdG1iYTN0elN4ZG5vV0wyRW45cDZzcC1qQ2VwMnVWVUw3V1V1RS1oWHA3NFZNRjVBLVUxMFlGT0NXTTZpc29hVmtDTnc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOS1FjVEJRMjlPYkhsV2xSQ3RKT0FCM1cxM0F3XzRPMzhSZ1pORnZacVR2SUJuYzJQU0QwZ2staHBfOFdJdmxnYVJWdjNZcDRMMXlHcV9vZzg1d2djOFHSAWNBVV95cUxPTnlVd1NrWi1oT3VGRnZRRHltRHFwUUtJTy1UdVkyb29RTThjWXFrWm5KU1FqSGpfc19xd2dSZVR5dDA1V3dsRG9YdE1GQ2VYN183c2xnVFFNZno3THhDdk9SZkk?oc=5",
+    "https://www.yna.co.kr/view/AKR20261129000100011",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/29/HAZTEN3CMY3TCMLCMFSTGZBYGI/",
+    "https://www.chosun.com/sports/baseball/2026/11/29/MJQTKNBSHA3TKMJRHE2GMYRUHA/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/29/HA3GEZRQHE4WEZRUMJRTQZRZGE/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/29/MM4GGMTDHFTDKZRWG42DQYLBGQ/",
+    "https://www.chosun.com/sports/volleyball/2026/11/29/GE3GIZLBHE3WEYJRMNRTOYLGMM/",
+    "https://www.chosun.com/sports/world-football/2026/11/28/MQZDKZRZGVSDIN3DMMYWGNRXGI/",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/28/MZRDMMZZMZSTAOBUGNQWGYLCMQ/",
+    "https://www.newsis.com/view/NISX20261127_0003886384",
+    "https://www.newsis.com/view/NISX20261127_0003886480",
+    "https://www.newsis.com/view/NISX20261127_0003886874",
+    "https://www.newsis.com/view/NISX20261129_0003887316",
+    "https://www.newsis.com/view/NISX20261127_0003885610"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -5032,7 +5032,6 @@
     "한국경제 정치"
   ],
   "seen_title_keys": [
-    "이집트정부열차추돌탈선7명사망125명이상부상채널a",
     "靑조작기소특검법다음주국무회의상정예정",
     "靑조작기소특검법내일아닌다음주국무회의상정예정",
     "청와대조작기소특검법10일국무회의아닌다음주상정",
@@ -9031,7 +9030,8 @@
     "러시아극동캄차카반도서규모67지진",
     "아프간동부학교인근폭발로10명사망110명부상",
     "러캄차카서규모67지진인명재산피해가능성낮아",
-    "김용준전헌재소장별세22세때최연소판사임용ytn"
+    "김용준전헌재소장별세22세때최연소판사임용ytn",
+    "2022년거래절벽재현되나표영호가진단한금리인상기의부동산"
   ],
   "opinion_date": "2026-11-28",
   "seen_opinion_links": [
