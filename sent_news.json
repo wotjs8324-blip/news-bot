@@ -1,10 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261127106900530",
-    "https://www.yna.co.kr/view/AKR20261127116600054",
-    "https://www.yna.co.kr/view/AKR20261127116400008",
-    "https://www.yna.co.kr/view/AKR20261127113200001",
-    "https://www.yna.co.kr/view/AKR20261127113500704",
     "https://www.yna.co.kr/view/AKR20261127112400017",
     "https://www.chosun.com/national/national_general/2026/11/27/LHWAAV6SIBAXXDZ4RBJ6UTIM7M/",
     "https://www.chosun.com/economy/economy_general/2026/11/27/POHN3HQNT5EFDORA3G7EECF5ZM/",
@@ -4999,7 +4994,12 @@
     "https://www.chosun.com/sports/world-football/2026/11/29/GMZTGNJXGJRDEZDGGZRGMN3FGE/",
     "https://www.chosun.com/jp/sports-jp/2026/11/29/MN5C4O6DX5EEHPJPHZL466WRSE/",
     "https://www.chosun.com/jp/sports-jp/2026/11/29/244ORC25CRGC7A6VRXZLLU6EVY/",
-    "https://www.newsis.com/view/NISX20261129_0003887317"
+    "https://www.newsis.com/view/NISX20261129_0003887317",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlUndRQ3dqMW14X01lOHJGRVJyVTVTaVBteUdjdkwwd2RZaWRtakowaWZoSWs2eGJxRzgzVG5jeFpOTmV2S1NrRTZqZjdXbmt3Q1J6R3RTRFNIODA?oc=5",
+    "https://www.yna.co.kr/view/AKR20261129002200087",
+    "https://www.chosun.com/sports/world-baseball/2026/11/29/GEYWCYZRHEZWINZSMJQWEODGME/",
+    "https://www.chosun.com/sports/world-football/2026/11/29/GU3DKODGG5STONRXMFQTQYZZGU/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/29/UTMMRIT5IZAFBHV5BU3KPX235Y/"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9082,39 +9082,5 @@
     "https://www.hankyung.com/article/2026112631281",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0RjQ1S0U5Zk1tWGJudzdBMXU0UDFEYzBQcGEwU2RTM09DaG43aVNMSU5ESkYyaWJuZ05fMG1tUFlpRElYUGlsVlFSWVJYUnhtQkVHRGNlSQ?oc=5"
   ],
-  "feed_health": {
-    "KBS": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    },
-    "MBC": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    },
-    "YTN": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    },
-    "채널A": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    },
-    "중앙일보": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    },
-    "중앙일보 경제": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    },
-    "동아일보": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    },
-    "한국경제 경제": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    },
-    "한국경제 증권": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    },
-    "한국경제 부동산": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    },
-    "한국경제 정치": {
-      "failing_since": "2026-11-28T17:15+00:00"
-    }
-  }
+  "feed_health": {}
 }
