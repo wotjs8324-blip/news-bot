@@ -1,13 +1,5 @@
 {
   "seen_links": [
-    "https://www.yna.co.kr/view/AKR20261127116500003",
-    "https://www.yna.co.kr/view/AKR20261127119300008",
-    "https://www.yna.co.kr/view/AKR20261127113600003",
-    "https://www.yna.co.kr/view/AKR20261127116700009",
-    "https://www.yna.co.kr/view/AKR20261127118400008",
-    "https://www.yna.co.kr/view/AKR20261127118200002",
-    "https://www.yna.co.kr/view/AKR20261127077951001",
-    "https://www.yna.co.kr/view/AKR20261127116000504",
     "https://www.yna.co.kr/view/AKR20261127106900530",
     "https://www.yna.co.kr/view/AKR20261127116600054",
     "https://www.yna.co.kr/view/AKR20261127116400008",
@@ -4999,7 +4991,15 @@
     "https://www.chosun.com/sports/world-baseball/2026/11/29/MUZDSOBXHBRGEOJWMVQTAMBVGA/",
     "https://www.chosun.com/jp/sports-jp/2026/11/29/BS5HB3DDABHHVOEBZGT4EVGA6E/",
     "https://www.chosun.com/jp/culture-life-jp/2026/11/29/5HMTOIWTWZCYBBDUBPMUPZMQE4/",
-    "https://www.newsis.com/view/NISX20261127_0003885523"
+    "https://www.newsis.com/view/NISX20261127_0003885523",
+    "https://www.yonhapnewstv.co.kr/news/AKR20261129020914NAJ",
+    "https://www.yna.co.kr/view/AKR20261129001800109",
+    "https://www.yna.co.kr/view/AKR20261129000851083",
+    "https://www.chosun.com/entertainments/broadcast/2026/11/29/GM3TGYJTGMYGMOBTMFSGKZLGMQ/",
+    "https://www.chosun.com/sports/world-football/2026/11/29/GMZTGNJXGJRDEZDGGZRGMN3FGE/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/29/MN5C4O6DX5EEHPJPHZL466WRSE/",
+    "https://www.chosun.com/jp/sports-jp/2026/11/29/244ORC25CRGC7A6VRXZLLU6EVY/",
+    "https://www.newsis.com/view/NISX20261129_0003887317"
   ],
   "initialized_feeds": [
     "조선일보",
@@ -9082,5 +9082,39 @@
     "https://www.hankyung.com/article/2026112631281",
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0RjQ1S0U5Zk1tWGJudzdBMXU0UDFEYzBQcGEwU2RTM09DaG43aVNMSU5ESkYyaWJuZ05fMG1tUFlpRElYUGlsVlFSWVJYUnhtQkVHRGNlSQ?oc=5"
   ],
-  "feed_health": {}
+  "feed_health": {
+    "KBS": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    },
+    "MBC": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    },
+    "YTN": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    },
+    "채널A": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    },
+    "중앙일보": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    },
+    "중앙일보 경제": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    },
+    "동아일보": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    },
+    "한국경제 경제": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    },
+    "한국경제 증권": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    },
+    "한국경제 부동산": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    },
+    "한국경제 정치": {
+      "failing_since": "2026-11-28T17:15+00:00"
+    }
+  }
 }
